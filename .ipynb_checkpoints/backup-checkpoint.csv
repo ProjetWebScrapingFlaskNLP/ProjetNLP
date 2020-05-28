@@ -1,4 +1,5 @@
 nom,pays,favorite,date,titre,bons_points,mauvais_points,note,type_etablissement,lieu,note_etablissement
+<<<<<<< HEAD
 Gladys,La Réunion,1,2019-01-30,Très bel emplacement !,Paris intra muros près de toutes les commodités,Le 6ème étage sans ascensseur,10,Appartements,Paris," 6,7 "
 Katia,France,0,2020-03-06,Bien ,"L'emplacement est idéal, dans un quartier exceptionnel. Les hôtes sont disponibles.",None,"7,0",Appartements,Paris," 6,7 "
 Isabelle,France,0,2020-01-21,Agréable,"La personne ne parle pas français
@@ -191,3 +192,334 @@ Charlie,Canada,0,2019-08-27 00:00:00,Very nice 4 star hotel.,"Friendly staff, le
 2-4 min walk from the metro, so that was nice.",None,"8,8",Hôtel,Paris," 8,3 "
 Piia,Finlande,0,2019-08-18 00:00:00,Superbe,"Perfect location, just a few steps from Champs-ELysees. Very cozy and clean rooms. Highly recommended!",None,"8,8",Hôtel,Paris," 8,3 "
 John,Royaume-Uni,0,2019-08-10 00:00:00,Fabuleux ,Location was good - 300 m from metro,None,"9,2",Hôtel,Paris," 8,3 "
+=======
+Alizée,Suisse,1,2019-07-28,Hôtel très bien avec une situation centrale,"La situation, le personnel aimable, la chambre spacieuse et confortable.","Il y avait juste un petit souci avec la douche, pas assez de pression un matin, j’ai dû attendre 1-2 minutes pour pouvoir me rincer les cheveux.",10,Hôtel,Bordeaux," 8,1 "
+Paul,France,0,2020-03-15,Très bien,Chambre petite mais fonctionnelle. Petit déjeuner excellent.,None,"8,0",Hôtel,Bordeaux," 8,1 "
+Cécile,France,0,2020-03-14,None,Ce commentaire n'apparaît pas car il ne respecte pas notre charte.,None,"7,0",Hôtel,Bordeaux," 8,1 "
+Cyclone76,France,0,2020-03-11,Pratique et bien situé : idéal pour un court sejour,"Emplacement, gentillesse du personnel et du veilleur de nuit",Hotel mal insonorisé,"7,0",Hôtel,Bordeaux," 8,1 "
+Sophie,France,0,2020-03-08,Sympa !,"Bon emplacement, propre, confortable
+Personnel agreable","Pas assez de pression dans la douche
+Salle de bain ouverte (wc séparés)","8,0",Hôtel,Bordeaux," 8,1 "
+Laurent,France,0,2020-03-03,Bien mais ...,"Bon rapport qualité prix. 
+Tres bien placé","Pommeau de douche sans pression avec fuite
+Odeur de remonté d'égout","7,0",Hôtel,Bordeaux," 8,1 "
+Paskalig,France,0,2020-03-03,Bien ,L'hôtel est extrêmement bien situé et le personnel est sympathique.,Présence d'insectes rampant dans la salle de bain et jet d'eau bruyant,"7,0",Hôtel,Bordeaux," 8,1 "
+Helene,France,0,2020-03-01,Correcte dans l'ensemble.,La chambre est correcte et propre.,"Un peu déçue du petit déjeuner. A ce prix là je m'attend à du jus orange pressé, et non pas à des boissons du commerce. Les viennoiseries et le pain sont bons.","7,0",Hôtel,Bordeaux," 8,1 "
+Brandon-izii,France,0,2020-02-27,Bien ,Les personne tro gentil accueillant oh top,Je ce pas si cette un oublie mais le serviette il ya n'avait que pour une personne,"7,0",Hôtel,Bordeaux," 8,1 "
+Lucile,France,0,2020-02-23,Fabuleux ,Emplacement et rapport qualité prix,None,"9,2",Hôtel,Bordeaux," 8,1 "
+Jazz-ka-philosophy,France,0,2020-02-22,Très bien et très bon accueil,Super bien situé,La moquette usagée,"7,0",Hôtel,Bordeaux," 8,1 "
+Anthony,France,0,2020-02-20,Bien ,Proximité de l’hypercentre,Le petit déjeuner manquait de choix par rapport à son prix,"7,5",Hôtel,Bordeaux," 8,1 "
+Laure,France,0,2020-02-17,Bon plan,Très bonne literie et situation centre ville idéale pour visites de Bordeaux,La marche pour le WC et l’étroitesse de la salle d’eau,"8,0",Hôtel,Bordeaux," 8,1 "
+Sebastien,France,0,2020-02-17,Très bonne localisation,"Le petit déjeuner est très agréable 
+La literie est de bonne qualité
+La localisation de l'hôtel est vraiment parfaite en plein centre pour se balader à pied","L'insonorisation n'est pas parfaite
+La qualité du wifi pourrait être améliorée","7,0",Hôtel,Bordeaux," 8,1 "
+Helene,France,0,2020-02-17,Excellent accueil,"Le personnel très accueillant, la localisation de l hôtel, le rapport qualité/prix, le petit-déjeuner",L'insonorisation,"8,0",Hôtel,Bordeaux," 8,1 "
+Frédéric,France,0,2020-02-17,Etablissement agréable en trés bon état général,Propreté et état général de la chambre très bons,"Machine à café ou thé dans la chambre
+TV très petite","8,0",Hôtel,Bordeaux," 8,1 "
+Géraldine,France,0,2020-02-17,Pratique car hyper bien situé,La localisation et la courtoisie de l'accueil. Petit déjeuner de qualité,Chambre petite et surtout très sombre,"7,0",Hôtel,Bordeaux," 8,1 "
+Yann,France,0,2020-02-15,Fabuleux ,"Le personnel est vraiment très agréable, très accueillant.",None,"9,0",Hôtel,Bordeaux," 8,1 "
+Vera,France,0,2020-02-10,Très bien,L’accueil,La salle de bain,"8,0",Hôtel,Bordeaux," 8,1 "
+Aurélie,France,0,2020-02-01,Bien ,"Personnel accueillant et agréable, chambre propre.","Chambre un peu petite mais bien agencée. 
+Bruit dans la rue mais ça c'est indépendant de l'hôtel","7,0",Hôtel,Bordeaux," 8,1 "
+Jean-yves,France,0,2020-01-24,Bien ,L'accueil du personnel,Survolté à 8 !,"7,0",Hôtel,Bordeaux," 8,1 "
+Soufiane,Maroc,0,2020-01-18,Bien ,L'emplacement l'amabilité du personnel,Les lits n'étaient pas confortables,"7,0",Hôtel,Bordeaux," 8,1 "
+Olga,France,0,2020-01-15,Moyenne,bruit d’extérieur tôt le matin,bruit d’extérieur tôt le matin,"7,0",Hôtel,Bordeaux," 8,1 "
+Estelle,France,0,2020-01-14,Très bon break,"Petit-déjeuner de qualité avec produits bio et salle très calme ( bravo pas de TV).
+Personnel très compréhensif : problème de serrure et par conséquent surclassement en chambre confort...
+Hôtel très bien situé.",None,"8,0",Hôtel,Bordeaux," 8,1 "
+Laurence,France,0,2020-01-09,Bien ,Chambre spacieuse et bien décorée,Espace lavabo dans la salle de bains très petit,"7,0",Hôtel,Bordeaux," 8,1 "
+Claire,France,0,2020-01-08,"Bordeaux est une très belle ville et pas besoin de voiture (marche à pied ou tram), bravo Mr Jupé !",Literie très confortable et le buffet petit déjeuner très bon et varié (pour tous les goûts) c'était parfait !,Le manque d'une porte coulissante qui sépare sdb et chambre.,"7,0",Hôtel,Bordeaux," 8,1 "
+Pascale,France,0,2020-01-08,Très bien pour une nuit lors d’un déplacement professionnel de part la situation déjà. Accueil très,Odeur dans la salle de bain,Odeur dans la salle de bain,"7,0",Hôtel,Bordeaux," 8,1 "
+Jean,France,0,2020-01-05,Bien ,Isolation lphonique entre chambre:mais nous etions le31 dec,Isolation lphonique entre chambre:mais nous etions le31 dec,"7,0",Hôtel,Bordeaux," 8,1 "
+Mirielle,France,0,2020-01-03,Bien ,Accueil réception ;chambre petite mais fonctionnelle,Odeur de égout désagréable venant des sanitaires,"7,0",Hôtel,Bordeaux," 8,1 "
+Marie,France,0,2020-01-02,Superbe,"L’emplacement est vraiment idéal, à deux pas du triangle d’or et à l’épicentre des attractions touristiques bordelaise","L’hygiène et l’état d’usure des chambres ne sont pas irréprochables mais le lit, les toilettes et la salle de bain étaient propre.","8,8",Hôtel,Bordeaux," 8,1 "
+Laurence,France,0,2019-12-30,Très bien,Très bon emplacement,Chambre un peu petite,"8,0",Hôtel,Bordeaux," 8,1 "
+Anne,France,0,2019-12-29,"Super emplacement, personnel très sympa et bon petit déjeuner. Chambre un peu petite",Emplacement et personnel,Taille de la chambre,"9,2",Hôtel,Bordeaux," 8,1 "
+Dan,France,0,2019-12-22,Bien ,"Personnel très gentil
+ Hôtel propre et jolie. Emplacement incroyable.",Chambre single . Minuscule. Je ne sais même pas comment on peut donner 3 étoiles a une chambre comme ça. Lit 1 place et 1 m de passage a côté. C est tout.,"7,9",Hôtel,Bordeaux," 8,1 "
+Stéphanie,France,0,2019-12-16,Très bien,"La gentillesse et le sourire du personnel 
+La situation géographique en plein centre 
+La literie très confortable","Le’manque de luminosité dans la salle de bain 
+Et il manque une glace pour se voir de plein pied","8,0",Hôtel,Bordeaux," 8,1 "
+Lilia,France,0,2019-12-10,Fabuleux ,"L'équipe très agréable. Nous sommes arrivées tardivement dans la nuit entre 1h et 2h.
+Petit déjeuner de qualité, avec un choix varié et du bio.",None,"9,0",Hôtel,Bordeaux," 8,1 "
+Kriska,France,0,2019-12-09,Très bien,"Le confort été de rigueur. 
+Un accueil chaleureux et agreable de la part du personnel",Quelques remontées d'égouts dans la soiree.,"8,3",Hôtel,Bordeaux," 8,1 "
+Phuong,France,0,2019-12-09,Bien (:,"Ce que j’ai aimé dans cet établissement et la prise en charge du réceptionniste à l’accueil très gentil et surtout compréhensif. Les dames de chambres très gentilles et efficaces (: 
+Ensuite l’hôtel est super bien placé !","Le bruit, malheureusement .... 😒","8,8",Hôtel,Bordeaux," 8,1 "
+Anthony,France,0,2019-12-09,Fabuleux ,"Très bon accueil, super emplacement et literie très confortable",Insonorisation moyenne,"9,2",Hôtel,Bordeaux," 8,1 "
+Imane,Maroc,0,2019-12-02,Très bien,Notre chambre était spacieuse en comparaison aux hôtels que l’on peut trouver dans le quartier . L’emplacement était parfait . Restos et shopping tout était à proximité,"Le bruit . L’isolation des chambre fait qu’on entendait les voisins bruyant , les bruits de couloir , des portes qui s’ouvrent et se ferment ... à éviter en cas de sommeil léger","8,0",Hôtel,Bordeaux," 8,1 "
+Christophe,France,0,2019-11-24,Très belle ville ou il fait bon de deembuler dans les zones piétonnes,Emplacement génial,"Pour un 3 étoiles et le prix manqué la petite bouteille d'eau et la bouilloire pour un petit thé
+Dans la chambre","7,0",Hôtel,Bordeaux," 8,1 "
+Cendrine,France,0,2019-11-20,Bien ,"Le personnel très sympathique et aux petits soins
+Le dejeuner",L'odeur dans la salle de bain,"7,9",Hôtel,Bordeaux," 8,1 "
+Isabelle,France,0,2019-11-16,Séjour sympathique.,"Le petit déjeuner était complet. J'ai particulièrement apprécié le pudding...
+L'emplacement est idéal.",Des explications sur le système de chauffage de la chambre.,"7,0",Hôtel,Bordeaux," 8,1 "
+Habib,France,0,2019-11-13,Superbe,Accueil et gentillesse du personnel parfait,Chambre très petite,"8,8",Hôtel,Bordeaux," 8,1 "
+Nathalie,La Réunion,0,2019-11-11,Très bon emplacement,L’emplacement,Très petite chambre,"7,9",Hôtel,Bordeaux," 8,1 "
+Jean-mary,France,0,2019-11-10,Bien ,Plein centre ville,"Pas accessible en voiture. Pas de cafetière, d eau , de table de chevet dans la chambre.
+Plus de charcuterie au petit dejeuner","7,9",Hôtel,Bordeaux," 8,1 "
+Theo,France,0,2019-11-02,Très bon rapport qualité prix,"Chambre grande et confortable. Décoration sympa. Préférez les chambres ne donnant pas sur la rue principale car un peu bruyante.
+Personnel très sympa et attentionné.
+Petit déjeuner très agréable ( gâteau maison, produits de qualité)",None,"9,2",Hôtel,Bordeaux," 8,1 "
+Karine76,France,0,2019-10-31,Bien ,Emplacement idyllique !!!,"Odeurs désagréables (égouts) dans la salle de bain.
+Chambre un peu petite.
+Manque une poubelle dans la chambre.","7,1",Hôtel,Bordeaux," 8,1 "
+Blasquiz,France,0,2019-10-30,Super accueil,"Nous avons adoré l’accueil et la gentillesse du personnel. L’hôtel est propre et les chambres spacieuses. L’emplacement est juste parfait ! 
+Nous allons dans cet hôtel à chaque fois que nous allons sur bordeaux.",L’isolation entre les chambres.,"9,2",Hôtel,Bordeaux," 8,1 "
+Yannick,France,0,2019-10-28,en plein centre,"literie
+savon douche","manque de serviette, 
+table fixée au mur pas droite
+chambre à rafraîchir
+tv trop petite","7,1",Hôtel,Bordeaux," 8,1 "
+Marie-paule,None,0,2019-10-17,Très bien,La gentillesse du personnel,La gentillesse du personnel,"8,3",Hôtel,Bordeaux," 8,1 "
+Guy,France,0,2019-10-14,Bien ,"Emplacement, nous cherchions un hôtel correct pour dormir et petit déjeuner. L'hôtel répondait bien à cette demande","Entre les photos rénovés de l'hôtel et l'état actuel, le temps à un peu passé... Un vrai Hôtel de ville, sans vue cela nous nous en doutions), l'isolation vers l'extérieure et vers les couloirs un peu light.","7,5",Hôtel,Bordeaux," 8,1 "
+Nathalie,France,0,2019-10-11,Très bien,"La situation géographique, hôtel propre , personnel accueillant",None,"8,8",Hôtel,Bordeaux," 8,1 "
+Corinne,France,0,2019-10-07,Un petit hotel calme et bien placé.,L'emplacement est topissime. On descend directement au cœur du centre-ville. Tout est à portée de main. L'hôtel est calme. On n'entend pas les bruits de rue et on y dort bien.,"Un plateau de courtoisie serai le bienvenu pour un petit thė au couché. La porte de la douche manquante, le rideau qui l'a remplacée m'a un peu rebuté. Moins hygiénique qu'une porte de douche en verre !","7,9",Hôtel,Bordeaux," 8,1 "
+Emilie,France,0,2019-09-24,Mitigée !,"Le petit déjeuner, la salle du petit déjeuner, le personnel très agréable, la literie.","La chambre et la salle de bain sont d’une petitesse ! Côté finitions, peu mieux faire (des plinthes complètement défoncées, des trous dans le mur...). Pas de lumière naturelle dans la SDB. Le tout laisse un avis mitigé !","7,5",Hôtel,Bordeaux," 8,1 "
+Stephanie,France,0,2019-09-16,Week-end au top !,"Établissement propre, calme et très bien situé. La chambre était spacieuse et confortable. Nous avons passé un séjour très agréable. Nous y reviendrons avec plaisir.",None,"9,6",Hôtel,Bordeaux," 8,1 "
+Cedric,France,0,2019-09-16,Bonne étape pour le travail,"La situation au coeur de Bordeaux avec une bonne isolation
+Literie confortable",Pas de parking très proche et il faut passer par la réception pour obtenir une réduction...sauf que l'accessibilité à l'hôtel est galère...sans doute faudrait-il transmettre au client dès lors que sa réservation est définitive le bon de réduction par mail ou sms..,"8,3",Hôtel,Bordeaux," 8,1 "
+Jacques,France,0,2019-09-07,Très bien,Emplacement idéal,None,"8,3",Hôtel,Bordeaux," 8,1 "
+Patricia,France,0,2019-09-04,"bon séjour à Bordeaux,ville hyper animée","Hôtel dans les rues piétonnes , près de la rue sainte Catherine avec tous les commerces et restaurants
+Impossible d’y aller en voiture mais parking payant pas très loin et réduction par l hôtel 
+Très bon accueil, hôtel ouvert 24/24
+Petit déjeuner BIO , bien garni",Juste un peu bruyant où était situé notre chambre,"9,2",Hôtel,Bordeaux," 8,1 "
+Stephanie,France,0,2019-09-03,Hotel bien situé & décoration sympa,"Emplacement
+Balcon
+Décoration
+Petit-déjeuner","Literie à changer (lit trop mou)
+Certaines lampes ne fonctionnaient pas dans la chambre et la salle de bain, nous l'avons signalé mais elles n'ont pas été changées
+1 seul table de nuit
+Salle de bain un peu étroite et sans porte
+Bruit de la rue (clients du Mac Donald)
+Jeune homme peu souriant au petit déjeuner
+Ménage non fait sous les toilettes","7,9",Hôtel,Bordeaux," 8,1 "
+Flovac,France,0,2019-09-01,Superbe,"Le petit déjeuner tout bio. L accueil du personnel, excellent : gentillesse et professionnalisme.",Pas assez de luminosité dabs la chambre.,"8,8",Hôtel,Bordeaux," 8,1 "
+Ducas,France,0,2019-08-25,Très bien,"Très propre, déco originale, climatisation, ascenseur, bonne literie. TV, calme.","Pas de bouteilles d’eau ni de cafetière dans les chambres, aucunes portes de séparation entre la douche les toilettes et la chambre..... pas d’intimité !","8,3",Hôtel,Bordeaux," 8,1 "
+Henriette,France,0,2019-08-22,Fabuleux ,"petit dejeuner correcte,personnel tres attentif et de bon conseil concernant les emplacements de parking.","place de parking excentre, hotel inaccessible en voiture, difficile pour les personnes a mobilité réduite.","9,2",Hôtel,Bordeaux," 8,1 "
+Frédérique,Monaco,0,2019-08-21,Très bien,"Qualité prix très satisfaisant,propre les chambres sont grande spacieuses","Les chambres sont très mal insonorisées, la salle de bain est ouverte dans la chambre , ce qui laisse très peu de place à l intimité","8,3",Hôtel,Bordeaux," 8,1 "
+Martial,France,0,2019-08-20,Bien ,"Nous étions dans une chambre prestige.
+La chambre était assez spacieuse et moderne, elle était agréable.
+Et l’emplacement géographique est top!","La salle de bain est ouverte donc difficile d’avoir de l’intimité et surtout de ne pas faire de bruit. 
+La literie était dure et l’insonorisation très mauvaise, on entend parfaitement ce qu’il se dit dans le couloir. 
+Le petit déjeuner est trop onéreux.","7,5",Hôtel,Bordeaux," 8,1 "
+Lee,France,0,2019-08-16,Parfait pour une nuit en ville,Emplacement parfait.,La chambre est petite et la clim trop froide ne se réglait pas.,"8,3",Hôtel,Bordeaux," 8,1 "
+Hervé,France,0,2019-08-12,"Un excellent petit moment de tourisme dans ma prore ville, un excellent séjour, merci!","La petite surprise du matin!! Grand réveil collectif, ça sentait bon le pain grillé. Assez rigolo comme petit moment.
+Le personnel est d'une grande gentillesse, souriante, professionnel. Merci pour cet accueil.","Un moustique, mais je lui ai réglé son compte! Désolé pour la petite tâche sur le mûr, j'allais me ruiner taxe de séjour, paix ait son âme.","9,2",Hôtel,Bordeaux," 8,1 "
+Marie-christine,France,0,2019-08-08,Bien ,Chambre très calme pour un hôtel situé en hyper centre,Plus d'oreiller,"7,9",Hôtel,Bordeaux," 8,1 "
+Olivier,France,0,2019-08-08,Bien ,Attention chambre 101 bruyante à cause du local lingerie des 5h00 du matin,Attention chambre 101 bruyante à cause du local lingerie des 5h00 du matin,"7,1",Hôtel,Bordeaux," 8,1 "
+Vincent,France,0,2019-07-30,Exceptionnel,"Propreté impeccable, personnel très accueillant, hôtel très bien situé pour une visite de la ville à pied.",None,"9,6",Hôtel,Bordeaux," 8,1 "
+Pierre,France,0,2019-07-29,Un bon séjour,"L'emplacement pour faire nos achats et profiter de la ville, et le personnel de l'hôtel","Très bruyant la nuit du samedi ,un vitrage isolant phonique aurait été parfait","8,3",Hôtel,Bordeaux," 8,1 "
+Bénédicte,France,0,2019-07-25,Agréable,Le manque de beurre salé,Le manque de beurre salé,"9,2",Hôtel,Bordeaux," 8,1 "
+Elizabeth,France,0,2019-07-24,Localisation idéale !,"Au cœur de Bordeaux, parfait pour tout faire à pieds ! L’hôtel est propre, le lit confortable, et le personnel sympa.",None,"8,8",Hôtel,Bordeaux," 8,1 "
+Aude,France,0,2019-07-22,Superbe,"L’emplacement, a un pas de la place de la Comédie et quasiment direct sur la rue ste Catherine.
+Chambre spacieuse, très propre, et calme.
+De plus, il y a 24/24h une personne a l’accueil.
+Bonne literie.
+Nous n’avons pas testé le petit déjeuner mais la salle est superbe, parquet magnifique et belle hauteur de plafond.",La moquette des étages paraît un peu fatiguée,"8,8",Hôtel,Bordeaux," 8,1 "
+Pauline,France,0,2019-07-19,Exceptionnel,"Rien à dire, tout était très bien, l'emplacement, le confort, la gentillesse du personnel, la taille de la chambre, le confort du lit...",None,"9,6",Hôtel,Bordeaux," 8,1 "
+Audrey,France,0,2019-07-18,Accueil personnalisé et emplacement de rêve,"L'accueil et la disponibilité du personnel, l'emplacement idéal en plein centre de Bordeaux et les facilités des transports",Le manque de poubelle dans la chambre et le carrelage fissuré,"9,6",Hôtel,Bordeaux," 8,1 "
+Annie,Canada,0,2019-07-17,Très bien,La localisation,L'hôtel est un peu défraîchi.,"8,3",Hôtel,Bordeaux," 8,1 "
+Sandrine,Belgique,0,2019-07-15,Fabuleux ,Le bruit extérieur,Le bruit extérieur,"9,2",Hôtel,Bordeaux," 8,1 "
+Olivia,France,0,2019-07-13,Très bon séjour,La proximité avec le centre ville,Forcément un peu bruyant vu la localisation !,"8,8",Hôtel,Bordeaux," 8,1 "
+Jean,Suisse,0,2019-07-12,"Beau séjour, belle ville. Juste nickel pour nous","Excellent buffet, trés fourni et varié","Bruyant fenêtres ouvertes (mais centre ville, donc normal) et odeur de cuisine (MCDo) dans la ruelle arrière de l'hôtel","8,3",Hôtel,Bordeaux," 8,1 "
+Julien,France,0,2019-07-05,Superbe,Excellent accueil par l'ensemble du personnel! La chambre était un peu petite (c'était annoncé) mais l'hôtel est idéalement situé au coeur de Bordeaux.,Le petit déjeuner est très bien mais il pourrait y avoir quelques fruits de saison. Écoulement du lavabo défectueux dans la salle de bain.,"8,8",Hôtel,Bordeaux," 8,1 "
+Lucie,France,0,2019-07-02,Bon séjour d'une nuit à l'hôtel de la Presse,L'emplacement et l'amabilité du personnel,La taille de la salle de bain très petite.,"8,3",Hôtel,Bordeaux," 8,1 "
+Yan,Suisse,0,2019-07-02,Très bien,"Idéal pour son emplacement, facile pour visiter les lieux touristiques",Un peu de bruit depuis l’au Chambre,"7,5",Hôtel,Bordeaux," 8,1 "
+Odile,France,0,2019-06-29,Séjour court mais top!,"Petit déj très copieux, grand choix de produits bio comme indiqué ds les commentaires.
+La responsable ainsi que le personnel rencontré ont été à l'écoute, serviables!
+La déco est surprenante et originale!
+La chambre très bien!",juste l'écran TV sur le passage au pied du lit pas trop pratique,"9,6",Hôtel,Bordeaux," 8,1 "
+Christophe,France,0,2019-06-29,Superbe,"Emplacement 
+Accueil 
+Qualité dans la simplicité",Taille de la chambre,"8,8",Hôtel,Bordeaux," 8,1 "
+Emmanuel,France,0,2019-06-28,Bien ,"Emplacement idéal dans une rue piétonne à deux pas des quais et de la place de la Bourse.
+Partenariat avec le parking des Grands Hommes, qui fait bénéficier d'un tarif préférentiel pour le stationnement du véhicule durant le séjour (30% de réduction).","Salle d'eau très petite, (notamment l'accès aux sanitaires quand on est grand comme moi).
+Etablissement très mal insonorisé...","7,1",Hôtel,Bordeaux," 8,1 "
+Mathias,Suisse,0,2019-06-25,Bien ,"L’emplacement, l’accueil","Finitions, peintures rideaux de douche,","7,5",Hôtel,Bordeaux," 8,1 "
+Marie,France,0,2019-06-23,Situation ideale,Situation en plein centre rue ste Catherine,Ras,"9,2",Hôtel,Bordeaux," 8,1 "
+Cyril,France,0,2019-06-23,Exceptionnel,"L'accueil était parfait.
+La cerise sur le gâteau la réduction sur le prix du parking souterrain.",None,"9,6",Hôtel,Bordeaux," 8,1 "
+Sylvain,France,0,2019-06-22,Séjour très agréable pour un couple souhaitant visiter Bordeaux a pied.,Lits moelleux.Dejeuner simple mais bon.. Situation très pratique pour la visite de Bordeaux centre.,Éclairage chambre,"8,8",Hôtel,Bordeaux," 8,1 "
+Christelle,Suisse,0,2019-06-21,Très bien,Chambre avec puit de lumière.,Chambre avec puit de lumière.,"8,3",Hôtel,Bordeaux," 8,1 "
+Philippe,Suisse,0,2019-06-20,Super ville à découvrir,"Très bien accueilli
+Super situation au centre ville.",La salle de bains très petite.,"7,1",Hôtel,Bordeaux," 8,1 "
+Mathieu,France,0,2019-06-20,Idéalement situé,Hôtel très sympa !,None,"9,2",Hôtel,Bordeaux," 8,1 "
+Sandrine,France,0,2019-06-18,Bien ,"Situation idéale pour faire du shopping, théâtre, resto..... plein centre",Côté rue bruyant. Mais normal plein centre rue marchande piétonne,"7,9",Hôtel,Bordeaux," 8,1 "
+Pierre,France,0,2019-06-17,Bien ,"Le cadre, l'accueil, la propreté de la chambre, l'isolation par rapport aux bruits de la rue","La faible étanchéité au bruit de la porte, le rapport qualité/prix du petit déjeuner","7,9",Hôtel,Bordeaux," 8,1 "
+Maud,France,0,2019-06-16,Bien ,L'emplacement en plein centre de Bordeaux.,Petit déjeuner qui pourrait être plus varié.,"7,5",Hôtel,Bordeaux," 8,1 "
+Annick,France,0,2019-06-14,Sejour agréable,Petit déjeuner frais et copieux.,None,"9,2",Hôtel,Bordeaux," 8,1 "
+Ginette,France,0,2019-06-12,Très beau séjour dans un hôtel et une ville agréable.,"Petit hôtel bien situé et propre. Personnel accueillant, beaucoup de renseignement. Petit déjeuner intéressant.",None,"7,9",Hôtel,Bordeaux," 8,1 "
+Thomas,Espagne,0,2019-06-08,Bien ,Très bonne situation géographique,"Odeur emanant du lavabo de la salle de bain. Pas agreable du tout, que l’on a senti dans la chambre toute la nuit","7,1",Hôtel,Bordeaux," 8,1 "
+Hélène,France,0,2019-06-03,Bien ,Propreté / emplacement,Pas de pression dans la douche / faible luminosité / mobilier abîmé / pas de porte entre la chambre et la salle de bains,"7,5",Hôtel,Bordeaux," 8,1 "
+Emmanuelle,France,0,2019-06-01,Une localisation idéale mais peu de charme,Emplacement idéal en plein centre ville - chambre très correcte et literie très confortable,"Correct mais sans ""plus"" : pas de plateau de courtoisie dans les chambres, petit déjeuner absolument identique tous les jours et sans trop de saveur","7,5",Hôtel,Bordeaux," 8,1 "
+Marlène,Suisse,1,2018-10-25 00:00:00,Exceptionnel,la sympathie et la disponibilité du personnel.,"Le petit-déjeuner bien mais un peu cher.
+Et puis je ne comprends toujours pas comment en arrivant une demie-heure avant la fin du service des petits-déjeuners, das tous les hôtels, on doive se contenter des restes, alors qu'on paye le tarif par entier. C'est comme vous allez au restaurant et ils vous servent un demi steak ou une demie pizza sous prétexte que la cuisine ferme bientôt...
+Il y a quelque chose à faire du côté des hôtels à ce sujet...",10,Hôtel,Toulouse," 8,5 "
+Bulle,France,0,2020-05-23 00:00:00,Parfait,"Facile d’accès 
+Parfait",Néant,10,Hôtel,Toulouse," 8,5 "
+Mylène,France,0,2020-05-18 00:00:00,Bien ,La climatisation réversible ne marchait pas. Il faisait froid dans la chambre...,La climatisation réversible ne marchait pas. Il faisait froid dans la chambre...,"7,0",Hôtel,Toulouse," 8,5 "
+Sabine,France,0,2020-04-02 00:00:00,"suffisant pour une nuit, doit être pratique pour une visite de la cité juste à côté!","le parking, les chambres, la situation géographique",Si on ne connaît pas le concept pour les repas du soir ... il faut deviner!,"7,0",Hôtel,Toulouse," 8,5 "
+Tiffany,France,0,2020-03-15 00:00:00,Excellent,La chambre était très grande !!,"La femme de ménage qui entre dans frappé au 11h alors qu’on rendait la chambre à 12h 
+Heureusement nous n’étions pas en petite tenue","8,0",Hôtel,Toulouse," 8,5 "
+Stéphanie,France,0,2020-03-12 00:00:00,L'hotel idéal pour passer un séjour de qualité en famille,"Plusieurs séjours effectués dans cet établissement, toujours un personnel acceuillant, une chambre propre, une restauration de qualité. J'y reviendrai sans aucun doute.",Rien à redire...,10,Hôtel,Toulouse," 8,5 "
+Christel,France,0,2020-03-09 00:00:00,Exceptionnel,"Chambres très confortables
+Adoré la vue sur la cité de l'espace 
+Petit déjeuner à volonté
+Personnel très réactif",None,10,Hôtel,Toulouse," 8,5 "
+Nicolas,France,0,2020-03-09 00:00:00,Exceptionnel,Restaurant,Ras,10,Hôtel,Toulouse," 8,5 "
+Pascal,France,0,2020-03-03 00:00:00,Fabuleux ,"Personnel aimable attentif et arrangeant, petits déjeuners bons et copieux et chambre propre et spacieuse.",None,"9,0",Hôtel,Toulouse," 8,5 "
+Helene,France,0,2020-02-29 00:00:00,2 nuits tranquilles pour aller visiter la cité de l'espace!,"Très bien placé, nous sommes allés à la cité de l'espace à pieds!
+Le petit déjeûner était copieux, le gros plus, est le jus d'orange avec les oranges pressés directement dans le verre.
+Très propre, le personnel accueillant, répondant aux questions posées avec le sourire!
+Hôtel très calme et tranquille!",Rien!!!,"9,0",Hôtel,Toulouse," 8,5 "
+Sylvie,France,0,2020-02-28 00:00:00,Très bien,"Personnel efficace et souriant, bon rapport qualité prix",None,"8,0",Hôtel,Toulouse," 8,5 "
+Florence,France,0,2020-02-25 00:00:00,Fabuleux ,"Bonne situation.
+Personnel agréable.
+Calme",None,"9,0",Hôtel,Toulouse," 8,5 "
+Catherine,France,0,2020-02-25 00:00:00,bien dans l'ensemble,"Hotel agréable, propre, très calme, et très proche Cité espace.","literie pas au top: matelas un peu trop ferme (question, de gout bien sur) et oreillers pas très confortables.
+Salle d'eau propre, mais un peu exiguë. Lorsque l'on se douche on se cogne aisément au mitigeur, et très peu de place pour entreposer une trousse de toilette et vêtements.
+Sinon hôtel très calme, et très proche Cité espace.","8,0",Hôtel,Toulouse," 8,5 "
+Anne,France,0,2020-02-24 00:00:00,Fabuleux ,Pas d'automate pour les boissons chaudes ou froides,Pas d'automate pour les boissons chaudes ou froides,"9,0",Hôtel,Toulouse," 8,5 "
+Frank,France,0,2020-02-23 00:00:00,Un hôtel parfais pour une étape toulousaine,"Un établissement très pratique pour une étape toulousaine. Calme, propre avec un accueil de qualité et un parking sécurisé .",Ras,"8,0",Hôtel,Toulouse," 8,5 "
+Magali,France,0,2020-02-23 00:00:00,très satisfaits,très bien et bien situé pour continuer notre route en direction du sud,les prix des petits déjeuners,"8,0",Hôtel,Toulouse," 8,5 "
+Annick,France,0,2020-02-22 00:00:00,séjour très agréable.,"Le personnel très agréable. le décor bien, l'emplacement parfait.
+Le déjeuner très bon.
+Le petit déjeuner un peu léger.
+Il est vrai que nous nous sommes levés.",Rien tout était parfait,"9,0",Hôtel,Toulouse," 8,5 "
+Jean-pierre,France,0,2020-02-21 00:00:00,"Sans surprise, très bien.","Satisfaits d'un premier séjour fin 2019, nous y sommes retournés et avons éprouvé la même satisfaction.",None,"8,0",Hôtel,Toulouse," 8,5 "
+Derbre,France,0,2020-02-20 00:00:00,Repond à notre attente,Plus de légumes au buffet chaud,Plus de légumes au buffet chaud,"8,0",Hôtel,Toulouse," 8,5 "
+Claudine,France,0,2020-02-19 00:00:00,super séjour à refaire,"la situation de l'hotel, son accueil, ses prestations, tout était ok",ras,"9,0",Hôtel,Toulouse," 8,5 "
+Jean-françois,France,0,2020-02-18 00:00:00,Emplacement calme et facilement accessible,"Emplacement idéal pour la Cité de l'Espace (5' à pieds) et facile pour rejoindre le centre ville (10' en voiture).
+Etablissement calme. Personnel souriant. Petit dejeuner complet. Grand parking gratuit...mais vite rempli à partir de 18h. Wifi gratuit.
+Périphérique proche mais sans nuisance sonore.",None,10,Hôtel,Toulouse," 8,5 "
+Beatrice,France,0,2020-02-17 00:00:00,Exceptionnel,"Accueil chaleureux 
+Calme",Manque de produit de toilette.(produit douche),"9,6",Hôtel,Toulouse," 8,5 "
+Johan,France,0,2020-02-16 00:00:00,Fabuleux ,"Petit dejeuner très copieux, accueil irréprochable très bon séjour passe .",None,"9,0",Hôtel,Toulouse," 8,5 "
+Virginie,France,0,2020-02-16 00:00:00,Exceptionnel,Buffet petit déjeuner copieux. Personnel très accueillant,None,10,Hôtel,Toulouse," 8,5 "
+Aurélie,France,0,2020-02-16 00:00:00,Très bien,"Hôtel bien situé, design et chambre confortable
+Personnel efficace",Propreté de la salle de bain moyenne,"8,3",Hôtel,Toulouse," 8,5 "
+Stéphane,France,0,2020-02-15 00:00:00,Fabuleux ,"Personnels souriant et à notre service (femme de ménage, serveurs et personnels de l'accueil)",None,"9,0",Hôtel,Toulouse," 8,5 "
+Ginette,France,0,2020-02-13 00:00:00,Exceptionnel et le personnel formidable,Tout,Rien tout etait parfait,10,Hôtel,Toulouse," 8,5 "
+Celine,France,0,2020-02-11 00:00:00,Plaisant,Lit confortable,Obligé de sortir pour aller en chambre et vis versa,"9,0",Hôtel,Toulouse," 8,5 "
+Christelle,France,0,2020-02-10 00:00:00,Très bien,Matelas défoncé,Matelas défoncé,"8,0",Hôtel,Toulouse," 8,5 "
+Christophe,Belgique,0,2020-02-09 00:00:00,Fabuleux ,"super accueil , très propres , bien situé . Le repas du soir au restaurant super bon, très copieux et de très bon produit de qualité . Notre étape c'est super bien passé .",None,"9,0",Hôtel,Toulouse," 8,5 "
+Denis,France,0,2020-02-08 00:00:00,Exceptionnel,"L’accueil est excellent avec une très bonne équipe au top
+La salle de restauration est très agréable, cosy
+Les buffets sont biens présentés et très fournis
+Le petit déj est excellent",None,10,Hôtel,Toulouse," 8,5 "
+Fabrice,France,1,2020-01-30 00:00:00,Bien ,le fait que l'on puisse quitter la chambre avant 12H,La propreté de la moquette de part et d'autre du lit,"7,0",Hôtel,Toulouse," 8,5 "
+Julien,France,0,2020-01-25 00:00:00,Bien ,Personnel à l’accueil très sympathique,"Le bruit dans la chambre, une sorte de bourdonnement","7,5",Hôtel,Toulouse," 8,5 "
+Franck,France,0,2020-01-24 00:00:00,Bien ,"la réception a fait un geste commercial, que nous avons apprécié.","poubelle pas vidé, télécommande de la télé absente.","7,0",Hôtel,Toulouse," 8,5 "
+Aline-jeanne,France,0,2020-01-23 00:00:00,Superbe,Le petit déjeuner au top,Le manque de luminosité dans la salle de bain,"8,8",Hôtel,Toulouse," 8,5 "
+Eliane,France,0,2020-01-21 00:00:00,TRES TRES BIEN,"TOUT. Personnel souriant, accueillant, très à l'écoute de nos demandes. Une ambiance très agréable et qui donne envie d""y revenir. A recommander. Et de notre chambre vue sur la fusée de la Cité de l""Espace. Le top..","meme en cherchant, rien....","9,0",Hôtel,Toulouse," 8,5 "
+Jean-louis,France,0,2020-01-16 00:00:00,Fabuleux ,L'emplacement et le buffet du petit-déjeuner,"Accueil un peu froid de l'hôtesse qui était absente à notre arrivée.
+Nous avions une chambre avec une porte de communication avec la chance mitoyenne qui n'était pas très isolée..","9,0",Hôtel,Toulouse," 8,5 "
+Michel,France,0,2020-01-15 00:00:00,À recommander,"J’avais réservé une chambre PMR . Aucune surprise, très bien équipée et adaptée.",Tout était très bien.,10,Hôtel,Toulouse," 8,5 "
+Lydia,Espagne,0,2020-01-14 00:00:00,Assez bonnes prestations et petit-déjeuner très correct,"Nous avons trouvé la chambre typique de chez Campanile, qui, à mon avis, commence à être lassante. Nous avons choisi l'hôtel précisément pour son emplacement, près des visites que nous avions à faire. Quant au petit-déjeuner, rien à reprocher: il y a diversité, choix et jus d'orange frais",Pour avoir une chambre avec de meilleures prestations et éviter le sempiternel édifice Campanile avec rez-de-chaussée et étage(s) sans ascenseur (très commode à l'étage pour les valises!!!!) il faut être disposé à payer plus cher. Est-ce normal?,"8,0",Hôtel,Toulouse," 8,5 "
+Ck67800,France,0,2020-01-14 00:00:00,"chambre N°106 agréable et spacieuse, je recommande.","Chambre au premier étage, spacieuse, neuve et bien équipée.
+La température était très agréable à mon arrivée, ce qui est appréciable en hiver.
+Je n'ai pas eu le temps de dîner le soir, mais le petit déjeuner le lendemain était très bien servi avec un large choix sucré et salé. Personnel serviable et souriant.","Pas de point négatif signifiant à souligner. 
+Le tarif des hôtels depuis le passage à l'euro me laisse toujours perplexe, payer l'équivalent de 650 francs pour une nuit et un petit déjeuner en campanile me laisse pantois, mais c'est ainsi.","8,0",Hôtel,Toulouse," 8,5 "
+Martine,France,0,2020-01-08 00:00:00,Très bien,Bon accueil... Chambre spacieuse et confortable... Bon séjour.. Petit déjeuner copieux... Nous y revenons chaque année à la même période....,None,"8,0",Hôtel,Toulouse," 8,5 "
+Alain,France,0,2020-01-06 00:00:00,Exceptionnel,"L'accueil chaleureux, La chambre bien agencée le parking devant la chambre., le petit déjeuner et le rapport qualité prix",Rien,10,Hôtel,Toulouse," 8,5 "
+Genevieve,France,0,2020-01-05 00:00:00,Très bon rapport qualité prix. Effiace pour une nuit étape.,"Propreté. Efficacité (arrivée, départ, bar, petit déjeuner). Proche de l'autoroute donc très pratique pour une escale sur un long trajet. Très bon rapport qualité / prix. Parking. Salle de bains ok. Toilettes séparées. Petit déjeuner ok sauf les boissons chaudes (voir commentaire ci-dessous)","Literie dure, oreillers très inconfortables. Café au lait à la machine du petit déjeuner : pas bon du tout.","8,0",Hôtel,Toulouse," 8,5 "
+Jean-pierre,France,0,2020-01-05 00:00:00,très bien dans l'ensemble.,Petit déjeuner vraiment bien et complet. Personnel parfait. Bonne situation de l'hôtel par rapport à la ville et aux accès autoroutiers.,"En ce qui concerne l'équipement, le problème est que l'on nous a installés dans une chambre pour handicapés : la douche coulait directement sur le sol de la salle de bain, sans receveur, donc un peu inconfortable.","8,0",Hôtel,Toulouse," 8,5 "
+Franck,France,0,2020-01-04 00:00:00,Très agréable moment.,"Personnel très agréable, serviable.
+Propreté en général.
+Choix des divers buffets.",None,"8,0",Hôtel,Toulouse," 8,5 "
+Catherine,France,0,2020-01-04 00:00:00,Un bon sejour,Le petit déjeuner et l'emplacement de l'hôtel,None,"8,0",Hôtel,Toulouse," 8,5 "
+Sebastien,France,0,2020-01-01 00:00:00,Très bien !,Excellent emplacement proche de la cité de l'espace. Hôtel très propre (quasi neuf) petit-déjeuner agréable.,None,"9,0",Hôtel,Toulouse," 8,5 "
+Gladys,France,0,2019-12-31 00:00:00,Fabuleux ,"La chambre est très bien équipée. Le petit déjeuner (relativement cher, 11,90 euros) propose un bon choix. Mais le gros plus est l'emplacement : super pour aller à pied à la cité de l'espace.
+Le personnel s'est toujours montré très agréable.","Le restaurant pour déjeuner ou dîner est cher pour le choix proposé au niveau des buffets.
+Les toilettes n'étaient pas impeccables","9,0",Hôtel,Toulouse," 8,5 "
+Thierry,France,0,2019-12-31 00:00:00,bien pour une nuit avant la visite de la cité de l'espace,"Le confort de la chambre, le silence.
+Petit déjeuner copieux.",None,"7,0",Hôtel,Toulouse," 8,5 "
+Denis,France,0,2019-12-30 00:00:00,Bien et agréable,"Lit ok
+Petit déjeuner ok",Le parcours extérieur de la chambre à la réception,"8,0",Hôtel,Toulouse," 8,5 "
+Bach,France,0,2019-12-30 00:00:00,Très reposant ! À refaire,"Personnel très sympathiques et à l'écoute. Toujours prêts à rendre service. 
+Paysage reposant.
+Nous avons apprécier les repas en mode buffet et aussi le presse orange. Plusieurs fois nous nous sommes resservi","En tant que piéton et l'hôtel se situant en bord de route la sécurité lors des déplacements n'est pas parfaite car il y a aucun trottoirs permettant à un fauteuil roulant d'être sans danger.
+Nous avons oublié de signalé à l'accueil que, la télévision fonctionnait mal parfois","9,2",Hôtel,Toulouse," 8,5 "
+Yannick,La Réunion,0,2019-12-29 00:00:00,Fabuleux ,La fusée Ariane vue de notre chambre,Un peu trop circulation a mon goût.,"9,2",Hôtel,Toulouse," 8,5 "
+Nicolas,France,0,2019-12-27 00:00:00,Superbe,"Chambre confortable, propre et récemment rénovée.",Mauvaise qualité de la restauration,"8,8",Hôtel,Toulouse," 8,5 "
+Christophe,France,0,2019-12-26 00:00:00,Bien ,Personnel emplacement,Les fenêtres ne s ouvrent pas,"7,0",Hôtel,Toulouse," 8,5 "
+Geha,France,0,2019-12-22 00:00:00,Exceptionnel,Bon début,Super séjour super accueil la chambre nickel je le recommande,10,Hôtel,Toulouse," 8,5 "
+Francoise,France,0,2019-12-22 00:00:00,Bien ,La proximité avec la bretelle d'autoroute,None,"7,5",Hôtel,Toulouse," 8,5 "
+Alain,France,0,2019-12-22 00:00:00,Très bien,LE PRIX PROMO POUR UN VENDREDI SOIR,None,"8,0",Hôtel,Toulouse," 8,5 "
+Samuel,France,0,2019-12-21 00:00:00,Exceptionnel,Le personnel très agréable,None,10,Hôtel,Toulouse," 8,5 "
+Clémence,France,0,2019-12-15 00:00:00,Séjour mitigé,"Literie confortable, à part les oreillers. Toilettes et salle de bain propres","La fenêtre était ouverte, derrière un rideau épais ce qui fait que je m'en suis rendue compte seulement le matin en me levant. Du coup, on entendait les voitures. Et un bébé qui pleurait à l'étage qui m'a empêché de dormir.
+De plus il y avait une belle toile d'araignée au plafond...","7,0",Hôtel,Toulouse," 8,5 "
+Cédric,France,0,2019-12-08 00:00:00,Exceptionnel,Buffet petit déjeuner très varié,Mauvaise odeur de canalisations dans les couloirs.,10,Hôtel,Toulouse," 8,5 "
+Bernardinizan,Andorre,0,2019-12-02 00:00:00,A la porte de Toulouse sans en avoir les désagréments,Une chambre rénovée avec toutes les fonctionalités,Pas de critique,"8,0",Hôtel,Toulouse," 8,5 "
+Camia,France,0,2019-12-01 00:00:00,à proximité immédiate des étoiles,"trés proche de la cité de l'espace, trés bon petit déjeuner,
+ repas du soir sous forme de buffet, satisfaisant",None,"8,0",Hôtel,Toulouse," 8,5 "
+Alain,France,0,2019-12-01 00:00:00,En demi teinte,Les chambres sont très agréables spacieuses et confortables.,"Le restaurant de cet hôtel est un véritable scandale !!!! 27,90€ pour
+pouvoir manger entrée plat dessert sur un buffet ""à volonté""
+où la qualité est plus que médiocre !!! Vraiment à fuir !!! Même un fast-
+food aurait été vraiment meilleur et surtout beaucoup moins cher !!!!!","8,8",Hôtel,Toulouse," 8,5 "
+Elisabeth,France,0,2019-11-30 00:00:00,Je reviens la prochaine fois,"La chaleur trop forte dans la chambre 
+Sinon très propre",Juste la chaleur dans la chambre,"8,0",Hôtel,Toulouse," 8,5 "
+Josiane,France,0,2019-11-25 00:00:00,Court mais réussi,La proximité de l'autoroute et de la Cité de l'espace. Le rapport qualité/prix. le professionnalisme du personnel. Le parking gratuit sécurisé.,Un peu excentré par rapport au centre ville,"8,0",Hôtel,Toulouse," 8,5 "
+Brice,France,0,2019-11-24 00:00:00,Une prise mise à disposition pour charger mon véhicule électrique,"Une prise mise à disposition pour charger mon véhicule électrique, Bravo et Merci 👍",None,10,Hôtel,Toulouse," 8,5 "
+Joël,France,0,2019-11-24 00:00:00,Très correct,Bon,Restaurant basique,"7,0",Hôtel,Toulouse," 8,5 "
+Nadia,France,0,2019-11-23 00:00:00,Exceptionnel,Très propre literie confortable,None,10,Hôtel,Toulouse," 8,5 "
+Jean-louis,France,0,2019-11-23 00:00:00,Bien ,Belles chambres proprete,Le prix du restaurant quand on prends les 3 buffets le soir un peu cher compte tenu qu'on mange peu le soir,"7,5",Hôtel,Toulouse," 8,5 "
+Pierre,France,0,2019-11-20 00:00:00,Très bien,"Chambre niquelle et très confortable avec tout l'équipement nécessaire. Lit très confortable. 
+Excellente situation pour visiter la cité de l'espace",Ras,"8,0",Hôtel,Toulouse," 8,5 "
+Laure,France,0,2019-11-20 00:00:00,Superbe,"Le petit déjeuner
+La proximité avec la Cité de l'espace.",Il y avait une télévision dans la chambre mais pas de télécommande pour l'allumer. Cela ne nous a pas dérangé mais nous n'avons donc pas pu la regarder.,"8,8",Hôtel,Toulouse," 8,5 "
+Yolande,France,0,2019-11-13 00:00:00,très bien quand même très bon accueil,l emplacement très bien parking securisé proche de l autoroute,repas du soir trop de mouvement de serveurs jamais le même pas assez de surveillance aux cuisines quand on a été pour se servir les plats étaient vides,"8,0",Hôtel,Toulouse," 8,5 "
+Maeva,France,0,2019-11-13 00:00:00,Bien,Lit était bien. C’est une bonne idée d’avoir mis un distributeur de gel douche dans la salle de bain.,"Je trouve que dans la chambre il n’y avait pas assez de choix au niveau des infusions, il n’y avait que du thé anglais.",10,Hôtel,Toulouse," 8,5 "
+Alain,France,0,2019-11-13 00:00:00,Très bien,Le parking devant la chambre particulièrement sous la pluie. Le wifi grace à la fibre...,Rien,"8,3",Hôtel,Toulouse," 8,5 "
+Régis,France,0,2019-11-11 00:00:00,"Pour les deux séjours en deux année consécutives , l'hotel Campanile vas rester notre pied à terre .","Très bien placé géographiquement pour le séjour que nous avons passer . 
+Le calme du quartier . 
+La propreté de la chambre . 
+Le parking .
+Le chauffage .","Le prix du petit déjeuner trop élevé .
+L'isolation phonique entre les chambres ( Chien ) la deuxième nuit ( Dommage ).","8,0",Hôtel,Toulouse," 8,5 "
+Chantal,France,0,2019-11-11 00:00:00,Exceptionnel,Chambre spacieuse et fonctionnelle.,None,10,Hôtel,Toulouse," 8,5 "
+Claude,France,0,2019-11-11 00:00:00,Très bien,Tout !,RAS,"8,0",Hôtel,Toulouse," 8,5 "
+Caroline,France,0,2019-11-10 00:00:00,Excellent séjour !!,"Idéal pour la visite de la cité de l'espace, quartier tranquille, personnel très accueillant et serviable. Restaurant sur place.",Rien,"9,2",Hôtel,Toulouse," 8,5 "
+Sylvie,France,0,2019-11-06 00:00:00,Fabuleux ,"bon petit déjeuner, personnel accueillant et arrangeant, idéalement situé puisque tout proche de la cité de l'espace. L'hôte d'accueil a accepté que notre voiture reste sur le parking de l'hôtel alors que nous allions visiter la cité de l'espace et qu'ensuite nous repartions vers notre domicile.",j'ai trouvé le menu un peu cher : 21€50 ( plat /dessert) même si on a le droit de se resservir plusieurs fois.,"9,0",Hôtel,Toulouse," 8,5 "
+James,France,0,2019-11-04 00:00:00,Restauration à revoir,Le petit-déjeuner copieux et de qualité,La restauration buffet a volonté vide à 20h30,"7,1",Hôtel,Toulouse," 8,5 "
+Nicolas,Andorre,0,2019-11-03 00:00:00,Bonne expérience :),"Emplacement proche du centre-ville et de la sortie du périphérique, néanmoins très calme et préservé de toutes nuisances. 
+Chambre sympathique, agencement moderne et élégant. Pour cette gamme de prix, difficile de demander mieux. Le chauffage / clim réversibles ainsi que la bouilloire et les sachets de thé / café / sucre à disposition sont d'agréables détails. La salle de bain était aussi très propre, nous sommes vraiment satisfaits de notre expérience.","Rien à signaler de ce côté là :)
+Aucune fausse note...
+En ce qui nous concerne, il faudrait être de mauvaise fois / ultra tatillon pour formuler des reproches !","9,6",Hôtel,Toulouse," 8,5 "
+Rudy,Allemagne,0,2019-11-03 00:00:00,Exceptionnel,Restaurant,None,10,Hôtel,Toulouse," 8,5 "
+Julie,France,0,2019-11-03 00:00:00,Très bien,"Le petit déjeuner, la chambre nickel et la proximité a la cité de l espace ☺",Le repas buffet du soir au restaurant est cher pour les propositions de plats.,"8,3",Hôtel,Toulouse," 8,5 "
+Tiffany,France,0,2019-11-03 00:00:00,Super situation,"Tres bonne situation
+Parking gratuit
+Gentillesse et attentions du personnel de l’accueil (notamment vis a vis de notre fils)
+Propreté des lieux et lits faits a l’arrivée pour le petit",None,10,Hôtel,Toulouse," 8,5 "
+Jujud123,France,0,2019-11-02 00:00:00,Exceptionnel,"Le parking, le restaurant dans l'établissement, la proximité de la cité de l'espace.",La chambre était un peu petite et on n'a pas pu régler la climatisation\chauffage.,10,Hôtel,Toulouse," 8,5 "
+Irène,France,0,2019-10-31 00:00:00,Exceptionnel,"La configuration de l'hôtel .
+Le confort et l'espace des chambres. 
+La propreté.",Manger et déjeuner à côté de l'accueil,10,Hôtel,Toulouse," 8,5 "
+Jacqueline,France,0,2019-10-30 00:00:00,très bien,"Le repas du soir (buffet)
+Personnels à l'écoute",None,10,Hôtel,Toulouse," 8,5 "
+Nicolas,France,0,2019-10-30 00:00:00,Très bien,Chambre avec vue sur la cité de l'espace. Grand choix pour le petit déjeuner.,"Le personnel à l'accueil le soir de notre arrivée, pas très agréable (mais sans être discourtois non plus). Rattrapé par l'équipe du lendemain matin, beaucoup plus sympathique.","8,3",Hôtel,Toulouse," 8,5 "
+Joel,France,0,2019-10-28 00:00:00,Très bien,Le lieu,Petit déjeuner bon mais léger.,"8,3",Hôtel,Toulouse," 8,5 "
+Nathalie,France,0,2019-10-27 00:00:00,Nous sommes conquis,"Cadre idéal pour la visite de la Cité de l’espace 
+Personnel très sympa et accueillant 
+Buffet petit déjeuner et dîner parfait 
+Chambre très propre",Dommage que la fenêtre de la chambre ne s’ouvre pas mais tout le reste tellement super que pas pensé de le signaler au personnel,10,Hôtel,Toulouse," 8,5 "
+Paul,France,0,2019-10-26 00:00:00,Exceptionnel,"L’emplacement, la convivialité, la propreté des lieux et de la chambre, le petit-déjeuner très copieux.",None,10,Hôtel,Toulouse," 8,5 "
+Rita,France,0,2019-10-25 00:00:00,Bien ,"Lit confortable, chambre agréable et aucun bruit, bon petit déjeuner.",Le repas du soir n'était pas terrible dommage.,"7,5",Hôtel,Toulouse," 8,5 "
+Cindy,France,0,2019-10-25 00:00:00,Fabuleux ,"L emplacement, la qualité du service, le restaurant, la literie, la salle de bain, le calme.",Il y avait une serviette usagée sous la couette du petit lit à notre arrivée. Les oreillers sont trop plats.,"9,2",Hôtel,Toulouse," 8,5 "
+Valerie,France,0,2019-10-24 00:00:00,Très bien,"L accueil, personnel souriant et accueillant 
+Le restaurant 
+Le grand lit",None,"8,3",Hôtel,Toulouse," 8,5 "
+Patrice,France,0,2019-10-22 00:00:00,Exceptionnel,"Baby-foot, petit déjeuner, horaire de nuit",None,10,Hôtel,Toulouse," 8,5 "
+Jean,France,0,2019-10-22 00:00:00,Exceptionnel,La propreté le calme et le personnel de l l'hotel,Temps trop limité pour le petit-déjeuner,10,Hôtel,Toulouse," 8,5 "
+Gerard,France,0,2019-10-22 00:00:00,la chambre était assez grande (lit en 160). Par contre je trouve le coût du petit dejeûner excessif,"petit déjeûner très copieux, choix important,","le choix du menu
+entrées et desserts a volonté ou entrees et plat à volonté ou plat et desserts à volonté
+est-ce qu'il pourrait y avoir une formule menu incluant l'entrée, le plat et le dessert ?
+on ne va pas se gaver de l'un ou l'autre !","9,0",Hôtel,Toulouse," 8,5 "
+Bruno,France,0,2019-10-18 00:00:00,Exceptionnel,Un excellent rapport qualité prix combiné avec un emplacement très pratique car à 10 mn du centre ville et 300m de l acces au périphérique.,Rien,10,Hôtel,Toulouse," 8,5 "
+Karelle,France,0,2019-10-16 00:00:00,Très bon hôtel,"Emplacement, propreté",None,10,Hôtel,Toulouse," 8,5 "
+Larissa,France,0,2019-10-14 00:00:00,Fabuleux ,Oui,None,"9,2",Hôtel,Toulouse," 8,5 "
+>>>>>>> a2d81c127eb928dea25f08cb7db535166bf7e91a
