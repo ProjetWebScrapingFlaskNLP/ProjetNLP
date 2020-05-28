@@ -1,0 +1,61 @@
+{% extends "layout.html" %}
+
+{% block head %}
+   {{ super() }}
+{% endblock %}
+
+{% block navbar %}
+   {{ super() }}
+{% endblock %}
+   
+{% block content %}
+
+  <section id="services" class="probootstrap-section-bg overlay" style="background-image: url(/static/img/hero_bg_2.jpg);" data-stellar-background-ratio="0.5" data-section="specialties">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12 text-center probootstrap-animate">
+          <div class="probootstrap-heading">
+            <h2 class="primary-heading">Projet NLP</h2>
+            <h3 class="secondary-heading">Nohossat, Valerie, Williams</h3>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- probootstrap-bg-white -->
+  <section class="probootstrap-section">
+    <div class="container">
+      <div class="row">
+        <div class="probootstrap-cell-retro">
+          <div class="half">
+
+            {% for part in parts[::2] %}
+                <div class="probootstrap-cell {{ loop.cycle('reverse', '') }} probootstrap-animate" data-animate-effect="fadeIn">
+                    <div class="image" style="background-image: url(/static/img/img_square_1.jpg);"></div>
+                    <div class="text text-center">
+                    <h3>{{ part.titre }}</h3>
+                    <p>{{ part.desc }}</p>
+                    <p class="price"><a href="{{part.link}}">Acceder</a></p>
+                    </div>
+                </div>
+            {% endfor %}
+
+          </div>
+          <div class="half">
+
+            {% for part in parts[1::2] %}
+                <div class="probootstrap-cell {{ loop.cycle('reverse', '') }} probootstrap-animate" data-animate-effect="fadeIn">
+                    <div class="image" style="background-image: url(/static/img/img_square_1.jpg);"></div>
+                    <div class="text text-center">
+                    <h3>{{ part.titre }}</h3>
+                    <p>{{ part.desc }}</p>
+                    <p class="price"><a href="{{part.link}}">Acceder</a></p>
+                    </div>
+                </div>
+            {% endfor %}
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+{% endblock %}

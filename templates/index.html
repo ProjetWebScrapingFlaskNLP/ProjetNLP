@@ -34,18 +34,19 @@
 
         <div id="navbar-collapse" class="navbar-collapse collapse">
           <ul class="nav navbar-nav navbar-right">
-            <li class="active"><a href="#" data-nav-section="welcome">Accueil</a></li>
-            <li><a href="#" data-nav-section="specialties">Services</a></li>
-            <li><a href="#" data-nav-section="reservation">Réservation</a></li>
-            <li><a href="#" data-nav-section="events">Evénements</a></li>
-            <li><a href="#" data-nav-section="contact">Contact</a></li>
-            <li><a href="/livredor" target="_blank">Le Livre d'or</a></li>
+            <li class="active"><a href="#accueil" data-nav-section="welcome">Accueil</a></li>
+            <li><a href="#services" data-nav-section="specialties">Services</a></li>
+            <li><a href="#reservation" data-nav-section="reservation">Réservation</a></li>
+            <li><a href="#evenements" data-nav-section="events">Evénements</a></li>
+            <li><a href="#contact" data-nav-section="contact">Contact</a></li>
+            <li><a href="{{ url_for('presentation')}}">Presentation</a></li>
+            <li><a href="{{ url_for('livredor')}}"  target="_blank">Le Livre d'or</a></li> <!-- doesnt work-->
           </ul>
         </div>
       </div>
     </nav>
 
-    <section class="flexslider" data-section="welcome">
+    <section id="accueil" class="flexslider" data-section="welcome">
       <ul class="slides">
         <li style="background-image: url(/static/img/hero_bg_1.jpg)" class="overlay" data-stellar-background-ratio="0.5">
           <div class="container">
@@ -110,7 +111,7 @@
       </div>
     </section>
 
-    <section class="probootstrap-section-bg overlay" style="background-image: url(/static/img/hero_bg_2.jpg);" data-stellar-background-ratio="0.5" data-section="specialties">
+    <section id="services" class="probootstrap-section-bg overlay" style="background-image: url(/static/img/hero_bg_2.jpg);" data-stellar-background-ratio="0.5" data-section="specialties">
       <div class="container">
         <div class="row">
           <div class="col-md-12 text-center probootstrap-animate">
@@ -280,7 +281,7 @@
       </div>
     </section>  -->
 
-    <section class="probootstrap-section-bg overlay" style="background-image: url(/static/img/hero_bg_5.jpg);"  data-stellar-background-ratio="0.5" data-section="reservation">
+    <section id="reservation" class="probootstrap-section-bg overlay" style="background-image: url(/static/img/hero_bg_5.jpg);"  data-stellar-background-ratio="0.5" data-section="reservation">
       <div class="container">
         <div class="row">
           <div class="col-md-12 text-center probootstrap-animate">
@@ -374,7 +375,7 @@
       </div>
     </section>
 
-    <section class="probootstrap-section-bg overlay" style="background-image: url(/static/img/hero_bg_4.jpg);"  data-stellar-background-ratio="0.5" data-section="events">
+    <section id="evenements" class="probootstrap-section-bg overlay" style="background-image: url(/static/img/hero_bg_4.jpg);"  data-stellar-background-ratio="0.5" data-section="events">
       <div class="container">
         <div class="row">
           <div class="col-md-12 text-center probootstrap-animate">
@@ -426,7 +427,7 @@
       </div>
     </section>
 
-    <section class="probootstrap-section probootstrap-bg-white" data-section="contact">
+    <section id="contact" class="probootstrap-section probootstrap-bg-white" data-section="contact">
       <div class="container">
         <div class="row">
           <div class="col-md-5 text-center probootstrap-animate">
@@ -473,19 +474,15 @@
               <figure><img src="/static/img/img_square_2.jpg" alt="Free Bootstrap Template by uicookies.com"></figure>
               <div class="text">
                 <span class="date">June 29, 2017</span>
-                <h3><a href="/livredor" target="_blank">Le Livre d'or</a></h3>
+                <h3><a href="{{ url_for('livredor')}}" target="_blank">Le Livre d'or</a></h3>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto provident qui tempore natus quos quibusdam soluta at.</p>
-                <p class=""><a href="#" class="probootstrap-custom-link link-sm">Read More</a></p>
+                <p class=""><a href="{{ url_for('livredor')}}" class="probootstrap-custom-link link-sm">Read More</a></p>
               </div>
             </div>
           </div>
         </div>
        </div>
      </section>
-
-
-
-
 
     <section class="probootstrap-footer">
       <div class="container">
