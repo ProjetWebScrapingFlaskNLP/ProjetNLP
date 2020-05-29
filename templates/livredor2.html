@@ -1,4 +1,4 @@
-{% extends "layout2.html" %}
+{% extends "layout.html" %}
 
 {% block title %} {{ titre }} {% endblock %}
 
@@ -17,23 +17,34 @@
 </div>
 
 <div class="prestations">
-    {% for prestation in prestations %}
+    <h2> Nos Prestations </h2>
+    <div class="prestations_list">
+        {% for prestation in prestations %}
         <div class="prestation">
             <i class="fa {{ prestation.icon }}"></i>
             <p> {{ prestation.desc }}</p>
         </div>
     {% endfor %}
+    </div>
+    
 </div>
 
 <div class="avis">
     <h3> Avis </h3>
     <p> Laisser nous un avis ! </p>
     <!--<div id="comments-container"></div>-->
+
     <form method="POST" action="{{ url_for('create_comment') }}">
-        <input type="text" name="nom_user" value="" placeholder="John Doe">
-        <textarea name="comment" cols="30" rows="10" placeholder="Bonjour Hotel Simplon, " required>
-        </textarea>
-    </form>
+        <div class="form-group">
+          <label for="nom_user">Nom</label>
+          <input type="text" class="form-control" id="nom_user" name="nom_user" placeholder="John Doe">
+        </div>
+        <div class="form-group">
+            <textarea class="form-control" name="comment" cols="30" rows="10" placeholder="Bonjour Hotel Simplon, ">
+            </textarea>
+        </div>
+        <button type="submit" class="btn btn-primary">Submit</button>
+      </form>
 </div>
     
 {% endblock %}
