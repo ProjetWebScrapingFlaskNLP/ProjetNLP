@@ -1,0 +1,43 @@
+{% extends "layout2.html" %}
+
+{% block title %} {{ titre }} {% endblock %}
+
+{% block head %} 
+   {{ super() }}
+{% endblock %}
+
+{% block content %}
+<div class="header">
+    <h1>Hotel Simplon</h1>
+</div>
+
+<div class="description">
+    <h2> Bienvenue </h2>
+    <p>{{ desc }}</p>
+</div>
+
+<div class="prestations">
+    {% for prestation in prestations %}
+        <div class="prestation">
+            <i class="fa {{ prestation.icon }}"></i>
+            <p> {{ prestation.desc }}</p>
+        </div>
+    {% endfor %}
+</div>
+
+<div class="avis">
+    <h3> Avis </h3>
+    <p> Laisser nous un avis ! </p>
+    <!--<div id="comments-container"></div>-->
+    <form method="POST" action="{{ url_for('create_comment') }}">
+        <input type="text" name="nom_user" value="" placeholder="John Doe">
+        <textarea name="comment" cols="30" rows="10" placeholder="Bonjour Hotel Simplon, " required>
+        </textarea>
+    </form>
+</div>
+    
+{% endblock %}
+
+{% block footer %}
+    {{ super() }}
+{% endblock %}
