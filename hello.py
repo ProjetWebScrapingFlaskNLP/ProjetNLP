@@ -70,6 +70,7 @@ def predict_comment(comment):
     feat_comment = pipe.transform([comment])
     
     predict = "Négatif"
+    
     if clf.predict(feat_comment):
         predict = "Positif"
         
