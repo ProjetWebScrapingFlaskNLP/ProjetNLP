@@ -5,6 +5,10 @@ from sklearn.feature_extraction.text import TfidfTransformer, CountVectorizer
 from sklearn.pipeline import make_pipeline
 import pandas as pd
 import numpy as np
+import os
+
+
+port = int(os.environ.get('PORT', 5000))
 
 app = Flask(__name__)
 
@@ -70,7 +74,7 @@ def predict_comment(comment):
     feat_comment = pipe.transform([comment])
     
     predict = "Négatif"
-    
+
     if clf.predict(feat_comment):
         predict = "Positif"
         
@@ -79,4 +83,4 @@ def predict_comment(comment):
     return predict
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(host='0.0.0.0', port=port, debug=True)
