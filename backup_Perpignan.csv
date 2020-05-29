@@ -1,0 +1,594 @@
+nom,pays,favorite,date,titre,bons_points,mauvais_points,note,type_etablissement,lieu,note_etablissement
+Gines,Espagne,1,2019-04-26,Exceptionnel,"Très bon hôtel avec un excellent service, nous avons été très satisfaits de notre séjour. Merci!",None,10,Hôtel,Perpignan," 8,2 "
+Cyril,France,0,2020-03-14,Hotel 2**. Très bon rapport qualité/ prix,"L'accueil, la taille de la chambre, la propreté, la mise à disposition de serviettes, de savons, de gobelets...situé en plein centre ville et des stationnements gratuits dans la rue.",L'insonorisation avec le couloir et les autres chambres,"8,0",Hôtel,Perpignan," 8,2 "
+Eric,France,0,2020-03-12,Fabuleux ,"chambre bien agencée
+salle de bain propre et agréable
+petit déjeuné bien il y a tous ce qui faut 
+le double vitrage agréable pas de bruit venant de la rue",None,"9,0",Hôtel,Perpignan," 8,2 "
+Vincent,France,0,2020-02-23,Très bien,"Très bon établissement, chambre confortable, accueil sympathique. Possibilité de se garer gratuitement à proximité (ce qui n'est pas toujours simple à Perpignan).",None,"8,0",Hôtel,Perpignan," 8,2 "
+Jean,France,0,2020-01-11,Bien ,"La situation près du centre, l'amabilite du personnel.",Petit déjeuner un peu simpliste.,"7,0",Hôtel,Perpignan," 8,2 "
+Hugo,Suisse,0,2020-01-05,bien,le confort de la chambre,"les murs ne sont pas assez insonorisés, ont entend les personnes qui sont dans la chambre voisine.","8,0",Hôtel,Perpignan," 8,2 "
+Vincent,France,0,2020-01-01,"Très bon accueil, très bon emplacement, propreté impeccable. À recommander !","Accueil, emplacement, propreté, gentillesse des hôtes, les chats",None,"9,0",Hôtel,Perpignan," 8,2 "
+Raoul,France,0,2019-12-28,Satisfaits,La propreté le calme la gentillesse des gestionnaires,Le rapport qualité prix nous convient,"8,0",Hôtel,Perpignan," 8,2 "
+Sylvie,France,0,2019-12-08,Très bien,Literie impeccable. Accueil chaleureux.,Un peu plus de porte serviette ou patere.,"9,0",Hôtel,Perpignan," 8,2 "
+Karine,France,0,2019-11-15,Très bien,None,Super rapport qualité/ prix,"8,3",Hôtel,Perpignan," 8,2 "
+Michel,France,0,2019-10-13,Très bon rapport qualité prix,la propreté et la gentillesse du personnel,le bruit de la rue,"9,2",Hôtel,Perpignan," 8,2 "
+Romain,Luxembourg,0,2019-10-07,établissement sympa,"Quartier calme, le centre est accessible à pieds. La réception n'est pas toujours ouverte, mais le système d'accès à l'hôtel fonctionne très bien.",None,"8,5",Hôtel,Perpignan," 8,2 "
+Eric,France,0,2019-09-19,"Séjour calme, agtéable.","Chambre et salle de bain de taille modeste, mais bien agencées, bien équipées.
+Lit confortable.
+La clim marchait bien
+Quartier calme.",Rien,"9,2",Hôtel,Perpignan," 8,2 "
+Ann,Belgique,0,2019-09-09,"Bon hôtel, agréable. Un peu décentré. Rapport qualité/prix ok","Grande chambre, rangement disponible, propreté, petit déjeuner","Manque frigo, airco, salle de bain très petite
+On m'a présenté une facture que j'ai payé avec visa en partant. Je pensais que le paiement avait été fait lors de la réservation. Lors de la réservation, le petit déjeuner était indiqué comme inclu hors il a été ajouté à la chambre lors du paiement sur place.","8,8",Hôtel,Perpignan," 8,2 "
+Alain,France,0,2019-09-06,Correspond à mon besoin,Aucune surprise car cela fait plusieurs années que je vais dans cet hôtel à la même époque.,None,"7,1",Hôtel,Perpignan," 8,2 "
+Madelyne,France,0,2019-08-30,Bien ,"Emplacement. Place de parking gratuites autour de l’hôtel. Accueil, personne de bons conseils. Grande chambre triple. Petit déjeuner salé et sucré",None,"7,9",Hôtel,Perpignan," 8,2 "
+Lise,France,0,2019-08-29,Fabuleux ,Accueil agréable et bons conseils,None,"9,2",Hôtel,Perpignan," 8,2 "
+Laurent,France,0,2019-08-29,Très bien,Hôtelier très sympathique. Bien situé et confortable,None,"8,3",Hôtel,Perpignan," 8,2 "
+Nathalie,France,0,2019-08-24,Bien ,Chambre propre et confortable refait avec goût le patron ainsi que ses parents très gentil et agréable,None,"7,9",Hôtel,Perpignan," 8,2 "
+Meloney,Royaume-Uni,0,2019-08-24,C'était juste ce qu'il fallait.,Ils nous ont satisfait nos demandes. Ils étaient aimable et prêts à aider. On pouvait garer la voiture gratuitement devant l'hôtel et on pouvait facilement marcher en ville. La connexion d'Internet était bien.,Le bain est trop petit et la salle de bain aussi.,"8,3",Hôtel,Perpignan," 8,2 "
+Stephane,France,0,2019-08-21,A l'année prochaine...,"Une équipe au petit soin, tout le monde très très agréable voir plus qu'agréable du personnel d'entretien au manager (et ses parents qui étaient présents lors de notre venue, adorables)
+Un petit hôtel qui à répondu à ce que l'on voulait.
+Nous reviendrons...",Peut être un mini frigo dans la chambre.,"9,6",Hôtel,Perpignan," 8,2 "
+Valérie,France,0,2019-08-08,Exceptionnel,"L'accueil très sympathique.
+La proximité du centre ville",None,"9,6",Hôtel,Perpignan," 8,2 "
+Isabelle,France,0,2019-08-01,Très bon rapport qualité prix chambre digne d'un 3 etoiles,Gamme de produits satisfaisante salle agréable amplitude horaire bonne,None,"9,2",Hôtel,Perpignan," 8,2 "
+Anne-laure,France,0,2019-07-31,Bien ,"Les chambres refaites sont très agréables!
+Le patron très accueillant!",Un peu bruyant,"7,5",Hôtel,Perpignan," 8,2 "
+Cyrille,France,0,2019-07-28,Très bien !!,"Hôtel très agréable bien situé avec un accueil et une écoute parfaite. 
+Le confort est au rendez vous, climatisation et TV.
+La situation géographique dans Perpignan est idéale.
+Rapport qualité / prix très bon !","Un peu difficile pour garer sa voiture aux alentours mais en cherchant bien, on trouve.","8,3",Hôtel,Perpignan," 8,2 "
+Manuella,Belgique,0,2019-07-27,Bien ,None,En placement pour la voiture mal positionné travaux ils faudrait un parking,"7,5",Hôtel,Perpignan," 8,2 "
+Chantal,France,0,2019-07-25,très bon séjour,proche du centre-ville. pas de difficulté pour trouver une place de parking à proximité . Personnel accueillant et très disponible.,None,"9,2",Hôtel,Perpignan," 8,2 "
+Mohammed,France,0,2019-07-15,Très bien,Les chambres grandes et propre,Pas de parking privé,"9,6",Hôtel,Perpignan," 8,2 "
+Patrick,France,0,2019-07-13,Nuitée à Perpignan,La situation géographique,Ras,"9,6",Hôtel,Perpignan," 8,2 "
+Antonio,Belgique,0,2019-07-03,Très bien,Situation et l'accueil.,None,"8,3",Hôtel,Perpignan," 8,2 "
+Nicosyl,France,0,2019-06-22,Fabuleux ,La propreté le confort l'acceuil sympa,Les travaux (mais c'est normal et ce n'est pas un vrai reproche ☺),"9,2",Hôtel,Perpignan," 8,2 "
+Jean-gabriel,France,0,2019-06-18,Parfait pour un court séjour,"Un hôtel très bien situé, à 15mn à pied maximum de la gare et de tous les principaux sites de Perpignan. L'essentiel est à disposition. Un petit déjeuner suffisant","Une connexion wifi pas parfaite. L'hôtel était en phase de ravalement. Mais, c'est provisoire.","7,5",Hôtel,Perpignan," 8,2 "
+Christine,France,0,2019-06-02,bon séjour,accueil chaleureux bien situé bonne chambre,le bruit des chambres à côté,"9,6",Hôtel,Perpignan," 8,2 "
+Natacha,France,0,2019-05-19,Superbe,Hôtel bien situé dans une rue calme proche du Palais de Marjoque et du centre ville. Chambre petite mais au confort parfait.,"Petit déjeuner mériterait un petit plus (pain frais, choix de thé)","8,8",Hôtel,Perpignan," 8,2 "
+Cyril,France,0,2019-05-16,Bien ,Très bon rapport Qualité/prix,RAS,"7,9",Hôtel,Perpignan," 8,2 "
+Michel,France,0,2019-05-11,un bon séjour qui nous a permis de vsisiter les principales curiosités de Perpignan,Petit déjeuner très correct.,Rien,"9,2",Hôtel,Perpignan," 8,2 "
+Olivia,France,0,2019-05-07,Bien pour y passer une nuit,L'établissement est très propre et les chambres jolies,"L’établissement est un peu impersonnel est froid, le petit déjeuner pauvre.","8,3",Hôtel,Perpignan," 8,2 "
+Pascal,France,0,2019-05-06,Superbe,Literie confortable et petit déjeuner,Bruyant,"8,8",Hôtel,Perpignan," 8,2 "
+Pascal,France,0,2019-05-03,Hôtel deux étoiles qui met tout en oeuvre pour tenir et améliorer son classement,"L'accueil a été très cordiale. Tout a été fait pour nous faciliter l’accès à l'hôtel malgré une arrivée très tardive.
+La chambre avait été rénovée et le lit avait un matelas d’excellente qualité ( que je n'ai pas toujours trouvé dans les nombreux hôtels que j'ai eu l'occasion de pratiquer).",None,"9,6",Hôtel,Perpignan," 8,2 "
+Gaelle,France,0,2019-04-29,Mais très bon accueil et qualité,"La literie
+L’accueil
+La deco
+La vue 
+Excellent","Petit dej manque vraiment d’originalité 
+Trop peu à manger
+Pas de salé même jambon ou fromage 
+Manque une machine à café et distributeur car la réception ferme tôt","8,3",Hôtel,Perpignan," 8,2 "
+Estelle,France,0,2019-04-29,Superbe,None,les bruits de conversations dans les couloirs jusque fort tard,"8,8",Hôtel,Perpignan," 8,2 "
+Laurent,France,0,2019-04-25,Exceptionnel,Bon accueil et literie confortable tout s'est bien passé.,None,"9,6",Hôtel,Perpignan," 8,2 "
+Marie,France,0,2019-04-23,Très bien,None,Un peu bruyant,"8,3",Hôtel,Perpignan," 8,2 "
+Thierry,France,0,2019-04-10,Bien ,"Accueil chaleureux, chambre propre",None,"7,9",Hôtel,Perpignan," 8,2 "
+Océane,France,0,2019-01-02,Hyper sympa !,Le côté assez ancien est superbe! L'accueil est chaleureux et les chambres qui sont donnés sont très grandes pour un prix extrêmement correct.,il n'y a rien qu'on ne peut pas apprécier dans cet hôtel.,"9,6",Hôtel,Perpignan," 8,2 "
+Nicolas,France,0,2018-12-31,Exceptionnel,"Personnel très sympathique, propre, calme, belle chambres, bon rapport qualité prix",None,"9,6",Hôtel,Perpignan," 8,2 "
+Hélène,France,0,2018-12-01,Tres bien dormi dans cet hôtel,Hôtel au design moderne et très propre,None,"9,0",Hôtel,Perpignan," 8,2 "
+Sandrine,France,0,2018-11-26,Bien ,La modernité des chambres et la propreté,Chambre mal insonorisée on entend les chambres d’à côté et les gens dans le couloir,"7,9",Hôtel,Perpignan," 8,2 "
+Marion,France,0,2018-11-23,Très bien,"très bonne literie et propre, chambre agréable et spacieuse, bon accueil,","le manque de propreté des sanitaires, le bruit de la porte de l'ascenseur ( pas très agréable la nuit), le bruit de la rue et du fait de sa taille ou du nombre de fenêtres, difficile de chauffer la chambre","8,3",Hôtel,Perpignan," 8,2 "
+Christine,France,0,2018-11-20,Correct,None,L'aménagement de la salle de bain,"7,1",Hôtel,Perpignan," 8,2 "
+Bernadette,France,0,2018-10-26,le catalan chante en parlant,"pour l'hotel ARAGON, j'ai apprécié l'accueil du Patron, son sourire, sa gentillesse, son professionnalisme. L'hôtel est des plus corrects, la literie est très bonne, la propreté nette, le linge de toilette suffisant et propre, la bouilloire dans la chambre... au top",//,"9,6",Hôtel,Perpignan," 8,2 "
+Philippe,France,0,2018-10-25,Superbe,L'accueil et la situation de l'hôtel,None,"8,8",Hôtel,Perpignan," 8,2 "
+Jean-claude,France,0,2018-10-11,excellent,"Un accueil très chaleureux, un emplacement idéal que dire de plus ? Hotel que nous recommandons vivement et pour notre part nous y reviendrons",rien,"9,6",Hôtel,Perpignan," 8,2 "
+Nathalie,France,0,2018-10-02,trés satisfaits nous reviendrons,"la literie était de très bonne qualité ,le petit déjeuner très bien et le responsable du lieu très sympathique nous étions très satisfaits et nous reviendrons séjourner dans cet hôtel avec plaisir",il n'y avait aucune patère ou barre pour accrocher vêtements ou serviette dans la salle d'eau .Les interrupteurs des lampes au dessus du lit étaient un peu trop éloignés du lit et pour éteindre ou allumer il fallait faire attention pour ne pas tomber du lit,"8,8",Hôtel,Perpignan," 8,2 "
+Pierre,France,0,2018-09-17,Hotel agréable et bien situé.,Accueil très cordial. petit déjeuner très correct. Bon croissants. Belle vue sur le Canigou.,Isolation phonique en cas de voisins bruyants.,"9,5",Hôtel,Perpignan," 8,2 "
+Philippe,France,0,2018-09-17,Exceptionnel,"Accueil chaleureux, gentillesse et services",None,"9,6",Hôtel,Perpignan," 8,2 "
+Laurence,France,0,2018-09-15,Hôtel bien placé bon rapport qualité/prix,Besoin de moderniser les chambres sinon hôtel très correct,Hôtel vieillot,"7,1",Hôtel,Perpignan," 8,2 "
+Monique,France,0,2018-09-13,Parfaitement localisé pour parcourir le festival Visa pour l'image et le centre de Perpignan.,"Chambre parfaite, lit confortable, pas de bruit de rue, climatisation efficace et salle de bain très bien équipée. Wi-fi excellent.","Oreillers trop mous à mon goût, mais c'est personnel...","9,6",Hôtel,Perpignan," 8,2 "
+Simone,France,0,2018-09-12,Excellent séjour,"L'accueil formidable !
+La possibilité de se garer gratuitement
+La proximité du centre à pieds",les espaces de rangement un peu réduits pour trois personnes,"8,8",Hôtel,Perpignan," 8,2 "
+Karine,France,0,2018-09-11,"Très bon rapport qualité prix ,pratique pour visiter Perpignan","Très bien situé à deux pas de la vieille ville 
+Bon accueil 
+Chambres climatisées",Pas d emplacement parking,"7,9",Hôtel,Perpignan," 8,2 "
+Michel,France,0,2018-09-09,"Le petit dej, le personnel, le rapport qualité/prix!","Le petit déjeuner était bon, le personnel agréable, le rapport qualité/prix correcte, la chambre climatisé en plein mois d'aout fut apprécié bien que je n'aime pas utiliser ces appareils.","Le bruit de route ne permettait pas d'ouvrir la fenêtre, mais heureusement la chambre disposait d'une climatisation!","8,3",Hôtel,Perpignan," 8,2 "
+Marianne,France,0,2018-09-08,Bien ,None,Insonorité des chambres,"7,9",Hôtel,Perpignan," 8,2 "
+Jean,France,0,2018-09-03,Très bien,Accueil très sympathique,None,"9,6",Hôtel,Perpignan," 8,2 "
+Laetitia,France,0,2018-08-23,Superbe,"Personnel au top, accueil très chaleureux !
+Chambre sobre, mais propre, avec vue sur les Pyrénées.",None,"8,8",Hôtel,Perpignan," 8,2 "
+Veronique,France,0,2018-08-22,Halte sur le retour des vacances à Perpignan,L'accueil la propreté et la localisation,Pas très design mais bon rapport qualité prix,"7,1",Hôtel,Perpignan," 8,2 "
+Chrisall,France,0,2018-08-19,Exceptionnel,"Les croissants chauds, le personnel fort accueillant et agréable.",None,"9,6",Hôtel,Perpignan," 8,2 "
+Maryannick,France,0,2018-08-18,Bien ,L’accueil,La porte des sanitaires qui ne permettait aucune intimité,"7,1",Hôtel,Perpignan," 8,2 "
+Sahna,France,0,2018-08-13,Tout était parfait,Tout était parfait,Rien du tout,"9,6",Hôtel,Perpignan," 8,2 "
+Anne,France,0,2018-08-13,Très bien,"Chambre simple et propre
+Accueil très sympathique",Signal Wifi faible,"8,3",Hôtel,Perpignan," 8,2 "
+Melina,Grèce,0,2018-08-08,Très bien passé.,Personnel très sympa ! Joli chambre avec balcon.,None,"9,2",Hôtel,Perpignan," 8,2 "
+Angelique,France,0,2018-08-02,relativement bien,accueil chaleureux et sympathique toujours prêts à vous renseigner,"chambre et salle de bain qui aurait besoin d un rafraîchissement,surtout la porte accordéon de la salle de bain ( très bruyante)","7,9",Hôtel,Perpignan," 8,2 "
+Amelie,France,0,2018-07-27,Exceptionnel,Tout,Ras,"9,6",Hôtel,Perpignan," 8,2 "
+Abdelmalek,France,0,2018-07-22,Superbe,Contact,Très bon accueil .personnel agréable ..petit déjeuner complet...a recommander,"8,8",Hôtel,Perpignan," 8,2 "
+Frederic,France,0,2018-07-17,Superbe étape sur la route des vacances.,"Superbe literie neuve. Nous avions deux chambres fraichement rénovées avec goût. Hotel idéalement situé pour visiter Perpignan ou faire étape avant l'Espagne.
+Accueil très chaleureux et service parfait. On y passe chaque année avec plaisir.",Un peu se salé au petit dej même s'il faut payer un peu plus.,"9,6",Hôtel,Perpignan," 8,2 "
+Louise,France,0,2018-07-10,"chambre très agréable, je recommande","La chambre était propre et grande, avec bouilloire, télé (dommage pas la 2, 3, 5, ô et Arte, mais j'ai trouvé de quoi faire) ; la salle de bain, la literie et clim étaient super bien, je recommande cet hôtel, je n'y ai pas pris de petit déjeuner",None,"8,3",Hôtel,Perpignan," 8,2 "
+Catherine,France,0,2018-06-26,Bon confort et pratique car à proximité du centre historique de Perpignan - Accueil sympathique,"Décoration de la chambre même si un peu petite (bémol pour allumer de l'extérieur la salle d'eau)
+Petit déjeuner très correct
+Bon rapport qualité / prix",None,"9,6",Hôtel,Perpignan," 8,2 "
+Daniele,France,0,2018-06-21,Très bon séjour,Tout le petit déjeuner était bien j’aurai préféré un grand bol pour mon thé à la place d’une tasse,l’abscence de parking,"7,9",Hôtel,Perpignan," 8,2 "
+Antoine,France,0,2018-06-11,Fabuleux ,"L'accueil est excellent, très avenant, parfait.","Il manque de quoi écrire, une petite table, une chaise adaptée... 
+Le quartier est un peu triste...","9,2",Hôtel,Perpignan," 8,2 "
+Christophe,France,0,2018-06-01,Excellent rapport qualité/prix. Je recommande cette adresse.,"Chambre relativement spacieuse, lumineuse et propre avec un effort de déco qu'on ne retrouve pas dans tous les hôtels. Literie de qualité. Et la douche spacieuse...un vrai bonheur !
+Personnel très accueillant et très professionnel. 
+Sans être pléthorique, le petit dèj est très correct avec de bons produits.",Une odeur pas très agréable dans les escaliers gâche un peu l'odeur des croissants...dommage (mais pas de mauvaise odeur dans la chambre).,"9,2",Hôtel,Perpignan," 8,2 "
+Fabien,France,0,2020-03-01,Déplacement Perpignan,"Accueil sympathique
+Établissement propre et bien situé 
+Je recommande",None,10,Hôtel,Perpignan," 8,2 "
+Philippe,France,0,2020-02-23,"séjour agréable, en centre ville de perpignan","petit déjeuner pas terrible rapport qualité prix, mauvaise insonorisation avec les chambres voisines, pour le reste ça a été",le bruit qu'on peut entendre dans les chambres à coté,"6,0",Hôtel,Perpignan," 8,2 "
+Mohamed,France,0,2020-01-19,Bon ,Les lits,"L'accueil, la chambre il y avait qu'un seul prise pour charger nos téléphone, les serviettes usé.","5,8",Hôtel,Perpignan," 8,2 "
+Josselin,France,0,2019-11-01,Exceptionnel,"Bonne literie , calme et propre",None,10,Hôtel,Perpignan," 8,2 "
+Romain,France,0,2019-10-11,Exceptionnel,Tout,Rien,10,Hôtel,Perpignan," 8,2 "
+François,France,0,2019-09-22,Exceptionnel,La proximité de la vieille ville.,None,10,Hôtel,Perpignan," 8,2 "
+Turquato,Italie,0,2019-09-09,Passable,Personnel d'accueil très cordial et serviable,"L’exiguïté de la chambre ( pas de place pour une table de nuit) . Idem pour la salle de bains ( aucune tablette pour poser une trousse de toilette) lavabo minuscule.
+Le rapport qualité /prix : bien trop cher pour cette chambre","5,0",Hôtel,Perpignan," 8,2 "
+Agnes,Ouzbékistan,0,2019-09-01,Exceptionnel,Le confort l accueil,None,10,Hôtel,Perpignan," 8,2 "
+Eric,France,0,2019-08-27,Bon ,"Déjeuner très moyen , personnel pas très avenant , hôtel vieillot, une nuit ça suffit ( étape)",None,"5,8",Hôtel,Perpignan," 8,2 "
+Ali,France,0,2019-08-23,Parfait,"Il n'y a rien à rajouter.
+Le séjour a été parfait de l'arrivée au départ.",None,10,Hôtel,Perpignan," 8,2 "
+Annie,France,0,2019-08-13,Exceptionnel,le personnel est très bien très agréable,très bien situé,10,Hôtel,Perpignan," 8,2 "
+Kariel,Belgique,0,2019-07-17,Assez médiocre ,Salle de bain propre avec baignoir.,Hôtel en travaux! Il y avait une forte odeur de peinture dans la chambre. Pas de parking comme annoncé dans l'offre de booking:/.,"3,8",Hôtel,Perpignan," 8,2 "
+Josee,Belgique,0,2019-07-14,Agréable,Petit déjeuner en ordre.,Pas de parking ! Pas facile de trouver une place pour se garer,"6,7",Hôtel,Perpignan," 8,2 "
+Alexandre,France,0,2019-07-10,Agréable,None,Les odeurs de peinture pendant la période de travaux.,"6,7",Hôtel,Perpignan," 8,2 "
+Jac,France,0,2019-07-09,"Très agréable, bien insonorisé, calme et fonctionnel. Chambre assez grande literie excellente.",Tout est très bien et irréprochable. Petit déjeuner un peu cher au vu de sa simplicité.,Un peu plus de choix au petit déjeuner.,10,Hôtel,Perpignan," 8,2 "
+Gilles,France,0,2019-05-17,Moyen,Bien situé,Bruyant - mal insonorisé,"6,7",Hôtel,Perpignan," 8,2 "
+Farida,France,0,2019-05-15,Exceptionnel,j ai passé une seule nuit mais hotel et personnel très agréable,None,10,Hôtel,Perpignan," 8,2 "
+Jonathan,France,0,2019-03-18,Je reviendrai,"Tout, la cafetière dans la chambre, la propreté du linge et des lieux, la gentillesse de l’accueil. 
+Merci",Rien,10,Hôtel,Perpignan," 8,2 "
+Dominique,France,0,2019-02-11,Exceptionnel,Superbe,None,10,Hôtel,Perpignan," 8,2 "
+Anne,France,1,2018-12-28,Un séjour confortable dans un secteur calme et néanmoins porche du centre-ville.,"L'accueil chaleureux, la belle vue sur le Canigou de la fenêtre de la chambre, la chambre bien exposé et très fonctionnelle.",None,10,Hôtel,Perpignan," 8,2 "
+Denis,France,0,2018-11-13,excellent sejour,"excellent petit dejeuner ,personnel agreable",le stationnement,10,Hôtel,Perpignan," 8,2 "
+Georgia,France,0,2018-10-31,Au top !,"Nous sommes resté une nuit dans cet hôtel et tout s'est bien passé. Un super accueil, personnel agréable, hôtel propre et bonne literie. Mise à disposition un lit bébé ! Petit déjeuner bien complet. Bon rapport qualité prix. A ne pas louper, le café saint Martin a 2 pas de l hôtel.. On y mange extrêmement bien !",Rien,10,Hôtel,Perpignan," 8,2 "
+Hervé,France,0,2018-09-30,Hôtel impeccable et très bien située. Stationnement gratuit dans la rue. À recommander.,La literie.,None,10,Hôtel,Perpignan," 8,2 "
+Pascale,France,0,2018-09-22,Exceptionnel,"calme, très bien rénové,sobre, literie très confortable salle de bains parfaite . Pas de chichi on se sent chez soi
+Très bon petit déjeuner
+Très proche du centre ville
+J’y serais bien restée!!",rien,10,Hôtel,Perpignan," 8,2 "
+Fiona,France,0,2018-09-18,bien situé,"bon accueil, m'a donné un plan de la ville",RAS,10,Hôtel,Perpignan," 8,2 "
+Claude,France,0,2018-09-01,Agréable,Accueil chaleureux.,None,"6,7",Hôtel,Perpignan," 8,2 "
+Emile,France,0,2018-08-31,A recommander,La gentillesse et l'amabilité,None,10,Hôtel,Perpignan," 8,2 "
+Cathy,France,0,2018-08-21,Orrible,"Le lit était confortable, l'emplacement.","La chambre était vieille et il i avait des mauvaises odeurs, nos filles se sont refusée de se doucher dans leur salle de bain ... les photos ne ressemblent pas du tout à celle qui sont publie par booking, .....trop cher.","5,8",Hôtel,Perpignan," 8,2 "
+Christophe,France,0,2018-08-20,Agréable,"Literie confortable
+Chambre correcte pour une escale d'une nuit",Salle de bain d'un autre temps à rafraîchir d'urgence.,"6,7",Hôtel,Perpignan," 8,2 "
+Mouny,France,0,2018-08-20,Agréable,Emplacement avec vue sur le Canigou. Balcon dans la chambre,Chambres un peu obsolètes. Petit déjeuner sans pain frais,"6,7",Hôtel,Perpignan," 8,2 "
+Pereira,France,0,2018-08-13,Bon ,Literie confortable. Propreté.,Salle de bain d'un autre âge. Voisins de chambre très bruyants. mégots sur le balcon. 1 seule prise électrique dans la chambre.,"5,8",Hôtel,Perpignan," 8,2 "
+Thierry,France,0,2018-08-07,Agréable,L'accueil exceptionnel et la propreté.,L'exiguité de la chambre.,"6,7",Hôtel,Perpignan," 8,2 "
+Isabelle,France,0,2018-08-04,Bon ,pas grand chose pour le prix qui etais demandé,salle de bains bruit de la clim bruit exterieure le soir du mal a dormir,"5,8",Hôtel,Perpignan," 8,2 "
+Nadia,France,0,2018-07-23,Juste parfait !!,"L'accueil très chaleureux, sympathique. Que du +++++",Rien tout était parfait !!,10,Hôtel,Perpignan," 8,2 "
+Raoul,France,0,2018-07-22,C'est parfait,"Les literies sont propres, l'environnement de la chambre est très propre et agréable.
+Salle de bain est petite avec porte pliante (petit bémol )mais très propre.",Il n'y a pas de parking.,10,Hôtel,Perpignan," 8,2 "
+Fromgva,France,0,2018-07-08,Passable,Accueil et personnel agreable,None,"5,4",Hôtel,Perpignan," 8,2 "
+Franck,France,0,2018-06-25,très bon séjour,Tout était frais et produits de qualité,Rien,10,Hôtel,Perpignan," 8,2 "
+Renard,France,0,2018-06-10,Exceptionnel,Chambre et salle de bains refaites,Il manque une pendule dans la chambre,10,Hôtel,Perpignan," 8,2 "
+Denis,France,0,2018-06-04,La situation de l'hôtel.,"Hôtel parfaitement situé et très bien équipé, personnel au top !",Rien tout était parfait !,10,Hôtel,Perpignan," 8,2 "
+Anonyme,France,0,2019-09-17,Exceptionnel,L'accueil et les informations données à l'arrivée.,None,"9,6",Hôtel,Perpignan," 8,2 "
+Anonyme,France,0,2019-09-05,Bien ,Le personnel super sympa.,La climatisation ne fonctionnait pas.,"7,5",Hôtel,Perpignan," 8,2 "
+Anonyme,Belgique,0,2019-08-03,Fabuleux ,Très convivial personnel charmant et accueillant,None,"9,2",Hôtel,Perpignan," 8,2 "
+Anonyme,France,0,2018-09-15,Agréable séjour confortable,.propre bien situé parking proche et pas cher pour la nuit accueil très gentil,Rien,"9,6",Hôtel,Perpignan," 8,2 "
+Anonyme,France,0,2018-07-31,Bien ,"Accueil et personnel tres sympathique 
+Clim dans la chambre 
+Bonne literie","Juste une prise électrique dans une chambre de 4 personnes 
+Certaines lumières ne fonctionner pas","7,1",Hôtel,Perpignan," 8,2 "
+Anonyme,France,0,2020-01-15,Exceptionnel,L accueil ..la chambre .. le petit déjeuner,None,10,Hôtel,Perpignan," 8,2 "
+Anonyme,Guadeloupe,0,2019-10-27,moyen,None,araignées dans la chambre et tous piqués pendant la nuit,"6,2",Hôtel,Perpignan," 8,2 "
+Anonyme,France,0,2019-08-29,Agréable,Accueil sympa. Un chat du Bengale vous attend sur le canapé. Un petit déjeuner sans prétention mais efficace.,None,"6,7",Hôtel,Perpignan," 8,2 "
+Anonyme,France,0,2019-08-29,Bon ,None,Prestation chambre en dessous de l attente cf photos sur le site,"5,8",Hôtel,Perpignan," 8,2 "
+Anonyme,France,0,2019-04-16,Exceptionnel,"Propreté 
+Gentillesse du patron",Légèrement bruillant,10,Hôtel,Perpignan," 8,2 "
+Anonyme,France,0,2019-02-05,Exceptionnel,"La propreté, 
+Le confort
+L'accueil 
+Le petit déjeuner 
+Le prix",None,10,Hôtel,Perpignan," 8,2 "
+Anonyme,Belgique,0,2018-07-31,Passable,None,La chambre etait tres vétuste idem pour la salle de bain avec de vueux carrelages des annees 70 et trous joins manquants. Airco bruyant.,"5,4",Hôtel,Perpignan," 8,2 "
+Anonyme,Canada,0,2018-07-20,Juste correct pour un dodo.,Le personnel est sympathique et très à l’écoute.,La climatisation est médiocre. Il n’y a aucun stationnement. Il y avait une odeur de cigarette dans la chambre.,"6,2",Hôtel,Perpignan," 8,2 "
+Tony,France,0,2020-01-31,Bien ,Ce client n'a pas laissé de commentaire.,None,"7,0",Hôtel,Perpignan," 8,2 "
+Walperswyler,France,0,2019-11-08,Très bien,Ce client n'a pas laissé de commentaire.,None,"8,0",Hôtel,Perpignan," 8,2 "
+Bruno,France,0,2019-09-28,Bien ,Ce client n'a pas laissé de commentaire.,None,"7,0",Hôtel,Perpignan," 8,2 "
+Francis,France,0,2019-09-28,Bien ,Ce client n'a pas laissé de commentaire.,None,"7,5",Hôtel,Perpignan," 8,2 "
+Karine,France,0,2019-09-09,Très bien,Ce client n'a pas laissé de commentaire.,None,"8,3",Hôtel,Perpignan," 8,2 "
+Marie,Costa Rica,0,2019-09-07,Fabuleux ,Ce client n'a pas laissé de commentaire.,None,"9,2",Hôtel,Perpignan," 8,2 "
+Jean,France,0,2019-09-02,Très bien,Ce client n'a pas laissé de commentaire.,None,"8,3",Hôtel,Perpignan," 8,2 "
+Alain,France,0,2019-08-26,Bien ,Ce client n'a pas laissé de commentaire.,None,"7,9",Hôtel,Perpignan," 8,2 "
+Omar,France,0,2019-08-25,Très bien,Ce client n'a pas laissé de commentaire.,None,"8,3",Hôtel,Perpignan," 8,2 "
+Olivier,France,0,2019-08-22,Parfait,Ce client n'a pas laissé de commentaire.,None,"9,6",Hôtel,Perpignan," 8,2 "
+Ott,France,0,2019-08-16,Exceptionnel,Ce client n'a pas laissé de commentaire.,None,"9,6",Hôtel,Perpignan," 8,2 "
+Remy,France,0,2019-08-16,Superbe,Ce client n'a pas laissé de commentaire.,None,"8,8",Hôtel,Perpignan," 8,2 "
+Juju,France,0,2019-08-16,Superbe,Ce client n'a pas laissé de commentaire.,None,"8,8",Hôtel,Perpignan," 8,2 "
+Dechoz,France,0,2019-08-12,Bien ,Ce client n'a pas laissé de commentaire.,None,"7,5",Hôtel,Perpignan," 8,2 "
+Julien,France,0,2019-08-11,Très bien,Ce client n'a pas laissé de commentaire.,None,"8,3",Hôtel,Perpignan," 8,2 "
+Jean-baptiste,France,0,2019-08-06,Exceptionnel,Ce client n'a pas laissé de commentaire.,None,"9,6",Hôtel,Perpignan," 8,2 "
+Franck,France,0,2019-07-24,RAS - Conforme aux attentes,Ce client n'a pas laissé de commentaire.,None,"7,5",Hôtel,Perpignan," 8,2 "
+Corinne,France,0,2019-07-19,Fabuleux ,Ce client n'a pas laissé de commentaire.,None,"9,2",Hôtel,Perpignan," 8,2 "
+Veronique,France,0,2019-07-17,Superbe,Ce client n'a pas laissé de commentaire.,None,"8,8",Hôtel,Perpignan," 8,2 "
+Sebastien,Belgique,0,2019-07-04,Bien ,Ce client n'a pas laissé de commentaire.,None,"7,5",Hôtel,Perpignan," 8,2 "
+Remy,France,0,2019-07-01,Exceptionnel,Ce client n'a pas laissé de commentaire.,None,"9,6",Hôtel,Perpignan," 8,2 "
+Sebastien,France,0,2019-05-23,Bien ,Ce client n'a pas laissé de commentaire.,None,"7,9",Hôtel,Perpignan," 8,2 "
+Grandka,France,0,2019-05-17,Exceptionnel,Ce client n'a pas laissé de commentaire.,None,"9,5",Hôtel,Perpignan," 8,2 "
+Patrick,France,0,2019-05-06,Super. Accueil agreable.,Ce client n'a pas laissé de commentaire.,None,"9,2",Hôtel,Perpignan," 8,2 "
+Agnès,France,0,2019-04-29,Fabuleux ,Ce client n'a pas laissé de commentaire.,None,"9,2",Hôtel,Perpignan," 8,2 "
+Mireille,France,0,2019-03-13,Superbe,Ce client n'a pas laissé de commentaire.,None,"8,8",Hôtel,Perpignan," 8,2 "
+Eric,France,0,2019-02-14,Bien ,Ce client n'a pas laissé de commentaire.,None,"7,5",Hôtel,Perpignan," 8,2 "
+Francoise,Nouvelle-Calédonie,0,2019-01-23,Bien ,Ce client n'a pas laissé de commentaire.,None,"7,5",Hôtel,Perpignan," 8,2 "
+Emmanuel,France,0,2018-12-07,Exceptionnel,Ce client n'a pas laissé de commentaire.,None,"9,6",Hôtel,Perpignan," 8,2 "
+Emmanuel,France,0,2018-11-10,Exceptionnel,Ce client n'a pas laissé de commentaire.,None,"9,6",Hôtel,Perpignan," 8,2 "
+David,France,0,2018-11-09,Très bien,Ce client n'a pas laissé de commentaire.,None,"8,3",Hôtel,Perpignan," 8,2 "
+Patrick,France,0,2018-11-07,Bien ,Ce client n'a pas laissé de commentaire.,None,"7,5",Hôtel,Perpignan," 8,2 "
+Herve,France,0,2018-10-28,Bien ,Ce client n'a pas laissé de commentaire.,None,"7,1",Hôtel,Perpignan," 8,2 "
+Ana,France,0,2018-10-25,exellent,Ce client n'a pas laissé de commentaire.,None,"9,2",Hôtel,Perpignan," 8,2 "
+Sophie,France,0,2018-10-25,Très bien,Ce client n'a pas laissé de commentaire.,None,"8,3",Hôtel,Perpignan," 8,2 "
+Herve,France,0,2018-10-13,Fabuleux ,Ce client n'a pas laissé de commentaire.,None,"9,2",Hôtel,Perpignan," 8,2 "
+Jaen,France,0,2018-10-01,Fabuleux ,Ce client n'a pas laissé de commentaire.,None,"9,2",Hôtel,Perpignan," 8,2 "
+Marie,France,0,2018-09-17,Exceptionnel,Ce client n'a pas laissé de commentaire.,None,"9,6",Hôtel,Perpignan," 8,2 "
+Armelle,France,0,2018-09-14,Parfait pour un court séjour professionnel à Perpignan !,Ce client n'a pas laissé de commentaire.,None,"8,5",Hôtel,Perpignan," 8,2 "
+Dominique,France,0,2018-09-08,Très bien,Ce client n'a pas laissé de commentaire.,None,"8,3",Hôtel,Perpignan," 8,2 "
+Jozef,France,0,2018-09-05,Très bien,Ce client n'a pas laissé de commentaire.,None,"8,3",Hôtel,Perpignan," 8,2 "
+David,France,0,2018-08-21,Bien ,Ce client n'a pas laissé de commentaire.,None,"7,9",Hôtel,Perpignan," 8,2 "
+Michel,France,0,2018-08-18,Superbe,Ce client n'a pas laissé de commentaire.,None,"8,8",Hôtel,Perpignan," 8,2 "
+Christine,France,0,2018-08-12,Bien ,Ce client n'a pas laissé de commentaire.,None,"7,1",Hôtel,Perpignan," 8,2 "
+Isabelle,France,0,2018-08-11,Séjour en toute simplicité mais confort et accueil garantis,Ce client n'a pas laissé de commentaire.,None,"7,9",Hôtel,Perpignan," 8,2 "
+Eric,France,0,2018-07-17,Bien ,Ce client n'a pas laissé de commentaire.,None,"7,1",Hôtel,Perpignan," 8,2 "
+Freddy,France,0,2018-06-01,Bien ,Ce client n'a pas laissé de commentaire.,None,"7,1",Hôtel,Perpignan," 8,2 "
+Danielle,France,0,2020-05-29,Hôtel à découvrir et à conseiller.,Ce client n'a pas laissé de commentaire.,None,10,Hôtel,Perpignan," 8,2 "
+Daoudou,France,0,2020-02-07,Agréable,Ce client n'a pas laissé de commentaire.,None,"6,0",Hôtel,Perpignan," 8,2 "
+Vanessa,France,0,2020-02-02,"Je recommande cet hôtel, bon emplacement, accueil sympa, chambres propres et confortables.",Ce client n'a pas laissé de commentaire.,None,10,Hôtel,Perpignan," 8,2 "
+Isabelle,France,0,2019-11-29,Exceptionnel,Ce client n'a pas laissé de commentaire.,None,10,Hôtel,Perpignan," 8,2 "
+David,France,0,2019-10-18,Exceptionnel,Ce client n'a pas laissé de commentaire.,None,10,Hôtel,Perpignan," 8,2 "
+Martine,France,0,2019-09-10,Exceptionnel,Ce client n'a pas laissé de commentaire.,None,10,Hôtel,Perpignan," 8,2 "
+Adel,France,0,2019-08-21,Exceptionnel,Ce client n'a pas laissé de commentaire.,None,10,Hôtel,Perpignan," 8,2 "
+Anissa,France,0,2019-08-20,"Super hôtel, personnel très agréable et tout était parfait!",Ce client n'a pas laissé de commentaire.,None,10,Hôtel,Perpignan," 8,2 "
+Tracy,France,0,2019-08-17,Agréable,Ce client n'a pas laissé de commentaire.,None,"6,2",Hôtel,Perpignan," 8,2 "
+Caroline,France,0,2019-07-07,Exceptionnel,Ce client n'a pas laissé de commentaire.,None,10,Hôtel,Perpignan," 8,2 "
+Jean,France,0,2019-06-17,Exceptionnel,Ce client n'a pas laissé de commentaire.,None,10,Hôtel,Perpignan," 8,2 "
+Odile,France,0,2019-06-13,Exceptionnel,Ce client n'a pas laissé de commentaire.,None,10,Hôtel,Perpignan," 8,2 "
+Quentin,France,0,2019-01-16,Exceptionnel,Ce client n'a pas laissé de commentaire.,None,10,Hôtel,Perpignan," 8,2 "
+Wilfrid,France,0,2018-11-02,Assez médiocre ,Ce client n'a pas laissé de commentaire.,None,"3,3",Hôtel,Perpignan," 8,2 "
+Daniel,France,0,2018-09-23,Exceptionnel,Ce client n'a pas laissé de commentaire.,None,10,Hôtel,Perpignan," 8,2 "
+Viviane,Belgique,0,2018-09-22,Agréable,Ce client n'a pas laissé de commentaire.,None,"6,7",Hôtel,Perpignan," 8,2 "
+Marie-dolorès,France,0,2018-09-16,"Si de passage tourisme ou professionnel à Perpignan, j'essaierai de retourner dans cet établissement",Ce client n'a pas laissé de commentaire.,None,10,Hôtel,Perpignan," 8,2 "
+Frédérique,France,0,2018-09-09,Agréable,Ce client n'a pas laissé de commentaire.,None,"6,7",Hôtel,Perpignan," 8,2 "
+Ivan,France,0,2018-08-28,Exceptionnel,Ce client n'a pas laissé de commentaire.,None,10,Hôtel,Perpignan," 8,2 "
+Lionel,France,0,2018-08-26,Exceptionnel,Ce client n'a pas laissé de commentaire.,None,10,Hôtel,Perpignan," 8,2 "
+Sebastien,France,0,2018-08-18,Agréable,Ce client n'a pas laissé de commentaire.,None,"6,7",Hôtel,Perpignan," 8,2 "
+Sarah,France,0,2018-08-11,Exceptionnel,Ce client n'a pas laissé de commentaire.,None,10,Hôtel,Perpignan," 8,2 "
+Bruno,Canada,0,2018-08-01,Assez médiocre ,Ce client n'a pas laissé de commentaire.,None,"3,3",Hôtel,Perpignan," 8,2 "
+Jeremy,France,0,2018-07-17,Exceptionnel,Ce client n'a pas laissé de commentaire.,None,10,Hôtel,Perpignan," 8,2 "
+Philippe,France,0,2018-06-27,Exceptionnel,Ce client n'a pas laissé de commentaire.,None,10,Hôtel,Perpignan," 8,2 "
+Anonyme,France,0,2020-02-07,Fabuleux ,Ce client n'a pas laissé de commentaire.,None,"9,0",Hôtel,Perpignan," 8,2 "
+Anonyme,France,0,2020-01-24,Très bien,Ce client n'a pas laissé de commentaire.,None,"8,0",Hôtel,Perpignan," 8,2 "
+Anonyme,France,0,2020-01-02,Bien ,Ce client n'a pas laissé de commentaire.,None,"7,0",Hôtel,Perpignan," 8,2 "
+Anonyme,France,0,2019-11-21,Bien ,Ce client n'a pas laissé de commentaire.,None,"7,9",Hôtel,Perpignan," 8,2 "
+Anonyme,France,0,2019-08-21,Fabuleux ,Ce client n'a pas laissé de commentaire.,None,"9,2",Hôtel,Perpignan," 8,2 "
+Anonyme,France,0,2019-08-05,Bien ,Ce client n'a pas laissé de commentaire.,None,"7,1",Hôtel,Perpignan," 8,2 "
+Anonyme,France,0,2018-11-10,Bien ,Ce client n'a pas laissé de commentaire.,None,"7,5",Hôtel,Perpignan," 8,2 "
+Anonyme,France,0,2018-09-11,Bien ,Ce client n'a pas laissé de commentaire.,None,"7,1",Hôtel,Perpignan," 8,2 "
+Anonyme,France,0,2018-09-10,Bien ,Ce client n'a pas laissé de commentaire.,None,"7,1",Hôtel,Perpignan," 8,2 "
+Anonyme,France,0,2018-09-09,Superbe,Ce client n'a pas laissé de commentaire.,None,"8,8",Hôtel,Perpignan," 8,2 "
+Anonyme,Monténégro,0,2018-09-01,Bien ,Ce client n'a pas laissé de commentaire.,None,"7,1",Hôtel,Perpignan," 8,2 "
+Anonyme,France,0,2019-10-09,Exceptionnel,Ce client n'a pas laissé de commentaire.,None,10,Hôtel,Perpignan," 8,2 "
+Anonyme,Suisse,0,2018-08-05,Agréable,Ce client n'a pas laissé de commentaire.,None,"6,7",Hôtel,Perpignan," 8,2 "
+Nicolas,États-Unis,1,2019-08-10 00:00:00,Très bien,L’accueil et le petit déjeuner,None,10,Hôtel,Perpignan," 8,7 "
+Monique,France,0,2020-03-06 00:00:00,Très bien,"petit déjeuner très bien pour celui choisie, mais l'emplacement (bar) un peu moins confortable. personnels très compétent et serviable.",None,"8,0",Hôtel,Perpignan," 8,7 "
+Denis,France,0,2020-02-25 00:00:00,Fabuleux ,"Accueil alors que je suis arrivé tard dans la nuit.
+La literie est très confortable",La taille du lavabo est trop petite.,"9,0",Hôtel,Perpignan," 8,7 "
+Sandrine,France,0,2020-02-21 00:00:00,Exceptionnel,"Ce qu’il faut retenir de cet établissement, ce sont l’emplacement idéal (gare), la propreté et le confort.
+Donc l’essentiel ! A recommander vraiment👍",None,10,Hôtel,Perpignan," 8,7 "
+Patrick,France,0,2020-02-17 00:00:00,Correct sans plus,"Le lait des petits déjeuners est toujours froid ,le sèche serviette bains HS et pas d’eau froide à la douche",None,"8,0",Hôtel,Perpignan," 8,7 "
+Marine,France,0,2020-02-16 00:00:00,Exceptionnel,"Propreté et design des chambres, gentillesse du personnel!",None,"9,6",Hôtel,Perpignan," 8,7 "
+Gaëlle,France,0,2020-02-12 00:00:00,Exceptionnel,"Parfait, chambre propre et confortable. Literie parfaite. Hôtel spacieux.",None,10,Hôtel,Perpignan," 8,7 "
+Gaston,Burkina Faso,0,2020-02-10 00:00:00,Bon séjour,Le confort,J'ai tout apprécié,"8,0",Hôtel,Perpignan," 8,7 "
+Sophie,France,0,2020-02-06 00:00:00,Exceptionnel,Très bien comme à chaque fois.Rien à redire.,Rien,10,Hôtel,Perpignan," 8,7 "
+Eric,France,0,2020-01-22 00:00:00,Parfait et à refaire,"L'accueil très professionnel du personnel et aussi la très bonne tenue de cet établissement
+La chambre est spacieuse et la literie extrêmement confortable vous êtes trop important",tout était très bien et ce serait parfait avec un petit plateau de courtoisie pour prendre une infusion un café en chambre,10,Hôtel,Perpignan," 8,7 "
+Veronique,France,0,2020-01-03 00:00:00,Très bien,Dar,None,"8,0",Hôtel,Perpignan," 8,7 "
+Aly,France,0,2019-12-03 00:00:00,Très bien,None,Rien,"8,0",Hôtel,Perpignan," 8,7 "
+Muriel,France,0,2019-11-18 00:00:00,Bien dans l'ensemble,La propreté . L'espace salle de bain,Salle de bain trop froide☹,"8,0",Hôtel,Perpignan," 8,7 "
+Marie-dominique,France,0,2019-11-03 00:00:00,Très bien,"L'emplacement très facile d'accès, places de stationnement disponibles à proximité
+Bon confort
+Ouverture du petit déj jusqu'à 11h du matin le week-end
+Petit déjeuner varié et bon avec une dame très aimable pour nous accueillir",Une seule serviette dans la salle de bain alors que nous avions réservé pour deux. Il a fallu aller chercher le 2nd jeu nous même à la réception,"8,0",Hôtel,Perpignan," 8,7 "
+Jacques,France,0,2019-10-28 00:00:00,Exceptionnel,"Calme, accueil, tout bien...",Rien !,10,Hôtel,Perpignan," 8,7 "
+Catherine,France,0,2019-10-27 00:00:00,Séjour très agréable à recommander.,"La gentillesse et la disponibilité du personnel. Le calme, le confort, la propreté, l'excellent Buffet du petit déjeuner. Aucun point négatif. Je l'ai recommandé et le recommanderai sans problème.",Tout était parfait pour moi.,"9,6",Hôtel,Perpignan," 8,7 "
+Irène,France,0,2019-10-20 00:00:00,Bon rapport qualité prix,"Literie top, salle d'eau suffisante, eau bon débit, savon liquide gros flacons au mur donc écolo. Emplacement. Parking gratuit à proximité. Lumières, TV, petits déjeuners du choix, du calme.","Trop chaud, rideaux occultants cassés, donc lumières, un peu de bruit dehors et dans les couloirs.","7,5",Hôtel,Perpignan," 8,7 "
+Michel,France,0,2019-10-15 00:00:00,Exceptionnel,Excellent accueil !,None,"9,6",Hôtel,Perpignan," 8,7 "
+Sylvie,France,0,2019-10-14 00:00:00,"Je recommande, très bien, adresse à retenir.","Le thème de la chambre, la modernité, la propreté, la proximité avec la gare.
+Rien à dire, je recommande.",None,10,Hôtel,Perpignan," 8,7 "
+Thierry,France,0,2019-10-13 00:00:00,Bien,Le personnel la chambre le petit déjeuner le rapport qualité prix,Eau tiède sous la douche le matin,"9,2",Hôtel,Perpignan," 8,7 "
+Thierry,France,0,2019-10-13 00:00:00,Bien,Le personnel la chambre le petit déjeuner le rapport qualité prix,Eau tiède sous la douche le matin,"9,2",Hôtel,Perpignan," 8,7 "
+Marie,France,0,2019-10-07 00:00:00,Hôtel très bon rapport qualité prix.,"Emplacement collé à la gare, mais pas de bruit des trains.
+Notre chambre donnait coté avenue, un peu bruyante dans la nuit du samedi, peut-être pas assez isolé phonétiquement pour un hôtel neuf c'est dommage.
+belle chambre spacieuse et lumineuse, très bon rapport qualité prix.","La couette déjà mise début octobre, nous avons eu trop chaud car nous n'aimons pas utiliser la climatisation la nuit. Il aurait été bien d'avoir au moins un drap sous la couette. Impossible de dormir fenêtre ouverte en raison de l'avenue passagère.","8,0",Hôtel,Perpignan," 8,7 "
+Fabienne,France,0,2019-10-06 00:00:00,Très bien,"Dans la gare, pratique quand on arrive en train",Le quartier de la gare est vraiment moche et le chemin à pied jusque centre ville ne rend pas service à la joliesse du centre ville,"8,0",Hôtel,Perpignan," 8,7 "
+Hugo,Belgique,0,2019-10-02 00:00:00,Exceptionnel,"Sejour agreable. Tout en ordre, petit dejeuner, proprete, parking etcetera.",Rien.!!!,10,Hôtel,Perpignan," 8,7 "
+Jeremy,France,0,2019-09-30 00:00:00,Chambre,La décoration,Pas assez de papier toilette dans les chambre,"7,5",Hôtel,Perpignan," 8,7 "
+Toure,France,0,2019-09-27 00:00:00,Parfait,Tout,Rien,"9,2",Hôtel,Perpignan," 8,7 "
+Gérard,France,0,2019-09-26 00:00:00,Fonctionnel.,Le quartier de la gare ne m'a pas paru très sûr.,None,"8,8",Hôtel,Perpignan," 8,7 "
+Fabienne,France,0,2019-09-22 00:00:00,Exceptionnel,"Très bon petit-déjeuner, varié, avec fruits frais et oranges à presser.
+Lits confortables
+Personnel particulièrement accueillant",None,"9,6",Hôtel,Perpignan," 8,7 "
+Olivier,France,0,2019-09-21 00:00:00,HOTEL digne d'un 3* moderne,"Un buffet parfait avec tout ce qu'on aime trouver.
+Du salé, du sucré, des produits frais et maison, un personne à l'écoute et fort aimable.
+Bravo !","Lumière du miroir dans la salle de bain en panne…
+Le femme de chambre aurait dû le signaler car l'interrupteur est commun au plafonnier…
+Juste 2 serviettes de toilette...Un peu juste….","9,0",Hôtel,Perpignan," 8,7 "
+Anne,France,0,2019-09-19 00:00:00,bien,"le parking, le look contemporain, le silence absolu dans les chambres","j'aurais aimé que le raccourci(qui passe sous la gare qui est sur site , me soit indiqué: 
+et le mode d'emploi de la clim aussi","9,6",Hôtel,Perpignan," 8,7 "
+Nathalie,France,0,2019-09-19 00:00:00,Fabuleux ,Mon certificat de séjour au centre du monde! Très confortable et surtout très proche de mon Rv pro du lendemain,None,"9,2",Hôtel,Perpignan," 8,7 "
+Didier,France,0,2019-09-18 00:00:00,Exceptionnel,"Sa position géographique : gare, centre ville historique à moins de 10 mn à pieds.
+Son parking.
+Son architecture moderne.
+Sa. Propreté.
+La gentillesse du personnel : accueil, et salle du petit-déjeuner",None,10,Hôtel,Perpignan," 8,7 "
+Laurent,France,0,2019-09-17 00:00:00,Fabuleux ,"Hôtel très pratique car à proximité de la gare, idéal pour une arrivée tardive.",Il manque un rideau de douche !,"9,2",Hôtel,Perpignan," 8,7 "
+Jean,France,0,2019-09-17 00:00:00,Parfait,Tres bel hôtel literie confortable,None,"9,2",Hôtel,Perpignan," 8,7 "
+Bertrand,France,0,2019-09-10 00:00:00,Très bien,None,Porte fermee la nuit!,"8,0",Hôtel,Perpignan," 8,7 "
+Michany,France,0,2019-09-01 00:00:00,Un bel hôtel près de la gare,"Bel hôtel moderne situé tout près de la gare, ce qui est très pratique lorsqu'on arrive tard le soir ou lorsqu'on doit prendre un train tôt le matin. Chambre propre, bien insonorisée et bonne literie. Très bon accueil et comme il s'agissait de mon premier séjour dans cet hôtel, j'ai reçu un certificat attestant que j'avais dormi au ""Centre du Monde"" (petit clin d'oeil sympa !). A recommander.",RAS pour cette nuit d'étape,"9,2",Hôtel,Perpignan," 8,7 "
+Veronique,France,0,2019-08-31 00:00:00,Exceptionnel,L établissement en lui même super.,Les alentours la fréquentation pas rassurée si j avais été seule.,"9,6",Hôtel,Perpignan," 8,7 "
+Armelle,France,0,2019-08-31 00:00:00,Fabuleux ,"La situation, le personnel","La salle de bain, la douche est hyper glissante","9,2",Hôtel,Perpignan," 8,7 "
+Frederic,France,0,2019-08-24 00:00:00,Exceptionnel,Chambre classe,None,"9,6",Hôtel,Perpignan," 8,7 "
+Damien,France,0,2019-08-23 00:00:00,Hôtel trés agréable.,"le choix et la fraîcheur des produits du petit dej. 
+le calme des chambres. la propreté,
+l'accès facile en voiture.","le presse agrume est trop bruyant,
+un peu loin du centre historique, 
+le passage Salvador Dali fermé la nuit.","9,2",Hôtel,Perpignan," 8,7 "
+Damien,France,0,2019-08-23 00:00:00,Hôtel trés agréable.,"le choix et la fraîcheur des produits du petit dej. 
+le calme des chambres. la propreté,
+l'accès facile en voiture.","le presse agrume est trop bruyant,
+un peu loin du centre historique, 
+le passage Salvador Dali fermé la nuit.","9,2",Hôtel,Perpignan," 8,7 "
+Sophie,France,0,2019-08-21 00:00:00,Exceptionnel,Excellent,None,10,Hôtel,Perpignan," 8,7 "
+Janese,France,0,2019-08-19 00:00:00,Fabuleux ,Le confort et la localisation,La vue,"9,2",Hôtel,Perpignan," 8,7 "
+Rachel,France,0,2019-08-19 00:00:00,Exceptionnel,Mon hôtel préféré à Perpignan,Les chambres côté rue un peu bruyantes pour les oreilles sensibles,10,Hôtel,Perpignan," 8,7 "
+Lovasy,France,0,2019-08-19 00:00:00,Très bien,L'emplacement près de la gare. Nuit très calme et lit ultra confortable !,None,"9,2",Hôtel,Perpignan," 8,7 "
+Francois,France,0,2019-08-17 00:00:00,Très bien,"La qualité du petit déjeuner, avec la disponibilité du personnel, et à l'écoute pour chaque demande, ainsi que le maintien de la propreté malgré le monde.","Attribution d'une chambre à mobilité réduite pour la première nuit, alors que nous avons pris soin de réserver bien longtemps avant.
+Le lendemain nous avons déménagé pour une autre chambre......la parole de la douche trop courte, de l'eau un peu partout.","8,3",Hôtel,Perpignan," 8,7 "
+Thomas,France,0,2019-08-13 00:00:00,Exceptionnel,"Arrivé tard en train sur Perpignan, la situation géographique de l'hotel à côté de la Gare ainsi qu'une réception ouverte 24h/24 était l'idéal pour nous. Confort, propreté et calme... donc content de notre nuit dans cet établissement.",None,10,Hôtel,Perpignan," 8,7 "
+Olivier,France,0,2019-08-12 00:00:00,Bien ,"Séjour très rapide mais très agréable.
+Très bon service.",None,"7,9",Hôtel,Perpignan," 8,7 "
+Serge,France,0,2019-08-12 00:00:00,Très bien,L'accueil de bonne qualité,None,"8,3",Hôtel,Perpignan," 8,7 "
+Jerome,France,0,2019-08-10 00:00:00,Bien ,"Hôtel confortable, propre, juste à côté de la gare SNCF (pratique !) et avec une très belle vue sur les Pyrénées.","Seul motif de mécontentement: 2 nuits de parking m'ont été facturées alors que je ne l'ai utilisé qu'une seule nuit (n'ayant plus la voiture la seconde nuit), ce qui a un peu alourdi la note...","7,9",Hôtel,Perpignan," 8,7 "
+Phil,France,0,2019-08-09 00:00:00,Bien à dire,Proche centre ville,None,"9,6",Hôtel,Perpignan," 8,7 "
+Lucie,France,0,2019-08-09 00:00:00,Exceptionnel,"Très belle chambre , lit confortable , propre. Je conseil vivement ! Qualité prix excellent ! PerSonnel au top à votre service . Parking 10euros pour l hôtel accessible de l’étage de la chambre . Je suis rien à dire parfait !",None,10,Hôtel,Perpignan," 8,7 "
+Michel,France,0,2019-08-08 00:00:00,Exceptionnel,"L'accueil du personnel, la propreté de l'hôtel et l'accessibilité de l'hôtel",Tout allait bien rien ne nous a déplu !,10,Hôtel,Perpignan," 8,7 "
+Jean-michel,France,0,2019-08-06 00:00:00,Bien ,"La chambre, son confort , sa décoration.",None,"7,9",Hôtel,Perpignan," 8,7 "
+Stephane,France,0,2019-08-03 00:00:00,très bon séjour,"L'espace ,la déco ,la literie ,",rien,"9,6",Hôtel,Perpignan," 8,7 "
+Sophie,France,0,2019-08-03 00:00:00,Exceptionnel,Parfait !,None,10,Hôtel,Perpignan," 8,7 "
+Annick,France,0,2019-07-31 00:00:00,Superbe,Tout,Le décor les couleurs,"8,8",Hôtel,Perpignan," 8,7 "
+Andrea,France,0,2019-07-31 00:00:00,Je reviendrai,Le confort de la chambre,Seulement que la conection wifi n'a pas marché le premier jour,10,Hôtel,Perpignan," 8,7 "
+Jean,France,0,2019-07-26 00:00:00,Exceptionnel,Personnel aimable et très réactif. Parking en sous sol très pratique pour un prix raisonnable. Propreté irréprochable. Tarifs corrects. Situation géographique idéale pour s'extraire rapidement de la ville.,Ras,10,Hôtel,Perpignan," 8,7 "
+Valérie,France,0,2019-07-23 00:00:00,Exceptionnel,"Le personnel est très accueillant et professionnel.
+Hôtel propre, chambre et literie très confortables.
+Le petit déjeuner est copieux et varié",L'hôtel n'est pas facile d'accès surtout quand on arrive par voiture,"9,6",Hôtel,Perpignan," 8,7 "
+Carole,France,0,2019-07-22 00:00:00,Très bien,"Accueil très agréable, localisation parfaite, chambre très bien petit déjeuner excellent",La vitre de la douche,10,Hôtel,Perpignan," 8,7 "
+Pascal,France,0,2019-07-20 00:00:00,Exceptionnel,"Proximité de la gare, propreté, modernité, équipe accueillante","L’isolation sonore entre les chambres et le couloir, faible !","9,6",Hôtel,Perpignan," 8,7 "
+Columbo,France,0,2019-07-19 00:00:00,Un bon séjour,"Un excellent séjour, excellent petit déjeuner (même s'il manque des plateaux, ce qui évite de se lever) et excellent personnel.Merci",None,10,Hôtel,Perpignan," 8,7 "
+Lefabio,France,0,2019-07-16 00:00:00,Exceptionnel,"Propre et calme. L'hotel est situé dans le même bâtiment que la gare, ce qui est très pratique : pas besoin de courir pour prendre le train !",None,10,Hôtel,Perpignan," 8,7 "
+Rachel,France,0,2019-07-15 00:00:00,parfait comme d'habitude,confort literie déco personnel,rien,10,Hôtel,Perpignan," 8,7 "
+Daniel,France,0,2019-07-09 00:00:00,Excellent séjour,"Très bel hôtel, juste à la gare de Perpignan. Facile d'accès et services de qualité.",None,"9,6",Hôtel,Perpignan," 8,7 "
+Johan,France,0,2019-07-08 00:00:00,Séjour d'étape très agréable,"La proximité avec la gare, le confort, la propreté, l'accueil.",Le petit déjeuner qui se termine un peu tôt en semaine (10h).,"9,6",Hôtel,Perpignan," 8,7 "
+Samy,France,0,2019-07-06 00:00:00,Bon rapport qualité prix,"Accueil. 
+Propreté. 
+Parking.
+Petit dejeuner.","Climatisation trop forte.
+Difficile a regler.
+Couette en viscose et non en duvets naturels.
+Bruit de la rue.","7,5",Hôtel,Perpignan," 8,7 "
+Alain,France,0,2019-07-02 00:00:00,Idéal pour ne pas perdre de temps,"l'emplacement de l'hotel était idéal pour moi car déplacement rapide sur 2 jour avec location de véhicule. Du coup tout était au même endroit, à la gare de Perpignan. Mon train était à 6h30 du coup déjà sur place...","L'hotel sert d'agence de location pour la société Sixt, j'ai rendu la voiture à l’accueil de l'hotel qui est ouvert 24h/24, vers 23h, mais j'ai eu un surcoût de location...",10,Hôtel,Perpignan," 8,7 "
+Élisabeth,France,0,2019-06-30 00:00:00,"Très agréable, je serais bien resté au moins 1nuit de plus","Confort dans tout l'hôtel (chambre,salle de douche, espace fumeur,salle de petit-déjeuner )-design- déco - couleurs - petit déjeuner buffet varié- vue extérieure agréable.- accès facile et proche gare Salvador Dali",La lampe du bureau ne fonctionnait pas,"7,9",Hôtel,Perpignan," 8,7 "
+Hugo,France,0,2019-06-28 00:00:00,Exceptionnel,petit déjeuner très bien,None,10,Hôtel,Perpignan," 8,7 "
+Oceane,France,0,2019-06-25 00:00:00,"Dans l’ensemble, un très bon séjour.","La chambre était très bien, très belle. La terrasse est vraiment un plus d’autan qu’elle est ouverte tout le temps.",On nous a envoyé un code pour le parking sans nous prévenir qu’il était payant. Il n’y avait pas de porte à la douche donc il y avait beaucoup de projection d’eau par terre. Le personnel de l’entretien est entré alors que nous dormions.,"8,3",Hôtel,Perpignan," 8,7 "
+Marc,France,0,2019-06-25 00:00:00,Prestations en chute,"La déco très simpliste, un simplime qu'il ne faudrait cependant pas développer au delà","Personnel accueillant mais manquant un peu de professionalisme (manque d'information sur l'utilisation du parking par exemple). Cependant l'hôtel par lui même est en baisse au niveau des prestations, pas de verre à dents, pas de charlotte, produits hygiéniques de base... Quand au petit déjeuner, bien que copieux, il ne sort pas de l'ordinaire pour un prix élevé. Pour une facture de plus de 120 euros pour une nuit, on pourrait s'attendre à mieux.","7,5",Hôtel,Perpignan," 8,7 "
+Eliane,France,0,2019-06-24 00:00:00,une étape de passage à Perpignan,Accueil chaleureux ! confort de la literie ! insonorisation ! petit déjeuner en chambre ! la propreté !grande douche ! proche gare,None,10,Hôtel,Perpignan," 8,7 "
+Amélie,France,0,2019-06-23 00:00:00,Exceptionnel,La possibilité de se faire un jus d'orange frais ! Et aussi l'accueil souriant du personnel.,None,10,Hôtel,Perpignan," 8,7 "
+Pierre,France,0,2019-06-22 00:00:00,Exceptionnel,"Confort, calme","Très mauvaise signalisation pour une personne arrivant par le train
+Placards insuffisants","9,6",Hôtel,Perpignan," 8,7 "
+Monique,Canada,0,2019-06-22 00:00:00,Satisfait,Proximité de la gare,Ajout d'une cafetière et/ou bouilloire,"7,9",Hôtel,Perpignan," 8,7 "
+Myriam,France,0,2019-06-18 00:00:00,super,Très bon accueil et propreté irréprochable petit déjeuner parfait,Rien,10,Hôtel,Perpignan," 8,7 "
+Maryse,France,0,2019-06-09 00:00:00,c'était une simple nuit. je n'ai rien de particulier à signaler.,petit déjeuner très copieux. la salle est très accueillante ainsi que le personnel.,rien à signaler,10,Hôtel,Perpignan," 8,7 "
+Carole,France,0,2019-06-05 00:00:00,Court et agréable,"Pour une nuit, dans le cadre du travail, 
+L’accueil, les prestations ainsi que le confort et l’hygiène ont été très corrects et très satisfaisants.","Résonance, bruit dans le couloir et claquements pour fermer les portes des chambres.","7,5",Hôtel,Perpignan," 8,7 "
+Aurélie,France,0,2019-06-04 00:00:00,Fabuleux ,Le lieu est surprenant et la décoration également. Très jolie hôtel.,"Ma chambre 422, un peu petite, ou en tout ca, pas tellement d'endroit pour poser la valise si ce n'est prêt de la fenêtre et coller au lit, ou juste devant la porte d'entrée.","9,2",Hôtel,Perpignan," 8,7 "
+Michel,France,0,2019-06-03 00:00:00,je recommanderai cet établissement et y reviendrai,"petit déjeuner rapide très bien 
+accueil excellent à l'arrivée et le soir, le matin un peu moins souriant",pour moi tout était parfais,10,Hôtel,Perpignan," 8,7 "
+Celine,France,0,2019-06-03 00:00:00,Bien pour une étape,None,Il n'y avait pas de bouilloire dans la chambre contrairement à ce qu'il est indiqué dans le descriptif : peut-être préciser que c'est un équipement réservé aux chambres 4 étoiles,"9,6",Hôtel,Perpignan," 8,7 "
+Roger,France,0,2019-06-02 00:00:00,Bien,Excellent a recommander,Petit déjeuner cher,"9,6",Hôtel,Perpignan," 8,7 "
+Thierry,France,0,2019-06-02 00:00:00,Très bien,Le personnel le confort le design l’emplacement,Bruit de la climatisation insonorisation des chambres,"9,6",Hôtel,Perpignan," 8,7 "
+Patrick,France,0,2019-05-20 00:00:00,Service correct hôtel très accueillant nous reviendrons,Tout était parfait,Rien,10,Hôtel,Perpignan," 8,7 "
+Douvillé,France,0,2019-05-19 00:00:00,Exceptionnel,"Tout,le confort de la literie, propreté ,et très bien insonorisé. Conforme à la description.MERCI",None,10,Hôtel,Perpignan," 8,7 "
+Nicolas,France,0,2019-05-13 00:00:00,"Très bon séjour dans une chambre propre, confortable, belle et joliment décorée","L'emplacement plus que proche de la gare est idéal pour un départ matinal (ce fut mon cas);
+Le petit déjeuner ne débutait normalement qu'à 7h00 mais il m'a été possible de prendre une collation dès 6h30.",Rien de particulier.,10,Hôtel,Perpignan," 8,7 "
+Jean-michel,France,0,2019-05-11 00:00:00,"Hôtel calme, confortable et de qualité","Très bonne situation au coeur de la gare avec tous les moyens de transport. Hôtel moderne, très bien tenu avec des chambres spacieuses et bien équipées. Très propre. Rapport qualité /prix excellent.",L'ouverture de l'accès au restaurant pour le petit déjeuner avant 7h.,10,Hôtel,Perpignan," 8,7 "
+Genevieve,France,0,2019-05-09 00:00:00,A recommander,L acceuil,None,10,Hôtel,Perpignan," 8,7 "
+Olivier,France,0,2019-05-08 00:00:00,parfait,Tout,Rien,10,Hôtel,Perpignan," 8,7 "
+Marie,France,0,2019-05-05 00:00:00,Séjour agréable qui aurait pu être encore mieux si moins de vent,Lit très confortable chambre bien insono,Améliorer la douche en y mettant une porte fermée pour éviter de mettre de l’eau de partout,10,Hôtel,Perpignan," 8,7 "
+Annie,France,0,2019-04-29 00:00:00,Exactement ce que je souhaitais,"La situation près de la gare et le calme cependant .
+La chambre grande et confortable et le fait qu’il y ait quelqu’un à l’accueil Toute la nuit",None,10,Hôtel,Perpignan," 8,7 "
+Sonia,France,0,2019-04-29 00:00:00,Bon séjour,Très bonne literie,Le calme et l’espace,"9,2",Hôtel,Perpignan," 8,7 "
+Ingrid,France,0,2019-04-23 00:00:00,Très bien,"Le confort de la chambre.
+L'accueil et la gentillesse de l'hôtesse",Le prix du petit déjeuner est un peu élevé par rapport au choix proposé,"8,3",Hôtel,Perpignan," 8,7 "
+Coralie,France,0,2019-04-22 00:00:00,Parfait!,"Tout était parfait. L’hotel, le personnel, l’accueil. Je découvre cette chaîne de la meilleure façon qu’il soit.",None,"9,6",Hôtel,Perpignan," 8,7 "
+Rachel,France,0,2019-04-15 00:00:00,"Joli hôtel bien entretenu, services excellents, personnel au top","Mon hôtel préféré à Perpignan, personnel au top",None,10,Hôtel,Perpignan," 8,7 "
+Christian,France,0,2019-04-14 00:00:00,Exceptionnel,"Le calme, la chambre très confortable et surtout le super matelas !",None,10,Hôtel,Perpignan," 8,7 "
+Marie,France,0,2019-04-12 00:00:00,Exceptionnel,"Tout,
+Hôtel silencieux
+Literie impeccable.",None,10,Hôtel,Perpignan," 8,7 "
+Emilie,France,0,2019-04-05 00:00:00,Bien ,"Bonne literie, chambre agréable",Pas assez de pression à la douche,"7,5",Hôtel,Perpignan," 8,7 "
+Didier,France,0,2019-04-03 00:00:00,Bon rapport Q/P,Chambre assez agréable et plutôt bien insonorisée,Longueur de lit trop courte,"7,5",Hôtel,Perpignan," 8,7 "
+François,France,0,2019-04-01 00:00:00,Exceptionnel,None,"La salle de bain bien que spacieuse manquait d’équipements pour poser les affaires de toilette et accrocher les seviettes, ces petits plus bien pratiques. Mais c’est vraiment un détail. Le reste était parfait.","9,6",Hôtel,Perpignan," 8,7 "
+Jacques,France,0,2019-03-30 00:00:00,Fabuleux ,La proximité de la gare.,Manque de patères dans la SdeB.,"9,2",Hôtel,Perpignan," 8,7 "
+Habib,France,0,2019-03-22 00:00:00,Excellent comme d’habitude,La qualité des chambres,None,10,Hôtel,Perpignan," 8,7 "
+Jacky,Espagne,0,2019-03-12 00:00:00,Très bien,La chambre tranquille malgré la gare toute proche et le parking tout près ds chambres parfait pour la sécurité,None,"9,2",Hôtel,Perpignan," 8,7 "
+Sylvie,France,0,2019-03-11 00:00:00,Exceptionnel,Tout,Rien,10,Hôtel,Perpignan," 8,7 "
+Sophie,France,0,2019-03-07 00:00:00,"Très bonne expérience, je recommande vivement cet hotel","Hotel design, personnel accueillant et attentioné, chambre très propre, excellente literie",Rien à dire,"9,2",Hôtel,Perpignan," 8,7 "
+Gg7734,France,0,2019-01-28 00:00:00,Exceptionnel,La déco lunaire de la chambre et la bonne literie les sanitaires modernes et très propres l' accueil et petits déjeuners copieux en chambre a recommander,un seul point noir les 10 euros pour la nuit dle parking a revoir a la baisse par le hôte,10,Hôtel,Perpignan," 8,7 "
+Regispages,France,0,2019-01-22 00:00:00,Superbe,Personnel adorable. Chambre confortable et bien équipée. Salle de bain agréable.,Chambre donnant sur le parvis pavé de la gare = beaucoup de bruits venant de l'extérieur.,"8,8",Hôtel,Perpignan," 8,7 "
+Marie,France,0,2019-01-08 00:00:00,Superbe,Chambre moderne. Accueil professionnel personnalisé.,Sources lumineuses la nuit. Fenêtre sur le patio. Mais sans gêne ce 6 janvier.,"8,8",Hôtel,Perpignan," 8,7 "
+Yanis,France,0,2019-01-02 00:00:00,Bien ,"Le petit déjeuner copieux, le lit très confortable","La vitre de la douche est trop petite en largeur, sinon parfait","7,9",Hôtel,Perpignan," 8,7 "
+Plihon,France,1,2019-01-01 00:00:00,Excellente étape,"L'accueil, la chambre et sa literie de qualité, Le petit dej, le pkg sécurisé, la propreté, le calme, …..",Rien,"9,6",Hôtel,Perpignan," 8,7 "
+Denise,France,0,2018-12-30 00:00:00,Hotel qui donne sur la Gare de Perpignan Idéal pour voyageurs. Transports en commun devant la porte!,Pour les voyageurs qui arrivent / partent en train ou bus cet hôtel est bien placé!,Tout était très bien. Je n'ai rien de négatif a dire.,10,Hôtel,Perpignan," 8,7 "
+Kevin,France,0,2018-12-23 00:00:00,Bon séjour,"Très bon accueil, pleins d'explication à mon arrivé. Les locaux étais propres et nous ne manquions de rien.","Le petit-déjeuner (facturé 13€/personne) peut-largement être amélioré..
+La douche manquait de protection ! La vitre était minuscule, donc après une douche, le sol était absolument trempé..","9,6",Hôtel,Perpignan," 8,7 "
+Marie,France,0,2018-12-01 00:00:00,Exceptionnel,"mon court séjour était parfait. Malheureusement, je n'ai pas pu en profiter beaucoup en raison de mon arrivée tardive.
+Je recommande très fortement.",None,10,Hôtel,Perpignan," 8,7 "
+Benoit,France,0,2018-11-28 00:00:00,Très bien,"Chambre agréable, on s’y sent bien 
+Literie excellente 
+Petit déjeuner : choix suffisant","Vitre de douche trop courte, la salle de bain se transforme vite en pédiluve
+Un passage supplémentaire de l’aspirateur aurait été nécessaire.","8,3",Hôtel,Perpignan," 8,7 "
+Jimenez,France,0,2018-11-22 00:00:00,Parfait,"Propreté, style, design et l'appel téléphonique du personnel pour s'assurer que tout était ok.",Rien,10,Hôtel,Perpignan," 8,7 "
+Yves,France,0,2018-11-19 00:00:00,Exceptionnel,"Très bon hôtel, propre et bien équipé.
+Personnel sympathique
+Situé à 2 pas de la gare, sans avoir à sortir",None,"9,6",Hôtel,Perpignan," 8,7 "
+Aykal,France,0,2018-11-19 00:00:00,Bien ,"Bon établissement 
+Bon prix, confortable et très bien placé 
+Seul problème: vu que le seul membre du personnel doit tout faire (accueil, téléphone, check in check out ...) bah dès que vous êtes devant une sonnerie pour rentrée à hôtel ou parking ... ça peut être long et c’est dommage 
+2eme points négatif: petite déjeuner pas bon mauvaise qualité pour le prix (13 euros) 
+Sinon le reste, le top",None,"7,9",Hôtel,Perpignan," 8,7 "
+Jean,France,0,2018-11-05 00:00:00,Superbe,Tranquillité et confort de la chambre,Lieu sans vie très loin du centre ville,"8,8",Hôtel,Perpignan," 8,7 "
+Jean-marie,France,0,2018-11-02 00:00:00,Exceptionnel,L'hotel est bien situé avec un parking en sous sol à tarif préférentiel. Un peu déçu par les viennoiseries du petit déj.,None,"9,6",Hôtel,Perpignan," 8,7 "
+Marie,France,0,2018-10-23 00:00:00,Exceptionnel,Hôtel confortable a proximité de la gare,Bruit de la route,10,Hôtel,Perpignan," 8,7 "
+Eliane,France,0,2018-10-11 00:00:00,Bien ,Tout c'était parfait,None,"7,5",Hôtel,Perpignan," 8,7 "
+Philippe,France,0,2018-10-05 00:00:00,Cela reste notre étape hôtel préféré,C’est toujours une excellente etape,Des doutes sur l’acces Sécurisé au parking de l’hotel où l’on croise des gamins en vélo venant du centre commerciale du dessus un peu désaffecté et où vous vous demandez si vous allez retrouver votre voiture intacte le lendemain,10,Hôtel,Perpignan," 8,7 "
+Eliane,France,0,2018-10-04 00:00:00,Une agréable surprise et le plaisir d'avoir dormi au Centre Del Mon cher à Salvador Dali !,"Afin de prendre un train le lendemain matin à la gare de Perpignan; j'ai cherché un hôtel proche de celle-ci sur Booking.com. J'ai eu une offre vraiment peu chère pour chambre + petit-déjeuner sans savoir que le Centre Del Mon était en fait ""dans"" la gare. Le nom aurait dû me mettre sur la piste... Cet hôtel est particulièrement agréable, un havre de confort et de silence situé à 2 minutes des quais de la gare TGV, au design moderne, noir et blanc, particulièrement soigné. Petit-déjeuner copieux et varié.","Nous avons eu du mal à trouver l'hôtel car le 35 Bd St Assiscle était introuvable sur notre GPS. et nous ne cherchions pas un accès par le même bâtiment que la gare. De plus, l'entrée de l'hôtel était complètement masquée par les bus en stationnement devant celle-ci.",10,Hôtel,Perpignan," 8,7 "
+Ruben,Espagne,0,2018-10-02 00:00:00,"Très confortable, tranquille","Cela fait un petit moment je n'ai pas si bien dormi.
+Tranquillité, confort.","Le paroi de duché devrait être un peu plus grande pour pouvoir prendre une douche et que l'eau ne sors pas dehors.
+Je suis allé avec un chat, donc ce serait bien que l'hôtel aie une litière, car on paye pour pouvoir être avec une mascotte.","9,2",Hôtel,Perpignan," 8,7 "
+Pierre,France,0,2018-10-02 00:00:00,Très bien,Chambre décorée avec goût. Lit moelleux mais ferme.,Clim bruyante.,"8,3",Hôtel,Perpignan," 8,7 "
+Coralie,France,0,2018-09-30 00:00:00,Exceptionnel,Le confort - la décoration épurée même si celle ci n’est pas en accord avec l’univers de Dali (thème de l’hôtel) - l’emplacement à 10 min à pied du centre ville - très bonne literie - personnel agréable,Le manque de parking gratuit (10€ la nuit),"9,6",Hôtel,Perpignan," 8,7 "
+Vitor,Suisse,0,2018-09-26 00:00:00,Super,Prochaine fois toujours dans cette hotel,J’ai tout aimé,10,Hôtel,Perpignan," 8,7 "
+Sandrine,France,0,2018-09-25 00:00:00,Bien ,chambre joliement décorée. Literie confortable,"Bruitoute la nuit dans la chambre même climatisation éteinte. Ce bruit s'est arrêté à 9h du matin....
+Il provenait d'un placard à coté du dressing...(je ne saias pas quelle machin il y avait à l'intérieur...Je n'ai pas fermé l'oeil....dommage!
+Moisissure au niveau des joints de la douche....","7,5",Hôtel,Perpignan," 8,7 "
+Claude,France,0,2018-09-24 00:00:00,Fabuleux ,None,Décoration un peu froide,"9,2",Hôtel,Perpignan," 8,7 "
+Celine,France,0,2018-09-23 00:00:00,Très bon séjour à Perpignan,Chambre tout à fait correcte et très propre. Personnel très agréable et à l’ecoute. Très central! On peut oublier la voiture sans problème.,None,"9,2",Hôtel,Perpignan," 8,7 "
+Martin,France,0,2018-09-15 00:00:00,Exceptionnel,Chambre petite,None,10,Hôtel,Perpignan," 8,7 "
+Ly,France,0,2018-09-12 00:00:00,Bien ,Rapport Qualité/Prix toujours bien et constant...,None,"7,5",Hôtel,Perpignan," 8,7 "
+Daniele,Belgique,0,2018-09-11 00:00:00,Exceptionnel,"Belle réception, personnel serviable , bonne literie. A recommander.",None,"9,6",Hôtel,Perpignan," 8,7 "
+Virginie,France,0,2018-09-06 00:00:00,hôtel très agréable et petit déjeuner de qualité,l'hôtel et la chambre sont très propres et clairs. La literie était très bien. Et le parking en sous sol est un vrai plus !,"j'avais prévenu l'hôtel que je souhaitais garer la voiture de location dans le parking. et en arrivant au parking, je n'avais pas la possibilité d'y rentrer car il fallait un code...mais on ne me l'avait pas donné. J'ai dû sonner au monsieur du parking, qui m'a dit que c'était un souci récurrent et qu'il faudrait que l'hôtel donne le code dès la réservation car il n'est pas là pour donner le code à tout le monde....",10,Hôtel,Perpignan," 8,7 "
+Corinne,France,0,2018-09-05 00:00:00,Très bon séjour,La propreté le calme la situation les plats cuisinés au bar,None,"9,6",Hôtel,Perpignan," 8,7 "
+Mounira,France,0,2018-09-04 00:00:00,À recommander tout est parfait,"Extrêmement propre , jolie design avec goût . Personnel parfait petit déjeuner délicieux avec jus d'orange pressé minute ! Les draps de qualités , le lit de super qualité digne d'un palace . Bravo !",Rien,10,Hôtel,Perpignan," 8,7 "
+Valérie,France,0,2018-09-03 00:00:00,Hôtel confortable et neuf,"Bon emplacement, chambres récentes et bien équipées, douche agréable, lit confortable, le parking souterrain permet d'accéder directement à l'hôtel par l'ascenseur, très pratique, proximité du centre ville , produits cosmétiques bio de qualité",None,"7,9",Hôtel,Perpignan," 8,7 "
+Fanny,France,0,2018-08-27 00:00:00,Bien ,"Hôtel confortable,très bien placé,en centre ville.
+Le petit déjeuner est varié et copieux.
+Le personnel est très sympathique...",None,"7,9",Hôtel,Perpignan," 8,7 "
+Meneceur,France,0,2018-08-27 00:00:00,Bon séjour,Le lit parfait !,None,"9,6",Hôtel,Perpignan," 8,7 "
+Aicha,France,0,2018-08-27 00:00:00,Bon hotel je recommande,Le certificat d'authenticité personnalisé qui est délivré à l'arrivée attestant que vous avez séjourné au centre du monde. #Perpignan,"Accueil chaleureux. Personnel aimable et sympathique.
+Propreté irréprochable. Je recommande","9,2",Hôtel,Perpignan," 8,7 "
+Leone,France,0,2018-08-25 00:00:00,Superbe,Le service et la qualité de l accueil,None,"8,8",Hôtel,Perpignan," 8,7 "
+Ayoub,France,0,2018-08-20 00:00:00,Impeccable,A mon arrivée l hôtel à surclassé ma chambre de 3 à 4 étoiles. Super ! Chambre très grande et design Lit confortable. Personnel bienveillant. Aucun regret j'y reviendrai. Merci à tous,La signalisation du parking pas assez claire,10,Hôtel,Perpignan," 8,7 "
+Christine,France,0,2018-08-20 00:00:00,PARFAIT,TOUT EXCELLENT,None,10,Hôtel,Perpignan," 8,7 "
+Patricia,France,0,2018-08-19 00:00:00,Bien ,Situation géographique (tres proche de la gare). Le patio au 2éme étage.,Rapport qualité prix du petit déjeuner buffet (13 euros avec un buffet très peu fourni).,"7,5",Hôtel,Perpignan," 8,7 "
+Marine,France,0,2018-08-19 00:00:00,Exceptionnel,"Propreté emplacement 
+Amabilité et professionnalisme du personnel .",None,"9,6",Hôtel,Perpignan," 8,7 "
+Natasha,France,0,2018-08-18 00:00:00,Brigantia 69,C'est un établissement très bien situé proximité arrivée en gare TGV très appréciable. Cet hôtel a un tyle chic design épuré qui lui donne un certain cachet. Hormis ce côté ci de cet établissement l'accueil professionnel personnel disponible à l'écoute et souriant. Les demandes lors de la réservation sont bien prises en compte. Petit déjeuner plus avec choix. Très bon rapport qualité prix. Excellent établissement. Je le recommande fortement.,None,10,Hôtel,Perpignan," 8,7 "
+Francois,Norvège,0,2018-08-16 00:00:00,Magnifique.,"Hotel juste dans la gareTGV,c'est parfait.","La somme de 100 euros que tu dois payer comme caution de ce que tu vas consommer, mais que tu ne recuperes pas å ton depart.","7,5",Hôtel,Perpignan," 8,7 "
+Henri-jacques,France,0,2018-08-14 00:00:00,trés correct,literie confortable,le prix du parking trop honnéreux pour une nuit,"7,5",Hôtel,Perpignan," 8,7 "
+Alain,France,0,2018-08-14 00:00:00,Je retournerai au même endroit..!,Le patio ...bonne idée,None,"9,2",Hôtel,Perpignan," 8,7 "
+Michele,France,0,2018-08-11 00:00:00,Fabuleux ,Très grande propreté très bon confort personnel très agréable,C est ma faute mais je pensais plus près des plages,"9,2",Hôtel,Perpignan," 8,7 "
+Isabelle,France,0,2018-08-11 00:00:00,Séjour très agréable dans l'ensemble.,"Très belle chambre, bonne literie, chambre bien insonorisée, malgré le non respect du silence de certains clients.
+Petit déjeuner pris en chambre très correct. Personnel très aimable.",Le jour de notre départ nous sommes allés prendre notre petit déjeuner au buffet et il n'y avait plus grand choix il était 9H30.,"7,5",Hôtel,Perpignan," 8,7 "
+Benoit,France,0,2018-08-09 00:00:00,Très bien,Le confort et la localisation,La douche ne va pas une protection aurait été bien et pas passé de choix au petit déjeuner en sucre,"8,3",Hôtel,Perpignan," 8,7 "
+Manuel,Belgique,0,2018-08-03 00:00:00,Exceptionnel,Tout. La chambre bien decoree et spacieuse. Le petit dejeuner parfait. L acceuil....,None,"9,6",Hôtel,Perpignan," 8,7 "
+Marie-france,Belgique,0,2018-07-31 00:00:00,Hôtel à recommander sans problème.,"Hôtel moderne très agréable.
+Très bonne literie.
+Très bon petit déjeuner avec jus d'oranges frais.
+Petite superette au sous-sol.
+Garage privé 5 euros par jour.
+Terrasse à l'étage.",Rien.,"9,2",Hôtel,Perpignan," 8,7 "
+Fatih,France,0,2018-07-28 00:00:00,Fabuleux ,L’accueil du personnel et puis la propreté de l’hôtel.,None,"9,2",Hôtel,Perpignan," 8,7 "
+Abdellah,France,0,2018-07-27 00:00:00,Exceptionnel,"Établissement agréable avec un design réussi.. une première expérience dans une chambre pour PMR, conforme et joli.",None,10,Hôtel,Perpignan," 8,7 "
+Hind,France,0,2018-07-25 00:00:00,Superbe,une très bonne odeur dans tout l'hôtel,None,"8,8",Hôtel,Perpignan," 8,7 "
+Jean,France,0,2018-07-22 00:00:00,"Très agréable, malgré la chaleur caniculaire à l'extérieur !",La disponibilité et la gentillesse du personnel.,None,10,Hôtel,Perpignan," 8,7 "
+Laurent,France,0,2018-07-13 00:00:00,on peut dire : Centre Del Mon,"La chambre, le lit taille XL, la grande douche et le petit déjeuné avec du choix","Le signalétique du plan du parking, pas facile à trouver","9,2",Hôtel,Perpignan," 8,7 "
+Jean-claude,France,0,2018-07-11 00:00:00,Superbe,Deuxième séjour à qq jours d'intervalle,"La salle de bains quoique très moderne, est bien mal conçue : pare-douche minuscule qui ne remplit pas son role, inondation garantie !!! Eclairage éblouissant et tablette au-dessus du lavabo trop basse et gênant la manoeuvre du robinet.
+L'organisation du buffet petit-déjeuner comme la première fois.","8,8",Hôtel,Perpignan," 8,7 "
+Jean-claude,France,0,2018-07-11 00:00:00,"Bon séjour, néanmoins l'organisation du buffet petit-déjeuner semble à perfectionner.",Proximité de la gare SNCF et des agences de location de véhicules dans le même ensemble immobilier ainsi que du parking.,"Le buffet du petit déjeuner bien que suffisamment varié, tarde un peu à être réapprovisionné, notamment en pain, peut-être parce que la personne qui en a la gestion est seule pour tout faire : réapprovisionner les machines à café, regarnir les présentoirs, débarrasser les tables quand les clients ont terminé, elle donne l'impression d'être débordée !!","8,8",Hôtel,Perpignan," 8,7 "
+Dalibot,France,0,2018-07-02 00:00:00,bon et agréable,"CHAMBRE TRES AGREABLE, literie super bien dormi
+Dans la Salle de bains la paroi de douche est très étroite, nous éclaboussons partout quand nous prenons une douche.
+Petit déjeuner beaucoup de choix","le client d'a côté qui est sortie plusieurs fois en claquant la porte, bruyant donc dans la nuit","8,8",Hôtel,Perpignan," 8,7 "
+Imad,France,0,2018-06-21 00:00:00,très bon séjour,Les équipements étaient modernes,Le lit un peu gonflé,"9,6",Hôtel,Perpignan," 8,7 "
+Nancy,France,0,2018-06-18 00:00:00,Nuitée agreable,"Le calme, la terrasse panoramique, l'accueil.....","Les détail de propriété dans la salle d'eau laisse un peu à désiré, sol.
+Chambre agréable,lit confortable et décoration moderne, équipement suffisant, la super terrasse panoramique au 2eme étage est superbe, personnel de l'accueil très agréable....Le parking sous terrain très pratique(un peu cher à mon goût 10euro la nuit) et accès direct ascenseur de l'hotel. Je n'y est passer qu'une nuit donc un peu court pour en dire davantage.","7,9",Hôtel,Perpignan," 8,7 "
+Jacques,France,0,2018-06-11 00:00:00,hotel parfait,"le confort
+l'amabilité et le sourire du personnel
+LA PROPRETE",None,10,Hôtel,Perpignan," 8,7 "
+Nicole,France,0,2018-06-03 00:00:00,Superbe,"Comme j'avais déjà bien apprécié mon séjour lors d'un précédent voyage, je suis revenue. Tout était aussi bien que la première fois : excellent accueil, bonne literie, silence, climatisation. Cette fois-ci j'ai eu le temps de prendre l'excellent petit déjeuner en salle.",None,"8,8",Hôtel,Perpignan," 8,7 "
+Dukeofbluehill,France,0,2018-06-03 00:00:00,Appréciable pour un déplacement professionnel,"Très bon accueil, petit déjeuner très varié et copieux, confort appréciable","loin du centre-ville, rien aux alentours le soir","9,2",Hôtel,Perpignan," 8,7 "
+Jean-françois,France,0,2018-05-31 00:00:00,Bon Hôtel très bien situé,"Très bien, chambre bien équipée, très bonne literie",None,10,Hôtel,Perpignan," 8,7 "
+Thierry,France,0,2020-02-16 00:00:00,Bien mais gâché par la douche tiède,"Le personnel , l’emplacement,la propreté",L’eau tiède de la douche déjà noté à mon dernier séjour,"5,0",Hôtel,Perpignan," 8,7 "
+Christel,France,0,2019-11-24 00:00:00,Agréable,"Lit confortable
+Chambre spacieuse
+Emplacement
+Stationnement en garage sécurisé , 10e/nuit","La salle de bain devient un pataugeoire après la douche. 
+Le trop-plein d'information lors du check in. L'obligation de laisser une caution de 50e/nuit en cas de dégradation. 
+Absence de bouilloire en chambre pourtant annoncée sur l'annonce Booking","6,7",Hôtel,Perpignan," 8,7 "
+Isabelle,France,0,2019-08-20 00:00:00,Passable,Chambre d'une propreté irréprochable et confortable. Buffet petit déjeuner très complet et excellent.,"Après nous avoir d'abord attribué une chambre occupée, la personne qui accueille pour le petit déjeuner ne savait pas que nous avions payé le petit déjeuner. De plus un seul ascenseur disponible pour les clients et le personnel. Boite de kleenex dans la salle de bain etait vide.","5,0",Hôtel,Perpignan," 8,7 "
+Alexandre,France,0,2019-08-20 00:00:00,Passable,Le petit déjeuner,Quand j’ai téléphoné on m’a dis que vous preniez les cheque vacances donc choisi votre hôtel et une fois sur place on me dis non pas correct,"5,4",Hôtel,Perpignan," 8,7 "
+Anne-claire,France,0,2019-07-15 00:00:00,Agréable,None,Le bruit de la circulation,"6,7",Hôtel,Perpignan," 8,7 "
+Guillaume,France,0,2019-07-08 00:00:00,Bon ,"La propreté des lieux, le calme malgré la gare à côté...","Le manque d’accessoires dans la chambre ( coussin, serviette), petit déjeuner buffet peu copieux ( viennoiserie et pain pas du jour... manque de fruit ),","5,8",Hôtel,Perpignan," 8,7 "
+Paul,France,0,2019-06-16 00:00:00,Bien ,La proximité de la gare,"Manque d’oreiller supplémentaire 
+Malgré notre demande","7,1",Hôtel,Perpignan," 8,7 "
+Candido,Belgique,0,2019-06-08 00:00:00,Agréable,Petit dej et chambres propres,Personnel incompétent + info sur booking incomplet,"6,7",Hôtel,Perpignan," 8,7 "
+Franck,France,0,2019-05-26 00:00:00,Agréable,"Déco. Matériel. Calme.moderne .confort 
+Très bien .",None,"7,1",Hôtel,Perpignan," 8,7 "
+Alexandre,France,0,2019-02-03 00:00:00,Je réserverai toujours par Booking.com pour le prix,La grandeur de la chambre et le bureau,Le lit en 2 séparation et non confortable,"6,7",Hôtel,Perpignan," 8,7 "
+Jean-noel,France,0,2018-12-07 00:00:00,Hotel très correct hormis son wifi,"Hôtel correct, propre, personnel accueillant.
+Proximité de la gare","Connexion wifi exécrable.
+Emplacement dans un quartier glauque le soir.","7,1",Hôtel,Perpignan," 8,7 "
+Jacques,France,0,2018-10-26 00:00:00,Bien ,"Directement dans la gare , pratique , car nous sommes arrivés en train et avons rayonné avec les bus qui sont directement devant l hotel. Chambre moderne","Le soir , comme toutes les gares c est pas très bien fréquenté. Il faut rester prudent. 
+Les cintres qui ne peuvent pas être accrochés autrement que dans l armoire. Amis cyclistes ou randonneurs ne cherchez pas à faire sécher un maillot.
+La lumière dans la salle de bain qui éblouit . Pas pratique pour se raser.","7,1",Hôtel,Perpignan," 8,7 "
+Castres,France,0,2018-09-17 00:00:00,Bon ,"Hôtesse du soir très souriante , attentive et serviablep.
+ Accès au patios 
+Confort du lit","L'hôtesse du matin pas très souriante.
+Avoir payé pour certaines prestations et ce retrouver avec 1seule chaîne de télévision qui fonctionne.
+Propreté de la salle de bain a redire.","5,8",Hôtel,Perpignan," 8,7 "
+Patrice,Belgique,0,2018-08-25 00:00:00,Etape reposante,Excellent petit déjeuner - air conditionné en parfait état de marche - surclassement gratuit suite indisponibilité de ce que j avais demandé - propreté impeccable - confort et sdb optimales,"Une seule personne à l accueil lors de mon arrivée laquelle devait recevoir les nouveaux clients, répondre aux doléances des autres et répondre au téléphone. La dame était débordée et le temps d attente était long. Cela engendre du stress pour le membre du personnel et un service minimum pour les clients. Je précise qu il s agissait en plus d une date classée rouge pour les départs-arrivés et donc que l établissement devait s attendre à avoir du monde
+Vaste parking mais payant (10 euros)","6,7",Hôtel,Perpignan," 8,7 "
+Olivier,France,0,2018-08-20 00:00:00,Déçu par le,None,"Chambres pas aspirées, propreté très moyenne,
+Parking pas pratique avec des tickets à usage unique pour sortir,
+Personnel à l’accueil pas toujours aimable,
+Petit déjeuner à prix abordable mais de mauvaise qualité","4,6",Hôtel,Perpignan," 8,7 "
+Boucif,France,0,2018-08-12 00:00:00,Bien ,"nous étions bien accueilli à l'arrivée , la chambre était correct le lit confortable le service petit déjeuner était bien mais sur le buffet ça manqué de fruits frais de saison et de pain céréaliers.",None,"7,1",Hôtel,Perpignan," 8,7 "
+Vincent,France,0,2018-06-10 00:00:00,Agréable,None,La situation géographique quand vous devez prendre un train mais excentré du centre ville,"6,7",Hôtel,Perpignan," 8,7 "
+Anonyme,France,0,2020-01-18 00:00:00,Exceptionnel,"La propreté, le confort des chambres, la gentillesse du personnel et la proximité avec la gare de Perpignan.",None,10,Hôtel,Perpignan," 8,7 "
+Anonyme,France,0,2020-01-05 00:00:00,Exceptionnel,"Emplacement , le personnel , le buffet du petit déjeuner, le silence, le parking",Le rapport qualité prix correct sans plus,"9,6",Hôtel,Perpignan," 8,7 "
+Anonyme,France,0,2019-12-29 00:00:00,Exceptionnel,Parfait hébergement dans la gare de Perpignan !,None,10,Hôtel,Perpignan," 8,7 "
+Anonyme,France,0,2019-11-09 00:00:00,Exceptionnel,Très bon accueil,None,"9,6",Hôtel,Perpignan," 8,7 "
+Anonyme,Suisse,0,2019-08-03 00:00:00,Très bien,"Son emplacement, le calme et la gentillesse du personnel.",None,"8,3",Hôtel,Perpignan," 8,7 "
+Anonyme,France,0,2019-06-04 00:00:00,Un séjour de qualité,Le personnel est très accueillant et serviable,None,"8,8",Hôtel,Perpignan," 8,7 "
+Anonyme,France,0,2019-05-16 00:00:00,C'est classe parfait abordable et pas surfait,"L'arrivée tardive et personnel charmant accueillant tjs disponible 
+Bar pour rafraichissement ouvert la nuit et ptit dej sur place ou non chgt de choix libre au client très très appréciable parfait",None,"9,6",Hôtel,Perpignan," 8,7 "
+Anonyme,France,0,2019-03-27 00:00:00,Très bien,"Le bâtiment, la déco, la tranquillité, la vue sur les montagnes depuis le 4e étage",None,"8,3",Hôtel,Perpignan," 8,7 "
+Anonyme,France,0,2019-01-02 00:00:00,Exceptionnel,"L'approximite avec la gare, qu'il existe 2 formules concernant les petits déjeuners.",Le bruit des douches et des toilettes des chambres voisines.,10,Hôtel,Perpignan," 8,7 "
+Anonyme,France,0,2018-12-12 00:00:00,Fabuleux ,"Neuf, grande chambre et Sdb, couette, insonorisé, facile d accès, à 50 mètres de l entrée arrière de la gare",None,"9,2",Hôtel,Perpignan," 8,7 "
+Anonyme,France,0,2018-10-27 00:00:00,Fabuleux ,Revenu après avoir fait une boucle quelques jours auparavant même commentaire.,Toujours à regretter de prix de la place de parking en supplément dommage,"9,2",Hôtel,Perpignan," 8,7 "
+Anonyme,France,0,2018-10-27 00:00:00,Exceptionnel,Très bon accueil belle chambre moderne prix raisonnable et excellemment situes à côté de la gare TGV.,Le prix de la place de parking est en supplément,"9,6",Hôtel,Perpignan," 8,7 "
+Anonyme,France,0,2018-10-02 00:00:00,Exceptionnel,Tout pratique propre sympathique dt très confortable,None,"9,6",Hôtel,Perpignan," 8,7 "
+Anonyme,France,0,2018-09-26 00:00:00,Superbe,"Chambre très confortable, très bien équipée au clame. Déco originale","Le petit déjeuner est quelque peu décevant, peut mieux faire...","8,8",Hôtel,Perpignan," 8,7 "
+Anonyme,France,0,2018-08-08 00:00:00,Exceptionnel,Tout,None,10,Hôtel,Perpignan," 8,7 "
+Anonyme,France,0,2018-06-09 00:00:00,Très bien mais...,"Attention le bas de l'armoire est en métal. J'étais pieds nus et en ouvrant la porte, je me suis blessée et ouvert l orteil. Cela aurait mérité un ou deux points. De plus, svp, au petit déjeuner, ne mettez plus de thé Lipton ou sans marque. Ce n'est pas digne de votre standing. Accueil excellent, propreté top.",Proximité gare et centre commercial moribond,"7,9",Hôtel,Perpignan," 8,7 "
+Anonyme,Maroc,0,2019-11-22 00:00:00,Assez médiocre ,L’emplacement,La chambre est très petite vous allez vous étouffer la salle de bain le lavabo était bouché derrière le miroir plein de moustiques et de saleté,"3,8",Hôtel,Perpignan," 8,7 "
+Anonyme,Belgique,0,2019-09-30 00:00:00,Bon ,Proximité de la gare,"La clim n'a pas fonctionné une partie du séjour. 
+Personnel quasi inexistant.
+De plus la douche transforme la salle de bain en piscine au fur et à mesure que l'eau coule.","5,8",Hôtel,Perpignan," 8,7 "
+Anonyme,France,0,2019-09-04 00:00:00,Bien ,absence de pain frais (un incident mais pourquoi pas changer de fournisseur,None,"7,1",Hôtel,Perpignan," 8,7 "
+Anonyme,France,0,2019-04-15 00:00:00,Mauvaise literie,"situation proche gare très bien pour une arrivée tardive en train et un départ matinal du même endroit le lendemain.
+amabilité du personnel le matin, un peu moins bien à l'arrivée.
+relativement calme bien que chambre donnant sur le boulevard.","la literie était mauvaise, lit ""double"" composé de 2 lits simples rapprochés, les deux matelas étaient complètement affaissés, je l'ai signalé à la réception qui m'a dit en prendre bonne note.","5,8",Hôtel,Perpignan," 8,7 "
+Anonyme,France,0,2018-10-05 00:00:00,Bien mais peu mieux faire.,"Le personnel très accueillant, la propreté de l'établissement, la surface de la chambre, la qualité de la literie, plusieurs types de petits déjeuners et le parking en sous-sol.","Non apprécié est un peu trop fort. Mais ce qui nous a paru moins bien c'est d'une part, la configuration de la douche (difficile de prendre une douche sans mouiller la moitié de la salle de bain), et d'autre part le type de petit déjeuner choisi n'était servi qu'en chambre, alors qu'il n'y avait pas de quoi s'installer correctement (seul petit bureau face au mur avec une seule chaise).","7,1",Hôtel,Perpignan," 8,7 "
+Anonyme,France,0,2018-06-07 00:00:00,Bien ,"Lit confortable
+Proximité de la gare
+Petut dejeuner","Connexion internet
+Accueil froid
+Douche pas pratique","7,1",Hôtel,Perpignan," 8,7 "
+Virginie,France,0,2020-04-08 00:00:00,Fabuleux ,Ce client n'a pas laissé de commentaire.,None,"9,0",Hôtel,Perpignan," 8,7 "
+B2a,France,0,2020-03-07 00:00:00,Très bien,Ce client n'a pas laissé de commentaire.,None,"8,3",Hôtel,Perpignan," 8,7 "
+Julie,France,0,2020-03-05 00:00:00,Superbe,Ce client n'a pas laissé de commentaire.,None,"8,8",Hôtel,Perpignan," 8,7 "
+Tom,France,0,2020-03-04 00:00:00,Fabuleux ,Ce client n'a pas laissé de commentaire.,None,"9,0",Hôtel,Perpignan," 8,7 "
+Jean,France,0,2020-03-01 00:00:00,Très bien,Ce client n'a pas laissé de commentaire.,None,"8,0",Hôtel,Perpignan," 8,7 "
+Agathe,France,0,2020-02-23 00:00:00,Parfait,Ce client n'a pas laissé de commentaire.,None,"8,0",Hôtel,Perpignan," 8,7 "
+Naim,France,0,2020-01-25 00:00:00,Exceptionnel,Ce client n'a pas laissé de commentaire.,None,10,Hôtel,Perpignan," 8,7 "
+Adel,France,0,2020-01-22 00:00:00,Fabuleux ,Ce client n'a pas laissé de commentaire.,None,"9,2",Hôtel,Perpignan," 8,7 "
+Karim,France,0,2020-01-13 00:00:00,Exceptionnel,Ce client n'a pas laissé de commentaire.,None,10,Hôtel,Perpignan," 8,7 "
+André,France,0,2019-12-30 00:00:00,Exceptionnel,Ce client n'a pas laissé de commentaire.,None,10,Hôtel,Perpignan," 8,7 "
+Catherine,France,0,2019-12-26 00:00:00,Très bien,Ce client n'a pas laissé de commentaire.,None,"8,0",Hôtel,Perpignan," 8,7 "
