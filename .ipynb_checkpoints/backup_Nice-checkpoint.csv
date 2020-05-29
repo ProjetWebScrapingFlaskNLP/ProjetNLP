@@ -1,0 +1,485 @@
+nom,pays,favorite,date,titre,bons_points,mauvais_points,note,type_etablissement,lieu,note_etablissement
+Arnaud,États-Unis,1,2018-08-03,Très bel hôtel,"Très bel hôtel, staff agréable et efficace. Super localisation","Pas de piscine, pas de spa",10,Hôtel,Nice," 8,8 "
+Nicole,France,0,2020-03-30,séjour conforme à mes attentes dans un très joli cadre,"à l'occasion de mon 60 e anniversaire on m'a surclassée
+chambre vue jardin et mer
+lever de soleil le matin 
+l'espace dans la chambre
+la mise à disposition d'un petit coussin et d'une gamelle pour mon chien
+le roomservice
+la tranquillité",None,"8,0",Hôtel,Nice," 8,8 "
+Guillaume,Royaume-Uni,0,2020-03-14,Excellent sejour a Nice,"Meilleur hotel sur la Promenade des Anglais. Suite magnifique avec vue sur mer, tres spacieuse avec balcon et chaises longues. Magnifique petit-dejeuner servi en chambre.",None,10,Hôtel,Nice," 8,8 "
+Pascal,France,0,2020-03-06,Très beau hôtel,"Le personnel très à l’écoute du client, cadre magnifique.",None,"8,3",Hôtel,Nice," 8,8 "
+Serge,France,0,2020-02-27,Séjour inoubliable dans un palace unique au monde riche de six mille toiles et tableaux,Petit déjeuner exceptionnel.Un service attentionné et de qualité avec notamment un buffet excellent de viennoiseries et de pâtisseries,Tout était parfait de l'accueil personnalisé au départ de l'hotel.Il n'a pas de critiques à formuler,"9,0",Hôtel,Nice," 8,8 "
+Alain,France,0,2020-02-25,Très bien,L'emplacement sur la promenade des Anglais et la décoration a l'ancienne charmante qui vous transpose au début du siècle.,L'homme de la sécurité qui fais son job mais manque de savoir vivre,"8,0",Hôtel,Nice," 8,8 "
+Francois,France,0,2020-02-25,Le vrai Plaisir Hôtelier,"Nous avons passé deux nuits dans cet établissement et ce fut un véritable plaisir d'y séjourner. De la qualité à tous les niveaux réception, confort, restauration, ambiance, bar .....",Ce que nous n'avons pas apprécié c'est que nos voisins italiens étaient trop bruyants mais cela a été assez rapidement réglé. pour le reste tout était parfait nous reviendrons.,"9,0",Hôtel,Nice," 8,8 "
+Patrick,France,0,2020-02-24,"Hotel mythique et magnifique, idéalement placé. Excellent service.","emplacement, service et chambre",None,"9,0",Hôtel,Nice," 8,8 "
+Didierdg,Belgique,0,2020-02-22,La légende !,"Comment mettre des mots sur la magie à l'état pur ?
+La grande tradition des palaces français ne se laisse pas enfermer dans quelques phrases. Le Negresco n'est pas un hôtel, c'est un musée d'art, une relique, une institution où il faut avoir logé une fois dans sa vie.","Rien, tout était absolument parfait.",10,Hôtel,Nice," 8,8 "
+Sylviane,Suisse,0,2020-02-20,Un séjour de rêve,Tout,Rien,10,Hôtel,Nice," 8,8 "
+Tristan,France,0,2020-02-16,Tout était parcait,Tout est Niquel rien à redire .,Le seul petit bemol est le regard des gens lorsque nous ne sommes pas habillé « comme eux » c’est à dire en chemise smoking . Mais Appart ce petit point tout était top,10,Hôtel,Nice," 8,8 "
+Valérie,France,0,2020-02-15,Exceptionnel,"Tout était parfait
+Les employés 
+Le confort de la chambre l'accuueil",None,10,Hôtel,Nice," 8,8 "
+Jerome,France,0,2020-02-13,Exceptionnel,La qualité du service qui reste l’un des deniers au monde avec cet esprit palace. Ce charme désuet est très agréable. Et quelle vue.,None,10,Hôtel,Nice," 8,8 "
+William,France,0,2020-02-11,Exceptionnel,Tout,Impeccable,10,Hôtel,Nice," 8,8 "
+Rodolphe,France,0,2020-02-11,Très bien,le cadre en général et l'accueil,le service d'étage pas de journal avec le petit déjeuner les services de télévision ex pas de canal+,"8,0",Hôtel,Nice," 8,8 "
+Frantz,France,0,2020-02-09,Exceptionnel,"Chambre spacieuse. Lit confortable. Aucune nuisance sonore. Vue magnifique sur mer.
+Petit déjeuner varié et copieux. Espaces communs, circulations agréables et décorés comme dans un musée avec des centaines d'œuvres d'art. Très agréable de déambuler dans les parties communes. Personnel à l'écoute, aimable, souriant et compétent.",None,10,Hôtel,Nice," 8,8 "
+Thierry,France,0,2020-02-08,Meilleur hôtel de nice,Excellent depuis l arrivée,Rien,10,Hôtel,Nice," 8,8 "
+Docteur,Italie,0,2020-02-04,Exceptionnel,"J'étais toute seule pour Affaires 
+La tranquillité 
+Le service 
+Amabilité et courtoisie du staff
+Surtout les voituriers
+Le maître restaurant les serveurs etc...","Seulement les serviettes étaient insuffisantes et de qualité médiocre 
+Le petit-déjeuner était servi jusqu'à 10.30
+Mais à Nice en vacance c'est pas possible prendre le petit déjeuner très tôt. Il faut dormir un peu plus tard. Je pense que ils doivent préparer le restaurant pour le déjeuner dans La rotonde 
+Alors il faut utiliser autres espaces pour le petit déjeuner. L'hôtel est très grand il y a beaucoup d'espace !!!",10,Hôtel,Nice," 8,8 "
+Henri,France,0,2020-02-02,Exceptionnel,L'âme du lieu.,Rien,10,Hôtel,Nice," 8,8 "
+François,France,0,2020-02-02,Exceptionnel,le bar,None,10,Hôtel,Nice," 8,8 "
+Joelle,France,0,2020-01-31,GENIAL!,Accueil exceptionnel. Lieu mythique et merveilleux. Vue splendide. Emplacement idéal.,None,"9,6",Hôtel,Nice," 8,8 "
+Philippe,France,0,2020-01-28,"A faire, et refaire, chaque chambre est unique",Hôtel exceptionnel et unique,Petit pb de lumière dans la chambre,10,Hôtel,Nice," 8,8 "
+Frédéric,France,0,2020-01-26,Fabuleux ,"Architecture superbe tant extérieure qu’intérieure. Le Negresco est une œuvre d’art (tour, rotonde, etc), emplie d’œuvres d’art (peintures, sculptures, lithographies, ...) provenant de multiples époques. C’est un musée - hôtel.
+Service remarquable.
+Emplacement fantastique, sur la promenade à 15 minutes à pieds du centre historique.",Isolation phonique entre chambre et couloir,"9,2",Hôtel,Nice," 8,8 "
+Franck,France,0,2020-01-19,MAGNIFIQUE,Le tout mais surtout c est un hôtel atypique chargé d histoire un excellent séjour,Le non affichage des prix sur le mini bar de la chambre,"9,6",Hôtel,Nice," 8,8 "
+Laetitia,France,0,2020-01-15,Excellent,Emplacement accueil,"J’ai essayé d’organiser goûter anniversaire de ma petite fille j’ai renoncé 
+Trop de rigidité dans le protocole de paiement de ce service trop de quiproquo avec mes interlocuteurs dommage","9,0",Hôtel,Nice," 8,8 "
+Christine,France,0,2020-01-14,Hôtel remarquable,"L’emplacement, l’élégance de la décoration, le service de l’ensemble du personnel. L’hôtel mérite sa réputation d’excellence.",Un petit bémol quand au chauffage de notre chambre qui même au minimum était un peu bruyant.,10,Hôtel,Nice," 8,8 "
+Denis,France,0,2020-01-12,Très bien,Nous avons passé un super moment la literie était de bonne qualité rien à redire,None,"8,0",Hôtel,Nice," 8,8 "
+Erwan,France,0,2020-01-07,Super,Hôtel historique,None,10,Hôtel,Nice," 8,8 "
+Deyo1966,France,0,2020-01-07,Magique,un lieu vrai et rempli d'histoire . L'emplacement,Tout était parfait,10,Hôtel,Nice," 8,8 "
+Km,France,0,2020-01-02,Exceptionnel,"La gentillesse et l'accueil du personnel, la déco, le confort de la literie, la propreté irréprochable, le repas, le coin lunge avec music de fond. 
+Parking juste à côté. 
+Tout quoi !!!",Rien du tout,10,Hôtel,Nice," 8,8 "
+Marie,France,0,2019-12-28,Un lieu mythique à découvrir,"Un lieu mythique, chargé d’histoire. Décoration digne d’un musée ! Un personnel très sympathique et très professionnel. Le bar lounge très agréable.
+Le restaurant la rotonde est une très bonne table, cuisine et personnel au top ✨",Les tâches sur la moquette ne sont pas digne d’un établissement de ce niveau. Le wifi très insuffisant. Des petits détails à rénover dans la chambre.,"8,8",Hôtel,Nice," 8,8 "
+Jean,France,0,2019-12-26,Établissement extraordinaire Que je recommanderai,"Personnel prévenant accueillant souriant.
+Deco sublime . Un palais extraordinaire et plein de charme.
+Le bar est exceptionnel et Très bien décoré.
+Chambre grande confortable vue magnifique.
+Malheureusement chauffage inréglable et j’ai du jouer entre chauffage et climatisation pour avoir environ 21.
+L’installation électrique a le plus grand besoin d’etre refaite.
+Excellent dîner à la rotonde le 23 au soir mais un service déplorable car totalement inorganisé et débordé. Personnel incompétent car non formé et mal dirigé en salle.
+Tout ceci ne gâchera en rien le très bon séjour que j’ai passé. C’est un endroit extraordinaire par son style sa déco etson emplacement et la gentillesse de son personnel.
+S’il vous plaît faites Quelque chose pour maintenir le niveau de luxe et d’originalité de ce magnifique établissement.","Service de table.
+Installation électrique
+Réglage du chauffage/ climatisation.","8,0",Hôtel,Nice," 8,8 "
+Romain,Malaisie,0,2019-12-25,Exceptionnel,"Hotel chargé d'histoire , chambre magnifique , superbe petit déjeuner , très bonne brasserie pour le diner . 
+Bar très agreable , personnel très bien . Lieu Calme .",Le wifi dans les Chambres n'est pas vraiment puissant .,10,Hôtel,Nice," 8,8 "
+Veronique,Italie,0,2019-12-18,Très bien,"Emplacement
+Gentillesse, disponibilité et élégance du personnel",La chambre ne correspondait pas à la photo de la réservation,"8,0",Hôtel,Nice," 8,8 "
+Julien,France,0,2019-12-17,Super prestation,"Le personnel, le petit déjeuner, atmosphère de ce lieu",Les taches sur les moquettes sont de trop dans un établissement de luxe.,"9,0",Hôtel,Nice," 8,8 "
+Miriam,France,0,2019-12-17,"Pour des amateurs d'art, des oeuvres d'art acrochée à chaque étage et au rez de chausée. Génial!",le cadre très original.,None,"9,0",Hôtel,Nice," 8,8 "
+Corinne,France,0,2019-12-15,"Endroit charmant, le cadre est exceptionnel, bien situé, le Personnel très accueillant et attentif au moindre besoin . P","Cadre exceptionnel. Un musée à la maison .
+Le personnel très professionnel et discret.
+Le bar avec sa carte incroyable .","Je n’ai pas su fermé les volets la première nuit 😚
+L’interrupteur se trouvait près de la lampe de chevet.","9,6",Hôtel,Nice," 8,8 "
+Marie,France,0,2019-12-10,Un 5* abordable,"Le personnel au top et la beauté de cet hôtel 
+Dommage par contre pour la rénovation de la rotonde",None,10,Hôtel,Nice," 8,8 "
+Sandra,France,0,2019-12-08,un début de conte de fée!!!,"Cet hôtel est un vrai musée, un endroit mythique. Une vraie expérience client. C'est un pur bonheur.",None,10,Hôtel,Nice," 8,8 "
+Jordane,France,0,2019-12-08,Excellent séjour,"La propreté de l hôtel, celui ci est une œuvre d art.
+Le personnel très efficace et accueillant.",None,10,Hôtel,Nice," 8,8 "
+Alexandra,France,0,2019-12-07,Plaisant agreable,"La deco
+La vue
+Le calme","L’absence de spa
+Absence de renouvellement des courtoisies (the madeleines eau ...) au cours du sejour","8,0",Hôtel,Nice," 8,8 "
+Djamel,France,0,2019-12-06,Exceptionnel,Merveilleux,None,10,Hôtel,Nice," 8,8 "
+Jean,France,0,2019-12-02,La vie de Palace....,"Personnel et accueil au top, chambre rénovée grande et sympa, parties communes, salons et hall d'entrée très très vieillots même si c'est le style du lieu....
+Très bons cocktails au bar avec animation musicale ce soir là 
+Musée à ciel ouvert.","L'immense salon qui fait un peu exposition de canapés (pas jolis), manque de chaleur, un peu hall de gare.","8,0",Hôtel,Nice," 8,8 "
+Philippe,France,0,2019-11-30,UN MOMENT MAGIQUE,"Tout était parfait, avec en plus un lieu mythique, aussi bien équipé qu'un musée, et un restaurant doublement étoilé, le Chanteclerc, qui est une perfection (la salle, le service et le repas) .",None,10,Hôtel,Nice," 8,8 "
+Philippe,France,0,2019-11-28,Exceptionnel,Tout simplement parfait,None,10,Hôtel,Nice," 8,8 "
+Alexandre,France,0,2019-11-28,Travail efficace dans un contexte paradisiaque.,Personnel au top . Ambiance très sympathique . Disponibilité à toute épreuve . Chambre magnifique . Le luxe en toute simplicité. Excellent petit déjeuner .,None,10,Hôtel,Nice," 8,8 "
+Francois,France,0,2019-11-27,service incroyable bravo!,Service du personnel remarquable,"Ampoule hs sur le chevet. Robinetterie lavabo pas adapté. Manque de petits présents comme chocolats, savons individuels...","9,0",Hôtel,Nice," 8,8 "
+Aurélie,France,0,2019-11-24,Exceptionnel,"Superbe literie 
+Personnel aux petits soins",None,10,Hôtel,Nice," 8,8 "
+Andrée,France,0,2019-11-22,Séjour inoubliable,"L accueil, l amabilité du personnel ainsi que son savoir faire et son professionnalisme, la décoration de l établissement , la disposition de la chambre très spacieuse avec superbe vue sur la mer. Lit très confortable. Très grande salle de bain. Le pdj très copieux et le restaurant est à recommander",Néant,10,Hôtel,Nice," 8,8 "
+Nicolas,France,0,2019-11-19,emplacement idyllique ainsi qu'une atmosphère unique !,"la possibilité d'observer autant d’œuvres d'art éclectiques à volonté !
+un vrai bonheur !
+du personnel très sympathique que ce soit l'accueil, les serveurs ou encore les voituriers.","l'horaire du petit déjeuner stipule jusqu'à 10h30.
+Or à partir de 10h, il n'y avait plus grand chose à déjeuner et une carence en jus de fruits.
+Par ailleurs , l'attente pour être servi en café me parait excessive (1/4h...)","8,0",Hôtel,Nice," 8,8 "
+Gilles,France,0,2019-11-17,Un0 jour exceptionnel et magique nous remercions toute l'équipe du Negresco pour cet accueil,",,, l'accueil la gentillesse du personnel et sa disponibilité",None,10,Hôtel,Nice," 8,8 "
+Xavier,France,0,2019-11-17,Exceptionnel,le cadre est fabuleux et plein d'histoire,None,10,Hôtel,Nice," 8,8 "
+Mohamed,Tunisie,0,2019-11-11,Fabuleux ,"L'emplacement fabuleux, personnels très accueillant et aimable,le petit déjeuner était magnifique,vrai hôtel de luxe.","Pas de centre spa ,manque centre de massage,
+J'ai réservé une chambre vue entre jardin et mer ,mais j'ai pas pu voir ma mer de ma chambre.","9,2",Hôtel,Nice," 8,8 "
+Jean,France,0,2019-11-10,Exceptionnel,Tout,Rien à dire le top magnifique,"9,6",Hôtel,Nice," 8,8 "
+Didier,France,0,2019-11-10,Séjour dans un musée,"Le chic et l’histoire de ce lieu.
+Personnel au top mais pas guindé 
+Petit déjeuner magnifique 
+Séjourner dans un lieu vivant","Équipement multimédia des chambres, d’un autre âge 
+Mais c’est pas grave 😆","8,8",Hôtel,Nice," 8,8 "
+Assia,Algérie,0,2019-11-09,Exceptionnel,La chambre est très jolie,L'hôtel est magnifique. Personnel agréable,10,Hôtel,Nice," 8,8 "
+Nadine,Belgique,0,2019-11-08,Séjourner dans une Palace musée,Excellent,None,"8,0",Hôtel,Nice," 8,8 "
+Jacky,Maroc,0,2019-11-08,Beau cadeau d anniversaire,Petit déjeuner bar musique resto super,Rien,10,Hôtel,Nice," 8,8 "
+Jeanne,France,0,2019-11-06,Sejour splendide dans un lieux inouï.,"L'établissement est magnifique, un véritable musée c'est incroyable de séjourner dans un tel endroit.",Les chambres ne sont pas insonorisées (bruits des autres chambres et de la route) et les rideaux de la chambre n'étaient point opaques. Mais c'est un détail.,"8,0",Hôtel,Nice," 8,8 "
+Gael,France,0,2019-11-06,Superbe,"L’aspect historique , le luxe désuet",Le manque de fonction de l’espace rotonde qui n’est alors qu’un beau lieu à photographier. C’est un lieu Instagram qui pourrait être utilisé,"8,8",Hôtel,Nice," 8,8 "
+Isabelle,France,0,2019-11-03,Bien ,"On a adoré l’emplacement , le bar magnifique,les cocktails délicieux et l’aspect historique","Service un peu limite dans les chambres : le mug sale reste sur place après un thé, pas de renouvellent des sachets de thé ni des bouteilles d’eau pour la deuxième nuit.
+La plage de l’hotel, carrément hors cadre: plus de pain pour les petits dej à 10h30, attente interminable pour un café: bref en dessous du service attendu dans un palace ...","7,5",Hôtel,Nice," 8,8 "
+Daniel,France,0,2019-11-03,Exceptionnel,Tout,None,10,Hôtel,Nice," 8,8 "
+Natalie,Belgique,0,2019-11-01,Exceptionnel,"Le plus bel hôtel du monde, un mythe réel, vivez des moments magiques. Le personnel vous donnera l’impression d’être une star. Des œuvres artistiques se trouvent à tous les étages, vous aurez la plus belle vue de la Baie des Anges que l’on puisse imaginer, les lits sont confortables, les salles de bain sont en marbre rose, tout n’est que luxe calme et volupté",None,10,Hôtel,Nice," 8,8 "
+Jean-marie,France,0,2019-10-31,super,bien,None,10,Hôtel,Nice," 8,8 "
+Stephane,France,0,2019-10-27,Exceptionnel,Parfait,None,10,Hôtel,Nice," 8,8 "
+Alain,France,0,2019-10-27,"Très bel endroit chargé d'histoire et d'art , mauvaise note pour le restaurant La Rotonde dommage !","Chambre situation, ensemble de l'endroit mythique, service chambre, réception et conciergerie impeccable. Room service .","Restaurant La Rotonde, personnel pas du tout à la hauteur du Negresco. Obligé de redemandé les choses deux fois, les apéritifs servis en même temps que l'entrée et pas de chef qui relève le niveau, décevant à ce niveau là , cinq étoiles quand même. Le bar, ne commandez pas un Irishcoffee ils ne savent pas faire tout simplement ?????","8,8",Hôtel,Nice," 8,8 "
+Anne-charlotte,Guadeloupe,0,2019-10-22,Mémorable,"Luxe ,très bon accueil , reposant après un long voyage",Rien,10,Hôtel,Nice," 8,8 "
+Florence,Suisse,0,2019-10-21,"Intemporel ,chargé d’histoire et serein .","L’atmosphère et l’histoire de l’établissement ,la gentillesse et disponibilité du personnel (sans trop en faire non plus).La décoration (c’est un vrai musée à lui seul ).
+Superbe !",Rien,10,Hôtel,Nice," 8,8 "
+Nicolas,France,0,2019-10-21,Séjour pour passer une nuit dans un palace au moins une fois dans la vie.,Très bon accueil. Personnel courtois et disponible. Chambre spacieuse et confortable. Excellent petit déjeuner,None,"9,6",Hôtel,Nice," 8,8 "
+Guy,Luxembourg,0,2019-10-21,Bien ,Personnel prévenant bons restaurants,Salle de bains avec un élément de chauffage qui ne fonctionnait pas malgré réclamation.,"7,9",Hôtel,Nice," 8,8 "
+Philippe,France,0,2019-10-19,Exceptionnel,"Accueil exceptionnel, bref mais mémorable séjour.
+Surclassement dans une des plus belles suites de l’hôtel, panorama à 250°
+Personnel aux petits soins 
+Petit-déjeuner au top (qualité variété et fraîcheur des produits). En brasserie le midi, très bonne table.
+Seul le service est un peu lent et désorganisé.
+On reviendra au Negresco encore et encore !",None,10,Hôtel,Nice," 8,8 "
+Dumoulin,France,0,2019-10-17,fantastique,"2 jours de rêve.
+Séjour inoubliable !!!",absolument rien,10,Hôtel,Nice," 8,8 "
+Guy,France,0,2019-10-17,Exceptionnel,None,"Le concierge pas aimable à notre question sur un restaurant 
+Nous a envoyés balader en prenant un appel sans s excuser et nous a meme pas repris apres",10,Hôtel,Nice," 8,8 "
+Sisi108,France,0,2019-10-13,Exceptionnel,La chambre la beauté de l'hôtel les œuvres d art le petit dej et le personnels au petit soin pour rendre notre sejour meilleur.,Juste le bruit de l'extérieur,"9,6",Hôtel,Nice," 8,8 "
+Dominique,France,0,2019-10-05,Le rêve à portée de main,"Superbe établissement avec un accueil irréprochable
+Les petites attentions comme de petits chocolats pour nous souhaiter une bonne nuit
+La déco de la chambre ""exclusive"" très romantique et bien meublée
+Le journal sur la porte le matin
+Le lieu chargé d'histoire, à visiter tel un musée
+Le petit déjeuner pour 30 € à la Rotonde excellent et varié, du saumon aux jus de fruits frais, des viennoiseries et du pain exquis
+Tout était parfait, 5 étoiles oblige !",RAS,10,Hôtel,Nice," 8,8 "
+Nathalie,France,0,2019-10-03,À refaire,"Le petit déjeuner impeccable, surtout les œufs brouilles. La literie très bonne.",Rien,"9,6",Hôtel,Nice," 8,8 "
+Vincent,France,0,2019-10-02,Parfait,"Tout est parfait ... et quand le soleil est présent, prendre le petit déjeuner ou diner sur la terrasse reste un très bon moment",ne rien changer,10,Hôtel,Nice," 8,8 "
+Sébastien,France,0,2019-09-29,Exceptionnel,"Le luxe à la française ! Le mobilier .
+Le personnel dispo et souriant","La soirée de mariage organisée au rez-de-chaussée, très bruyante, tard dans la nuit. La rupture de stock de bouchons d’oreille à l’accueil 😬","9,6",Hôtel,Nice," 8,8 "
+Gregory,États-Unis,0,2019-09-29,Exceptionnel,Le personnel très agréable et l’emplacement,La chambre était vétuste pas rénovée depuis très longtemps,10,Hôtel,Nice," 8,8 "
+Paul-henri,France,0,2019-09-26,Hotel fabuleux pour l'amateur d'art que je suis !,"Hotel fabuleux par ces espaces intérieurs, une vrai galerie d'art, et son emplacement",None,10,Hôtel,Nice," 8,8 "
+Bpa33,France,0,2019-09-22,Exceptionnel,Des oeuvres d'art à chaque étage et dans les chambres. Cet hôtel est un bijou.,None,"9,6",Hôtel,Nice," 8,8 "
+Pascal,France,0,2019-09-18,Exceptionnel,"Magnifique, somptueux ! Bar cosy et classe. Très bonne carte. Brasserie La Rotonde Très Bien !!",None,10,Hôtel,Nice," 8,8 "
+Jacques,Guyane française,0,2019-09-17,Exceptionnel,Esthétisme,De partir !,10,Hôtel,Nice," 8,8 "
+Anne,France,0,2019-09-15,Bien ,None,Hôtel vieillissant mériterait une bonne rénovation.,"7,5",Hôtel,Nice," 8,8 "
+Nour,Arabie saoudite,0,2019-09-11,Très bien,None,No machine de café dans les chambres et l’hôtel était cher.,"8,3",Hôtel,Nice," 8,8 "
+Sébastien,France,0,2019-08-19,Magnifique. Merci Le Negresco,Les gens qui composent l équipe. D avoir pu jouer du piano. Toutes les petites attentions. La gastronomie. L art et les oeuvres. Le calme. La sérénité. La gentillesse. Tout.,None,10,Hôtel,Nice," 8,8 "
+Stephane,France,0,2019-08-18,Très bonne expérience,super rien à redire,rien,"7,5",Hôtel,Nice," 8,8 "
+Gilles,France,0,2019-08-16,Fabuleux ,Viennoiseries excellentes,None,"9,2",Hôtel,Nice," 8,8 "
+Gilles,France,0,2019-07-21,Fidèle à sa réputation. Surtout prière de conserver cet état d’espr,L’accueil et l’amabilité du personnel. Le côté musée de l’établissement et la liberté de le visiter.,"Les horaires du Chantecler pas assez étendus. Non ouvert le midi ni dimanche et trop vite ferme le soir.
+Cote « pingre » du petit déjeuner: œuf au plat avec supplément ! Et prix excessif si commande en chambre.","8,8",Hôtel,Nice," 8,8 "
+Claudine,France,0,2019-07-13,Séjour extraordinaire. Vive le negresco!,Un lieu mythique. Magnifique. Un style qui n’appartient qu’à lui seul.,Personnellement je pourrais dire que le manque de flexible dans la salle de bain m’a un peu contrarié mais me laver comme au 20eme siècle est une expérience intéressante.,10,Hôtel,Nice," 8,8 "
+Pierre,France,0,2019-07-07,Nous reviendrons,Très bonne table -personnel aux petits soins Hôtel magnifiquement décoré. Suite donnant sur une très belle vue .,Il manque une piscine ou une plage appartenant à l’hotel ( comme les grands hôtels de Cannes),"8,8",Hôtel,Nice," 8,8 "
+Martine,France,0,2019-07-04,Séjour Nicois super dans un excellent hôtel,"La gentillesse et la disponibilité du personnel. La qualité des différents services
+L'emplacement de cet hôtel",None,10,Hôtel,Nice," 8,8 "
+Marc,France,0,2019-07-01,Exceptionnel,La décoration et les œuvres d’art. Le service parfait.,None,10,Hôtel,Nice," 8,8 "
+Yann,France,0,2019-06-16,Juste parfait et digne d un palace. Hate d y revenir.,Tout. comme dans un rêve.,None,10,Hôtel,Nice," 8,8 "
+Simona,Belgique,0,2019-06-06,Bien ,"La zone, les décorations d hôtel, le service des concierges magnifique","L électricité système et plomberie problèmes , le service de femmes de chambre","7,5",Hôtel,Nice," 8,8 "
+Didier,Île Maurice,0,2019-06-06,Exceptionnel,"malheureuesement je suis reste 1 seule journee, l'ambiance , le staff , l'histoire de l'etablissement, l'art tout est unique dans ce palace … J'ADORE prochaine fois minimum 10 jours",None,10,Hôtel,Nice," 8,8 "
+Marianne,France,0,2019-06-02,Fabuleux ,Le style mythique de l etablissement,Amélioration possible avec spa et piscine,"9,2",Hôtel,Nice," 8,8 "
+Dayet,France,0,2019-05-23,Exceptionnel,C est bien d avoir conservé toute l âme de ce très bel établissement,Petit détail :Tasse de thé en debut d après midi non Changée pour le soir .....,"9,6",Hôtel,Nice," 8,8 "
+Laurent,France,0,2019-05-20,Fabuleux ,"Tout le reste,l'hôtel est magnifique, c'est à voir !",L'absence d'une piscine,"9,2",Hôtel,Nice," 8,8 "
+Stéphane,France,0,2019-05-19,Superbe,"Atmosphère historique 
+Qualité du petit déjeuner",Salle de baib,"8,8",Hôtel,Nice," 8,8 "
+Rene,Monaco,1,2019-02-28 00:00:00,Perfecto,"Tout .l accueil ,le personnel ,le cadre 
+Juste un regret sur le buffet petit déjeuner ,un peu trop léger à mon goût ( pas d œufs brouillés,pas de saucisses,pas de bacon ,pas d œufs durs ,pas de pan cake ..etc )",En fait tout était parfait,10,Hôtel,Nice," 7,6 "
+Eric,France,0,2020-03-15 00:00:00,Très bien,Des services rendu un jour et le suivant supprimer à cause du coronavirus,Le personnel de contredit!!!! J'appelle quelques jours avant pour savoir si je pouvais laisser ma voiture 2 jours on me confirme que oui et au retour les employés se renvoient l'appareil !!!! Très déçu heureusement l'employé qui m'a reçu le soir pour récupérer ma voiture était très bien et très compréhensible,"8,0",Hôtel,Nice," 7,6 "
+Claude,France,0,2020-03-12 00:00:00,Fabuleux ,La navette aéroport à presque 23h,None,"9,0",Hôtel,Nice," 7,6 "
+Jeanpol,Belgique,0,2020-03-12 00:00:00,Parfait en attente d'un vol Bus-Tram approximité,Chambre pas de placard pour ranger ses vêtements Assez de tout pour le petit déjeuner Navette vers aéroport gratuite,"J'ai acheté ma nuitée par l'intermédiaire de booking.com à 77€ tout compris cad taxes comprises et on m'a réclamé 80 € on a rajouté les taxes je l'ai signalé et le réceptionniste m'a répondu "" c'est toujours pareil avec booking ""j'ai payé les 80 € mais je ne comprend toujours pas !!!!!!!","7,0",Hôtel,Nice," 7,6 "
+Mariefrance,France,0,2020-03-11 00:00:00,Bien ,None,"le prix ne correspond pas à la qualité de la prestation prix trop élevé
+de plus mauvaise explication par rapport à l'accés de l'établissement","7,0",Hôtel,Nice," 7,6 "
+Vanessa,France,0,2020-03-08 00:00:00,Très bien,L’emplacement très proche de l’aéroport,None,"8,3",Hôtel,Nice," 7,6 "
+Claude,France,0,2020-03-04 00:00:00,Jotel pratique,None,Le matelas très inconfortable,"8,0",Hôtel,Nice," 7,6 "
+Christine,France,0,2020-03-02 00:00:00,"super séjour, on y reviendra!","excellent emplacement à 5 min à pied du terminal 1 de l'aéroport, et navette gratuite de l'hôtel pour le terminal 2.
+literie confortable, belle chambre, buffet sympa, personnel aux petits soins!",rien!,"8,0",Hôtel,Nice," 7,6 "
+Christian,France,0,2020-03-01 00:00:00,Très bien,Plusieurs fois dans cet hôtel. Bien situé par rapport à l'aéroport. Chambre très propre et bon petit déjeuner/,None,"8,0",Hôtel,Nice," 7,6 "
+Frans,France,0,2020-02-29 00:00:00,Idéal pour prendre un vol à 7h du matin,Personnel accueillant et souriant. Meilleur rapport qualité / prix de tous les hôtels aux abords de l’aéroport. Bonne insonorisation et literie confortable. La navette gratuite pour aller à l’aéroport est appréciable quand on a une grosse valise.,Le buffet du soir fait un peu cantine avec du réchauffé qui d’ailleurs n’est pas toujours très chaud. Dommage car le personnel est très attentionné.,"8,8",Hôtel,Nice," 7,6 "
+Véronique,France,0,2020-02-28 00:00:00,Convenable,L’emplacement est très bien!,Le buffet,"7,9",Hôtel,Nice," 7,6 "
+Fatma,France,0,2020-02-26 00:00:00,Très bien,L accueil formidable.,None,"8,0",Hôtel,Nice," 7,6 "
+Mihaela,Roumanie,0,2020-02-24 00:00:00,Excellent ...avec bémol pour le restaurant,"Le personnel très sympa et compétent 
+La navette gratuite 
+Le decor","Manque de produits pour le repas du soir
+La lenteur du service sauf le garçon du bar","9,0",Hôtel,Nice," 7,6 "
+Jean-marie,France,0,2020-02-20 00:00:00,Bien ,LITERIE,"PLUS DE SAVON DANS LA DOUCHE
+MANIEMENT DE LA CLIMATISATION PAS EVIDENTE
+INSONORISATION MOYENNE","7,0",Hôtel,Nice," 7,6 "
+Sylvie,France,0,2020-02-19 00:00:00,Très bien,Juste à côté de l aeroport. Juste une nuit avant un départ. Confortable et pratique.,None,"8,0",Hôtel,Nice," 7,6 "
+Marie,Belgique,0,2020-02-18 00:00:00,bon rapport qualité prix,proximité de l'aéroport et accès tram direct centre ville rapport qualité prix des buffets personnel très disponible possibilité d'un petit café le matin en chambre,None,"8,0",Hôtel,Nice," 7,6 "
+Maë,France,0,2020-02-16 00:00:00,Bien ,Amabilité du personnel. Nous a gardé les bagages le jour du départ.,Rien,"7,1",Hôtel,Nice," 7,6 "
+René,France,0,2020-02-11 00:00:00,Correct et bien situé pour prendre l avion,Tres bon restaurant avec beaucoup de choix,Ras,"8,0",Hôtel,Nice," 7,6 "
+Claudette,France,0,2020-02-11 00:00:00,sympa pour une nuit,correct,None,"8,0",Hôtel,Nice," 7,6 "
+Claude,France,0,2020-02-10 00:00:00,UN EXCELLENT WEEK END . REVIENDRONS ET RECOMMANDERONS A D'AUTRES PERSONNES,EXCELLENT UN ACCUEIL EXCELLENT PETIT DEJ AVEC DU CHOIX PERSONNEL A VOTRE ECOUTE PROCHE DE TOUT TRANSPORTS ET HOTEL TRES BIEN ISOLE DU BRUIT,AU MENU PLUS DE FACILITE A PRENDRE UN MELANGE DE PLATS,"9,0",Hôtel,Nice," 7,6 "
+Karine,France,0,2020-02-08 00:00:00,Très bien pour un départ en voyage à l’aéroport de Nice,"La localisation en face de l’aéroport 
+La navette gratuite pour l’aéroport","Le restaurant, cuisine et desserts industriels
+Prix élevés de la carte pour ce qui est servit","7,5",Hôtel,Nice," 7,6 "
+Thierry,France,0,2020-02-03 00:00:00,Nous reviendrons,La gentillesse du personnel. La praticité de la navette,Chambre petite,"8,0",Hôtel,Nice," 7,6 "
+Catherine,France,0,2020-01-27 00:00:00,Très bien,"Très bien, c'est un point de chute que j'apprécie particulièrement lors de départs aux aurores à l'aéroport de Nice, il est situé à deux minutes du terminal. Confortable, propreté impeccable, personnel charmant. Une mention spéciale à la personne à l'accueil ce matin là à 5h30, tout sourire et l'excellent grand café pris au bar vue l'heure matinale !",None,"8,0",Hôtel,Nice," 7,6 "
+Christine,France,0,2020-01-24 00:00:00,"très contents de notre séjour, nous avons particulièrement apprécié l'accueil.","accueil très agréable, super emplacement tout près de l'aéroport, service navette gratuit, et sympathique, service réveil parfait, restaurant buffet très varié et très bon, bref , très content de notre séjour, et on y reviendra!",pas de critique à faire!,"8,0",Hôtel,Nice," 7,6 "
+Jeff,France,0,2020-01-21 00:00:00,Fabuleux ,"La gentillesse du personnel 
+La navette pour l aeroport",Le Pdj un peu cher,"9,0",Hôtel,Nice," 7,6 "
+Pascal,France,0,2020-01-20 00:00:00,amabilité à l’accueil comme dans les autres services,accueil et choix et service des produits très bien,ras,"9,0",Hôtel,Nice," 7,6 "
+Agathe,France,0,2020-01-18 00:00:00,Bien ,C’est un hôtel d’aéroport quoi donc rien d’exceptionnel mais pas mal pour le prix,None,"7,1",Hôtel,Nice," 7,6 "
+Guy,France,0,2020-01-15 00:00:00,Bien,None,Carte magnétique fabriciite a l envers il a fallut deux descente à l accueil avant qu il finisse par nous le dire,"7,0",Hôtel,Nice," 7,6 "
+Armance,France,0,2020-01-15 00:00:00,Je reviendrais,"Bon accueil , propre .
+Personnel à l'écoute si l'on a besoin d'être guidé quand est pas de la région
+Menu et petit déjeuner suffisant et frais","Ce que j'ai le moins apprécié ce pas la faute de l'établissement c'est le manque de respect des autres clients t le soir et surtout la nuit Portes qui clac , bavardage comme si on était à la foire , etc etc etc ............le non respect des gens ne peut pas vous en rendre responsable","8,0",Hôtel,Nice," 7,6 "
+Ldhaene,Belgique,0,2020-01-12 00:00:00,bon compromis en cas de grève,"Je cherchais un hôtel près de l’aéroport à cause des grèves . Bon accueil, chambre convenable et bonne literie. On peut aller à l'aéroport à pied et pas loin du tram qui peut nous amener dans le centre (Sauf si grève !) . Nous avons apprécié les buffets chauds au restaurant .",None,"8,0",Hôtel,Nice," 7,6 "
+Laurence,France,0,2020-01-09 00:00:00,Court séjour mais top,"Nous sommes arrivés tard (1h00 du matin) et reparti très tôt (5h00). Le personnel a été très accueillant, l'hôtel est calme ce qui permet de bien dormir !! Le chauffeur de la navette, qui était complète, a fait un aller-retour express pour nous éviter d'aller à l'aéroport à pied. Nous recommandons cet établissement.",None,"8,0",Hôtel,Nice," 7,6 "
+Anne,France,0,2020-01-06 00:00:00,Fabuleux ,None,Ma réservation n'a apparement pas été transmise par Booking à l'hôtel !!!!!!! Heureusement que j avais mon voucher en main et que surtout l'hôtel avait de la disponibilité .....................,"9,0",Hôtel,Nice," 7,6 "
+Hugues,France,0,2020-01-06 00:00:00,Séjour pas trop reposant,Prix correct et la propreté de l hôtel,Système de ventilation bruyante dans la chambre. Réveiller à une heure du matin par l alarme incendie .Manque de choix au buffet chaud,"7,0",Hôtel,Nice," 7,6 "
+Audrey,France,0,2020-01-03 00:00:00,Très bien,Accueil parfait,Rien,"8,0",Hôtel,Nice," 7,6 "
+Nicolas,France,0,2019-12-29 00:00:00,Bien ,L'emplacement de l'hôtel idéal pour prendre un vol.,La salle de bain vieillotte,"7,0",Hôtel,Nice," 7,6 "
+Gervais,France,0,2019-12-28 00:00:00,Fabuleux ,tres pratique la navette de hotel...gratuite....,None,"9,0",Hôtel,Nice," 7,6 "
+Virginie,France,0,2019-12-26 00:00:00,Bon rapport qualité/prix,La literie parfaite et possibilité de laisser son bagage sans frais.,Rien,"9,0",Hôtel,Nice," 7,6 "
+Isabelle,France,0,2019-12-22 00:00:00,Bel établissement confortable,"Personnel accueillant, chambres propres et confortables",None,"8,8",Hôtel,Nice," 7,6 "
+Charlotte,France,0,2019-12-19 00:00:00,Bien ,L’emplacement est parfait pour prendre l’avion. 10 euros de l’hôtel à l’aéroport en Uber. Bar très sympa. Personnel à l’écoute.,La nourriture du buffet n’est pas excellente..,"7,9",Hôtel,Nice," 7,6 "
+Veronique,Nouvelle-Calédonie,0,2019-12-18 00:00:00,bien situer mais signaletique et accès parking a ameliorer,Pres de l'aéroport propre et bien équipé,Pas bien indiqué surtout quand on arrive de nuit. Pas d'ascenseur jusqu'au parking obliger de monter des escaliers avec les valises. Tarifs du parking 12€ par jour. Prix de la nuitée super au prix indiqué sur booking....,"9,0",Hôtel,Nice," 7,6 "
+Thierry,France,0,2019-12-16 00:00:00,Fabuleux ,proximité aéroport ... c'est cela que j'attendais pour 5/6 heures de sommeil,None,"9,0",Hôtel,Nice," 7,6 "
+Sandrine,France,0,2019-12-16 00:00:00,Bien ,Personnel d accueil professionnel et sympatique et petit-déjeuner varié. Personnel a l l'ecoute,L aspirateur non passe sur la moquette de la chambre on a retrouvé une grosse épingle avec carton blanc (emballage chemise neuve et morceaux de plastique).on est content de ne pas avoir mis le pied dessus. Ampoule a changer chambre le grand globe.,"7,0",Hôtel,Nice," 7,6 "
+Chrystèle,France,0,2019-12-15 00:00:00,Très bien,l accueil tres bien,None,"8,0",Hôtel,Nice," 7,6 "
+Christophe,Martinique,0,2019-12-09 00:00:00,Superbe,L’emplacement,"Garage non fermé et descente de canalisation qui pleuvait sur la voiture garée !
+Matelas dur en surface.","8,8",Hôtel,Nice," 7,6 "
+Amelie,France,0,2019-12-03 00:00:00,Agréable,"Proche aéroport 
+Parking non payant proche de l’établissement","Quand on est placé près d’un aéroport et que le département est placé en vigilance rouge inondations... on ne laisse pas une personne seule à l’accueil , on se doute qu’il va y avoir du monde et qu’il risque d’être débordé. Résultat , nous avons mis 45 minutes pour avoir la clé de notre chambre . 
+Et encore cela n’a pas été sans mal ... première chambre , il y avait déjà quelqu’un . Seconde chambre surprise surprise ... encore quelqu’un ! 
+Énorme manque de sérieux de la part de l’établissement .","6,2",Hôtel,Nice," 7,6 "
+Isabelle,France,0,2019-12-02 00:00:00,Très bien,"La proximité avec l’aéroport 
+Le bain",La literie moyenne,"8,0",Hôtel,Nice," 7,6 "
+Sabine,États-Unis,0,2019-12-01 00:00:00,Très bien,"Le rapport qualité prix est bon. En face de l aeroport on peut y venir a pied (terminal 1).
+La chambre silencieuse l a vraiment été",None,"8,3",Hôtel,Nice," 7,6 "
+Pierre,France,0,2019-11-26 00:00:00,Bien,"Proche aéroport 
+Service navette 
+Accueil",None,"8,3",Hôtel,Nice," 7,6 "
+Myriam,France,0,2019-11-18 00:00:00,"Bon séjour, personnel accueillant et agréable.",très bien rien à dire,None,"8,0",Hôtel,Nice," 7,6 "
+Isabelle,Guyane française,0,2019-11-17 00:00:00,Bien ,Près de l aeroport.,None,"7,1",Hôtel,Nice," 7,6 "
+Philippe,France,0,2019-11-13 00:00:00,Bien ,"L'emplacement, proche de l aéroport","Le dîner, buffet chaud, ou tout était froid !!","7,1",Hôtel,Nice," 7,6 "
+Jean-charles,France,0,2019-11-11 00:00:00,bien,tout,ne pas être appelé avant le départ de la navette aéroport,"8,0",Hôtel,Nice," 7,6 "
+Jean,La Réunion,0,2019-11-10 00:00:00,Bien ,La tranquillité et les repas du soir,Rien,"7,0",Hôtel,Nice," 7,6 "
+Marie,France,0,2019-11-10 00:00:00,Très bien,L'accueil sympathique et le confort de l'hotel,Ras,"9,0",Hôtel,Nice," 7,6 "
+Mireille,France,0,2019-11-08 00:00:00,deux jours prés de l’aéroport pratique a souhait c'est super,je connais l’établissement depuis sa création c'est ce que l;on pouvait en attendre tres bien,"rien sauf qu'il faut savoir que pour y déjeuner le midi il faille réserver, ok mais faites le savoir","7,0",Hôtel,Nice," 7,6 "
+Annette,France,0,2019-11-06 00:00:00,Superbe,"La navette de l’aéroport a l’hôtel sur un simple appel lors de la descente de l’avion.
+Je suis arrivée à 22h10 .
+La sympathie du personnel",Un léger bruit près de la chambre 118( peut être l’ascenseur),"8,8",Hôtel,Nice," 7,6 "
+Malcolm,Royaume-Uni,0,2019-11-06 00:00:00,Très bien,Tres Bien,Non necessaire.,"8,0",Hôtel,Nice," 7,6 "
+Kevin,France,0,2019-11-03 00:00:00,Superbe,"Nous avions pris cet hôtel la dernière nuit de notre séjour ça nous avions un vol tot le matin, et l’établissement propose une navette gratuite pour se rendre à l’aéroport à différentes heures, c’est top",None,"8,8",Hôtel,Nice," 7,6 "
+Didier,France,0,2019-11-03 00:00:00,Bien ,None,Personnel du restaurant et ce restaurant ferme trop tôt,"7,0",Hôtel,Nice," 7,6 "
+Dominique,France,0,2019-11-02 00:00:00,Très bien,proche de l’aéroport,None,"8,0",Hôtel,Nice," 7,6 "
+Morin,France,0,2019-11-02 00:00:00,Pas chère,La proximité de l aéroport la navette l amabilite de l accueil du vendredi soir ! Le petit déjeuner,Le contact du chef recrptionniste du samefi 2 au matin et surtout le matelas tres usé.... Mal de dos au levé !!!,"7,0",Hôtel,Nice," 7,6 "
+Christiane,France,0,2019-11-02 00:00:00,Bien ,L accueil les repas et la navette pour rejoindre le bateau la propreté le personnel disponible,Le manque de chaleur dans la chambre l,"7,5",Hôtel,Nice," 7,6 "
+Guillaume,Tunisie,0,2019-10-28 00:00:00,Accueil d’un homme désagréable,Accueil de jeune fille très souriante et très sympathique,"Accueil t’es désagréable d’un homme qui ce prénomme Francis, en l’occurrence très mal accueilli, aucune politesse venant de sa part","7,1",Hôtel,Nice," 7,6 "
+Gérard,France,0,2019-10-24 00:00:00,"Si la direction ne reprend pas ""l'affaire en mains"", ce sera une catastrophe trés prochainement",Emplacement propreté,"Amabilité du personnel a l'arrivée le soir
+un ascenseur en panne
+le bar qui doit fermer à 23H00 ferme à 22H30
+le restau idem
+l'encodage de la carte d'accès à la chambre défaillant, il faut faire plusieurs fois les aller retour entre le 3ème étage et l'accueil 
+télécommande de la TV de la chambre HS","6,2",Hôtel,Nice," 7,6 "
+Justine,France,0,2019-10-24 00:00:00,Très bien,Tout le nécessaire qui faut. Personnel très agréable et au soins de ses clients,None,"8,3",Hôtel,Nice," 7,6 "
+Boris,France,0,2019-10-16 00:00:00,Agréable,L'hotel et ses commodités et le personnel de restauration.,"Je suis passé par Booking . com et j'ai réglé 98,10 euros. Ensuite une fois sur place le lendemain matin en partant l'hôtesse m'a expliqué qu'il ne s'agissait que d'une réservation et qu'il me fallait régler. J'ai donc payé à nouveau 111,50 euros (repas compris ) !!!! Je souhaiterais bien évidemment être remboursé de l'indu. par avance merci.","6,2",Hôtel,Nice," 7,6 "
+Nicolas,France,0,2019-10-11 00:00:00,Bien ,Les coussins confortables et l’emplacement accessible à l’aéroport et au centre ville facilement,"Le petit déjeuner pas compris dans les chambres , un peu cher mais raisonnable par rapport à l’emplacement","7,9",Hôtel,Nice," 7,6 "
+Xavier,France,0,2019-10-11 00:00:00,Agréable,L'accueil du soir,"Chambre à demi faite entre la première et la deuxième nuit... étrange 
+salle bain faite mai c'est tout...
+le soir j'ai voulu manger sur place pour éviter de sortir...impossible trop de monde! accueil du responsable au bard très désagréable...finalement j'ai mangé dehors avec un autre voyageur dans la même situation que la mienne","6,2",Hôtel,Nice," 7,6 "
+Mathieu,France,0,2019-10-10 00:00:00,Agréable,La propreté des lieux,Les réceptions wifi et télé relativement médiocres,"6,2",Hôtel,Nice," 7,6 "
+Réal,Canada,0,2019-10-06 00:00:00,Tout était bien.,L’accueil et la gentillesse des employés.,La salle de bain.,"7,0",Hôtel,Nice," 7,6 "
+Jacqueline,France,0,2019-10-05 00:00:00,Bien ,Bien avec beaucoup de choix.,"La navette étant en panne, j'ai dû me rendre à pied à l'hôtel. Ce qui n'est pas très agréable avec les bagages et ne connaissant pas l'aéroport de Nice dans lequel je me rendais pour la première fois.","7,1",Hôtel,Nice," 7,6 "
+Catherine,France,0,2019-10-04 00:00:00,Bien ,la proximité de l'aéroport,le parking non réservable et qui est complet quand on arrive....parking public à proximité mais 2 fois plus cher!,"7,5",Hôtel,Nice," 7,6 "
+Jean-claude,Canada,0,2019-09-28 00:00:00,"Court séjour entre deux destinations. À ce point de vue, l'hôtel est correct.",Emplacement très pratique pour prendre un avion tôt. Chambres petites mais propres. Trop cher pour ce que cet hôtel offre. Service de navette insuffisant.,Une modification à la baisse des tarifs.,"6,2",Hôtel,Nice," 7,6 "
+Richard,France,0,2019-09-28 00:00:00,Très bien,Super buffet du petit déjeuner et très bien situé par rapport à l'aéroport et une navette gratuite toutes les 30 mnsm,Une restauration du soir très quelconque,"8,3",Hôtel,Nice," 7,6 "
+Philippe,France,0,2019-09-25 00:00:00,Bon rapport qualité prix,Bien proximité du terminal 1,Confort simple,"7,1",Hôtel,Nice," 7,6 "
+Cedric,France,0,2019-09-18 00:00:00,Très bien,la proximité de mon lieu de déplacement,j ai retrouvé ma porte ouverte en rentrant le soir et par deux fois une personne est rentrée dans la chambre avant 8h,"8,3",Hôtel,Nice," 7,6 "
+Anne-marie,France,0,2019-09-18 00:00:00,Agréable,L accueil au buffet et plus précisément la gentillesse et le professionnalisme de Fred,Les chambres doubles lit séparé sont petites,"6,7",Hôtel,Nice," 7,6 "
+Annik,Nouvelle-Calédonie,0,2019-09-17 00:00:00,Bien ,proximité aéroport nice,None,"7,9",Hôtel,Nice," 7,6 "
+Stephane,Nouvelle-Calédonie,0,2019-09-14 00:00:00,Très bien,"Proximité aeroport
+Calme
+Propre
+Accueil : personnel avenant en arrivant et en partant","Le personnel du restaurant peu souriant et leu aimable
+Impression de déranger surtout le matin","8,3",Hôtel,Nice," 7,6 "
+Eric,Canada,0,2019-09-11 00:00:00,Superbe,L’emplacement près de l’aéroport,Le prix quasi prohibitif d’une chambre de qualité moyenne.,"8,8",Hôtel,Nice," 7,6 "
+Michel,France,0,2019-09-11 00:00:00,Agréable,La navette gratuite pour l aeroport,"Sommier bruyant 
+Télécommande tv récalcitrante 
+Télévision avec plein de chaînes manquantes déréglées et donc non visibles","6,7",Hôtel,Nice," 7,6 "
+Vincent,France,0,2019-09-10 00:00:00,Fabuleux ,"Chambre très calme, gentillesse et attention du personnel.",Rapport Qualité/prix du restaurant médiocre.,"9,0",Hôtel,Nice," 7,6 "
+Marie,France,0,2019-09-09 00:00:00,Tb,Très bon rapport qualité prix . Personnel très aimable er souriant . Jouissance du parking facilitée,En face de l 'aéroport . Un peu loin de la ville,"8,3",Hôtel,Nice," 7,6 "
+Francois,France,0,2019-09-09 00:00:00,Agréable,None,acces voiture complexe;,"6,7",Hôtel,Nice," 7,6 "
+Jamal,Maroc,0,2019-09-01 00:00:00,Bof,"Diner au restaurant,service chaleureux","J ai pas dormi de la nuit à cause de la lumière du réverbère externe juste en dessus de la fenêtre,rideau insuffisantpas top","7,0",Hôtel,Nice," 7,6 "
+Lionel,Canada,0,2019-09-01 00:00:00,Bien ,l'emplacement à proximité de l''aéroport,"1. absence de place pour arrêter la voiture devant lhôtel et décharger/charger les bagages
+2. absence d''ascenseur pour descendre les bagages au garage souterrain","7,5",Hôtel,Nice," 7,6 "
+Helena,France,0,2019-08-31 00:00:00,Bien ,Le personnel à l'accueil et au pti dej ainsi que l'emplacement proche de l'aéroport,Un trou de cigarette dans ma housse de couette...,"7,9",Hôtel,Nice," 7,6 "
+Beatrice,France,0,2019-08-31 00:00:00,Situation idéale pour aéroport,"Très très bon accueil à la réception 
+Très bons buffets",None,"8,8",Hôtel,Nice," 7,6 "
+Richard,France,0,2019-08-31 00:00:00,Bien ,"Buffet petit déjeuner, accueil et emplacement proche aéroport Terminal 1 à 8mns à pied",La restauration du soir est peu recherchée,"7,9",Hôtel,Nice," 7,6 "
+Jose,France,0,2019-08-31 00:00:00,Correct dans l'ensemble,La situation géographique,"Un seul oreiller, on dort pour le coup trop a plat","6,7",Hôtel,Nice," 7,6 "
+Raymond,France,0,2019-08-31 00:00:00,agréable,"Excellent personnel très efficace et sympathique
+Repas excellent rapport/qualité prix",Les oreillers sont trop dursBien,"8,5",Hôtel,Nice," 7,6 "
+Marie,France,0,2019-08-30 00:00:00,Face à l’aéroport de Nice hôtel pratique pour une étape.,"Idéal pour une étape avant un vol .
+Un bon hôtel de chaîne sans mauvaise surprise.
+Literie confortable et bonne insonorisation.
+Le dîner buffet était bon et d’un prix raisonnable
+Le parking privé payant mais indispensable dans ce quartier.
+Il y a également une navette gratuite pour les deux terminaux de l’aéroport.",A part les prostituées à côté de l’hôtel rien à reprocher en particulier.,"7,5",Hôtel,Nice," 7,6 "
+Brigitte,France,0,2019-08-30 00:00:00,Ça allait pour une nuit mais pas plus,"L’espace de vie au RDC, l’accueil du personnel, le service de navette","La climatisation dans notre chambre ne se réglait pas, j’ai attrapé une bronchite ! Et le matelas n’était pas très confortable contrairement à d’autres Camoanile","8,3",Hôtel,Nice," 7,6 "
+Takfarinas,Algérie,0,2019-08-26 00:00:00,Agréable,None,La réceptionniste qui n'as pas réglé le réveil,"6,7",Hôtel,Nice," 7,6 "
+Beth,France,0,2019-08-25 00:00:00,Bien ,Chambre propre tous les jours et lit confortable.,"Rien de particulier, juste dommage que n'ai pas de petit déjeuner compris","7,1",Hôtel,Nice," 7,6 "
+Herve,France,0,2019-08-24 00:00:00,Si besoin nous reviendrons,"Le personnel a l écoute et sympathique, la navette gratuite pour l'aéroport, la situation a 500 mètre de l'aéroport bonne literie ,bonne restauration","La décoration des chambres qui sont un peu froides,le restaurant qui pourrai être un peu plus intimiste, le coût du garage un peu élevé","7,5",Hôtel,Nice," 7,6 "
+Paola,France,0,2019-08-22 00:00:00,Satisfaisant pour une nuit,"L’entrée de l’établissement est très grande, semble neuve et propre. Cette entrée est très bien décorée, le personnel est souriant et le restaurant sert de bons repas.",Odeur de canalisation à l’étage 5. Le plafond serait à refaire car très taché. La salle de bain ou au moins les wc serait également à changer.,"6,2",Hôtel,Nice," 7,6 "
+Frédéric,France,0,2019-08-22 00:00:00,utile,Facilité d'accés á l'aéroport,espace salle de bain,"7,5",Hôtel,Nice," 7,6 "
+Bruno,France,0,2019-08-21 00:00:00,appréciable,None,"Le petit déjeuner aurait pu être mieux et le pain était un peu sec et cela aurait été sympa d'avoir plus de pain différents (céréales, complet, brioché)
+je pense qu'il manquait des fruits secs, oeuf brouillé et bacon
+conclusion : j'ai trouvé le petit cher par rapport à la qualité
+La salle de repas manqué un peu d'air = trop chaud","7,5",Hôtel,Nice," 7,6 "
+Fleurbleue,France,0,2019-08-20 00:00:00,"Satisfaite de ce séjour, j’y reviendrai volontiers.",chambre propre et design. Literie confortable. Rideaux occultants. Clim efficace. Personnel agréable ; j’ai pu laisser ma valise en bagagerie jusqu’a mon départ pour profiter de la ville,Le pare-douche de la baignoire ne restait pas bloqué. Le bruit des avions à proximité.,"7,1",Hôtel,Nice," 7,6 "
+Jean-claude,Saint-Pierre-et-Miquelon,1,2019-04-07 00:00:00,Je recommande cet hôtel sans-faute,"Propreté 
+Calme 
+Petit déjeuner très bien garn
+Excellent pour la qualité prix et services 
+Personnel très dévoué",Rien à dire de négatif,10,Hôtel,Nice," 7,7 "
+Emmanuel,France,0,2020-04-28 00:00:00,séjour agréable sur Nice,"Chambre parfaite, neuve, très bien équipée, belle salle d'eau avec grande douche, lit confortable, nécessaire café-thé, petit déjeuner très fourni; accueil agréable également, et bonne situation de l'hôtel","manque des prises au niveau des chevets, mauvaise qualité de certains ingrédients du petit déjeuner (jus de fruits, viennoiseries passables).","8,0",Hôtel,Nice," 7,7 "
+Emmanuel,France,0,2020-04-09 00:00:00,Je sais où je dormirai la prochaîne fois que j'irai à Nice..,"L’hôtel est récent et design et le rapport qualité/prix excellent.. les chambres sont spacieuses et très calme et les lits sont très confortables..
+D'autre part le quartier est chaleureux iil y a de très bons restos..et le personnel n'hésite pas à proposer de la compagnie pour la nuit ainsi que des fortifiants au cas où.",Le parking est très difficile d'accès et quelques personnes n'hésite pas à l'utiliser comme salle de shoot..,"8,0",Hôtel,Nice," 7,7 "
+Josiane,France,0,2020-03-17 00:00:00,"Très bon qualité prix, surtout si vous y allez pour les vacances, c est pas très loin du port.","J'ai apprécié la possibilité de boire quelque chose à l'arrivée dans ma chambre. Le petit-déjeuner varié, le personnel disponible, le confort du lit.",C'est un peu loin des lieux sanitaires (clinique et hôpitaux). La taxe pourrait être plus raisonnable.,"8,0",Hôtel,Nice," 7,7 "
+Serge,France,0,2020-03-13 00:00:00,bon rapport qualite/prix,chambre et petit dejeuner tres bien,ras,"8,0",Hôtel,Nice," 7,7 "
+Patrick,France,0,2020-03-12 00:00:00,Bien ,"Hôtel bien en plein restauration , confortable et bien pour le prix",None,"7,5",Hôtel,Nice," 7,7 "
+Gilles,France,0,2020-03-11 00:00:00,Très bien,None,le bruit du travaux! l'eau chaud arrive dans le salle de bain après 2 ou 3 minutes !Donc du gaspillage !,"8,0",Hôtel,Nice," 7,7 "
+Catherine,France,0,2020-03-09 00:00:00,"Bon choix, bon rapport qualité prix.","Personnel accueillant, proche du centre ville et calme.",le buffet du pdj était copieux mais qualité qui laisse à désirer sur : le jus d'orange et les viennoiseries,"9,0",Hôtel,Nice," 7,7 "
+Dalila,France,0,2020-03-09 00:00:00,AGREABLE ET REPOSANT,"Hotel situé au calme, confort de la chambre. Le personnel est accueillant, chaleureux, à l'écoute et disponible.
+Le petit déjeuner est copieux avec un très grand choix.
+Très bon séjour.","Parking est payant à la journée, ce qui n'était pas précisé sur Booking.","8,0",Hôtel,Nice," 7,7 "
+Charlotte,France,0,2020-03-08 00:00:00,Très bien,None,Un problème de chauffage trop élevé et difficile à régler.,"8,0",Hôtel,Nice," 7,7 "
+Djamila,France,0,2020-03-07 00:00:00,Très bien,"La propreté le personnel sympa ,petit déjeuner copieux","Salle de bain un peu vieillot ,mais propre","8,0",Hôtel,Nice," 7,7 "
+Jean,France,0,2020-03-02 00:00:00,Bon séjour. Hôtel à recommander. Bon rapport qualité prix,Le petit déjeuner copieux. Bien insonorisé. Literie correcte,Nombre de chaînes de la télévision à augmenter bon,"9,0",Hôtel,Nice," 7,7 "
+Georges,France,0,2020-03-02 00:00:00,Très bien,Super petit déjeuner,None,"8,0",Hôtel,Nice," 7,7 "
+Olivier,France,0,2020-02-29 00:00:00,"Bon séjour dans cet hôtel, très bon rapport qualité prix","possibilité de parking appréciable.
+Buffet du petit déjeuner très complet et bon.
+Emplacement stratégique pour découvrir Nice, vieux Nice et carnaval.",Les coupures d'eau de 14h00 à 17h00 durant trois jours.,"8,0",Hôtel,Nice," 7,7 "
+Claude,France,0,2020-02-28 00:00:00,Fabuleux ,Ensemble parfait,Garage un peu cher,"9,0",Hôtel,Nice," 7,7 "
+Carole,France,0,2020-02-27 00:00:00,Hotel sympa et propre.,"L'hôtel est rénové avec de belles chambres et salles de bain toutes neuves avec douche à l'italienne et belle décoration. 
+Le seul problème c'est qu'il n'ont pas mis de grand lit en 160 .... mais des lits en 140 !!
+Je trouve cela dommage, car il y a la place dans la chambre !...
+Le buffet petit déjeuner est très agréable ...",None,"9,0",Hôtel,Nice," 7,7 "
+Caroline,France,0,2020-02-26 00:00:00,Très bien,None,Proche du centre ville,"8,0",Hôtel,Nice," 7,7 "
+Dominique,France,0,2020-02-26 00:00:00,Très bien,petit dejeuner,None,"8,0",Hôtel,Nice," 7,7 "
+Maxime,France,0,2020-02-23 00:00:00,Idéalement situé.,"La variété du petit déjeuner, le confort de l’an literie.","Les éléments plastiques à usage unique !!!!
+Cuillère à café, gobelet pour la brosse a dent, le shampoing et savonnette changés tous le soir jours.
+Un peu de bruit pendant les travaux.","9,0",Hôtel,Nice," 7,7 "
+Elisabeth,France,0,2020-02-19 00:00:00,Fabuleux ,Excellente étape. Qualité de l'hébergement et très bon accueil .,None,"9,0",Hôtel,Nice," 7,7 "
+Marjorie,France,0,2020-02-18 00:00:00,Chouette,L emplacement...le petit dej et la gentillesse de l accueil,Très bon accueil par contre la chambre sentait le tabac et nous sommes non fumeurs.et la douche était cassée on a dut demander une pince pour pouvoir se doucher..dommage,"9,0",Hôtel,Nice," 7,7 "
+Michael,France,0,2020-02-17 00:00:00,Très bien,"Personnel très sympathique, bien placé, bon rapport qualité prix. Bon petit déjeuner.",Chambres un peu vétustes,"8,3",Hôtel,Nice," 7,7 "
+Delphine,France,0,2020-02-11 00:00:00,Fabuleux ,None,"Il y avait une fuite au niveau de la salle de bain mais le personnel nous a informé des prochains travaux des salles de bains.
+Mais nous revenons a chaque fois dans cet hôtel lorsqu'on se déplace sur Nice.","9,0",Hôtel,Nice," 7,7 "
+Frederic,France,0,2020-02-10 00:00:00,Très bien,Le service et le personnel,None,"8,0",Hôtel,Nice," 7,7 "
+Roger,France,0,2020-02-07 00:00:00,Superbe,"Très bon rapport qualité prix !!
+A conseiller",None,"8,8",Hôtel,Nice," 7,7 "
+Gael,France,0,2020-02-07 00:00:00,Fabuleux ,chambre vaste et confortable très calme,None,"9,0",Hôtel,Nice," 7,7 "
+Rija,France,0,2020-02-07 00:00:00,Indulgence de rigueur,"Belle reception, hôtel très bien situé avec parking qui est bien utile en centre ville (nous avons été toutefois déçus de devoir payer le parking qui était de 19euros par jours) 
+Bon rapport qualité/prix avec le petit déjeuner inclus !","Attention ⚠ nous sommes arrivés lorsque l'hôtel était en rénovation, nous restons donc indulgent mais j'espère que les chambres seront aussi rénovées car il y avait des marques noirs ressemblant à des frottement sur les bas de porte et les murs. 
+Le carrelage des toilettes présentait des imperfections ..
+Les pieds du lit bougeaient et un grincement s'entendait. 
+En prenant un bain je m'étais aperçu du dessous de lavabo dont son support présentait de la rouille et de moisissure dû à l'humidité.","7,0",Hôtel,Nice," 7,7 "
+Patricia,France,0,2020-02-05 00:00:00,Hôtel tout à fait correct,"Rapport qualité-prix
+Personnel très agréable et disponible
+Parking",NA,"8,0",Hôtel,Nice," 7,7 "
+Philippe,France,0,2020-02-03 00:00:00,Fabuleux ,"Salle de bain un peu vétuste 
+Téléviseur un peu petit","Très bien situé proche du tramway 
+Hotel silencieux 
+Bonne literie","9,0",Hôtel,Nice," 7,7 "
+Vanessa,France,0,2020-02-02 00:00:00,Tres bon séjour très reposant.,L emplacement et la commodité de la chambre très optimisée.,L eclairage de la chambre la télécommande qui ne fonctionne pas. Une prise électrique ne fonctionnait pas non plus.,"7,0",Hôtel,Nice," 7,7 "
+Navajos,France,0,2020-02-01 00:00:00,Parfait,l'hôtel est propre. Literie impeccable. En plus juste en face il y a un théatre : la comédie de Nice avec des pièces extras. Et des restaurants juste à côté.,None,"9,0",Hôtel,Nice," 7,7 "
+Jean,France,0,2020-01-31 00:00:00,Bon séjour,"L’hôtel est bien situé, confortable et le personnel agréable",Le fait de ne pas avoir obtenu de place de parking dans l’hôtel et de ne pas pouvoir la réserver à l'avance.,"7,0",Hôtel,Nice," 7,7 "
+Marine,France,0,2020-01-29 00:00:00,Hôtel agréable pour un court séjour,Le confort des lieux et la gentillesse du personnel,"La salle de bain, la douche était un peu défectueuse","7,0",Hôtel,Nice," 7,7 "
+Jean,France,0,2020-01-28 00:00:00,Bon séjour,Hôtel bien situé et d'un bon rapport qualité prix,Je n'ai malheureusement pas eu de place dans le parking de l'hôtel,"8,0",Hôtel,Nice," 7,7 "
+Valentine,France,0,2020-01-23 00:00:00,Agréable,"Le personnel était très gentil
+La possibilité de parking pour 15€ par jour
+L’emplacement","Le petit déjeuner assez moyen 
+Deux lits simples et non un lit double pour un couple 
+Chambre assez vieillottes","6,7",Hôtel,Nice," 7,7 "
+Céline,France,0,2020-01-23 00:00:00,Fabuleux ,"Personnel très serviable. Hôtel très bien localisé, pas loin de la gare et nombreux commerces autour. Très propre et confortable, je le recommande sans hésitation",None,"9,0",Hôtel,Nice," 7,7 "
+Olivier,France,0,2020-01-22 00:00:00,Fabuleux ,"Tout le reste, de l accueil, à la possibilité de se garer facilement, en passant pas le confort de la literie, jusqu'à a l l'opulence du petit dejeuner","Manque de prises de courant près du lit
+Les chambres sont parfois difficiles à chauffer","9,0",Hôtel,Nice," 7,7 "
+Yacine,Algérie,0,2020-01-19 00:00:00,Très bien,Rapport quality prix.,Conexion internet mauvaise.,"8,0",Hôtel,Nice," 7,7 "
+Gerald,France,0,2020-01-17 00:00:00,Très bien,"Bonjour. Nous avons aimé la gentillesse du personnel ainsi que le petit déjeuné (copieux et diversifié).
+L'emplacement de l’hôtel est idéal et le parking privé peu onéreux et très pratique. Merci à toute l'équipe.",L’hôtel commence à daté. les moquettes au sol sont un peu usées et la salle de bain n'est pas récente. Mais l’hôtel entreprend des travaux de rénovation et donc nous y retournerons pour voir la différence.,"8,0",Hôtel,Nice," 7,7 "
+Sab2602,France,0,2020-01-07 00:00:00,Excellent rapport qualité prix,"Emplacement visite de la ville à pieds
+Grande chambre propre
+Gentillesse du personnel et leur disponibilité",Petit-déjeuner moyen (copieux mais pas forcément de qualité),"8,8",Hôtel,Nice," 7,7 "
+Fabrice,France,0,2020-01-05 00:00:00,Très bien,Lit confortable situation géographique,Propreté limite malgré tout,"8,0",Hôtel,Nice," 7,7 "
+Ghislaine,France,0,2020-01-03 00:00:00,"confort ,quietude ,et super emplacement pour sillonner dans nice","chambre spacieuse au calme bien clair , vue degagée,accessoire de salle bain top ,sechoir ,produits ,serviettes tout etait parfait ,le chauffage etait a bonne temperature ,lits grands ,neufs et confortables,chambre bien separéé de la salle de bain et des wc .grands placards et penderie .un petit bemol :les draps sont froisses .dans l'ensemble je le recommanderais ,le personnel super gentil et qualifié et a notre ecoute","le movilier des chambres vestuste et parfois usé exemp tete de lit .le petit de dejeuner correct mais cher pour 14 eur on porrait avoir un jus d'orange frais.arrivé a 9h30 le buffet etait presque vide ,plus de croissant ,plus de pain au chocolat et pas de reapprovisionnement possible","8,0",Hôtel,Nice," 7,7 "
+Benoit,France,0,2020-01-03 00:00:00,Bien ,"La tranquillité , la chambre , l’emplacement 
+Le rapport qualité prix , le petit déjeuner",La salle de bain,"7,1",Hôtel,Nice," 7,7 "
+Champi,France,0,2020-01-03 00:00:00,Au niveau d'un 2 étoiles.,"Chambre propre, et jolie.
+Beaucoup d'option disponibles.
+Personnel très acceuillant, et aimable.
+Bon rapport qualité prix.","La vue
+La salle de bain, et le Sommier dégradé
+Le rideau taché
+Manque de prise électrique
+Ne vaut pas du tout un vrai hôtel 4 étoiles.","7,0",Hôtel,Nice," 7,7 "
+Laurent,France,0,2020-01-02 00:00:00,Aussi bien qu un hotel 4 étoiles ⭐️,Appartement chambre avec salle de bain et wc séparé .... literie propre et ferme..... petit déjeuner excellent .... bref rien à redire ..... personnel adorable du réceptionniste en passant par l homme à tout faire où femme de ménage ... 10/10,Le parking .... pas de place ... j ai du tourner 20mn pour trouver une place,"9,0",Hôtel,Nice," 7,7 "
+Guillaume,France,0,2020-01-01 00:00:00,Bien ,"L emplacement de l hôtel est bien le personnel est efficace et cordial, l epace du petit déjeuner été très bien.","L etat des sanitaires et wc ne correspond pas à un quatre étoile ni dans la chambre ni dans les toilettes des parties communes, ont m a indiqué qu un changement été en cour !!!!","7,0",Hôtel,Nice," 7,7 "
+François,France,0,2019-12-15 00:00:00,Très bien,Accueil sympa. Séjour agréable. Très proche du Centre des Congrès. Petite Brasserie en face.,None,"8,0",Hôtel,Nice," 7,7 "
+Stephane,France,0,2019-12-15 00:00:00,"Emplacement idéal, prix défiant toute concurrence pour ce type d'hôtel",Très proche du centre ancien. Quartier très calme. Chambre spacieuse. Très bon petit déjeuner. Très agréable avec parking. Très satisfait ayant pu bénéficié d'un prix très attractif pour deux jours.,None,"8,0",Hôtel,Nice," 7,7 "
+Anne,France,0,2019-12-07 00:00:00,Superbe,La literie !,Salle de bain vieillotte,"8,8",Hôtel,Nice," 7,7 "
+Christophe,France,0,2019-11-24 00:00:00,Chambre spacieuse. Etablissement calme et très agréable.,"Excellente prestation du personnel de salle au PDJ. N'ayant plus de croissants, la personne s'est proposée d'aller en acheter. Un grand merci et un grand bravo à elle!",None,"9,0",Hôtel,Nice," 7,7 "
+Chrystelle,France,0,2019-11-17 00:00:00,Fabuleux ,Propre et accueillant !,None,"9,2",Hôtel,Nice," 7,7 "
+Michele,France,0,2019-11-12 00:00:00,Fabuleux ,"Calme,propreté,confort.",None,"9,0",Hôtel,Nice," 7,7 "
+Amel83,France,0,2019-11-11 00:00:00,Bien ,La chambre est sympa. L'hôtel est chic,"La lunette des toilettes est cassée, il n'y a pas de prise électrique à côté du lit, une prise murale est hors service, et pas de lumière au plafond pour mieux éclairer la chambre.","7,9",Hôtel,Nice," 7,7 "
+Chloe,France,0,2019-11-10 00:00:00,Superbe,Idéalement placé proche de la Gare Riquier qui mène à Monaco et du port. Le petit déjeuner est assez fourni et les prestations de qualité,None,"8,8",Hôtel,Nice," 7,7 "
+Le,France,0,2019-11-03 00:00:00,un 3 étoiles bien tenu ... à recommander.,"Situé à 300 mètres du Tram ligne 1 station acropolis, proche de la place du pin avec ses incontournables restos, cet hôtel est pratique et vous offre une bouilloire café-thé et le service du petit déjeuner en chambre. Prix très correct, à recommander.","4 étoiles c'est un peu exagéré, mais assurément un très bon 3 étoiles. Déco un peu vieillotte. Wifi en chambre inexistant.","8,3",Hôtel,Nice," 7,7 "
+Angeline,France,0,2019-10-27 00:00:00,Toujours très bien,Une valeur sûre quand je viens à Nice !,None,"9,2",Hôtel,Nice," 7,7 "
+Denis,France,0,2019-10-20 00:00:00,Séjour agréable malgré les remarques.,"Le petit dejeuner est copieux , une remarque tout de même, les croissants ne sont pas frits ,et souvent
+Le pain aux céréales est en rupture , surtout si il y a du monde.!",L'hôtel commence à vieillir...,"7,9",Hôtel,Nice," 7,7 "
+Frédéric,France,0,2019-10-16 00:00:00,JE CONSEILLE VIVEMENT,"Parking en sous-sol, même si les emplacements sont trop étroits.
+Accueil de la jeune fille au check-in.
+Petit déjeuner sucré-salé au top !",None,"8,0",Hôtel,Nice," 7,7 "
+Antoine,France,0,2019-10-07 00:00:00,En ligne avec les attentes,"Tres fonctionnel
+Assez bien place",None,"8,3",Hôtel,Nice," 7,7 "
+Veronique,France,0,2019-10-07 00:00:00,Parfait,Petit déjeuner complet .Parfait . Ambiance de l'hôtel plutôt chaleureuse avec un accueil agréable.Emplacement idéal avec un parking sécurisé. Disponibilité du service 24h/24 . Excellent rapport qualité prix .,"De grandes tasses pour le pdj ,pour les amateurs de thé.","9,0",Hôtel,Nice," 7,7 "
+Sylvain,France,0,2019-10-03 00:00:00,Agréable,None,Trop bruyant,"6,2",Hôtel,Nice," 7,7 "
+Michel,Suisse,0,2019-09-23 00:00:00,Bien ,"Petit déjeuner de très bonne qualité, tant l’offre que la presentation.",Bruit de l’aspirateur et ascenseur la matin dès 6h du matin,"7,9",Hôtel,Nice," 7,7 "
+Dominique,France,0,2019-09-23 00:00:00,dommage,"l'acceuil, l'emplacement, la possibilité de parking 20€ la nuit",la vétusté des chambres et des sanitaires,"6,2",Hôtel,Nice," 7,7 "
+Sylvain,France,0,2019-09-15 00:00:00,Bien ,Endroit idéal pour aller au centre du congrès. Lit confortable mais les équipements vieillots,Équipement vieillot,"7,5",Hôtel,Nice," 7,7 "
+Francois,Canada,0,2019-09-12 00:00:00,Agréable,None,Les lits étaient inconfortables,"6,7",Hôtel,Nice," 7,7 "
+Ludovic,France,0,2019-09-09 00:00:00,Très bien,Accueil très agréable personnel à l’écoute et convivial. Parking propre à l’hôtel,None,"8,3",Hôtel,Nice," 7,7 "
+Olivier,Luxembourg,0,2019-09-06 00:00:00,Agréable,"Son emplacement parfait pour un sejour à Nice.
+Possibilité d'un parking qui n'est pas négligeable.","Un petit déjeuner hors de prix par rapport à sa qualité. 
+Difficulté de confirmation entre les reservations Booking et celles eux par l'hotel. Des pourparlers pour ne rien dire alors qu'une simple phrase disant tout est ok.","6,7",Hôtel,Nice," 7,7 "
+Sam,France,0,2019-09-05 00:00:00,Petite nuit à Nice sympathique,La chambre en elle même et le petit déjeuné était très bien ainsi que le personnel accueillant et sympathique.,La salle de bain faisait très vieille comparer au reste de la chambre.,"7,1",Hôtel,Nice," 7,7 "
+Jean-françois,Belgique,0,2019-09-02 00:00:00,Bien ,Bonne literie .,"Petit déjeuner du style "" Tricatel "" ; la confiture horrible dans des bouteilles et en gelée, le jus d'orange avait plus le goût de l'eau que d'orange, le café et le choco chaud ... horrible pas de goût, et plus de baguettes. Bref A REVOIR !
+Pour ce qui est de la chambre, un peu déçue par rapport au prix que j'ai payé, du tapis qui se décolle un peu partout laissant entrevoir des moisissures, une douche dans une baignoire avec un rideau ( un peu kitch) 
+Pour ce qui est du parking, 20 euros c'est un peu exagéré.","7,1",Hôtel,Nice," 7,7 "
+Dominique,France,0,2019-09-01 00:00:00,Bien!,"Situation de L'hôtel, petit déjeuner.",None,"7,5",Hôtel,Nice," 7,7 "
+Jerome,France,0,2019-08-29 00:00:00,Agréable,Literie confortable,Personnel poli mais peu chaleureux,"6,7",Hôtel,Nice," 7,7 "
+Eric,France,0,2019-08-29 00:00:00,Fabuleux ,None,"Les 2 receptionistes qui medisaient de leur collegue qui travaillait le lendemain , tout cela devant des clients !","9,2",Hôtel,Nice," 7,7 "
+Valerie,France,0,2019-08-22 00:00:00,Agréable.,"le petit déjeuner est bon et copieux. La chambre spacieuse, calme, literie de qualité. Mais l'ensemble est vieillissant.","je n'ai vu qu'après ma réservation que le parking était payant 20 € la nuit et surtout qu'il n'y avait pas de possibilité de réserver une place.
+Quand nous sommes arrivés le parking était complet !!!","7,5",Hôtel,Nice," 7,7 "
+Ivana,France,0,2019-08-20 00:00:00,Fabuleux ,"Emplacement , propreté, confort",None,"9,2",Hôtel,Nice," 7,7 "
+Baud,France,0,2019-08-20 00:00:00,Agréable,"Bonne localisation, parking fermé, personnel très sympathique, petit déjeuner copieux avec un excellent café à l'italienne","Hotel qui ne mérite pas ses 4 étoiles, chambres vieillottes","6,2",Hôtel,Nice," 7,7 "
+Camille,France,0,2019-08-17 00:00:00,Pratique mais pas ideal !,Le service housekeeping etait tres bien!,"Le personnel assez ignorant (a l'exception d'un receptionniste qui travaillait le soir), le petit dejeuner n'avait rien de tres bon (beaucoup de produits industriels, le pain n'etait pas frais, les jus de fruits tres chimique avec aucun gout de fruit, etc). La chambre a besoin de rénovation (beaucoup de moisissures dans la salle de bain)","6,2",Hôtel,Nice," 7,7 "
+Michel,France,0,2019-08-16 00:00:00,Bien ,L’emplacement,Odeur d’humidité dans la chambre ; finitions très mal faites ; télévision petite ; décoration kitch,"7,1",Hôtel,Nice," 7,7 "
+Georges,France,0,2019-08-10 00:00:00,correct,"Petit déjeuner copieux,varié,faudrait peut être une machine à café de plus;L'emplacement est bien,ce qu'il faudrai impérativement,c'est une rénovation des chambres,car la déco est dépassée,la salle de bains est année 80,la propreté est là mais pas le dising. Sinon tout à été comme convenu,bon point pour le garage.","La déco des chambres,car le hall et les salons sont bien.","8,8",Hôtel,Nice," 7,7 "
+Jean-luc,Suisse,0,2019-08-10 00:00:00,Bien ,"Le calme, le petit-déjeuner, le parking",Le standing des chambres ne correspondaient pas à un 4 étoiles,"7,9",Hôtel,Nice," 7,7 "
+Isabelle,France,0,2019-08-10 00:00:00,Bien ,Bonne situation pour cet hôtel pas très loin du port. Pour le petit déjeuner nous avions un choix suffisant de mets.,"Le seul bémol concerne l’accueil. En résumé :nul.
+Mais certainement un gros coup de bourre n’a pas faciliter notre accueil.
+Cela ne nous empêchera pas de revenir","7,5",Hôtel,Nice," 7,7 "
+Jean,France,0,2019-08-09 00:00:00,tres bien pour Nice en plein centre,Emplacement idéal pour un séjour travail.,None,"7,9",Hôtel,Nice," 7,7 "
+Christophe,France,0,2019-08-09 00:00:00,Agréable,Emplacement,Pour un 4 étoiles!! .. les chambres sont petites et vieillissantes.. salle de bain propre mais limite décrépite.. choix décevant par rapport aux photos sur le site qui enjolivent largement,"6,2",Hôtel,Nice," 7,7 "
+Max,France,0,2019-08-08 00:00:00,Agréable,"Proche du centre de Nice.
+Bon accueil.","Salle de bain pas au niveau d’un 4 étoiles.
+Petit-déjeuner non plus.
+Mauvais rapport qualité-prix.","6,2",Hôtel,Nice," 7,7 "
+Daniel,France,0,2019-08-07 00:00:00,Très bien,"gentillesse de l'accueil qui m'a autoriser a laisser mon véhicules devant la porte jusqu'a 15 H
+Chambre spacieuse avec possibilité de ranger nos affaires convenablement.","Salle de bain vieillissante, rouille autour des robinets et taches de moisissures qui commence a apparaitre.
+Climatisation difficilement réglable.","8,3",Hôtel,Nice," 7,7 "
+Jean-charles,France,0,2019-08-06 00:00:00,Escapade niçoise,"L'ensemble m'a plu, les équipements luxueux, la situation, le petit déjeuner fabuleux, bref j'ai aimé.",None,"9,2",Hôtel,Nice," 7,7 "
+Jeanna,France,0,2019-08-06 00:00:00,Agréable,Propre,Accueil,"6,2",Hôtel,Nice," 7,7 "
+Katia,France,0,2019-08-03 00:00:00,Appart hôtel fonctionnel et proche du Vieux Nice pour quelques jours sur Nice,Proche du Vieux Nice et du Port. Accueil très agréable. Literie confortable.,None,"8,8",Hôtel,Nice," 7,7 "
+Jean-pierre,France,0,2019-08-01 00:00:00,Fabuleux ,SANS COMMENTAIRE,LE PRIX DU PARKING,"9,2",Hôtel,Nice," 7,7 "
+Marie,France,0,2019-07-30 00:00:00,hébergement très agréable à proximité de la vieille ville à un tarif très attractif,rapport qualité-prix : génial. buffet très diversifié. excellent café. service impeccable.,"peut-être la rénovation des salles de bain est-elle en projet, sur le modèle de ce qui a été réalisé à l'apogia d'Ivry sur Seine ?","9,2",Hôtel,Nice," 7,7 "
+Christophe,France,0,2019-07-26 00:00:00,Fabuleux ,None,Le parking aux places exigues.,"9,2",Hôtel,Nice," 7,7 "
+Jean,France,0,2019-08-09 00:00:00,tres bien pour Nice en plein centre,Emplacement idéal pour un séjour travail.,None,"7,9",Hôtel,Nice," 7,7 "
+Christophe,France,0,2019-08-09 00:00:00,Agréable,Emplacement,Pour un 4 étoiles!! .. les chambres sont petites et vieillissantes.. salle de bain propre mais limite décrépite.. choix décevant par rapport aux photos sur le site qui enjolivent largement,"6,2",Hôtel,Nice," 7,7 "
+Max,France,0,2019-08-08 00:00:00,Agréable,"Proche du centre de Nice.
+Bon accueil.","Salle de bain pas au niveau d’un 4 étoiles.
+Petit-déjeuner non plus.
+Mauvais rapport qualité-prix.","6,2",Hôtel,Nice," 7,7 "
+Daniel,France,0,2019-08-07 00:00:00,Très bien,"gentillesse de l'accueil qui m'a autoriser a laisser mon véhicules devant la porte jusqu'a 15 H
+Chambre spacieuse avec possibilité de ranger nos affaires convenablement.","Salle de bain vieillissante, rouille autour des robinets et taches de moisissures qui commence a apparaitre.
+Climatisation difficilement réglable.","8,3",Hôtel,Nice," 7,7 "
+Jean-charles,France,0,2019-08-06 00:00:00,Escapade niçoise,"L'ensemble m'a plu, les équipements luxueux, la situation, le petit déjeuner fabuleux, bref j'ai aimé.",None,"9,2",Hôtel,Nice," 7,7 "
+Jeanna,France,0,2019-08-06 00:00:00,Agréable,Propre,Accueil,"6,2",Hôtel,Nice," 7,7 "
+Katia,France,0,2019-08-03 00:00:00,Appart hôtel fonctionnel et proche du Vieux Nice pour quelques jours sur Nice,Proche du Vieux Nice et du Port. Accueil très agréable. Literie confortable.,None,"8,8",Hôtel,Nice," 7,7 "
+Jean-pierre,France,0,2019-08-01 00:00:00,Fabuleux ,SANS COMMENTAIRE,LE PRIX DU PARKING,"9,2",Hôtel,Nice," 7,7 "
+Marie,France,0,2019-07-30 00:00:00,hébergement très agréable à proximité de la vieille ville à un tarif très attractif,rapport qualité-prix : génial. buffet très diversifié. excellent café. service impeccable.,"peut-être la rénovation des salles de bain est-elle en projet, sur le modèle de ce qui a été réalisé à l'apogia d'Ivry sur Seine ?","9,2",Hôtel,Nice," 7,7 "
+Christophe,France,0,2019-07-26 00:00:00,Fabuleux ,None,Le parking aux places exigues.,"9,2",Hôtel,Nice," 7,7 "

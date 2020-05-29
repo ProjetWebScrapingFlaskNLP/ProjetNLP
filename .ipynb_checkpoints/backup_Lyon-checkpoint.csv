@@ -1,0 +1,607 @@
+nom,pays,favorite,date,titre,bons_points,mauvais_points,note,type_etablissement,lieu,note_etablissement
+Valerie,Suisse,1,2018-09-11,Exceptionnel,Le Spa et l’immense piscine extérieure. Les oeufs brouillés du petit déjeuner.,None,10,Hôtel,Lyon," 8,5 "
+Herve,France,0,2020-05-25,Séjour de détente tout en étant proche du centre historique de Lyon,"Très beau complexe sportif, piscine, hammam, massages...",None,"8,0",Hôtel,Lyon," 8,5 "
+Alexandra,France,0,2020-04-07,Nous reviendrons certainement à nouveau!,"Le spa, la propreté des lieux, le petit déjeuner buffet très varié et de qualité!","Le parking qui est de l'autre côté de la route... avec les valises, c'est un peu désagréable!
+Au final, le séjour reste cher car même si les prestations sont de qualité, un tarif si onéreux ne se justifie pas!!!","8,0",Hôtel,Lyon," 8,5 "
+Annie65,France,0,2020-03-15,Fabuleux ,"Un petit dèjeuner fabuleux.
+Confort des chambres",None,"9,0",Hôtel,Lyon," 8,5 "
+Jean,France,0,2020-03-12,super sejour,la gentillesse du personnel la proprete de l hotel les equipements la beaute de l hotel nous avons deja ete dans beaucoups d hotel c est la premiere fois que nous sommes tres tres satisfait a 100 pour100,aucune choses a dire de non satisfaisant pour nous tous etaient parfais,10,Hôtel,Lyon," 8,5 "
+Solene,France,0,2020-03-12,Excellent séjour,"Nous avons beaucoup aimé l'accueil et le service.
+Hotel grand proposant pas mal d'activités, parfait pour un week-end détente en amoureux ou en famille. Excellent rapport qualité prix, peu chère pour ce que vaux l'hôtel, merci beaucoup !",None,10,Hôtel,Lyon," 8,5 "
+Viviane,France,0,2020-03-12,"Très bon séjour, un peu trop de monde au spa","Petit déjeuner très sympa, belle chambre, vue très sympa.","Un peu étonnant le spa car beaucoup de monde, cela est le seul problème, assez bruyant avec les enfants et le nbre de personnes","8,0",Hôtel,Lyon," 8,5 "
+Yves,Maroc,0,2020-03-09,Un hôtel qui apporte une qualité de plus au week end,"Equipements spa très bons. Un peu de monde en WE, sans doute des clients venant de l'extérieur. Chambre très correcte. Restaurant agréable et bon, service de qualité, personnel arrangeant et disponible.",None,"9,0",Hôtel,Lyon," 8,5 "
+Céline,France,0,2020-03-09,Fabuleux ,"Le confort de la chambre, la disponibilité du personnel, leurs gentillesses...
+Le SPA très agréable après les visites 
+Le petit déjeuner...",Rien,"9,2",Hôtel,Lyon," 8,5 "
+Anthony,France,0,2020-03-09,Séjour sur Lyon,"Comme d’habitude, le Spa a la grandeur des chambres .","Nous avions l’évier et la douche qui commençais à être boucher . 
+Pour le prix de 20€ par personnes , le petit déjeuner buffet n’est pas du tout qualitatif pour le prix .","8,3",Hôtel,Lyon," 8,5 "
+Arthur,France,0,2020-03-09,Bien ,"Bonne accueil, petite terrasse pour les fumeur 
+Bon sejour",Le bruit de 3h30 a 6h... Music meuble déplacé ect et beaucoup trop de monde dans l espace bien etre pour la capacité et l ascenseur,"7,0",Hôtel,Lyon," 8,5 "
+Elodie,France,0,2020-03-08,Mon sejour etait excellent,Tt etait nikel je conseil mm le restaurant de l etablissement qui etait excellent,Rien,"9,0",Hôtel,Lyon," 8,5 "
+Marlène,France,0,2020-03-08,Exceptionnel,Tout autant au niveau des soins que du personnel de l'hôtel très bonne adresse,None,10,Hôtel,Lyon," 8,5 "
+Nelly,France,0,2020-03-08,Très bien,"Le spa 
+la rapidité du personnel 
+le calme",None,"8,0",Hôtel,Lyon," 8,5 "
+Damien,France,0,2020-03-08,Exceptionnel,"5ème fois au métropole... toujours aussi bien, toujours aussi propre, toujours aussi calme et surtout le meilleur hôtel en terme de rapport qualité prix à Lyon... j’ai cherche j’ai pas trouve mieux!! A très bientôt!",None,10,Hôtel,Lyon," 8,5 "
+Alaisienne,France,0,2020-03-07,Bien ,Le spa a 37 degrés en extérieur le prêt de peignoir et tong même pour les chambres confort l emplacement et le personnel très pro et gentils lelit très confortable,La seule mauvaise note pour le petit-déjeuner 20 euros trop cher pour les prestations le bacon grillé c est transformé en jambon le fromage sous les lampes il sue tellement ???? Trop chaud pour le prix c est abusé dommage en plus le serveur qui se sert un café la blague pour un 4 étoile,"7,0",Hôtel,Lyon," 8,5 "
+Frédéric,France,0,2020-03-07,Tjs impeccable et aussi zen,Tout est parfait,Rien,10,Hôtel,Lyon," 8,5 "
+Fadoua,France,0,2020-03-06,Exceptionnel,"Le service,les employés, le jacuzzi extérieur",Toujours un séjour très agréable,10,Hôtel,Lyon," 8,5 "
+Juan,France,0,2020-03-05,Exceptionnel,"Tout, excellent",Rien à dire sauf le prix,10,Hôtel,Lyon," 8,5 "
+Phl06,France,1,2020-03-02,Très bien,"L'espace dans les chambres , surtout les parties équipements sportives, piscines, spa, Jacuzzi TOP.",None,"8,0",Hôtel,Lyon," 8,5 "
+Jerome,France,0,2020-03-01,Tres bien je recommande fortement !!!@,"Tres bien comme d habitude, je vais dans cette hotel depuis longtemps.",C est magnifique pour ce détendre avec l immense jaccuzi extérieur !!!!,10,Hôtel,Lyon," 8,5 "
+Sebastien,France,0,2020-03-01,Parfait,"Tout est parfait!! Les chambres, le spa, le personnel est très qualifié et d’une grande bienveillance. C’est une belle découverte. Belle promenade au bord du fleuve devant l’hôtel. La brasserie est parfaite, les plats sublimes. Établissement calme en dehors de Lyon centre. Préférable d’avoir une voiture, ou le taxi. Mais l’équipe de l’établissement a tout fait pour un séjours de repos parfait.",Rien,"9,0",Hôtel,Lyon," 8,5 "
+Celine,France,0,2020-03-01,On reviendra,Le spa ouverts aux enfants sans limitation de durée. L excellent repas du soir en demi pension . Le bon.petit déjeuner. Le confort de l appartement.,None,10,Hôtel,Lyon," 8,5 "
+Anais,France,0,2020-02-29,Decoration vieillot mais spa très bien,Le spa,La décoration pas moderne,"8,8",Hôtel,Lyon," 8,5 "
+Baptiste,France,0,2020-02-29,Fabuleux ,"Inutile de se demander où boire un verre, où manger, où se relaxer. Tout est sur place, on pose ses valises et on profite de tout ce qui est mis à notre disposition.",None,"9,2",Hôtel,Lyon," 8,5 "
+Estelle,France,0,2020-02-26,Bien ,"Spa génial , relaxant, vraiment super ideal pour les couples !","Piscine avec trop de chlore, odeur constamment dans le nez et sur la peau apres les lavages","7,5",Hôtel,Lyon," 8,5 "
+Rose,France,0,2020-02-26,Très bien,La disponibilité du personnel d'accueil. Le spa extérieur,None,"8,0",Hôtel,Lyon," 8,5 "
+Juan,France,0,2020-02-24,Fabuleux ,"Tout, merci a votre équipe, bravo",Rien de tout,"9,0",Hôtel,Lyon," 8,5 "
+Pascal,Espagne,0,2020-02-24,Bien ,"Chambre spacieuse, silencieuse
+Piscine extérieure chauffée excellente","Loin du centre
+Accès piscine ferme plus tôt le week-end (dommage qu'on ne nous l'ait pas dit)
+Literie très ferme (trop)
+Restaurant de l'hôtel cher et pas à la hauteur","7,0",Hôtel,Lyon," 8,5 "
+Ganier,France,0,2020-02-24,super,l'emplacement,rien,10,Hôtel,Lyon," 8,5 "
+Carla,France,0,2020-02-24,"Très agréable, hôtel vraiment top. Nous reviendrons.","L'entrée dans le hall de l'hôtel était vraiment très beau, la chambre que nous avions vu sur les berges très agréable seul petit bémol c'est que nous entendions les voitures passés. Le petit-déjeuner en room service vraiment top, et copieux. 
+La piscine extérieur (balnéothérapie) très bien et à l'intérieur aussi.",Le seul bémol c'est que j'ai retrouvé à deux reprises des poignées de cheveux accroché à ma main dans la piscine extérieur et le jacuzzi.,"7,0",Hôtel,Lyon," 8,5 "
+Polo,France,0,2020-02-23,Exceptionnel,Magnifique cadre a refaire 😀😀😀,Tout,10,Hôtel,Lyon," 8,5 "
+Virginie,France,0,2020-02-23,Bien ,Le spa,"La salle de bain, l'absence de tables de nuit","7,0",Hôtel,Lyon," 8,5 "
+François,France,0,2020-02-22,Fabuleux ,Le spa.,Une grosse araignée dans la chambre.,"9,0",Hôtel,Lyon," 8,5 "
+Jean,France,0,2020-02-22,Séjour très agreable,"L’hôtel intégré un espace piscine/hamman très agréable.
+L’espace bain a 38 degres en extérieur en février...génial",None,"9,2",Hôtel,Lyon," 8,5 "
+Berkane,France,0,2020-02-17,Excellent,Toutttttt,None,10,Hôtel,Lyon," 8,5 "
+Chantal,France,0,2020-02-17,Très bon week-end.,Tout était correct. Les petits croissants super bon.et jus d orange frais très bon.,None,"9,0",Hôtel,Lyon," 8,5 "
+Geraldine,Suisse,0,2020-02-16,Une nuit à Lyon,"Hôtel avec spa, restaurant et bar, très pratique car tout est sur place. Personnel avenant.",Chambre un peu vieillissante,"8,8",Hôtel,Lyon," 8,5 "
+Corinne,France,0,2020-02-16,Très bien,la chambre l'espace piscine,None,"8,0",Hôtel,Lyon," 8,5 "
+Roxane,France,0,2020-02-15,Exceptionnel,"Le personnel qui était souriant et très serviable le petit déjeuner et son choix autant salée que sucrée 
+Le centre de bien être en extérieur",La décoration des chambres un peu passé,"9,6",Hôtel,Lyon," 8,5 "
+Michèle,France,0,2020-02-15,À peu près conforme à mes attentes,"la gentillesse du personnel 
+L’équipement du spa","Studio mal chauffé, à l’écart, donc obligation d’aller dehors en robe de chambre 
+Menu unique de la Saint Valentin à 85€/ personne","8,0",Hôtel,Lyon," 8,5 "
+Anaïs,France,0,2020-02-15,Bien ,Tout,Rien,"7,5",Hôtel,Lyon," 8,5 "
+Patrice,France,0,2020-02-15,Plutôt pas mal,La chambre la piscine couverte et les hydrojets extérieurs sont super.,Sortir de l'hôtel par l'extérieur pour accéder à la piscine,10,Hôtel,Lyon," 8,5 "
+Cyril,France,0,2020-02-14,Bien ,None,service au bar moyen,"7,0",Hôtel,Lyon," 8,5 "
+Axel,France,0,2020-02-10,Parfait,"Parfait ! Merveilleux, le restaurant est excellent, le spa est super! Je recommande, nous y retournerons c'est certain :)",Rien,10,Hôtel,Lyon," 8,5 "
+Maxime,France,0,2020-02-10,Très bien,None,Petit déjeuner très moyen par rapport au prix,"8,0",Hôtel,Lyon," 8,5 "
+Jamal,France,0,2020-02-10,Fabuleux ,None,Excellent en famille rien à reprocher,"9,2",Hôtel,Lyon," 8,5 "
+Celine,France,0,2020-02-10,Bien ,Tous,None,"7,9",Hôtel,Lyon," 8,5 "
+Julie,France,0,2020-02-10,Fabuleux ,Spa propre et une super piscine extérieure chauffée.,Emplacement un peu éloigné du centre ville.,"9,2",Hôtel,Lyon," 8,5 "
+Véronique,France,0,2020-02-09,Fort possible qu on revienne !,"Literie tres confortable 
+Petit déjeuner excellent 
+Piscine et Spa très bien 
+Personnel accueillant",Rien,"9,0",Hôtel,Lyon," 8,5 "
+Claude,France,0,2020-02-06,Exceptionnel,Ras,Ras,10,Hôtel,Lyon," 8,5 "
+Jeff,France,0,2020-02-03,Très bien,Spa,None,"8,3",Hôtel,Lyon," 8,5 "
+Inès,France,0,2020-02-03,Exceptionnel,"Spa, restaurant accueil personnel top",None,10,Hôtel,Lyon," 8,5 "
+Fanny,France,0,2020-02-02,Exceptionnel,"L’emplacement de l’établissement, la diversité des équipements, l’aménagement et la propreté de la chambre avec la vue sur les quais étaient tout simplement parfaits !",None,"9,6",Hôtel,Lyon," 8,5 "
+Mirhancia,France,0,2020-02-02,Merveilleux,Le lit très confortable personnel au top et très agréable et petit dej excellent !!!,Un peu de poussière et quelques résidus de poussière sur la moquette sur le porte papier toilette et là baignoire est propre mais doit être niquel(briller pour ce prix et 4etoile) ainsi que les joints,"9,0",Hôtel,Lyon," 8,5 "
+Laurent,France,0,2020-02-02,Très bien,bon mais chère,les taches sur le draps du lit et le faite de ne pas avoir pu accéder au SPA après midi sans devoir débourser 25€ par personnes un peu scandaleux vu le prix des chambres,"8,0",Hôtel,Lyon," 8,5 "
+Aldina,France,0,2020-02-01,Fabuleux ,Petit séjour sympa,None,"9,0",Hôtel,Lyon," 8,5 "
+Alain,France,0,2020-01-28,Un spa unique en France et un accueil hyper professionnel et chaleureux à la fois,"Le spa!! Magnifique!
+Le personnel hyper accueillant et utile!",Lit trop dur,10,Hôtel,Lyon," 8,5 "
+Clarisse,France,0,2020-01-26,Fabuleux ,"La chambre, la literie, la piscine",Rien,"9,0",Hôtel,Lyon," 8,5 "
+Linda,France,0,2020-01-25,Super,Super,Rien,10,Hôtel,Lyon," 8,5 "
+Jml_974,France,0,2020-01-25,Séjour détente,Le spa et la piscine,"La chambre à besoin d'un petit rafraichissement, de niveau 3 étoiles","7,9",Hôtel,Lyon," 8,5 "
+Ophélia,France,0,2020-01-23,Exceptionnel,"Piscine
+Spa",None,10,Hôtel,Lyon," 8,5 "
+Meli04,France,0,2020-01-23,Très bien,"L'accueil, le personnel, l'équipement de la chambre et surtout de l'hotel",La chambre était un peu sale en arrivant mais rien de méchant,"8,0",Hôtel,Lyon," 8,5 "
+Valerie,France,0,2020-01-23,vivement la prochaine fois !!!!!!,"J'étais déjà venue dans votre établissement et étais impatiente d'y revenir ; j'y ai donc emmené ma fille pour son anniversaire 
+Piscine extérieure au TOP !!!!!! vivement la prochaine escapade lyonnaise !!!!!!","peut ètre l'accés au centre aquatique non couvert ; étant dans un studio , il a fallu sortir pour accéder au spa ; ce qui n'avait pas été le cas la dernière fois .",10,Hôtel,Lyon," 8,5 "
+Cecile,France,0,2020-01-18,Très bien,"Le personnel était très agréable 
+Le spa est très appréciable",None,"8,0",Hôtel,Lyon," 8,5 "
+Florent,France,0,2020-01-17,Bien ,"Possibilité de changer de chambre suite à une erreur de réservation.
+Amabilité du personnel.",Chambre très simpliste et très mal insonorisées.,"7,0",Hôtel,Lyon," 8,5 "
+Emmanuel,France,0,2020-01-13,"Pratique, agréable, la piscine et le grand jaccuzi tres apprécies après de longs voyages","Equipement complet, chambre confortable, accueil personnel charmant
+Petit dejeuner tres varié , produits adaptés à tous les goûts",None,"9,0",Hôtel,Lyon," 8,5 "
+Guillaume,France,0,2020-01-12,Fabuleux ,"Le personnel très sympathique . 
+Le spa superbe . 
+Le restaurant et le bar super aussi.",La chambre un peu vieille .,"9,2",Hôtel,Lyon," 8,5 "
+Nicolas,France,0,2020-01-12,Séjour agréable,None,La salle de bain est à refaire pour un 4 étoiles,"9,0",Hôtel,Lyon," 8,5 "
+Chloe,France,0,2020-01-10,Très bon week end.,Le coin spa et détente.,Le lit n’était pas très confortable quelque douleur au dos après le week end,"9,2",Hôtel,Lyon," 8,5 "
+Michael,France,0,2020-01-10,Bien ,"Sauna agréable
+Confort de lit
+Petit déjeuner copieux","Bain à remous avec un matériel en mauvais état. 
+Lavabo écaillé.. 
+Mauvias ecommunication des horaires de petit déjeuner
+Pas de frigo dans la chambre..","7,0",Hôtel,Lyon," 8,5 "
+Cynthia,France,0,2020-01-09,Exceptionnel,"Le spa, la disponibilité et la gentillesse du personnel, le restaurant, les chambres superbes",Rien du tout !,10,Hôtel,Lyon," 8,5 "
+Alain,France,1,2020-01-09,Exceptionnel,Je viens souvent dans cet établissement et c’est toujours aussi parfait...,None,10,Hôtel,Lyon," 8,5 "
+Sebasten,France,0,2020-01-08,Exceptionnel,"Le site est parfait, complexe thalassothérapie hyper propre, tout est bien, personnel aux petits soins","Nous avons pris une salade César en room service, elle était insipide, pas assaisonnée du tout, aucune attention, dommage le reste était parfait !",10,Hôtel,Lyon," 8,5 "
+Elise,France,0,2020-01-07,bonne escapade en ville,"calme ,qualité de la literie ,spa et équipements de sport ;produits de toilette ,équipements de la chambre",None,"8,0",Hôtel,Lyon," 8,5 "
+Yves,Luxembourg,0,2020-01-06,Parfait.,"Espace spa fabuleux, très beau fitness. Très bon restaurant. Bon petit déjeuner.",None,"9,0",Hôtel,Lyon," 8,5 "
+Cindy,France,0,2020-01-05,Agréable,None,Cabine de douche cassé dans la première chambre qui nous avait été attribuée.,"8,0",Hôtel,Lyon," 8,5 "
+Cindy,France,0,2020-01-05,Totale détente,"Literie très confortable,personnel bienveillant et serieux.",None,"9,0",Hôtel,Lyon," 8,5 "
+Julien,France,0,2020-01-05,Superbe,"Le confort, les équipements, le spa, le petit déjeuner, le personnel",Rien,"8,8",Hôtel,Lyon," 8,5 "
+Sergey,France,0,2020-01-05,Exceptionnel,C’est bien,None,10,Hôtel,Lyon," 8,5 "
+Christele,France,0,2020-01-05,Fabuleux ,Piscine extérieure,Petit déjeuner tarif un peu cher,"9,0",Hôtel,Lyon," 8,5 "
+Christophe,France,0,2020-01-04,Très bien,Les services (SPA-piscine...),"Tapisserie, peinture et décorations vieillottes.","8,0",Hôtel,Lyon," 8,5 "
+Lucile,France,0,2020-01-04,Très bien,"Le spa, le petit-déjeuner",Établissement vieillissant,"8,3",Hôtel,Lyon," 8,5 "
+Jean,France,0,2020-01-01,TRES BIEN,TRES BIEN,LE VITRAGE DES CHAMBRES,"8,0",Hôtel,Lyon," 8,5 "
+Mehmet,France,0,2020-01-01,un petit coin de paradis,"le calme de cet hôtel, et que dire des hôtesses du spa d'une gentillesse et d'une aide parfaite","peut-être revoir le chauffage, la soufflerie qui fait un bruit gênant la nuit chambre 928.",10,Hôtel,Lyon," 8,5 "
+Regis,France,0,2019-12-31,Très bien,Le parcours balnéothérapie.,"La salle de bain ,trop sombre. Manque de pression et eau juste tiède . Mettre une seconde machine à café pour les petits dejeuners","8,0",Hôtel,Lyon," 8,5 "
+Didier,France,0,2019-12-31,Exceptionnel,Très bon Hôtel,None,"9,6",Hôtel,Lyon," 8,5 "
+Guy,France,0,2019-12-30,Fabuleux ,Tout,"Notre chambre donnait sur la route très passente dommage !
+Autrement très bien.","9,2",Hôtel,Lyon," 8,5 "
+Badra,Suisse,0,2019-12-29,Personnel très agréable hôtel avec de bons équipements et confortable,La piscine,None,10,Hôtel,Lyon," 8,5 "
+Mohamed,France,0,2019-12-28,Très bien,tout était parfait,None,"8,0",Hôtel,Lyon," 8,5 "
+Scottie,Belgique,0,2019-12-27,Exceptionnel,"La piscine, le spa, le personnel très sympathique, chambres très spacieuses","Deux détails: Le tapis-plein dans les chambres, salles de bains un peu vieillot","9,6",Hôtel,Lyon," 8,5 "
+J,France,0,2019-12-23,Bien ,Personnel et établissement accueillant,Pas de frigo dans la chambre,"7,9",Hôtel,Lyon," 8,5 "
+Helios,France,0,2019-12-22,Séjour spa en amoureux,Très bon lit et accès au spa,Prix du petit déjeuner pas très copieux et excessivement cher par tête. Décoration de la chambre pas extraordinaire.,"7,0",Hôtel,Lyon," 8,5 "
+Maximilien,France,0,2019-12-22,Reposant !,"Tout était au RDV, le bouquet de fleur commandé, la disponibilité de la chambre presque 2h avant, la propreté et l'amabilité du personnel ! Je recommande !",RIEN !,"9,0",Hôtel,Lyon," 8,5 "
+Laly,France,0,2019-12-18,Exceptionnel,"Rien à redire sur la chambre, le petit déjeuner été délicieux. Et le coin spa est super!",None,10,Hôtel,Lyon," 8,5 "
+Dominique,France,0,2019-12-17,Exceptionnel,"Un bel établissement ! Calme , propre , personnel super ! Espace détente SAP top .",C’est grand et on se perd un peu !,"9,6",Hôtel,Lyon," 8,5 "
+Isabelle,France,1,2019-12-15,Fabuleux séjour au Métropole de Lyon,"L’accès au Spa, la literie et le petit déjeuner",Rien,10,Hôtel,Lyon," 8,5 "
+Mohammed,France,0,2019-12-15,Exceptionnel,Personnel professionnel et accueillant,None,"9,6",Hôtel,Lyon," 8,5 "
+Soraya,France,0,2019-12-14,Très bien,Le spa,None,"8,0",Hôtel,Lyon," 8,5 "
+Gabriel,Suisse,0,2019-12-13,Super séjour dans cette hôtel !,"Grande chambre super bien équipé, accueil et personnel au top ! coin wellness piscine salle de fitness de grande qualité.
+Arrêt de bus devant l’hôtel, pas besoin de la voiture pour aller au centre de Lyon.Coin bar chaleureux.",Moquette dans la chambre ! coin WC très étroit faut pas être en surpoids !,"9,0",Hôtel,Lyon," 8,5 "
+Nathalie,Italie,1,2019-01-24 00:00:00,excellent accueil,La disponibilité du personnel.,None,10,Hôtel,Lyon," 7,4 "
+Adel,France,0,2020-03-12 00:00:00,Très bien,Très bon rapport qualité prix,None,"8,0",Hôtel,Lyon," 7,4 "
+Willy423,France,0,2020-03-09 00:00:00,Bien ,"L'acces 24h24, le personnel",Une légère odeur de tabac froid dans la chambre,"7,0",Hôtel,Lyon," 7,4 "
+Mickael,France,0,2020-03-06 00:00:00,Bien ,"Hôtel est très proche de la gare de Perrache, petite centre ville a proximité",None,"7,0",Hôtel,Lyon," 7,4 "
+Denis,France,0,2020-03-04 00:00:00,Agréable,None,Pas de place de parking,"6,2",Hôtel,Lyon," 7,4 "
+Patricia,France,0,2020-03-04 00:00:00,Très bien,"Hôtel très calme. Situé a deux pas de la gare de Perrache et du centre ville. Mes petits enfants et moi avons pu faire la plupart de nos visites à pied (place Bellecour, la basilique de Fourvière et musée des confluences) . métro, bus et tram à côté. Le personnel de l'hôtel est très serviable .hôtel très agréable, nous avons été très contents de notre séjour.",Déco un peu vieillot mais très propre.,"8,0",Hôtel,Lyon," 7,4 "
+Titi,Suisse,0,2020-03-02 00:00:00,Très bien,Accueil très sympatique. Chambre propre et confortable. Proche du centre et à 5min de la gare Par Dieu.,Peu lumineux,"8,0",Hôtel,Lyon," 7,4 "
+Eliane,France,0,2020-03-01 00:00:00,"Hôtel sympathique, à valoriser","L'emplacement et l'entrée de l'hôtel.
+Le petit-déjeuner.","Chambre pas mise en valeur. 
+Manque de soin à l'ensemble.","6,0",Hôtel,Lyon," 7,4 "
+Carole,France,0,2020-02-28 00:00:00,Très bien,"Accueil chaleureux, personnel disponible, logement calme. Très bon rapport qualité prix",None,"8,0",Hôtel,Lyon," 7,4 "
+Cécile,France,0,2020-02-28 00:00:00,"Bon séjour mais la chambre était petite et étriquée, sans équipement. Localisation idéale.",Emplacement idéal à coté de la gare Perrache pour un week-end ça nous convenait très bien.,"Aucun équipement en chambre, même une bouilloire aurait été sympa (excepté sèche cheveux)
+Les lits étaient corrects mais pas très grands, les coussins et matelas n'étaient pas confortables (mal de dos et nuques au réveil).","7,0",Hôtel,Lyon," 7,4 "
+Tania,France,0,2020-02-27 00:00:00,Très bien,"Très bien situé, à quelques pas de la gare Perrache et à 10 minutes à pied du centre de Lyon. Personnel très gentil et serviable !",None,"8,0",Hôtel,Lyon," 7,4 "
+Paul,France,0,2020-02-25 00:00:00,Un hôtel de famille dans un quartier attachant de Lyon,"La déco du hall avec les fauteuils Cube et la disponibilité de BD.
+Sa localisation dans Lyon.",Un petit déjeuner à l'anglaise ?,"8,0",Hôtel,Lyon," 7,4 "
+Lucy,France,0,2020-02-25 00:00:00,Séjour très agréable,Très bon petit déjeuner dans un espace calme,None,"8,0",Hôtel,Lyon," 7,4 "
+Elodie,France,0,2020-02-24 00:00:00,Très bien,"Accueil très chaleureux
+Rapports qualité prix au top",None,"8,0",Hôtel,Lyon," 7,4 "
+Dziani,France,0,2020-02-24 00:00:00,Très bien pour un court séjour.,"Bonjour 
+Le personnel, bien que jamais croisé les mêmes personnes, est très agréable.
+La chambre : le lit est confortable. Les oreillés en nombre suffisent et très moux. Ce qui me va ! Le matelas est bon. Niveau sonore, C est pas top.. On entend très bien, trop bien même, les voisins.. Un coffre est à disposition ainsi que des cintres. 
+La salle de bain : savons, serviettes, gel de bain, sèche cheveux... Tout bien. Seul bémol pour les peintures qui sont très défraîchies. Il en est de même pour les joins. Un coup de frais serait nécessaire.",None,"8,0",Hôtel,Lyon," 7,4 "
+Serge,France,0,2020-02-23 00:00:00,Bien ,Proximité des centres d’intérêts,Absence de Canal+,"7,1",Hôtel,Lyon," 7,4 "
+Giulia,Allemagne,0,2020-02-21 00:00:00,Bien ,"Emplacement très central, petit déjeuner correct, personnel à l'écoute, la chambre était petite mais confortable et propre.",Pas de remarques particulières.,"7,0",Hôtel,Lyon," 7,4 "
+Jérémy,France,0,2020-02-21 00:00:00,Hotel très bien situé sans prétention.,"L'accueil y est très chaleureux, le personnel est très aimable et sait nous orienter. Le lit est très confortable et la chambre vraiment silencieuse ! Le petit dej est correct, attention cependant à la qualité des viennoiseries.","L'équipement de la chambre est assez vieillot mais fonctionnel, attention cependant à la propreté de la chambre. Le sèche serviette est salle et le sol pas hyper clean, mais tout celà reste acceptable. Aussi, la salle de petit dej' est beaucoup trop petite, nous obligeant à patienter à l'accueil de l'hotel pour pouvoir prendre son petit dej' dommage.","8,0",Hôtel,Lyon," 7,4 "
+Francoise,France,0,2020-02-18 00:00:00,Je reviendrai dans cet hôtel lors de mes passages à Lyon,"Lit confortable, chambre calme et personnel très accueillant",None,"8,0",Hôtel,Lyon," 7,4 "
+Epain,France,0,2020-02-18 00:00:00,Bien ,"Un bon petit hôtel traditionnel
+un bon rapport qualité prix",Un petit déjeuner sommaire,"7,0",Hôtel,Lyon," 7,4 "
+Pauline,France,0,2020-02-17 00:00:00,Presque bien,"L’emplacement 
+L’accueil du personnel 
+La baignoire balnéo 
+La literie","Condensation importante et donc humidité dans le duplex balnéo quand celui-ci est utilisé absence de fenêtre et de VMC au rez-de-chaussée.
+Décoration, peintures, moquette et mobilier auraient besoin d’une bonne rénovation.","6,7",Hôtel,Lyon," 7,4 "
+Schwalek,France,0,2020-02-17 00:00:00,Séjour correct,"On ne peut pas en demander plus pour un deux étoiles, hotel correct ou je retournerais quand je serais sur perrache",None,"7,0",Hôtel,Lyon," 7,4 "
+Bertrand,France,0,2020-02-17 00:00:00,Agréable,None,HOTEL EN MAUVAIS ETAT - BESOIN D UNE BONNE RENOVATION,"6,0",Hôtel,Lyon," 7,4 "
+Aline,France,0,2020-02-16 00:00:00,Très bien pour visiter Lyon,"Le rapport qualité-prix,la clarté du checking, l'acceuil du personnel,la permanence 24 h sur 24,le bon état du matériel,la situation géographique",Je ne sais pas,"8,0",Hôtel,Lyon," 7,4 "
+Emmanuelle,France,0,2020-02-16 00:00:00,Superbe,"L'amabilité du personnel. Le fait qu'on puisse laisser des bagages dans un local pour la journée, alors qu'on n'a plus la chambre. La proximité du centre et des quartiers des Bouchons.",None,"8,8",Hôtel,Lyon," 7,4 "
+Laurence,France,0,2020-02-16 00:00:00,Bien ,Accueil chaleureux. De super petits déjeuners. Bien placé pour se balader,Un petit manque de propreté dans la chambre de nos enfants,"7,1",Hôtel,Lyon," 7,4 "
+Jean-claude,France,0,2020-02-14 00:00:00,Pour une étape à Lyon séjour agréable,Accueil et calme situation rapport qualité prix p,None,"8,0",Hôtel,Lyon," 7,4 "
+Jean,France,0,2020-02-10 00:00:00,très bien pour une nuit en plein centre,la propreté de la salle de bains et le calme,la propreté de la chambre,"7,0",Hôtel,Lyon," 7,4 "
+Hyokyung,France,0,2020-02-09 00:00:00,Bien,Bien accueil,None,"7,5",Hôtel,Lyon," 7,4 "
+Boukeraa,France,0,2020-02-09 00:00:00,Située idéalement pour rapport qualité prix excellent 👍👍👍👍,Propre et fonctionnel,Rien a redire,"6,7",Hôtel,Lyon," 7,4 "
+Laila,France,0,2020-02-08 00:00:00,Très bien,La chambre était comme sur le site. La proximité avec le centre ville est appréciable.,None,"8,0",Hôtel,Lyon," 7,4 "
+Elsa,France,0,2020-02-08 00:00:00,Très bien,"Super rapport qualité prix. Et super emplacement, la chambre triple était en fait 2 chambres, donc très bonne surprise.",None,"8,0",Hôtel,Lyon," 7,4 "
+Richard,France,0,2020-02-07 00:00:00,Agréable et chaleureux,"Un lit super confortable, un petit déjeuner impeccable, le personnel vraiment agréable et très sympathique.
+Je reviendrai 😉",None,"8,0",Hôtel,Lyon," 7,4 "
+M,France,0,2020-02-02 00:00:00,Bien ,"Emplacement, confort du lit, amabilité du personnel","Propreté un peu juste dans les chambres, choses cassées (lumière, un objet au niveau du radiateur) absence de housse de couverture et de taies d'oreillers, petit-déjeuner restreint","7,0",Hôtel,Lyon," 7,4 "
+Amel,France,0,2020-02-02 00:00:00,A refaire,"Simple et efficace ,bon emplacement",Rien,"8,0",Hôtel,Lyon," 7,4 "
+Sophie,France,0,2020-01-30 00:00:00,Bon rapport qualité prix et très bonne situation !,"Très bon accueil, chambre 7 calme, petite mais très bien équipée.","Problème de propreté : hélas il y a de la vieille moquette partout et celle ci est tres mal nettoyée ( poussière...). Les acariens doivent se régaler !
+Le matelas doit être très vieux, j’ai bien senti les ressorts.","6,2",Hôtel,Lyon," 7,4 "
+Gregori,Suisse,0,2020-01-27 00:00:00,Très bien,Bien situé et propre,"Monsieur de la récéption du soir peut sympatique, hotel un peut vétuste","8,0",Hôtel,Lyon," 7,4 "
+Fany,France,0,2020-01-26 00:00:00,Agréable,La situation géographique et le petit déjeuner.,"Propreté, moisissures sur les murs. Serviettes tachées.","6,0",Hôtel,Lyon," 7,4 "
+Sébastien,France,0,2020-01-24 00:00:00,se déshabiller dans le noir pour ne pas être vu des voisins !!!!,None,Chambre en rez-de-chaussée (numéro 16) donnant sur une cour intérieur. Pas de rideau occultant... impensable !!!,"7,0",Hôtel,Lyon," 7,4 "
+Pascale,France,0,2020-01-24 00:00:00,Bon souvenir de notre nuit d’hotel. Exactement ce que nous cherchions.,"Personnel très sympathique 
+Accueil - Sourire - à l’écoute et de bon conseil pour un resto",None,"8,0",Hôtel,Lyon," 7,4 "
+Gwen,France,0,2020-01-22 00:00:00,Bien ,L’emplacement et le sérieux du personnel,Moquette dans les chambres... isolation phonique très moyenne...,"7,9",Hôtel,Lyon," 7,4 "
+Catherine,France,0,2020-01-20 00:00:00,Très bien !,"Un petit hôtel agréable et calme. Le personnel très aimable. Pour ce prix tout à fait abordable, ce petit 2 étoiles est à recommander.",None,"8,8",Hôtel,Lyon," 7,4 "
+Laure,France,0,2020-01-20 00:00:00,Un séjour parfait,"Nous avions comme projet de passer la soirée à la Brasserie GEORGES, lorsque j'ai réservé l'hôtel je ne savais pas du tout où il se situait, on m'avait simplement demandé de faire une réservation dans le 2ème arrondissement. Le hasard fait très bien les choses nous étions à 10 mn à pied du restaurant, à 15 mn du centre ville, localisation PARFAITE. 
+les chambres étaient situées à l'intérieur d'une cour, aucun bruit, pas de clients bruyants dans les couloirs, de toute façon il n'y avait pas de couloir ! la chambre sympa, une salle de bain très propre. Nous gardons l'adresse précieusement car nous y retournerons.",RIEN,"8,0",Hôtel,Lyon," 7,4 "
+Elise,France,0,2020-01-19 00:00:00,Hôtel très bien pour un week-end.,"Très bon accueil, personnel sympathique. Les photos étaient conformes aux chambres. Un bon petit hôtel à Lyon.",L'insonorisation (les bruits des autres usagers) et la propreté (de la poussière et cheveux).,"8,0",Hôtel,Lyon," 7,4 "
+Christophe,France,0,2020-01-18 00:00:00,Bien ,None,Manque quelques chaînes de TV ( problème technique ). Besoin d'un coup de peinture au niveau des portes.,"7,0",Hôtel,Lyon," 7,4 "
+Rose,France,0,2020-01-13 00:00:00,a refaire,la chambre sous les toits et la proximité de Pérrache et la simplicité et la sympathie des employés,les voisins trop bruyabts,"8,0",Hôtel,Lyon," 7,4 "
+Celia,Italie,0,2020-01-13 00:00:00,Bien ,Super placement et petit dej.,Un peu défraîchi mais rien de grave !,"7,0",Hôtel,Lyon," 7,4 "
+Kevin,France,0,2020-01-11 00:00:00,Agréable,Le matela du lit etait très confortable,La baignoire spa est de mauvaise qualité alors que c'est un argument de vente de la chambre,"6,0",Hôtel,Lyon," 7,4 "
+Hyokyung,France,0,2020-01-09 00:00:00,Good,"S.d.d était moyen d’espace, lit était pas mal",None,"7,9",Hôtel,Lyon," 7,4 "
+Nathalie,France,0,2020-01-09 00:00:00,Agréable,bonne literie chambre correcte emplacement personnel,"du mobilier dans la chambre cassé qui n'a pas été réparé de suite (table de chevet avec un pied cassé) moquette au sol un peu vieillissante, choix limité pour le petit déjeuner","6,0",Hôtel,Lyon," 7,4 "
+Deperne,France,0,2020-01-08 00:00:00,Bon Hotel pour un passage éclair à Lyon.,"Bon petit déjeuner.
+Chambre bien chauffée.",Douche étroite.,"7,0",Hôtel,Lyon," 7,4 "
+Marion,France,0,2020-01-04 00:00:00,Bien ,"L'emplacement idéal, à dix minutes de la place Bellecour et 5 min de la gare Perrache. Prix raisonnable. Calme.","Le matelas.. Trop mou et on sent les ressorts. Dommage, ça gâche le charme de cet hotel.","7,0",Hôtel,Lyon," 7,4 "
+Léa,France,0,2020-01-01 00:00:00,"Assez correct pour le prix. Hôtel très très simple, convenable pour y dormir seulement.","Hôtel idéalement situé.
+Personnel disponible et sympathique.
+Ville agréable à découvrir.
+Hôtel a un prix correct pour les tarifs aux alentours.","Le petit déjeuner est plutôt décevant pour le prix et la propreté de la chambre. 
+La décoration et les équipements de la chambre étaient des plus rustiques.
+L'agencement de l'hôtel était presque en délabrement.","7,0",Hôtel,Lyon," 7,4 "
+Melo,France,0,2019-12-23 00:00:00,Superbe,"Réservation de dernière minute, personnel disponible",Chauffage en panne à l’etage,"8,8",Hôtel,Lyon," 7,4 "
+Apauline,France,0,2019-12-16 00:00:00,Bon rapport qualité prix.,Très belle accueil. J’étais contente de trouver cette hôtels de dernière minutes et pour pas si chers par rapport à la prestation.,Il n'y a pas de café dans la chambre.. Dommage,"7,0",Hôtel,Lyon," 7,4 "
+Fabien,Suisse,0,2019-12-16 00:00:00,Bien ,"Localisation, proximité du parking.",Nettoyage un peu superficiel,"7,0",Hôtel,Lyon," 7,4 "
+Nathalie,France,0,2019-12-12 00:00:00,Bien ,Emplacement qualité de la chambre,Le petit déjeuner,"7,0",Hôtel,Lyon," 7,4 "
+Dominique,France,0,2019-12-09 00:00:00,Bien ,"Gérants très sympas et accueillants, proximité centre ville, calme",Le tarif probablement dû à la fête des lumières,"7,9",Hôtel,Lyon," 7,4 "
+Anthony11986,Suisse,0,2019-12-07 00:00:00,Séjour OK,"Personnel très aimable et avenant! Emplacement au top.... chambre propre et facile d'accès.
+Sinon rien de spécial a dire c'était OK dans l'ensemble pour nous.","La chambre était un peu vétuste et la salle de bain pas vraiment au goût du jour. J'ai signalé un soucis avec le sol de la douche qui était instable, mais le personnel va s'en occuper et semble très réactif!","7,9",Hôtel,Lyon," 7,4 "
+Jacques,France,0,2019-12-06 00:00:00,Bien ,Bon emplacement,Accès aux chambres surprenant on passe par une allée d’immeuble,"7,9",Hôtel,Lyon," 7,4 "
+Matthieu,France,0,2019-12-04 00:00:00,Séjour correct,L'accueil personnalisé,"Les équipements de la salle de bain. Le Sèche cheveux ne fonctionnait pas,","7,0",Hôtel,Lyon," 7,4 "
+Thomas,France,0,2019-12-02 00:00:00,Très bien,"La chambre 
+Très bien décorer et confortable.",None,"8,0",Hôtel,Lyon," 7,4 "
+Marie,France,0,2019-12-01 00:00:00,Très bon sejour,Excellent accueil lit très confortable,None,"8,0",Hôtel,Lyon," 7,4 "
+Barbara,France,0,2019-11-25 00:00:00,Bien ,la situation de l'hotel,"les chambres sont tout de même très petites !
+Par ailleurs je n'ai pas payé le même prix les deux jours! et je trouve que 100 euros la chambre c'est un peu élevé comme prix","7,0",Hôtel,Lyon," 7,4 "
+Francoise,France,0,2019-11-24 00:00:00,Agréable,Très bon emplacement. Appréciation mitigée; petit déjeuner avec peu de choix (et une seule boisson chaude autorisée!); personnel sympa; chambre simple mais propre.,None,"6,0",Hôtel,Lyon," 7,4 "
+Pierre-luc,France,0,2019-11-17 00:00:00,Très bien,"Petit-déjeuner copieux, situation de l'hôtel idéale à proximité de la gare de Perrache. Personnel très courtois et disponible. Confort très satisfaisant.","Le rapport qualité prix de l'établissement est très satisfaisant mais l'état des chambres doit être vérifié : linge de lit usé, évier bouché...","8,0",Hôtel,Lyon," 7,4 "
+Sandrine,France,0,2019-11-14 00:00:00,chambre un peu cher au vu de la superficie mais très bien placée pour bouger en centre ville à pied,Très bonne literie ; réception ouverte toute la nuit ; chambre calme ; sèche cheveux dans la salle de bains composée d'une baignoire,Obligation de signer un document sur le fait que la chambre est non fumeur alors que le réceptionniste a insisté oralement sur ce point ; une prise dans les toilettes était dénudée ce qui représente un risque électrique ; juste un échantillon de gel douche par personne,"8,0",Hôtel,Lyon," 7,4 "
+Roland,France,1,2019-11-07 00:00:00,Agréable,Emplacement personnel,Penderie pas très pratique,"6,5",Hôtel,Lyon," 7,4 "
+Guillaume,France,0,2019-11-07 00:00:00,Petit hôtel correct,"L'accueil des clients est très bien. Le personnel est accueillant, le petit déjeuner très correct. La chambre est propre est assez sympa ( fonctionnelle) . La douche est très propre et assez spacieuse.",Ce qui est préjudiciable à un très bon séjour se situe dans le bruit des portes qui claquent la nuit de manière intempestives ainsi que du simple vitrage qui fait office de fenêtre.,"8,3",Hôtel,Lyon," 7,4 "
+Eric,France,0,2019-11-03 00:00:00,Bien ,Personnel très sympa excellent rapport qualité prix proche gare,None,"7,0",Hôtel,Lyon," 7,4 "
+Lou,France,0,2019-11-01 00:00:00,Efficace,La proximité avec la gare de perrache est impeccable. 5 minutes à pied. Idéal pour une arrivée tardive en soirée,R.A.S,"8,8",Hôtel,Lyon," 7,4 "
+Julie,France,0,2019-11-01 00:00:00,Hôtel correct pour un court séjour.,"Lit confortable, impression d’espace car chambre sur 2 niveaux. Baignoire dans la salle de bain. WC séparés. 
+Personnel agréable.","La salle de bain gagnerait à être rafraîchie. L’odeur de moisissure est trop présente lorsqu’on veut se détendre dans un bain. Bain à remous très bruyant, une baignoire simple suffit. 
+Le pain du petit déjeuner est de mauvaise qualité, sec et sans goût.","6,0",Hôtel,Lyon," 7,4 "
+Kais,France,0,2019-10-29 00:00:00,"Accueil chaleureux, un hôtel acceptable, parfait pour une personne seule.","Le personnel chaleureux.
+La chambre est confortable.
+La situation géographique est parfaite.",Le prix du petit déjeuner.,"7,9",Hôtel,Lyon," 7,4 "
+Marc,France,0,2019-10-24 00:00:00,parfait pour le prix,Le rapport qualité prix exceptionnel et le calme absolu de l'hôtel,rien à dire,"8,3",Hôtel,Lyon," 7,4 "
+Celine,France,0,2019-10-23 00:00:00,Superbe,Le calme de cette petite chambre en duplex et la baignoire spa😊,La moquette sur le petit escalier qui mène du RDC au premier étage est un peu dangereuse,"8,8",Hôtel,Lyon," 7,4 "
+Gisele,France,0,2019-10-23 00:00:00,J'ai passé un très bon séjour dans cet établissement.,"Je n'ai pas pris de petit déjeuner. Très bien pour tout le reste.
+Très bon rapport qualite/prix
+Très bon emplacement, en quelques minutes , la rue de la république et accès aux grandes places et aux transport en commun.","Le seul ennui, le rez de chaussée ne permet pas d ouvrir la fenêtre.","8,8",Hôtel,Lyon," 7,4 "
+Fran,Suisse,0,2019-10-20 00:00:00,Bien ,None,La salle de bains,"7,5",Hôtel,Lyon," 7,4 "
+Nicolas,France,0,2019-10-18 00:00:00,Superbe,Super rapport qualité prix,None,"8,8",Hôtel,Lyon," 7,4 "
+Thierry,France,1,2019-10-18 00:00:00,Agréable,"La situation geographique dans le quartier rénové et sympathique de Perrache, le hall d'entrée qui a du charme.","La chambre très petite, désuette et assez dégradée, moquette et équipements dont la propreté et l'entretien sont douteux","6,0",Hôtel,Lyon," 7,4 "
+Decourteix,France,0,2019-10-13 00:00:00,Un très sympathique café resto à proximité :le café lyonnais,Personnel très accueillant,La literie et le petit escalier pour se rendre à la chambre,"6,7",Hôtel,Lyon," 7,4 "
+Chankoho,Suisse,0,2019-10-13 00:00:00,C'était parfait,Petit-déjeuner correct - Emplacement parfait - Personnel charmant,J'aurais voulu une chambre à 2 lits... c'est ce que j'avais choisi... mais j'aurais dû payer plus... ce qui n'est pas correct !,"8,8",Hôtel,Lyon," 7,4 "
+Andre,France,0,2019-10-11 00:00:00,Bien ,La propreté,Rien,"7,5",Hôtel,Lyon," 7,4 "
+Jean-charles,Suisse,0,2019-10-11 00:00:00,Bon séjour,Hôtel très bien situé (près de la Place Carnot et e la gare Lyon-Perrache). Accueil très aimable.,None,"8,8",Hôtel,Lyon," 7,4 "
+Lauriane,Taïwan,0,2019-10-05 00:00:00,Agréable,Prix abordable et chambre propre.,Chaînes de télé principales qui ne marchent pas et mauvais réseau dans la chambre.,"6,7",Hôtel,Lyon," 7,4 "
+Stéph,France,0,2019-10-05 00:00:00,Bien ,La tranquillité et la literie,Le manque de propreté de la chambre et de la salle de bain,"7,1",Hôtel,Lyon," 7,4 "
+Susanne,France,0,2019-10-04 00:00:00,Agréable,Les l’immobilier dans l’entrée et l’accueil aimable du personnel,"La chambre, verte le ménage avait été fait mais les photos sur le site embellissent beaucoup. Trace noir (Moisissure) autour de la fenêtre , chambre en forme de couloir peintures vraiment très défraîchis avec des traces noirs au mur, sdb avec pleins de trous de vis dans le carrelage , traces de « trucs marrons » au mur, qui se levaient avec papier et savon et eau... sanitaires propres...
+À l’accueil on m’a fait signer le règlement à respecter en m’informant qu’on allait me facturer 50€ si je fumais à la fenêtre... à mon grand étonnement j’ai trouvé une dizaine de mégots en bas de la fenêtre. interdiction d’allumer ma petite bougie parfumée... 
+Bref le sentiment qu’ils ont d’habitude d’accueillir un publique peu respectueux.","6,2",Hôtel,Lyon," 7,4 "
+Serge,France,0,2019-10-04 00:00:00,Un hôtel qui répondait à mes attentes avec un personnel très gentil et disponible.,"Le personnel très aimable et serviable, la situation de l'hôtel à proximité de la gare Lyon Perrache.
+La chambre était bien située et donc calme.",Les autres clients qui ne respectent pas le sommeil des autres !,"8,0",Hôtel,Lyon," 7,4 "
+Annie,France,0,2019-10-04 00:00:00,nous reviendrons,emplacement idéal pour une nuit et pouvoir aller dîner à pieds à ''LA BRASSERIE GEORGES''.,insonorisation,"7,0",Hôtel,Lyon," 7,4 "
+Odile,France,0,2019-09-30 00:00:00,Une découverte d'un hôtel avec plein de charme qui donne envie d'y retourner !,"L'ambiance feutrée qui se dégage des lieux, le calme de la chambre, le confort du lit et un emplacement qui permet d'aller à pied facilement jusqu'à la Place Bellecour notamment sont des atouts indéniables pour cet hôtel !",None,"8,0",Hôtel,Lyon," 7,4 "
+Ali,France,0,2019-09-30 00:00:00,Bien ,None,le veilleur de nuit est juste impoli,"7,0",Hôtel,Lyon," 7,4 "
+David,France,0,2019-09-29 00:00:00,pratique,"confort. calme (chambre dans la cours )
+bon accueil","chambre sur cours toute petite et tres sombre car 1 porte fenetre qui donne sur la cours. donc volet ferme en permanence
+escalier metallique bruyant meme s il ne dessert que 4 chambres","6,0",Hôtel,Lyon," 7,4 "
+Marion,France,0,2019-09-27 00:00:00,Bien ,None,J'ai oublié ma blouse et aucun geste commercial n'a été fait pour m'aider à la récupérer. On m'a indiqué quelle serait jeter sous une semaine. Cela a gâché l'impression générale de mon séjour.,"7,5",Hôtel,Lyon," 7,4 "
+Laurence,France,0,2019-09-26 00:00:00,Bien ,None,"Ma chambre était un peu petite, mais très bien équipée.","7,5",Hôtel,Lyon," 7,4 "
+Stéphanie,France,0,2019-09-22 00:00:00,"bonne localisation, à deux pas du métro et de brasseries trés sympas. personnel trés serviable","personnel d’accueil trés disponible et agréable. Trés bon emplacement dans une rue calme. trés proche de la gare de lyon Perrage et proche du centre ville, à pied. Nombreux commerces et restauration à proximité. Secteur calme",Chambres pas trés insonorisées et des laitages au petit déjeuner seraient appréciables,"7,9",Hôtel,Lyon," 7,4 "
+Patrick,France,0,2019-09-20 00:00:00,"Bonjour , dommage l'élément précédent et qu'il faut traverser un passage commun privé avec porche !","Bonjour, 
+l'accueil correct !","Seul bémol , je n'ai pratiquement pas dormi de la nuit car j'entendais mon voisin de la chambre contigue ronfler en continuation !
+car le lendemain j'avais une réunion et ma prestation était médiocre ;","6,5",Hôtel,Lyon," 7,4 "
+Aboubakr,Algérie,0,2019-09-17 00:00:00,Bien ,None,Manque Frigo minibar,"7,9",Hôtel,Lyon," 7,4 "
+Marion,France,0,2019-09-17 00:00:00,Bon séjour avec facilité de mobilité.,Hôtel joli près du Rhône avec accès direct aux transports en commun.,Odeur assez désagréable dans la salle de bain.,"8,3",Hôtel,Lyon," 7,4 "
+Philippe,France,0,2019-09-16 00:00:00,Bien ,Le lieu par rapport au centre ville -,None,"7,1",Hôtel,Lyon," 7,4 "
+Ernest,Suisse,0,2019-09-13 00:00:00,"Idéal comme moi, passer 1nuit - pour reprendre un train ou un bus dep la gare Perrache!","Situation très bien et malgré tout super tranquille!
+Chambre propre et sdb impecc !
+Lit très confortable!","Absence d’une fenêtre pr la lumière du jour (il y a bien une porte-fenêtre qui donne sur la cour intérieure, mais condamnée par un store qu’il faut laissé fermé par sécurité!
+Peut être un brin vieillot et bibelots inutiles...","6,2",Hôtel,Lyon," 7,4 "
+Elodie,Luxembourg,0,2019-09-11 00:00:00,Agréable,"literie confortable,situation géographique","petit déjeuner manquant de jambon,fromage, café pas super bon,espace du petit déjeuner trop étroit, trop vieux,odeur d’enfermé","6,7",Hôtel,Lyon," 7,4 "
+Kaoukab,Maroc,1,2020-02-09 00:00:00,Excellent,"Accueil, emplacement, propreté .",Petit déjeuner trop cher,10,Hôtel,Lyon," 8,3 "
+Catherine,France,0,2020-03-19 00:00:00,Bonne halte,"La situation pres du centre, le parking appreciable à Lyon.
+Chambre confortable.",None,"9,0",Hôtel,Lyon," 8,3 "
+Thomas,France,0,2020-03-09 00:00:00,Chambre exceptionnelle mais manque de propreté.,"Chambre superbe, emplacement idéal et accueil excellent. Très bon rapport qualité prix.","La réception de l'hôtel et la salle de petit déjeuné sont vétustes. 
+Gros point faible, le ménage n'était vraiment pas à la hauteur, poussière, traces de verres sur les meubles et toilettes sales.","8,0",Hôtel,Lyon," 8,3 "
+Christian,France,0,2020-03-07 00:00:00,Fabuleux ,La situation,None,"9,0",Hôtel,Lyon," 8,3 "
+Virginie,France,0,2020-03-05 00:00:00,Bien mais sans plus,La chambre et sa salle de bain étaient bien. L'hôtel est très bien situé et le personnel serviable et agréable,"Les partie communes (lobby, salle du petit déjeuner...) manquent de charme, comme l'environnement de l'hôtel, bien qu'il soit parfaitement fréquentable","7,0",Hôtel,Lyon," 8,3 "
+Alain,France,0,2020-03-05 00:00:00,Fabuleux ,Surclassement à l'arrivée,None,"9,0",Hôtel,Lyon," 8,3 "
+Guillaume,France,0,2020-03-04 00:00:00,Très bien,Très belles chambres.,"Le prix du petit-déjeuner (16 euros, c'est trop.)","8,0",Hôtel,Lyon," 8,3 "
+Jean-claude,France,0,2020-03-03 00:00:00,Fabuleux ,"Emplacement proche du centre 
+Parking accessible 
+Chambre agréable 
+Personnel très agréable",None,"9,0",Hôtel,Lyon," 8,3 "
+Anthony,Belgique,0,2020-03-03 00:00:00,Emplacement idéal,"Petit-déjeuner complet (Sucré et salé), confort de la chambre et emplacement idéal.
+Le parking à 19€ par jour est appréciable et vraiment idéal, attention à ne pas avoir un gros SUV","Purement personnel et subjectif, l'entrée de la chambre qui était jaune canari, sinon tout était bien et propre et confortable","8,0",Hôtel,Lyon," 8,3 "
+Rosa,France,0,2020-03-02 00:00:00,ensemble convenable,None,il manquait salade de fruits frais au petit-déjeuner,"7,0",Hôtel,Lyon," 8,3 "
+Richard,France,0,2020-03-01 00:00:00,Fabuleux ,"Très bonne situation géographique.
+Personnel très agréable.
+Chambre au top",None,"9,0",Hôtel,Lyon," 8,3 "
+Laurent,France,0,2020-02-29 00:00:00,Très bien,L’emplacement central et la proximité des quais,"Il manquait des serviettes, dommage.","8,3",Hôtel,Lyon," 8,3 "
+Nicolas,France,0,2020-02-29 00:00:00,Très bien,"L’établissement a une bonne situation géographique dans Lyon
+Déco de la chambre propre et soigner
+Bon rapport qualité prix",Personnel à l’accueil très serviable mais avec un léger manque d’expérience,"8,3",Hôtel,Lyon," 8,3 "
+Diane,Suisse,0,2020-02-26 00:00:00,Fabuleux ,Emplacement!,"Pas bien insonorisé, chambre plutôt petite","9,0",Hôtel,Lyon," 8,3 "
+Alain,France,0,2020-02-25 00:00:00,Très bien,Personnel au top,Rien,"8,0",Hôtel,Lyon," 8,3 "
+Françoise,France,0,2020-02-22 00:00:00,Je reviendrai et recommanderai cet établissement,"L’emplacement de l’hôtel, le stationnement juste à côté. Le volume de la chambre et de la salle de bain.
+La qualité de l’accueil et le sourire.
+La décoration, le calme, plein de détails pratiques facilitant rangement, accrochage...
+Le rapport qualité prix","Concernant le petit déjeuner, l’espace est trop petit:circulation difficile devant le buffet et entre les tables aux heures d’affluence, alors que le hall d’accueil est grand en proportion et pas forcément utilisé en totalité","7,0",Hôtel,Lyon," 8,3 "
+Olivier,France,0,2020-02-18 00:00:00,Très bien,"Bon accueil, chambre agréable avec jolie vue sur Lyon",La possibilité de s’installer à la table de réunion à l’entrée de l’hôtel à 10€ de l’heure et par personne.,"8,0",Hôtel,Lyon," 8,3 "
+Dung,France,0,2020-02-18 00:00:00,Fabuleux ,Un personnel d'accueil sympathique et chaleureux,None,"9,0",Hôtel,Lyon," 8,3 "
+Delphine,France,0,2020-02-17 00:00:00,Fabuleux ,Chambre confortable et hôtel très bien situé,"Pour un hôtel 4 étoiles, j’aurais aimé avoir des peignoirs de bain à disposition.","9,2",Hôtel,Lyon," 8,3 "
+Philippe,France,0,2020-02-16 00:00:00,Exceptionnel,Accueil et personnel très agréable. Parking très proche. Très bien situé. Calme. Bonne literie.,Le petit déjeuner basic un peu cher.,"9,6",Hôtel,Lyon," 8,3 "
+Gwladys,France,0,2020-02-16 00:00:00,Bel hôtel / très bon emplacement,L’emplacement,Le stationnement complet a l’hôtel,"8,0",Hôtel,Lyon," 8,3 "
+Nicole,France,1,2020-02-16 00:00:00,bon rapport qualité prix et proche du centre ville et de toutes les commodités,la situation la gentillesse du personnel le confort de la chambre,le prix en supplément de 15 euros pour notre petit chien que je trouve un peu cher par rapport à d'autres hôtels Comme nous venons réguliérement le prix pourrait être moindre,"8,0",Hôtel,Lyon," 8,3 "
+Dominique,Suisse,0,2020-02-11 00:00:00,Très bien,Tout est le reste est parfait.,Le prix excessif du petit déjeuner,"8,0",Hôtel,Lyon," 8,3 "
+Greg,France,0,2020-02-09 00:00:00,Exceptionnel,Qualité prix : impeccable personnel serviable et aimable. Belle qualité d’ensemble.,None,"9,6",Hôtel,Lyon," 8,3 "
+Moreau,France,0,2020-02-09 00:00:00,Ras,Le pain et le miel. Accueil très bien. La proximité avec le centre. Le grand d lit king size,On donnait sur la rue...attention aux bruits de la rue qui peuvent facilement réveiller. Je ne sais pas si fenêtre a double vitrage...,"8,0",Hôtel,Lyon," 8,3 "
+Isabelle,Suisse,0,2020-02-09 00:00:00,Superbe,L’emplacement et la gentillesse du personnel,"La décoration de l’entrée n’est pas très chaleureuse, couleurs un peu tristes !
+L’attente pour l’ascenseur","8,8",Hôtel,Lyon," 8,3 "
+Catherine,France,0,2020-02-06 00:00:00,"Au global, tellement bien que j'y retourne avec plaisir","Chambre très spacieuse, bien située avec vue sur magnifique Hotel Dieu.
+Accueil souriant, simple, efficace","température de la chambre un peu 'fraîche""...
+Enrichir l'offre de la carte du room service et les solutions de restauration livrée (autres que DELIVEROO etc...) serait un plus pour les clients qui prennent leur dîner en chambre (en déplacement professionnel)","8,0",Hôtel,Lyon," 8,3 "
+Jacques,Suisse,0,2020-02-06 00:00:00,Bien ,"Un emplacement pratique, proche de la gare et du centre",-,"7,5",Hôtel,Lyon," 8,3 "
+Grégoire,France,1,2020-02-03 00:00:00,Fabuleux ,"A mon arrivée, j'ai été surclassé dans une suite.. Très bon confort.. Nuit silencieuse, reposante et confortable..",Le hall un peu défraîchi mais qui n'est pas à l'image de l'hôtel en général heureusement.,"9,0",Hôtel,Lyon," 8,3 "
+Baudelaire,France,0,2020-02-03 00:00:00,super,"calme, lit confortable, spacieux, personnel accueillant","l'accès au parking pas très évident
+faible pression d'eau pour la douche","9,0",Hôtel,Lyon," 8,3 "
+Philippe,France,0,2020-02-02 00:00:00,Conforme aux attentes.,None,Obligation de trouver un parking plus loin.,"9,0",Hôtel,Lyon," 8,3 "
+Anna,France,0,2020-02-01 00:00:00,Bien,Taille des lits,Taille de la salle de restaurant trop petite,"9,0",Hôtel,Lyon," 8,3 "
+Aurelie,France,0,2020-02-01 00:00:00,Top,"Nous avions une suite magnifique avec vue sur l hotel dieu et le rhone. 
+Rénovation récente, la deco était fraîchement terminée.",None,"8,0",Hôtel,Lyon," 8,3 "
+Reynier,France,0,2020-01-30 00:00:00,très bon séjour,le parking très pratique - ll est dans l'hôtel,la salle du petit déjeuner est trop petite,"7,0",Hôtel,Lyon," 8,3 "
+Clauduc,France,0,2020-01-30 00:00:00,Très bien,"Emplacement idéal
+Parking à voiture sous l'hotel",None,"8,0",Hôtel,Lyon," 8,3 "
+Clélia,Suisse,0,2020-01-29 00:00:00,Parfait pour un petit week-end,"La décoration de la chambre 
+Le parking facile et idéal au centre de Lyon",Rien,"9,2",Hôtel,Lyon," 8,3 "
+Alexandra,France,0,2020-01-27 00:00:00,Séjour à lyon en amoureux,"L'emplacement de l'hôtel. 
+Le confort de la chambre ( matelas).
+Le personnel agréable.",R.A.S,"8,0",Hôtel,Lyon," 8,3 "
+Julie,France,0,2020-01-27 00:00:00,Rien à redire,"Taille de la chambre, accueil du personnel et le petit déjeuner",Un peu de bruit peut être,"8,0",Hôtel,Lyon," 8,3 "
+Corentin,France,0,2020-01-26 00:00:00,Très bien,Le parking souterrain et le monte charge pour les voitures c'est top,None,"8,0",Hôtel,Lyon," 8,3 "
+Eric,France,0,2020-01-26 00:00:00,Bien ,"Accueil sympathique, très bonne situation.","Équipements et prestations un peu légères pour du 4*.
+Isolation vis à vis de la rue qui mériterait un rafraîchissement. 
+Joint manquant dans la salle d eau qui fait que l eau de la douche coule au sol.","7,0",Hôtel,Lyon," 8,3 "
+Jérôme,France,0,2020-01-26 00:00:00,Très bien !!! Moi et mon épouse allons y séjournés une seconde fois dans les quinze jours prochain.,"L'accueil, le confort, tranquillité bien insonorisées par rapport à la situation géographique et rapport qualité prix à notre attente, cette hôtel mérite ces étoiles.",Dommage pas assez de places de parking pour l'ensemble des clients de l'hôtel. ( rien de grave !!).,"9,0",Hôtel,Lyon," 8,3 "
+Fabienne-anne,Guadeloupe,0,2020-01-23 00:00:00,Hôtellerie de qualité,Très belle prestation hôtelière. Qualité de service. Personnel aimable et disponible.,Tout est au top,"9,0",Hôtel,Lyon," 8,3 "
+Laurence,France,0,2020-01-23 00:00:00,Très bien,PETIT DEJ SUPER,LA TV NE MARCHAIT PAS AINSI QUE LA PETITE VEILLEUSE DE LIT,"8,0",Hôtel,Lyon," 8,3 "
+Eric,France,0,2020-01-22 00:00:00,Très bien,Le personnel.Disponible et courtois.Excellente situation de l'établissement,None,"8,0",Hôtel,Lyon," 8,3 "
+Ghislaine,France,0,2020-01-19 00:00:00,Très bien,"Chambre spacieuse confortable et très propre
+Calme . Personnel très accueillant et très professionnel. C'est agréable d'être bien reçu. Merci",None,"8,0",Hôtel,Lyon," 8,3 "
+Arsac,France,0,2020-01-19 00:00:00,j'aime,le personnel en particulier du soir est vraiment sympa.,les camions de poubelles le matin vers 5h30,"8,0",Hôtel,Lyon," 8,3 "
+Andrée,France,0,2020-01-17 00:00:00,"séjour très agréable, chambre spacieuse, belle vue","La disponibilité du personnel, la propreté",coût du parking,"8,0",Hôtel,Lyon," 8,3 "
+Baptiste,France,0,2020-01-17 00:00:00,Fabuleux ,Hotel magnifique,difficile d'accès en voiture si on ne prend pas le parking,"9,0",Hôtel,Lyon," 8,3 "
+Christel,France,0,2020-01-15 00:00:00,Bien ,"L’hôtel est charmant et bien placé. A la réception le personnel est adorable. 
+La chambre est grande et agréable","La literie est trop dure à mon goût. 
+Les femmes de ménage ont été très désagréables. Elles hurlaient l’une sur l’autre dans les couloirs. Elles ont râlé parce que je ne sortais pas assez vite de la chambre.","7,1",Hôtel,Lyon," 8,3 "
+Dominique,France,0,2020-01-14 00:00:00,A découvrir calme tout en étant proche du centre ville.,Hôtel bien situé proche des transports en commun. Personnel agréable qui est un plus non négligeable. Petit déjeuner agréable et au calme car les horaires calmes sont affichés. Literie très agréable. Salle de bain au Top... A découvrir,"Rien de particulier. Sauf peut-être les canapés de l'entrée qui sont un peu ""vieux"" avec une assise ""fatiguée"". Mais cela reste un détail.","9,0",Hôtel,Lyon," 8,3 "
+Vincent,France,0,2020-01-14 00:00:00,Très bien,Accueil chaleureux et très sympathique,"L'insonorisation de la chambre n'était pas parfaite. Un voisin avait décidé de regarder la télé tard, heureusement j'avais des boules quies. Pas de problème pour le bruit de la rue, quartier calme.","8,0",Hôtel,Lyon," 8,3 "
+Jean,France,0,2020-01-13 00:00:00,"Sejour agreable , mais dommage pour le bruit.","Petit dejeuner bien. Emplacement bien.
+Personnels très sympa.","Par contre , l'hotel est un peu bruyant. (Bruits exterieurs).","7,0",Hôtel,Lyon," 8,3 "
+Mariine,France,0,2020-01-13 00:00:00,Bien ,None,"On entend tous les bruits, les gens qui parlent, les femmes de ménages qui règlent leurs comptes, les portes qui claquent... pour dormir ce n'est pas l'idéal.","7,0",Hôtel,Lyon," 8,3 "
+Céline,France,0,2020-01-12 00:00:00,Très bien,Excellent emplacement et petit déjeuner bon,Problème de ventilation dans la salle de bain,"8,0",Hôtel,Lyon," 8,3 "
+Roger,Suisse,0,2020-01-12 00:00:00,Sympa,Le changement de chambre afin d'avoir une baignoire,Rien,"8,0",Hôtel,Lyon," 8,3 "
+Gérard,France,0,2020-01-08 00:00:00,BON SEJOUR,"emplacement très bien pour visiter 
+petit déjeuner bien mais cher
+chambre calme et confortable",LA SALLE DU PETIT DEJEUNER TROP PETITE,"8,0",Hôtel,Lyon," 8,3 "
+Mimouna,France,0,2020-01-06 00:00:00,Pour visiter la ville tted,"La chambre avec terrasse et belle vue sur la ville
+Le parking
+Le petit déjeuner 
+L emplacement
+Le perdonnem",Rien,"8,0",Hôtel,Lyon," 8,3 "
+Rj18-09,Suisse,0,2020-01-04 00:00:00,Fabuleux ,"L'emplacement, la proximité du centre-ville",La météo 😉,"9,0",Hôtel,Lyon," 8,3 "
+Leo,France,0,2020-01-03 00:00:00,Bien ,La localisation,None,"7,9",Hôtel,Lyon," 8,3 "
+Michel,France,0,2020-01-01 00:00:00,Très bien,None,"Une légère odeur d'égout dans le hall et escalier
+Une salle un peu trop petit pour le petit-déjeuner","8,0",Hôtel,Lyon," 8,3 "
+Julie,Belgique,0,2019-12-31 00:00:00,Établissement confortable et personnel sympathique,La localisation dans la ville et le confort de la chambre,"Le petit-déjeuner est décevant, peu de choix et la salle du petit-déjeuner est très petite.","7,5",Hôtel,Lyon," 8,3 "
+José,France,0,2019-12-29 00:00:00,"Personnel acceuillant, & bon rapport qualité prix.",La possibilité de se garer dans le parking de l'hôtel & la situation géographique de l'hotel.,"Rue un peu bruyante la nuit, sinon RAS","8,0",Hôtel,Lyon," 8,3 "
+Mirko,Italie,0,2019-12-27 00:00:00,Un jour à Lyon,Position,None,"8,3",Hôtel,Lyon," 8,3 "
+Roger,France,0,2019-12-27 00:00:00,Excellence,"En quelques mots, satisfait par par l’accueil et les prestations de cet hôtel.","Petit bémol, je suis resté deux jours et la chambre n’a pas été faite pendant cette période .
+Période de Noël explique cet oubli","9,6",Hôtel,Lyon," 8,3 "
+Gilles,Belgique,0,2019-12-25 00:00:00,Pause sur lyon,Chambre spacieuse et confortable,None,"8,0",Hôtel,Lyon," 8,3 "
+Romain,Suisse,0,2019-12-25 00:00:00,Fabuleux ,Le calme et la propreté,Moquette,"9,2",Hôtel,Lyon," 8,3 "
+Sophie,France,0,2019-12-20 00:00:00,Super sympa !!! On a adoré !,"Le surclassement, la vue depuis la chambre, la taille de la chambre, la propreté, le personnel","Les tarifs changeants au fil des jours, l'aspect de l hotel depuis l'extérieur dommage pour un 4 étoiles","9,6",Hôtel,Lyon," 8,3 "
+Géraldine,Autriche,0,2019-12-17 00:00:00,Très bon rapport qualité/prix/emplacement,"Personnel très agréable, bien situé, calme et propre.",None,"8,0",Hôtel,Lyon," 8,3 "
+Lucie,France,0,2019-12-16 00:00:00,espace et citadine !,Le surclassement de la chambre et la disponibilité du personnel,"le petit dej, salle pas très bien entretenue, et petit dej trop succinct.","8,0",Hôtel,Lyon," 8,3 "
+Aurelie,France,0,2019-12-15 00:00:00,Fabuleux ,"Très bon emplacement, literie confortable, chambres calmes, décoration des chambres très soignée.",Le hall d'entrée n'est pas à la hauteur du reste de l'hôtel (semble moins bien entretenu et parfum d'ambiance trop présent),"9,0",Hôtel,Lyon," 8,3 "
+Julien,France,0,2019-12-15 00:00:00,Fabuleux ,"Un emplacement idéal. Pour le shopping , visite et restaurant","Look un peu vieux, et lifting serait bien venu.","9,2",Hôtel,Lyon," 8,3 "
+Valerie,France,0,2019-12-11 00:00:00,Fabuleux ,"Emplacement idéal dans Lyon et parking appréciable. Les chambres sont belles, grandes et confortables ; l'accueil souriant.",None,"9,2",Hôtel,Lyon," 8,3 "
+Eric,France,0,2019-12-08 00:00:00,Fabuleux ,"L'accueil, le confort, l'emplacement, le parking et le petit déjeuner !","La lumière de la niche de l'entrée qui ne s'eteind pas ! Mais pas gênant, il faut fermer la porte !
+Et ce souci devrait être résolu rapidement...","9,2",Hôtel,Lyon," 8,3 "
+Michel,Suisse,0,2019-12-08 00:00:00,"séjour parfait , je le recommande","bien situé et propre en ordre,personnel à l'écoute , petit déjeuner parfait",None,"9,0",Hôtel,Lyon," 8,3 "
+Philippe,France,0,2019-12-02 00:00:00,Fabuleux ,très bien dans l'ensemble,None,"9,0",Hôtel,Lyon," 8,3 "
+Marie-mélodie,France,0,2019-12-01 00:00:00,Très agréable,La chambre était très agréable (lit confortable) et grande salle de bain avec le nécessaire.,Salle de petit déjeuner trop petite,"9,0",Hôtel,Lyon," 8,3 "
+Manon,France,0,2019-12-01 00:00:00,Encore un bon séjour en famille dans cet hôtel bien placé.,"L’amabilité de la réceptionniste et sa disponibilité.
+Nous avons pu avoir notre chambre un peu avant l’heure prévue. 
+Le petit déjeuner, sous forme d’un buffet garni et diversifié. 
+Belle vue sur l’hôtel Dieu et bonne position géographique.
+Propreté de la chambre et qualité de la literie.","Le manque de papier toilette dans les wc et pas de rouleaux en stock dans la chambre.
+L’isolation d’une des fenêtres sur l’exterieur qui n’était pas terrible.
+Le monde au petit-déjeuner et le manque de place.","7,0",Hôtel,Lyon," 8,3 "
+Philippe,France,0,2019-12-01 00:00:00,Bien,"L emplacement 
+Belle deco de Noël dans le hall","Salle de petit déjeuner vraiment étriquée, flux impossible, bruit face aux va et vient des ascenseurs mais il y a des travaux en vue à priori ouf","7,0",Hôtel,Lyon," 8,3 "
+Elisabeth,France,0,2019-12-01 00:00:00,petit week end intense et trés agréable,"grande chambre
+personnel à écoute et très dynamique",None,"9,0",Hôtel,Lyon," 8,3 "
+Guillaume,France,0,2019-12-01 00:00:00,Un repos attendu dans un lieu calme et propre. Avec un personnel souriant,Lit très confortable. Silencieux.,La salle à manger est nettement pas à la dimension de l’hôtel puisque nous avons attendu dix minutes avant de pouvoir prendre notre petit déjeuner. Une erreur de l’architecte ?,"8,0",Hôtel,Lyon," 8,3 "
+Anne,France,0,2019-11-22 00:00:00,Bien ,L'emplacement et les chambres spacieuses,La salle du petit-déjeuner est un peu petite. Ca s'est bousculé le matin...,"7,0",Hôtel,Lyon," 8,3 "
+Marie,France,0,2019-11-21 00:00:00,Bien ,None,"Avec une facture de prés de 200 euros pour la nuit petit dej et dîner, ayant payé la veille au soir de mon départ, la personne qui avait fait la facture a oublié le room-service:1euros qui m'ont été demandé alors que j'étais pressée(raison pour laquelle j'avais tout réglé la veille).
+je trouve que pour un hôtel qui se positionne sur cette gamme c'est vraiment mesquin comme politique, étrange gestion de la relation client...","7,0",Hôtel,Lyon," 8,3 "
+Nicole,Cambodge,0,2019-11-20 00:00:00,Fabuleux ,"chambre très spacieuse,ils nous ont fourni en plus du lit bébé un chauffe biberon un transat our la douche ainsi qu'un matelas à langer ce qui est très appréciable lorsqu' on voyage avec des bébés.
+Vue sur le Rhône et personnel sympatique et disponible","rien, tout était parfait","9,0",Hôtel,Lyon," 8,3 "
+Hervé,France,0,2019-11-18 00:00:00,Exceptionnel,Pratique et moderne,Chaise en paille non assortie au mobilier,"9,6",Hôtel,Lyon," 8,3 "
+Bruno,France,0,2019-11-18 00:00:00,Bien ,"Placé non loin du centre et au calme, assez neuf, literie un peu ferme mais ok , personnel très sympa","le petit déjeuner assez moyen en qualité et espace petit, odeur persistante de mangue (artificielle) dans tous les étages (odeur un peu écœurante à force)","7,0",Hôtel,Lyon," 8,3 "
+Alexandra,France,0,2019-11-18 00:00:00,Bien ,"J'ai aimé la décoration de la chambre, la douche. Le personnel était très sympa !",Je n'ai pas apprécié les oreillers qui étaient trop durs. Le petit déjeuner serait à améliorer.. notamment les croissants,"7,0",Hôtel,Lyon," 8,3 "
+Erick_nyon,Suisse,0,2019-11-17 00:00:00,Très bien pour un weekend - mais hôtel vieillot qui demande à être rafraichi,La chambre,Le lobby,"7,0",Hôtel,Lyon," 8,3 "
+Laurent,Suisse,0,2019-11-13 00:00:00,Bien ,"Emplacement
+Parking
+Personnels très sympathique et professionnelle","Beaucoup de bruit extérieur
+Prix final ne correspond pas à la réservation
+Peu de confort pour un 4 étoiles","7,1",Hôtel,Lyon," 8,3 "
+Fabienne,France,0,2019-11-12 00:00:00,Bien ,"excellent emplacement
+personnel à l'accueil très agréable",salle du petit déjeuner trop petite,"7,0",Hôtel,Lyon," 8,3 "
+Aurélien,France,0,2019-11-11 00:00:00,Superbe,None,"Hôtel très bien placé. Beaucoup de chose a faite aux alentours sans prendre la voiture.
+Petit-déjeuner au top. Seul petit defait il faut arriver à la bonne heure pour avoir de la place sinon un peu d attente.
+Chambre très propre.","8,8",Hôtel,Lyon," 8,3 "
+Lydia,France,0,2019-11-10 00:00:00,Fabuleux ,Nous avons eu un problème de chauffage dans notre chambre et le personnel a été à l'écoute et efficace pour nous déplacer dans une autre chambre plus confortable.,None,"9,0",Hôtel,Lyon," 8,3 "
+Goulouk,France,0,2019-11-10 00:00:00,Fabuleux ,.,La salle du petit déjeuner est très petite,"9,2",Hôtel,Lyon," 8,3 "
+Claude,France,0,2019-11-09 00:00:00,Bien ,None,"PRIX DU PARKING TROP ELEVE NON INDIQUE LORS DE LA RESERVATION
+PRIX DU PETIT DEJEUNE","7,5",Hôtel,Lyon," 8,3 "
+Didier,Belgique,0,2019-11-05 00:00:00,Nous y retournerons,"Situation proche du centre tout en étant au calme.
+Parking sécurisé.
+Personnel à l'accueil très serviable et gentil.
+Buffet petit déjeuné varié, très bon.",Salle du petit déjeuné trop petite-attente pour avoir une table,"8,0",Hôtel,Lyon," 8,3 "
+Chantal,France,0,2019-10-28 00:00:00,Très bien situé.,Chambres rénovées avec goût.,La salle de restaurant beaucoup trop petite pour le petit déjeuner. Mais il semblerait qu’il y ait un projet d’agrandissement.,"8,8",Hôtel,Lyon," 8,3 "
+Olivier,France,0,2019-10-28 00:00:00,Fabuleux ,Tout,Peut être les lumières de la salle de bain un peu faibles ...,"9,2",Hôtel,Lyon," 8,3 "
+Aurélie,France,0,2019-10-27 00:00:00,Bien ,"Literie confortable 
+Emplacement géographique idéal",Un peu de monde le matin au petit déjeuner et une seule personne pour gérer le tout,"7,9",Hôtel,Lyon," 8,3 "
+Alexandrine,France,0,2019-10-25 00:00:00,Superbe,Chambre spacieuse et très propre. Literie impeccable. Personnel disponible et aimable.,"Salle de petit-déjeuner exigue, buffet moyen.
+Chambre donnant sur la rue, très bruyante la nuit","8,8",Hôtel,Lyon," 8,3 "
+Isabelle,Gabon,0,2019-10-24 00:00:00,Week-end proche vieux Lyon,Confort de la literie,"Pas de parking bien qu’annoncé, bruyant (rue passante)","8,3",Hôtel,Lyon," 8,3 "
+Sophie,France,0,2019-10-23 00:00:00,Fabuleux ,Excellent accueil. Chambre familiale tres bien conçue. Bouilloire dans la chambre.,Odeur desagreable dans la chb en entrant sans doute liée au fait que les chb viennent d etre refaites. Elles sont d ailleurs très agréables.,"9,2",Hôtel,Lyon," 8,3 "
+Catherine,France,1,2019-05-19 00:00:00,parfait,nous avons mangé dans notre chambre. Tout a été parfait pour un excellent séjour à Lyon.,None,10,Appart'hôtel,Lyon," 7,6 "
+Abdallah,France,0,2020-03-15 00:00:00,TOP TOP TOP,l'accueil,rien,"9,0",Appart'hôtel,Lyon," 7,6 "
+Benoit,France,0,2020-03-08 00:00:00,Bien ,"La chambre est spacieuse pour 2
+L’emplacement est idéal à proximité de tout
+Le prix est très correct pour Lyon",Prévoir du papier toilettes en quantité suffisante pour un séjour de 3 jours,"7,0",Appart'hôtel,Lyon," 7,6 "
+Jocelyne,France,0,2020-03-04 00:00:00,Très bien,Sur la rue très calme. Pratique quand il s'agit d'être près de la gare sNCF et du quartier d'affaires,None,"8,0",Appart'hôtel,Lyon," 7,6 "
+Sandra,Belgique,0,2020-02-29 00:00:00,Bien ,Bien situé et confort correct,None,"7,1",Appart'hôtel,Lyon," 7,6 "
+Abdelali,France,0,2020-02-29 00:00:00,Content et je n'hésiterai pas de revenir,"La sympathie du personnel, la localisation de l'hôtel et le rapport qualité prix.",Le nettoyage des chambres et le changement des serviettes ne se fait qu'une fois par semaine.,"8,0",Appart'hôtel,Lyon," 7,6 "
+Florence,France,0,2020-02-25 00:00:00,Très bien,L'emplacement idéal. Les équipements la propreté. Super pour un weekend ! ou en semaine,Rien à signaler,"8,0",Appart'hôtel,Lyon," 7,6 "
+Karine,France,0,2020-02-24 00:00:00,Fabuleux ,None,"Super séjour, je recommande","9,0",Appart'hôtel,Lyon," 7,6 "
+Vincent,France,0,2020-02-20 00:00:00,"Très bien,nous y rerournerons","Spacieux pour une famille de 4,bien placé,propre,bonne literie,calme",None,"8,0",Appart'hôtel,Lyon," 7,6 "
+Béatrice,France,0,2020-02-20 00:00:00,Conforme à mes attentes,"Le confort de la literie, l’appart côté jardin et la Tv grand ecran",Le bruit de la tringlerie d’ascenseur,"7,0",Appart'hôtel,Lyon," 7,6 "
+Christian,France,0,2020-02-18 00:00:00,Idéal pour les séjours de courte durée.,"Indépendance, et accès facile. Sécurisation de la zone parking.",None,"9,0",Appart'hôtel,Lyon," 7,6 "
+Patrick,France,0,2020-02-17 00:00:00,Endroit spacieux par rapport à une chambre d’hôtel et bien situé au niveau transports,La dimension de la chambre et les équipements,"Appartement très bruyant quand il y a du vent, persiennes qui battent.","8,0",Appart'hôtel,Lyon," 7,6 "
+Amandine,France,0,2020-02-17 00:00:00,Bien ,"Les lit confortables, les grands placards.","Le sol était collant en arrivant, les chaises en tissu très sales et les jeunes qui parlent fort dans les couloirs le soir ou la nuit.....","7,0",Appart'hôtel,Lyon," 7,6 "
+Catherine,France,0,2020-02-12 00:00:00,Bien ,"Appartement sympa , bien chauffé","Le bruit des voisins , jusqu'à dans la nuit ......
+Nous avions demandé un premier étage et nous nous sommes retrouvés au cinquième.......rien d autres nous a été proposé","7,0",Appart'hôtel,Lyon," 7,6 "
+Miss,France,0,2020-01-25 00:00:00,Bon séjour,"Malgré le fait que Part-Dieu soit en travaux, j'ai eu la chance d'atterrir dans un quartier plutôt calme.
+Au niveau du logement, les draps, serviettes et nécessaire de toilette (savon, shampooing, gel douche) étaient fournis et le lit (et oreillers) était très confortable ! ;D",None,"9,0",Appart'hôtel,Lyon," 7,6 "
+Julien,France,0,2020-01-19 00:00:00,Superbe,"Une terrasse en plus, c’était inattendu!","Il manque quelques détails, pouvoir accrocher le pommeau de douche, sel/poivre etc...","8,8",Appart'hôtel,Lyon," 7,6 "
+Ahmed,Tunisie,0,2020-01-12 00:00:00,Proximité transports commerces et supermarchés. Toutes les commandités sont dispo.,Proximité et acceuil,Éclairage,"8,0",Appart'hôtel,Lyon," 7,6 "
+Elisabeth,France,0,2020-01-08 00:00:00,Superbe,"Très bon accueil. 
+Très bon rapport qualité prix.",None,"8,8",Appart'hôtel,Lyon," 7,6 "
+Lamia,Maroc,0,2020-01-06 00:00:00,"Bien, quelques points à améliorer","Superficie
+Le calme","Poussière sous le lit. 
+Pas de sèche-cheuveux
+Bruit provenant la nuit du compteur (eau chaude)","8,0",Appart'hôtel,Lyon," 7,6 "
+Esher,France,0,2020-01-02 00:00:00,Fabuleux ,"La chambre était très propre !! 
+Rapport qualité / prix très bien.",None,"9,0",Appart'hôtel,Lyon," 7,6 "
+Laurence,France,0,2019-12-26 00:00:00,bon rapport qualité prix. c'est ce que je recherchais.,je n'ai pas pris le petit déjeuner sur place.,la chambre plus petite que sur la photo.,"7,0",Appart'hôtel,Lyon," 7,6 "
+Didier,France,0,2019-12-10 00:00:00,"Bon séjour, a recommander",le calme la proximité du métro,"le lundi matin temps d'attente , une seule personne pour les départs et les entrés, ça bouchonne…..","7,0",Appart'hôtel,Lyon," 7,6 "
+Flo,France,0,2019-12-10 00:00:00,Bien ,Le lieu : proche du tram et metro,"Petit dej de 9€, un.peu cher.
+Il devrait etre plus varié (fruits secs, fruits frais, oeufs seraient agreables)
+Le sol devrait etre refait dans les chambres","7,9",Appart'hôtel,Lyon," 7,6 "
+Denise,La Réunion,0,2019-11-03 00:00:00,"Agréable, confortable.",La taille de l'appartement. L'agencement des pièces. Appartement accueillant,Le bruit du 1er soir. Les autres soirs ont été calmes.,"7,0",Appart'hôtel,Lyon," 7,6 "
+David,France,0,2019-09-02 00:00:00,"Avis mitigé; très en dessous , qualitativement de son homologue rennaise: la Villa Camilla",La situation et la relative fraicheur de l'appartement alors qu'il faisait très chaud dehors + présence d'un ventilateur,"attente jusqu'à 16h pour pouvoir occuper notre appartement ( on nous l'avait contractuellement promis pour 15h ). Vaisselle très insuffisante dans les appartements ( la moitié de ce qui était prévu à l'inventaire manquait : très compliqué du coup pour organiser les repas sur place, ) ...Frais supplémentaires, du coup, de restauration à l'extérieur","6,7",Appart'hôtel,Lyon," 7,6 "
+Adil,Maroc,0,2019-08-24 00:00:00,Très bon emplacement,"Très calme 
+Bon emplacement",None,"8,5",Appart'hôtel,Lyon," 7,6 "
+Francine,Belgique,0,2019-08-23 00:00:00,"Détente, calme","Appartement propre et l'immeuble aussi. Faudrait penser à changer les ustensiles de cuisine.
+Pas loin de la gare,centre ville et magasins","Les ustensiles vieillots de la cuisine ( casserole, couverts,.. )","7,5",Appart'hôtel,Lyon," 7,6 "
+Martine,France,0,2019-08-20 00:00:00,"bien situé, studio trèspropre, personnel agréable, quelques efforts à faire pour le halld'accueil","le studio était très propre, le personnel aimable . toutefois le personnel doit être polyvalent, aussi il a fallu attendre une demi-heure pour la remise des clefs, et pas de sièges à l'accueil !","l'entrée devrait être rénovée pour être plus accueillante, on a l'impression d'entrer dans un HLM !
+heureusement que le studio était agréable !","8,3",Appart'hôtel,Lyon," 7,6 "
+Monique,France,0,2019-08-07 00:00:00,Agréable,"Le personnel de ménage
+La proximité des moyens de transport, le quartier","Pas de climatisation, un ventilateur, des moustiques, ascenseur en panne deux fois.","6,2",Appart'hôtel,Lyon," 7,6 "
+Dominique,La Réunion,0,2019-08-06 00:00:00,Bien sans plus beaucoup de bruit le matin de bonheur au rdc mais laverie bien fonctionnelle.,None,l'équipement cuisine mal entretenu.,"6,5",Appart'hôtel,Lyon," 7,6 "
+Soltan_gris,France,0,2019-08-05 00:00:00,"Emplacement pour famille impéccable dans la période louée, beaucoup d'étudiants.","Confort et équipement adapté pour une famille
+Appartement propre et fonctionnel
+Emplacement dans une zone peu touristique mais accès transports en communs aisé
+Parking réservé en sous sol - parfait","Manque une climatisation, la période de notre location lors de canicule a été difficile
+Le canapé lit aurait été mieux si deux lits superposés","8,8",Appart'hôtel,Lyon," 7,6 "
+Isabelle,France,0,2019-08-01 00:00:00,Bien ,"Bien situé, propre et confortable. Parking très pratique.","Terasse vide, pas de mobilier de jardin.","7,5",Appart'hôtel,Lyon," 7,6 "
+Antonio,Italie,0,2019-08-01 00:00:00,Appartement pratique et propre,Pas d'attache murale prévue pour le pommeau de douche,None,"7,5",Appart'hôtel,Lyon," 7,6 "
+Marion,France,0,2019-07-12 00:00:00,Superbe,Calme et bien situé,Il faisait très chaud,"8,8",Appart'hôtel,Lyon," 7,6 "
+Gerald,France,0,2019-05-31 00:00:00,Bien ,La kitchenette,Manque la climatisation et un balai,"7,1",Appart'hôtel,Lyon," 7,6 "
+Amélie,France,0,2019-05-17 00:00:00,très bien,appartement confortable et fonctionnel,None,"7,5",Appart'hôtel,Lyon," 7,6 "
+Hélène,France,0,2019-05-06 00:00:00,"Rapport qualité prix correct. Attention, si vous arrivez le week-end, hôtel injoignable","La situation géographique de l'hôtel (près de la gare PART DIEU) et l'accessibilité des transports en commun
+La mise à disposition des clefs dès mon arrivée",Le studio était proche de la cage de l'ascenseur et les plaques électriques ne fonctionnaient pas,"7,5",Appart'hôtel,Lyon," 7,6 "
+Mefiteh,Algérie,0,2019-04-19 00:00:00,Ça c'est passé comme on voulait merci,Le lit bien et les ustensiles de cuisine très bien,"Plaque chauffante ne marchait pas bien. 
+Shampoing insuffisant pour une semaine","7,9",Appart'hôtel,Lyon," 7,6 "
+Isabelle,France,0,2019-04-18 00:00:00,Bien ,"Logement propre et calme.
+Couchage confortable. 
+Récupération des clé même quand accueil fermé.",Un peu loin du vieux Lyon.,"7,1",Appart'hôtel,Lyon," 7,6 "
+Gagliardini,France,0,2019-04-08 00:00:00,Bien ,L'emplacement,None,"7,9",Appart'hôtel,Lyon," 7,6 "
+Emmanuel,France,0,2019-02-22 00:00:00,Très bien,"Insonorisation, sécurité,propreté,proximité transport","Cafetière bancale , ne pas pouvoir mettre Le pommeau de douche en hauteur , rideau sale au niveau de l aération coffre de volet","7,5",Appart'hôtel,Lyon," 7,6 "
+Gérard,France,0,2019-01-02 00:00:00,cool....accessible...sympa..,le calme...,manque...Papier hygiénique et 1 sac poubelle...,"7,5",Appart'hôtel,Lyon," 7,6 "
+Jean-yves,France,0,2018-12-28 00:00:00,Parfait pour un court séjour en famille !,"Cuisine plutôt bien équipée pour ce type d’hôtel, appartement propre et en bon état (contrairement à d'autres hôtels du même type déjà testés...), literie très bien. Rien d'extraordinaire mais parfait pour un court séjour en famille ! Seul (petit) bémol : plus de piles dans les télécommandes tv et comme nous étions le 25 décembre pas de solution pour en avoir des neuves. En revanche le 24 et le 26 personnel à l'accueil très aimable et serviable !",None,"8,3",Appart'hôtel,Lyon," 7,6 "
+Jiji,France,0,2018-12-13 00:00:00,Très bien pour séjour d'affaire pas trop cher,Possibilité de récupérer sa clé à toute heure. Pas trop loin de la gare. Calme et petit déjeuner complet.,Un tout petit peu éloigné du métro. Pas de petit déjeuner le dimanche.,"7,9",Appart'hôtel,Lyon," 7,6 "
+Bb29,France,0,2018-12-12 00:00:00,Séjour agréable avec une situation proche des transports.,"Apprécié les nombreux rangements.
+Ustensils de cuisine suffisant et correct.
+Literie appréciée.","Côté cuisine, les plaques de cuisson sont inefficaces. 
+Impossible même à pleine puissance de faire bouillir de l'eau pour des pâtes ou des oeufs.
+Un remplacement par des plaques à induction serait judicieux.","8,8",Appart'hôtel,Lyon," 7,6 "
+Sylvia,France,0,2018-10-29 00:00:00,Un lieu très correct pour quelques jours,"L'excellente literie, la salle de bain, le chauffage que l'on peut régler à loisir, les volets électriques, le balcon, le calme absolu, la vue sur le jardin, la wifi super rapide.","Pas de luminaires adaptés, appartement sombre, pas de sèche cheveux, manque un peu d'accessoires de cuisine (bouilloire, théière, couvercles pour la grande poêle).","6,7",Appart'hôtel,Lyon," 7,6 "
+Moi,Belgique,0,2018-09-24 00:00:00,Agréable,Le lit etait confortable. La chambre était conforme,Internet pas trouvé. Cuisinière très basique et pas d'instruction sur les taques.,"7,1",Appart'hôtel,Lyon," 7,6 "
+Fd,France,0,2018-08-19 00:00:00,Bon rapport qualité prix,"Pouvoir récupérer les clés à n'importe quelle heure.
+La proximité avec la gare et avec le grand centre commercial part dieu.",Le manque de vaisselle,"8,3",Appart'hôtel,Lyon," 7,6 "
+Marlene,France,0,2018-08-13 00:00:00,Appartement pratique et bien placé mais trop chaud en été.,"Personnel très sympathique, chambre pratique et très bien placée.","Dommage qu'il n'y ait pas de climatisation en pleine canicule, et la propreté des sols pourrait être améliorée.","7,5",Appart'hôtel,Lyon," 7,6 "
+Anne-marie,France,0,2018-08-10 00:00:00,Bien ,Le parking sous l'immeuble et à un prix très intéressant. La gentillesse du personnel.,Pas de clim (nous y étions au moment de la canicule)...,"7,9",Appart'hôtel,Lyon," 7,6 "
+Martine,France,0,2018-08-04 00:00:00,Bien ,"L'espace. Le confort des lits. La situation. La facilité d'accès. La simplicité des formalités. Le parking, un vrai plus. Le rapport qualité prix. 
+Et bien sûr les visites ! Super musée du cinéma, musée des miniatures, monuments, vieux lyon, quartier la croix rousse, la part dieu...",La petite terrasse n'était pas nettoyée ni mise en valeur. Dommage.,"7,5",Appart'hôtel,Lyon," 7,6 "
+Fabrice,La Réunion,0,2018-07-10 00:00:00,"Super, génial à découvrir",Endroit bien placé pour voyager en train ou avion,Endroit calme et Chaleureux,"7,1",Appart'hôtel,Lyon," 7,6 "
+Alain,France,0,2018-06-05 00:00:00,séjour agréable,"appartement bien exposé, un calme appréciable.",un rafraichissement de l'appartement ne serait pas excessif !,"7,5",Appart'hôtel,Lyon," 7,6 "
+Brigitte,France,0,2018-05-29 00:00:00,Superbe,Bien placé à 10 minutes à pied de la gare et centre commercial,Il manque un sèche-cheveux 😉,"8,8",Appart'hôtel,Lyon," 7,6 "
+Catherine,France,0,2020-03-12 00:00:00,Décevant,"Personnel accueillant 
+Literie confortable","Vue sur rue trop bruyante pour ouvrir la fenêtre 
+Coin cuisine plaques électriques sans age pas de hotte micro ondes au revêtement intérieur hors d usage","4,0",Appart'hôtel,Lyon," 7,6 "
+Johan,Kenya,0,2020-03-12 00:00:00,Décevant,proximité,Non,"4,0",Appart'hôtel,Lyon," 7,6 "
+Antoine,France,0,2020-03-03 00:00:00,A ne pas refaire mais on reviendra pour la ville!,"Proximité avec le centre.
+Réactivité du personnel pour nous changer de chambre",Sale. Vetuste. Draps certainement pas changes.,"4,0",Appart'hôtel,Lyon," 7,6 "
+Selma,France,0,2020-03-02 00:00:00,Mauvais,"Vraiment déçu de la chambre (poussière sous le lit, tache de sang et urine sur le matelas, couloir non lavé...)
+Je penser que le parking était compris dans le prix mais non 8euros par jours même en arrivant en fin de journée... 
+Très déçu de ce séjour",None,"1,0",Appart'hôtel,Lyon," 7,6 "
+Ala-eddine,France,0,2020-02-24 00:00:00,Correct mais manque de propreté,"La situation géographique, le prix, le calme.","La chambre n’était Pas propre, sous le lit énormément de poussière.. le ménage a été fait rapidement.. j’ai passé le week-end avec le nez bouché, car allergique à la poussière..","6,0",Appart'hôtel,Lyon," 7,6 "
+Nathalie,France,0,2020-02-11 00:00:00,TRES BIEN,TERRASSE EXTERIEURE,+ DE CHAINES TV,"6,0",Appart'hôtel,Lyon," 7,6 "
+Eloïse,France,0,2020-01-14 00:00:00,je n'y reviendrai pas,la propreté et le confort du lit,"la localisation, le quartier est horrible.
+Il manquait beaucoup d'équipement à l'intérieur de l'appartement, il faut attendre une heure pour que l'eau bout, impossible de se faire de simples pâtes. La douche n'est pas pratique, tuyau trop petit.
+De plus nous avons redemandé des draps et nous avons du attendre une journée entière pour les avoir.","5,0",Appart'hôtel,Lyon," 7,6 "
+Sylvie,France,0,2020-01-10 00:00:00,Passable,None,L appartement n était pas très propre et je n ai pas aimé la manière de répondre de la responsable pour dire si elle écrit fini son service,"5,0",Appart'hôtel,Lyon," 7,6 "
+Florian,France,0,2020-01-03 00:00:00,Passable,None,"Propreté de l'appart et de la literie
+Literie inconfortable","5,0",Appart'hôtel,Lyon," 7,6 "
+Olivier,France,0,2019-12-14 00:00:00,Exceptionnel,Très calme,Vitre cassée sur porte d'entrée,"9,6",Appart'hôtel,Lyon," 7,6 "
+Jean-michel,France,0,2019-12-12 00:00:00,Lyon !!!!!!,"Le calme de l établissement,l extrême gentillesse du personnel, la proximité des transports en commun, la propreté.","RAS 
+les 2 petits ennuis à notre arrivée ont été réglés dans l heure. 
+Petit détail,il manque qq patères pour accrocher les vêtements.",10,Appart'hôtel,Lyon," 7,6 "
+Delphine,France,0,2019-11-13 00:00:00,N’y retournerais pas,La situation géographique,"Le bruit de l’ascenseur : impossible de dormir alors que la chambre etait loin . 
+Le ménage insuffisant. L inorganisation du personnel.","2,0",Appart'hôtel,Lyon," 7,6 "
+M,France,0,2019-11-09 00:00:00,Bon ,Bonne situation géographique,"Prix du petit déjeuner trop élevé par rapport à la qualité et quantité ( manque de fruit)
+Pas d'effort du personnel concernant la modification du nom sur la facture.","5,8",Appart'hôtel,Lyon," 7,6 "
+Sandradventures,France,0,2019-09-25 00:00:00,Exceptionnel,"- Personnel accueillant
+- Propreté
+- Situation géographique, proche part Dieu
+- Bonne isolation phonique
+- Studio bien équipé",None,10,Appart'hôtel,Lyon," 7,6 "
+Sadia,France,0,2019-07-23 00:00:00,decu de cet equipement sure que je ne reviendrai plus,None,"acces tres compliqué le jour de l arrivee un accueil fantome, ascenceur en panne tt le week end","5,8",Appart'hôtel,Lyon," 7,6 "
+Dorothée,France,0,2019-06-17 00:00:00,Super bien.,"L'appartement était propre, très bon accueil, tout était pratique, pas de bruit, bien situé.",Rien,"9,6",Appart'hôtel,Lyon," 7,6 "
+Morgan,France,0,2019-05-26 00:00:00,Passable,"Grand appartement, grande chambre, rdc accès terrasse","Hygiène générale insuffisante,terrasse et portes-fenêtres sales,accès au local des poubelles inaccessible malgré la demande formulée.","5,4",Appart'hôtel,Lyon," 7,6 "
+Laure,France,0,2019-05-17 00:00:00,Bon rapport qualité prix,"Propreté , salle de bain assez grande et bien éclairée. 
+Confort du lit. Bonne insonorisation.
+Bouteille eau au frigo.
+Distributeur de boissons et en cas dans le hall.","Pas de bol pour le petit déjeuner. 
+Plaque chauffante lente.","9,2",Appart'hôtel,Lyon," 7,6 "
+Karima,France,0,2019-05-02 00:00:00,Décevant,Rien,None,"4,6",Appart'hôtel,Lyon," 7,6 "
+Abdelhak,Maroc,0,2019-04-09 00:00:00,Parfait,"Calme
+Emplacement","Pas de sèche cheveux
+Pas assez d'ustensiles de cuisine","9,2",Appart'hôtel,Lyon," 7,6 "
+Emilie,France,0,2019-03-03 00:00:00,Appart Hotel que je ne recommenderais pas compte tenu d'une mauvaise gestion des arrivées et d'une s,Confort au niveau de la literie,"Accueil fermé à l'arrivée (dimanche). Pas prévenu lors de la réservation-->difficulté pour obtenir les clés
+Facturation d'une nuit supplémentaire injustifée (la nuit du samedi, alors que le départ a été effectué le samedi à 12h. Accueil fermé à la restitution des clés)","3,8",Appart'hôtel,Lyon," 7,6 "
+Abdelhamid,Algérie,0,2019-03-02 00:00:00,Fabuleux ,La propreté et l’emplacement,Néant,"9,2",Appart'hôtel,Lyon," 7,6 "
+Michel,France,0,2019-01-06 00:00:00,Bon ,Le calme,Bruit de l ascenseur,"5,8",Appart'hôtel,Lyon," 7,6 "
+Colette,France,0,2018-12-13 00:00:00,positif,j ai apprecie la gentillesse et la disponibilite du personnel de l accueil voire leur patience,le manque de proprete des sols de la cuisine et salle de bains; le manque d ustensiles dans la cuisine; d eclairage dans le salon; les couverts vetustes,"5,0",Appart'hôtel,Lyon," 7,6 "
+Didier,France,0,2018-12-11 00:00:00,Fabuleux ,La propreté et le confort ainsi que la proximité de la gare et du métro. Très bon accueil.,Un léger bruit d'ascenseur de façon intermittente.,"9,2",Appart'hôtel,Lyon," 7,6 "
+Antoinette,Martinique,0,2018-08-21 00:00:00,Mauvais séjours,Rien,La chambre n a pas ete netoyer .pas de berceu pour bebe.les toilettes avait des selles a notre arrivé.et le balcon etait tres sales.la chambre avait une mauvaise odeur,"3,3",Appart'hôtel,Lyon," 7,6 "
+Cédric,Belgique,0,2018-08-19 00:00:00,Je ne le recommande pas,Je cherche et ne trouve pas vraiment,"- chambre horriblement chaude, malgré les volets restés fermés toute la journée. Difficile de laisser la fenêtre ouverte la nuit car la rue est bruyante (sorte d'autoroute urbaine) et l'immeuble d'en face a une énorme climatisation qui bourdonne toute la nuit
+- nettoyage perfectible - terrasse d'une saleté repoussante (innombrables mégots et énormes flaques noires de saleté)
+- hôtel laissé à l'abandon, tout va à vau-l'eau
+- parking payant dans toute la zone, même si elle est excentrée
+- quartier bureaucratique sans le moindre commerce. Il faut marcher interminablement pour trouver un restaurant, surtout en soirée","3,8",Appart'hôtel,Lyon," 7,6 "
+Sandrine,Guyane française,1,2018-07-14 00:00:00,Correct,Proche de toute commodité,L’accueil pas terrible,"5,4",Appart'hôtel,Lyon," 7,6 "
+Cedric,France,0,2018-06-04 00:00:00,"Agréable, chambre au calme","Arrivé à le dimanche soir, le code permettant l'ouverture n'a pas fonctionné, j'ai appelé le numéro indiqué et l'on m'a dépanné par téléphone en moins de 2 minutes parfait.",None,"9,2",Appart'hôtel,Lyon," 7,6 "
+Anonyme,France,0,2020-02-28 00:00:00,Bon appart hôtel bien situé,"Le confort des lits ,la localisation,le confort d’un appartement avec une chambre à part ,idéal pour les familles ! La petite bouteille d’eau au frais 👍🏻",Les plaques de cuisson très vieilles,"8,8",Appart'hôtel,Lyon," 7,6 "
+Anonyme,France,0,2019-11-11 00:00:00,Très bien,Etablissement très bien situé. Personnel à l'écoute et disponible et ayant toujours répondu gracieusement à mes attentes. Le petit déjeuner pris un seul jour est correct pour moi. Seul bémol les chaines de la TNT ne sont pas toute accessibles mais c'est secondaire.,Rien de particulier. L'endroit m'a convenu,"9,0",Appart'hôtel,Lyon," 7,6 "
+Anonyme,France,0,2019-11-09 00:00:00,Agréable,"J'ai apprécié le calme, la localisation, la propreté et l'aménagement",L'accueil le premier jour,"6,7",Appart'hôtel,Lyon," 7,6 "
+Anonyme,France,0,2019-08-18 00:00:00,Bien ,Gare très proche,None,"7,9",Appart'hôtel,Lyon," 7,6 "
+Anonyme,France,0,2019-04-29 00:00:00,Belle offre que je recommande pour un séjour court dans un studio spacieux et bien situé.,"Points positifs : équipements de cuisine nombreux, studio spacieux, confort de la literie, propreté du logement, placards de rangement, laverie disponible (2-3 euros requis), terrasse, 2 télés à disposition (1 dans la chambre et 1 dans le salon), bon emplacement, vraiment calme, bien situé au niveau des transports (arrêt de bus proche, 5-10 minutes de la Gare de Part-Dieu) et au niveau des magasins et du centre commercial.","Il n'y avait pas de rideau de douche à notre arrivée, mais un technicien est venu nous en installer un quelques jours après ntore arrivée en raison du week-end de Pâques, avec une grande gentillesse.
+Attention à l'eau courante chaude : risque de brulures car eau difficilement réglable. 
+Certains équipements de cuisine étaient mal lavés : une vérification préalable devrait être faite par l'établissement avant l'arrivée des voyageurs suivantes.
+A noter qu'il n'y avait pas de sacs poubelles ni d'éponges à disposition dans l'appartement.
+Il faut s'acquitter d'une taxe de séjour comme indiqué dans la facture : il faut y penser (nous avons réglé un léger montant de 7 euros pour un séjour de 4 nuits)","8,8",Appart'hôtel,Lyon," 7,6 "
+Anonyme,La Réunion,0,2019-01-04 00:00:00,Bien ,C'est dommage qu'il n'y avait pas d'eau chaude le soir en plein hiver.,None,"7,1",Appart'hôtel,Lyon," 7,6 "
+Anonyme,France,0,2018-08-29 00:00:00,Pas trop cher. Bien placé,Petit appart pratique avec cuisine et chambre séparée,Ménage moyen (toiles d'araignée et vitres très sales). Chambre à côté de l'ascenseur... On l'entendait tout le temps,"7,1",Appart'hôtel,Lyon," 7,6 "
+Anonyme,France,0,2018-05-31 00:00:00,Bien ,Appartement très bien situé. Tout le confort est présent.,Étant à côté de l'ascenseur nous avions les bruits,"7,9",Appart'hôtel,Lyon," 7,6 "
+Anonyme,France,0,2019-01-26 00:00:00,Bon ,L'acceuil,Le bruit de la rue et de l'animation jusqu'a tard dans la nuit.,"5,8",Appart'hôtel,Lyon," 7,6 "
+Anonyme,France,0,2018-05-29 00:00:00,correct sans plus et amabilité du personnel,surtout la situation et la disponibilité du personnel,"concerne surtout le F1: dimension réduite, lit trop petit, pas de clim (très chaud) et volets roulants, pas de wc séparé, pas de douche, une baignoire d'un autre temps et dangereuse à utiliser (pas de crochet pour le pommeau, ni étagère)","5,4",Appart'hôtel,Lyon," 7,6 "
+Michel,France,0,2020-04-20 00:00:00,Très bien,Ce client n'a pas laissé de commentaire.,None,"8,0",Appart'hôtel,Lyon," 7,6 "
+Marie,France,0,2020-03-24 00:00:00,Trés bon rapport qualité/prix,Ce client n'a pas laissé de commentaire.,None,"8,0",Appart'hôtel,Lyon," 7,6 "
+Christèle,France,0,2020-03-15 00:00:00,Bien ,Ce client n'a pas laissé de commentaire.,None,"7,0",Appart'hôtel,Lyon," 7,6 "
+Max,France,0,2020-03-14 00:00:00,Bien ,Ce client n'a pas laissé de commentaire.,None,"7,1",Appart'hôtel,Lyon," 7,6 "
+Floriane,France,0,2020-03-08 00:00:00,Très bien,Ce client n'a pas laissé de commentaire.,None,"8,0",Appart'hôtel,Lyon," 7,6 "
+Djabel71,France,0,2020-03-06 00:00:00,Bien ,Ce client n'a pas laissé de commentaire.,None,"7,0",Appart'hôtel,Lyon," 7,6 "
+Balavoine,France,0,2020-03-02 00:00:00,Bien ,Ce client n'a pas laissé de commentaire.,None,"7,0",Appart'hôtel,Lyon," 7,6 "
+Marc,France,1,2020-02-06 00:00:00,Jolie chambre d’hôte au cœur de Lyon,"Emplacement idéal l’appartement est tout neuf. 
+La chambre et la salle d’eau individuelle sont spacieuses, confortables et tres propre. 
+Les hôtes sont charmants et très agréables.",Les toilettes communes.,"9,6",B&B / Chambre d'hôtes,Lyon," 9,3 "
+Frederic,France,0,2020-03-19 00:00:00,"Super accueil, chambre spacieuse et très calme.","Personne très agréable et à l'écoute de nos demandes. 
+Très intentionné et fait tout pour rendre service. 
+Petit déjeuner copieux.",Il manque un téléviseur dans la chambre.,"9,0",B&B / Chambre d'hôtes,Lyon," 9,3 "
+Anonyme,France,0,2020-01-20 00:00:00,Superbe,Hôtes chaleureux attentionnés et sympathiques,None,"8,8",B&B / Chambre d'hôtes,Lyon," 9,3 "
+Benjamin,France,0,2020-03-06 00:00:00,Fabuleux ,Ce client n'a pas laissé de commentaire.,None,"9,0",B&B / Chambre d'hôtes,Lyon," 9,3 "

@@ -12,6 +12,7 @@ Veronique,Canada,0,2019-07-11,Bien ,La piscine !,None,"7,5",Hôtel,Sydney," 8,0 
 Regis,Canada,0,2018-09-23,Bien ,Emplacement,Le café n'était pas bon. Les équipements de gym ne fonctionnait pas tous.,"7,1",Hôtel,Sydney," 8,0 "
 Yann,Canada,0,2018-09-22,Hôtel Sydney,"Hôtel bien tenu, confortable et le petit-déjeuner agréable. Le personnel souriant.",Rien,"9,2",Hôtel,Sydney," 8,0 "
 Line,Canada,0,2018-09-01,Bien situé. Bon service,"Chambre spacieuse, bon petit déjeuner",Climatisation bruyante.,"7,5",Hôtel,Sydney," 8,0 "
+<<<<<<< HEAD
 Richard,Canada,0,2018-08-27,Bien ,La qualité des chambres et équipement,La qualité des chambres et équipement,"7,5",Hôtel,Sydney," 8,0 "
 Luc,Canada,0,2018-08-17,Agréablement surpris de l'hotel mais déçu de la ville de Sydney.,"Lits confortables, salle de bain très propre et petit déjeuner complet. Eau fraiche offerte dans le hall.",Pas de restaurants à cuisine familliale dans les environs. Couloir un peu étroit.,"9,2",Hôtel,Sydney," 8,0 "
 Melissa,Canada,0,2018-07-31,Pratique!,"Chambre spacieuse, comfortable et bien organisée. Le four micro-ondes et le mini-frigidaire incluant un congélateur étaient des atouts.","Peu de prises de courant pour y brancher nos appareils - ports usb, par exemple.","7,5",Hôtel,Sydney," 8,0 "
@@ -24,6 +25,20 @@ Bernard,Canada,0,2019-08-17,Ordinaire et dispendieux qualité prix.,Pas grand ch
 Hélène,Canada,0,2019-08-15,"Très déçus, nous ne le recommandons pas",Les arrangements floraux à l’entrée extérieure,Ventilation inexistante dans la salle de bain - lits trop mous - senteur humidité dans les couloirs - séchoir cheveux hors d’usage - présence de moisissures et rouille dans la salle de bain -fenêtres et portes de l’hôtel propreté laisse à désirer- déjeuner: qualité de nourriture bas de gamme - absence d’ascenseur pour édifice de 3 étages - stationnement arrière en gravier et pente = accès devenant sale,"3,3",Hôtel,Sydney," 8,0 "
 Donald,Canada,0,2019-08-10,"Très ordinaire, entretien négligé...","Propreté générale déficiente, chambre défraîchie, déjeuner ordinaire : saucisses peu cuites, longue attente pour les œufs brouillés, espace mal organisé (file d’attente, circulation pas fluide..). Équipements désuets. Nombreuses taches sur les murs... Franchement ordinaire. Par contre le personnel est très courtois. Piscine ok mais pourtour sale... il a fallu demander pour les serviettes, pas de lumière dans le sauna...","Propreté générale déficiente, chambre défraîchie, déjeuner ordinaire : saucisses peu cuites, longue attente pour les œufs brouillés, espace mal organisé (file d’attente, circulation pas fluide..). Équipements désuets. Nombreuses taches sur les murs... Franchement ordinaire. Par contre le personnel est très courtois. Piscine ok mais pourtour sale... il a fallu demander pour les serviettes, pas de lumière dans le sauna...","5,8",Hôtel,Sydney," 8,0 "
 Josée,Canada,0,2019-08-02,Décevant,"Lit hyper mou, senteurs corridor (humidité) décor désuet, emplacement manque d'amour...","Lit hyper mou, senteurs corridor (humidité) décor désuet, emplacement manque d'amour...","4,6",Hôtel,Sydney," 8,0 "
+=======
+Richard,Canada,0,2018-08-27,Bien ,None,La qualité des chambres et équipement,"7,5",Hôtel,Sydney," 8,0 "
+Luc,Canada,0,2018-08-17,Agréablement surpris de l'hotel mais déçu de la ville de Sydney.,"Lits confortables, salle de bain très propre et petit déjeuner complet. Eau fraiche offerte dans le hall.",Pas de restaurants à cuisine familliale dans les environs. Couloir un peu étroit.,"9,2",Hôtel,Sydney," 8,0 "
+Melissa,Canada,0,2018-07-31,Pratique!,"Chambre spacieuse, comfortable et bien organisée. Le four micro-ondes et le mini-frigidaire incluant un congélateur étaient des atouts.","Peu de prises de courant pour y brancher nos appareils - ports usb, par exemple.","7,5",Hôtel,Sydney," 8,0 "
+Véronique,Canada,0,2018-07-26,Bien ,Chambre rénovée et confortable. Piscine sentait un peu trop le chlore. Déjeuner continentale correct.,None,"7,5",Hôtel,Sydney," 8,0 "
+Daniel,Canada,0,2018-07-25,Très bien,None,Odeur d'humidité..,"8,3",Hôtel,Sydney," 8,0 "
+Celine,Canada,0,2019-08-30,Passable,Déjeuner. Décor de la chambre.,"Service de chambre, installation concernant le spa. Aurait pu être en plein air.","5,4",Hôtel,Sydney," 8,0 "
+Carole,Canada,0,2019-08-28,Exceptionnel,Très acceuillant,None,10,Hôtel,Sydney," 8,0 "
+Jean,Canada,0,2019-08-21,Exceptionnel,None,Accueil des préposés... ok mais mécaniques et sans enthousiasme!,"9,6",Hôtel,Sydney," 8,0 "
+Bernard,Canada,0,2019-08-17,Ordinaire et dispendieux qualité prix.,Pas grand chose.seulement l’emplacement,La propreté ordinaire et la senteur d’humidité.le tapis dès passage très ordinaire et une peinture dans le couloir serait approprié.,"5,0",Hôtel,Sydney," 8,0 "
+Hélène,Canada,0,2019-08-15,"Très déçus, nous ne le recommandons pas",Les arrangements floraux à l’entrée extérieure,Ventilation inexistante dans la salle de bain - lits trop mous - senteur humidité dans les couloirs - séchoir cheveux hors d’usage - présence de moisissures et rouille dans la salle de bain -fenêtres et portes de l’hôtel propreté laisse à désirer- déjeuner: qualité de nourriture bas de gamme - absence d’ascenseur pour édifice de 3 étages - stationnement arrière en gravier et pente = accès devenant sale,"3,3",Hôtel,Sydney," 8,0 "
+Donald,Canada,0,2019-08-10,"Très ordinaire, entretien négligé...",None,"Propreté générale déficiente, chambre défraîchie, déjeuner ordinaire : saucisses peu cuites, longue attente pour les œufs brouillés, espace mal organisé (file d’attente, circulation pas fluide..). Équipements désuets. Nombreuses taches sur les murs... Franchement ordinaire. Par contre le personnel est très courtois. Piscine ok mais pourtour sale... il a fallu demander pour les serviettes, pas de lumière dans le sauna...","5,8",Hôtel,Sydney," 8,0 "
+Josée,Canada,0,2019-08-02,Décevant,None,"Lit hyper mou, senteurs corridor (humidité) décor désuet, emplacement manque d'amour...","4,6",Hôtel,Sydney," 8,0 "
+>>>>>>> f88eee5982654095973a555331e98227e96b0738
 Jean-francois,Canada,0,2019-08-01,Passable,Le personnel,"L’hôtel est vieux , mal entretenue et sale. Il y avait de la moisissure sur un mur et plafond de la salle de bain . Ca sent le renfermé, les draps avait certains poils ou cheveux a notre arrivée. Nous avons pris une chambre pour 4. A chaque jours nous avons du aller chercher des serviettes supplémentaires. Les planchers était brun de saleté et le buffet déjeuner avait très peu de choix . Le café goûte le vieux. Par chance la serveuse était professionnelle et souriante.","5,0",Hôtel,Sydney," 8,0 "
 Mmorency,Canada,0,2018-09-22,Excellent rapport qualité-prix.,Excellent accueil et service du personnel.,Un ascenceur serait apprécié.,"9,6",Hôtel,Sydney," 8,0 "
 Marie,Canada,0,2018-08-29,Exceptionnel,"Déjeuner fourni, piscine, propreté, frigidaire et micro-ondes dans la chambre",État extérieur du bâtiment,"9,6",Hôtel,Sydney," 8,0 "
@@ -53,12 +68,20 @@ Jeanne,Canada,1,2018-10-03 00:00:00,Bon rapport qualité/prix,"La localisation, 
 Lucille,Canada,0,2019-11-25 00:00:00,Bien ,L emplacement,"Le bruit dans les corridors. Très écho. 
 Nous entendions très bien les passants, le personnel a l entretien... etc....","7,1",Hôtel,Sydney," 8,1 "
 Robert,France,0,2019-11-06 00:00:00,très bon séjour parfait,hotel très bien situé avec parking et personnel accueillant,parfait,"9,0",Hôtel,Sydney," 8,1 "
+<<<<<<< HEAD
 Mewe,Canada,0,2019-10-16 00:00:00,Fabuleux ,La piscine,La piscine,"9,2",Hôtel,Sydney," 8,1 "
+=======
+Mewe,Canada,0,2019-10-16 00:00:00,Fabuleux ,None,La piscine,"9,2",Hôtel,Sydney," 8,1 "
+>>>>>>> f88eee5982654095973a555331e98227e96b0738
 Marylène,Canada,0,2019-09-12 00:00:00,Ville-étape,"La chambre était grande, propre, au goût du jour, le lit était confortable et les rideaux opaques. Dans la chambre, il y avait un réfrigirateur et un micro-onde. Nous avons aussi apprécié la piscine et le spa et la laverie. Il y a aussi une salle d'entrainement que nous n'avons pas utilisé. Petit-déjeuner américain complet.",Hôtel un peu vieillot,"8,8",Hôtel,Sydney," 8,1 "
 Martin,Canada,0,2019-08-23 00:00:00,Bien ,Le personnel l’emplacement,Les déjeuner très ordinaire,"7,9",Hôtel,Sydney," 8,1 "
 Elisabeth,Canada,0,2019-08-20 00:00:00,Bien ,"L'hôtel était bien situé, proche de tout. Le petit déjeuner était bien. La chambre était spacieuse et le lit confortable.",None,"7,9",Hôtel,Sydney," 8,1 "
 Kevin,Canada,0,2019-08-04 00:00:00,Très bien,"A l’accueil c’était tres bien. A l’arrivée a la chambre il y avait un probleme dans la salle de bain. La toilette fuyait et l’eau sortait du plancher. A la reception, ils m’ont vite transféré de chambre sans que j’aille a m’occuper de mes valise. Merci pour le bon service.",Le matelas creusait,"8,3",Hôtel,Sydney," 8,1 "
+<<<<<<< HEAD
 Sylvain,Canada,0,2019-08-01 00:00:00,Bien ,Pas d’élévateur,Pas d’élévateur,"7,1",Hôtel,Sydney," 8,1 "
+=======
+Sylvain,Canada,0,2019-08-01 00:00:00,Bien ,None,Pas d’élévateur,"7,1",Hôtel,Sydney," 8,1 "
+>>>>>>> f88eee5982654095973a555331e98227e96b0738
 Francine,Canada,0,2019-07-25 00:00:00,Superbe,"L emplacement, les déjeuner , le confort des lits ,l accueil des employés",Difficultés à ouvrir la télévision manque d ascenseur avec valises pas facile,"8,8",Hôtel,Sydney," 8,1 "
 Magalie,Canada,0,2019-07-19 00:00:00,Très bien,"Les équipements, confort, déjeuner.",C'était long avant de se faire répondre. Il n'y a pas d'ascenseur.,"8,3",Hôtel,Sydney," 8,1 "
 Nancy,Canada,0,2019-07-15 00:00:00,Plus confortable qu’à première vue. Personnel très professionnel,Lit confortable. Bien situé.,Ça a besoin d’être rafraîchi.,"8,3",Hôtel,Sydney," 8,1 "
@@ -66,6 +89,7 @@ Sophie,Canada,0,2019-07-13 00:00:00,Bien ,Lit queen confortable. Chambre standar
 Gilles,Canada,0,2019-06-27 00:00:00,Nous avions une suite avec kitchinette et salle de lavage qui nous ont été fort utiles.,Se ballader sur la promenade du bord de l’eau,None,"9,6",Hôtel,Sydney," 8,1 "
 Andrée,Canada,0,2019-05-28 00:00:00,Inférieur à d'autres hôtels de ce prix.,"Lit confortable; A ma demande pour un verre en vitre pour ma bouteille de vin, l'employée au comptoir a eu la gentillesse de me donner un verre pour le vin.
 Rapide réponse à ma demande pour une boîte de mouchoirs.","Propreté très moyenne de la chambre, encore moins bien pour la salle à manger; Ustensiles tachés, comptoir du buffet déjeuner collant (j'ai même sali mon chandail en m'appuyant sur le rebord), déjeuner sans saveur.","9,6",Hôtel,Sydney," 8,1 "
+<<<<<<< HEAD
 Chantal,Canada,0,2019-05-24 00:00:00,Très correct,Un peu bruant coté de la rue la nuit,Un peu bruant coté de la rue la nuit,"9,6",Hôtel,Sydney," 8,1 "
 Chad1366,Canada,0,2018-12-01 00:00:00,Court séjeour,"Hotel avec tout ce dont on a besoin, piscine, spa, salle entrainement, chambre confortable, petit déjeuner bien",rien,"9,6",Hôtel,Sydney," 8,1 "
 Christine,Canada,0,2018-10-17 00:00:00,Bien ,Le déjeuner continental avait tout et c’était bon.,Salle se bain aurait besoin de rénovation.,"7,5",Hôtel,Sydney," 8,1 "
@@ -81,6 +105,22 @@ Sébastien,France,0,2018-06-30 00:00:00,Superbe,Rapport qualité un peu moyen,Ra
 Carole,Canada,0,2018-06-26 00:00:00,Pas fort,"Bien située , les déjeuners excellent","Salle de bain à refaire et pas trop propre, le tapis étais extrêmement salle","6,7",Hôtel,Sydney," 8,1 "
 Pascal,Canada,0,2019-10-27 00:00:00,Bon rapport qualité prix et lit confortable,Lit déjeuner,Rien,10,Hôtel,Sydney," 8,1 "
 Jacques,Canada,0,2019-10-14 00:00:00,Séjours d'une journée,Les clients en pyjama au déjeuner,Les clients en pyjama au déjeuner,"3,3",Hôtel,Sydney," 8,1 "
+=======
+Chantal,Canada,0,2019-05-24 00:00:00,Très correct,None,Un peu bruant coté de la rue la nuit,"9,6",Hôtel,Sydney," 8,1 "
+Chad1366,Canada,0,2018-12-01 00:00:00,Court séjeour,"Hotel avec tout ce dont on a besoin, piscine, spa, salle entrainement, chambre confortable, petit déjeuner bien",rien,"9,6",Hôtel,Sydney," 8,1 "
+Christine,Canada,0,2018-10-17 00:00:00,Bien ,Le déjeuner continental avait tout et c’était bon.,Salle se bain aurait besoin de rénovation.,"7,5",Hôtel,Sydney," 8,1 "
+Samira,Canada,0,2018-09-15 00:00:00,Bien ,None,La piscine n'était pas fonctionnelle à cause des travaux,"7,9",Hôtel,Sydney," 8,1 "
+Denis,Canada,0,2018-08-14 00:00:00,"Bien situé, excellent déjeuner, manque d’entretien","Personnel accueillant, excellent déjeuner","Connexion internet peu efficace, tapis désuet, manque de rénovationet d’entretien","7,1",Hôtel,Sydney," 8,1 "
+Richard,Canada,0,2018-08-02 00:00:00,BOF,None,"1) Aucun ascenseur dans l'édifice. Très irritant de loger dans une demie étage et on ne pouvais pas utiliser les chariots a bagage.
+2) Le déjeuner était tellement ordinaire que je ne l'ai pas pris le deuxième matin. J'aurais préféré ne pas avoir de déjeuner et avoir une baisse de prix.","8,3",Hôtel,Sydney," 8,1 "
+Guy,Canada,0,2018-07-16 00:00:00,Bien ,None,Pas d’ascenseur,"7,9",Hôtel,Sydney," 8,1 "
+Francine,Canada,0,2018-07-14 00:00:00,Conformes aux attentes et bon déjeuné compris.,"Chambre bien équipée, conforme aux attentes des chaînes hôtelières similaires.","Très grand hôtel, du hall d'entrée à notre chambre long trajet, pas de sortie pour couper court avec nos bagages. Vue sur stationnement.","8,8",Hôtel,Sydney," 8,1 "
+Monique,Canada,0,2018-07-03 00:00:00,décue de la visite,le personnel est gentil,"le mobilier de la salle à manger est désuet ,les chaises non confortables","6,7",Hôtel,Sydney," 8,1 "
+Sébastien,France,0,2018-06-30 00:00:00,Superbe,None,Rapport qualité un peu moyen,"8,8",Hôtel,Sydney," 8,1 "
+Carole,Canada,0,2018-06-26 00:00:00,Pas fort,"Bien située , les déjeuners excellent","Salle de bain à refaire et pas trop propre, le tapis étais extrêmement salle","6,7",Hôtel,Sydney," 8,1 "
+Pascal,Canada,0,2019-10-27 00:00:00,Bon rapport qualité prix et lit confortable,Lit déjeuner,Rien,10,Hôtel,Sydney," 8,1 "
+Jacques,Canada,0,2019-10-14 00:00:00,Séjours d'une journée,None,Les clients en pyjama au déjeuner,"3,3",Hôtel,Sydney," 8,1 "
+>>>>>>> f88eee5982654095973a555331e98227e96b0738
 Bernard,France,0,2019-08-05 00:00:00,Très bon séjour.,"Petit déjeuner très copieux et personne très aimable. La piscine, le jaccuzi et le sauna sont les bienvenus pour finir sa journée.",None,10,Hôtel,Sydney," 8,1 "
 Eric,Canada,0,2019-08-03 00:00:00,nous avons apprécié la gentilesse des employés en général,"air climatisé peu bruyant, lit confortable, bon service au déjeuner et bonne nourriture. Environnment calme",à notre arrivée la préposé n'était pas souriante. La salle de bain de la chambre est veillote. La toilette fonctionne mal. le bain est petit et la bouchon est sale.,"4,6",Hôtel,Sydney," 8,1 "
 Daisy,Canada,0,2019-07-12 00:00:00,Ne ressemble pas aux photos,Le personnel est serviable et courtois,Les chambres sont vieilles et on peux voir de la moisissure un peu partout. La chambre et la salle de baie étaient mal propre. Le tapis était très sale. Je ne recommande pas. Le gérant disait n’avoir jamais reçu notre réservation alors que j’avais les confirmation.,"5,0",Hôtel,Sydney," 8,1 "
