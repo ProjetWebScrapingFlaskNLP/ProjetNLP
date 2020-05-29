@@ -1,0 +1,549 @@
+nom,pays,favorite,date,titre,bons_points,mauvais_points,note,type_etablissement,lieu,note_etablissement
+Loshouarn,France,1,2018-06-28,Le confort comme à la maison !,"J'ai énormément apprécié l'accueil et je me suis sentie vraiment à mon aise dans cet établissement.
+Le personnel est très bienveillant et soucieux du confort du client.
+Je conseillerai cet hôtel à mes amis.",None,10,Hôtel,Paris," 8,1 "
+Isabelle,France,0,2020-05-22,Calme et confortable.,"Très bon accueil, Hatim le réceptionniste est efficace et affable. La chambre est confortable, bien insonorisée.
+Cela permet un repos réparateur.",None,"8,0",Hôtel,Paris," 8,1 "
+Eva,Italie,0,2020-05-20,Accueil chaleureux,"- Personnel irréprochable : surtout l’homme et la femme de ménage sont adorables. Ainsi que le réceptionniste Hatim qui a eu un excellent sens du travail, toujours à l’écoute de nos demandes 24h/24 et toujours souriant et arrangeant ! 
+- Emplacement de l’établissement (a côté de république) 
+- Sèche cheveux dans la salle de bain 
+- 2 oreillers supplémentaires dans le placard de la chambre 
+- L’hôtel a accepté de nous recevoir à la dernière minute étant donné les circonstances difficiles avec le coronavirus.","- le rapport qualité prix pour la chambre supérieure 
+- déçue de ne pas avoir pu prendre le petit déjeuner à cause du coronavirus 
+- pommeau de douche qui fuit 
+- demande de lit double mais l’hôtel ne dispose que de 2 lits jumeaux collés. 
+- lumière de l’extérieur très mal isolée (le soleil rentre dans la chambre dès le matin)","8,0",Hôtel,Paris," 8,1 "
+François,France,0,2020-05-19,Très correct,"Merci a Hatim pour l'accueil, très appréciable! Je recommande",None,"8,0",Hôtel,Paris," 8,1 "
+Fabienne,France,0,2020-05-17,Très bien,"L’accueil , la situation de l’établissement",La fenêtre qui ne fermait pas très bien,"8,0",Hôtel,Paris," 8,1 "
+Alain,Maroc,0,2020-05-15,Très bien,"Le réceptionniste Algérien ,très compétent et très aimable vu mon âge m’a beaucoup aidé je ne me rappelle plus de son prenom .sincerement mR .Boisseau",None,"8,0",Hôtel,Paris," 8,1 "
+Mondher,France,0,2020-05-07,Fabuleux ,L’accueil,None,"9,0",Hôtel,Paris," 8,1 "
+Gilles,France,0,2020-04-01,hôtel parfait pour un court séjour,La chambre était très propre,Il y avait un peu de bruit dans les couloirs,"9,0",Hôtel,Paris," 8,1 "
+Carine,France,0,2020-03-30,Très bien,"L'accueil, la chambre confortable, le prix (très certainement bien réduit car réservé en dernière minute juste avant le confinement de la France pour coronavirus)",Rien,"8,0",Hôtel,Paris," 8,1 "
+Ourdia,France,0,2020-03-26,Agréable,"On a tout aimé pendant notre séjours, l'accueil été chaleureux, le personnel a satisfait tous nos attentes, que je remercie infiniment. 
+La chambre est lumineuse et propre, doté de tous les équipements nécessaires (boulloir, frigo, café, thé, couverture ..etc)
+Que du bonheur avec Soft.
+Merci bcp",None,"8,0",Hôtel,Paris," 8,1 "
+Paul,Italie,0,2020-03-25,"Mouvementé durant la nuit, surtout après 34 hrs de vol + escales au retour de Colombie","Propre, mignon, confortable, tout ce qu'il faut pour y passer 1 nuit pu plus. A proximité de la gare de l'Est.","Fuite d'eau durant la nuit, au robinet du WC. Me suis réveillé vers 5.00, par le bruit de l'écoulement. Salle de bain sous l'eau, et déjà 1 partie de la chambre. Ai coupé l'eau du WC, épongé l'eau dans les 2 pièces. . . . et me suis recouché. Ai signalé le problème, le matin vers 10.00. L'hôtel a eu de la chance d'avoir loué cette chambre, faute de quoi, bonjour les dégâts d'eau depuis le 4ième étage. Pas de bol pour moi !","8,0",Hôtel,Paris," 8,1 "
+Hh,France,0,2020-03-14,Fabuleux ,"Personnel très accueillant et arrangeant ! Merci à Toufik 
+Emplacement
+Prix",None,"9,0",Hôtel,Paris," 8,1 "
+Cécile,France,0,2020-03-02,Fabuleux ,"Accueil très sympathique et chaleureux. 
+Après une annulation de dernière minute par un précédent hôtelier, pour des raisons douteuses, nous avons réservé cet hôtel à la dernière minute. 
+Suite à notre mésaventure l’hôtelier nous a très gentiment surclassé, tout en nous laissant la possibilité de comparer les deux chambres. 
+L’hôtel se trouve dans une petite rue avec très peu de circulation, l’insonorisation est très bonne et le lit très confortable.",None,"9,2",Hôtel,Paris," 8,1 "
+France,Belgique,0,2020-02-28,Très bien,Très bon petit déjeuner. Personnel très aimable.,None,"8,0",Hôtel,Paris," 8,1 "
+Diane,France,0,2020-02-26,Fabuleux ,Personnel très agréable ! Proche de la gare de l'est ! Et propre ! J'y retournerai sûrement !,None,"9,0",Hôtel,Paris," 8,1 "
+Manon,France,0,2020-02-24,Très bien,"Bon emplacement et à proximité des transports, chambre propre, confortable et fonctionnelle. Le personnel était agréable, arrangeant et professionnel.",Plus d'échantillons ne serait pas de refus (seulement 2 savonnettes sur l'ensemble du séjour).,"8,0",Hôtel,Paris," 8,1 "
+Sylvain,France,0,2020-02-23,A recommander,"Super Serge à l'accueil ! Buffet petit-déjeuner ++ avec personnel de service dispo, courtois et pro.",None,"8,0",Hôtel,Paris," 8,1 "
+Bernard,France,0,2020-02-21,Très bien,"Accueil agréable, hôtel bien situé pour visiter le centre de Paris.",None,"8,0",Hôtel,Paris," 8,1 "
+Stephane,France,0,2020-02-20,Très bien,Salle de bain petite avec un léger manque de rangements.,Salle de bain petite avec un léger manque de rangements.,"8,0",Hôtel,Paris," 8,1 "
+Flavie,Japon,0,2020-02-14,Très bon hôtel pour un séjour d’affaires sur Paris.,"L’accueil est exceptionnel, toute l’équipe est au petits soins et d’une grande aide en cas de problème. Un grand merci à Serge, Toufik et Amina (toutes mes excuses à ceux qui ne sont pas cités) pour leur grande gentillesse et chaleureux accueil chaque jour.
+La chambre était au calme, parfait pour travailler avec la bouilloire électrique à disposition pour le thé/café. Très propre. Le petit déjeuner est un buffet avec du salé et du sucré, parfait pour debuter la journée.",Ce n’est malheureusement pas un point améliorable car c’est le souci des grandes villes et des règles de sécurité : le manque d’espace dans les couloirs ou l’exiguïté de certains espaces.,"9,0",Hôtel,Paris," 8,1 "
+Alain,France,0,2020-02-07,bien pratique,SITUATION +++,None,"8,0",Hôtel,Paris," 8,1 "
+Patrick,France,0,2020-02-03,Excellent séjour!,Excellent accueil tant en journée qu'en soirée. Très bonne qualité de la chambre. Hôtel très bien situé.,Mettre à disposition une bouteille d'eau plate et une bouteille d'eau gazeuse pour l'accueil dans la chambre.,"8,0",Hôtel,Paris," 8,1 "
+David,France,0,2020-02-03,Un bon compromis,Bien situé. Quartier vivant près du canal saint martin. Métro à proximité. Calme. Bien équipé. Bref je recommande. Le personnel est à l’écoute. Merci à Serge pour ses bons conseils et sa courtoisie !,None,"8,3",Hôtel,Paris," 8,1 "
+Laurent,France,0,2020-01-30,Week-end à Paris,"La gentillesse et la disponibilité du personnel et notamment d'Hatim qui a été de bons conseils lors de notre recherche pour obtenir un taxi.
+L'emplacement de l'hôtel dans une rue calme.
+Bon séjour, adresse à retenir.",L'insonorisation de la chambre.,"8,0",Hôtel,Paris," 8,1 "
+Mary,Belgique,0,2020-01-26,Bien ,"Bon hotel, au calme, bien au chaud (parfois trop ;-) avec un bon accueil de Serge.
+Très bonne localisation proche de la gare du nord, de la gare de l'ouest et du canal St Martin.",None,"7,0",Hôtel,Paris," 8,1 "
+Nada,Liban,0,2020-01-26,Excellent séjour á Paris,"L'emplacement de l'hotel est idéal. Dans une rue tranquille et pas loin des gares routieres (gare du nord et gare de l'est).
+L'amenagement de la chambre est parfait et permet d'utiliser tous les espaces. Le frigidaire et le séchoir sont des plus que j'ai apprécies.
+Le personnel est tres aimable et acceuillant.",On entend un peu le bruit des autres chambres mais c'est pas tres grave. Ca ne m'a pas vraiment dérangé.,"9,0",Hôtel,Paris," 8,1 "
+Perrine,France,0,2020-01-21,bien,bon rapport qualité prix.,des fruits frais au petit déjeuner seraient appréciables.,"8,0",Hôtel,Paris," 8,1 "
+Florence,France,0,2020-01-17,Très bien,Accueil,None,"8,0",Hôtel,Paris," 8,1 "
+Walter,Belgique,0,2020-01-14,Bien ,Hôtel propre et bien équipé. Personnel gentil et correcte.,Le petit déjeuner est trop cher pour ce qu'on offre.,"7,0",Hôtel,Paris," 8,1 "
+Romscrd,France,0,2019-12-31,Très bon rapport qualité prix,"Un super emplacement dans un quartier populaire de Paris mais un peu à l'écart. 
+La chambre est très bien insonorisé, le lit king size est une perfection.",Rien,"9,0",Hôtel,Paris," 8,1 "
+Martine,France,0,2019-12-16,Très bien,petit déjeuner bien complet. emplacement proche de l'accueil et de la porte d'entrée,None,"8,0",Hôtel,Paris," 8,1 "
+Xavier,France,0,2019-12-08,Bien ,Emplacement parfait,Les parties communes ne sont pas très bien entretenues,"7,9",Hôtel,Paris," 8,1 "
+Desimpel,France,0,2019-12-03,Bien ,"la situation près de la gare est appréciable, la literie est confortable et le petit déjeuner tout à fait correct. Le personnel est sympathique.","La première nuit très difficile à cause du bruit d'un espace de réception voisin, la seconde très calme. La chambre est très petite et il est dommage que le second chevet soit en fait un mini bar même pas habillé. Pour un 3 étoiles c'est un peu juste.","7,0",Hôtel,Paris," 8,1 "
+Emmanuel,France,0,2019-12-02,Bien ,Excellent accueil.,None,"7,0",Hôtel,Paris," 8,1 "
+Brigitte,France,0,2019-11-29,Bon hôtel,"La situation
+L accueil 
+Le rapport qualité prix",None,"8,8",Hôtel,Paris," 8,1 "
+Celine,France,0,2019-11-27,Bien ,Le confort et l’accueil,Le stationnement,"7,5",Hôtel,Paris," 8,1 "
+Philippe,France,0,2019-11-21,Correspond parfaitement à mes attentes,La situation près de la gare de l'est. L'attention et la flexibilité des employés. La propreté. les possibilités de diner autour,"Forcément les chambres sont petites, mais en plein Paris c'est normal","8,0",Hôtel,Paris," 8,1 "
+Caroline,Belgique,0,2019-11-18,Superbe,"Les lits sont très confortables. Les fenêtres sur rue bien isolées. Chambres supérieures jolies. La propreté. Bouilloires dans les chambres. La proximité de la gare de l'est. La gentillesse et l'efficacité de Serge à la réception, qui a fait le nécessaire pour répondre à nos demandes.","J'ai trouvé le petit déjeuner un peu decevant, mais pour Paris sans doute pas mal. Le personnel est serviable.","8,8",Hôtel,Paris," 8,1 "
+Lucky1969,France,0,2019-11-17,Exceptionnel,"Très bon accueil, literie parfaite grand lit, chambre très propre et au calme. Petit déjeuner très bien manque juste la salade de fruits. Parfait. Je recommande cet hôtel à 100%. À 5 minutes à pied de la gare de l'est.",None,"9,6",Hôtel,Paris," 8,1 "
+Laurent,France,1,2019-11-16,Hôtel correct,Personnel très agréable. Petit déjeuner très bon.,"Chambre très petite. Lit de confort acceptable, sans plus. Isolation moyenne, surtout vis-à-vis de l'extérieur.","7,0",Hôtel,Paris," 8,1 "
+Serge,France,0,2019-11-13,Bien,"Le calme, la proximité, la gentillesse du personnel",Chambre petite,"7,0",Hôtel,Paris," 8,1 "
+Valerie,France,0,2019-11-08,Un HOTEL accueillant où je reviendrai ...,"L'accueil du personnel est Top ! de l'arrivée, en passant par le petit déjeuner et le départ. La chambre est comme décrite, très propre. Le plus : la bouilloire et le frigo à disposition. hôtel au calme, appréciable surtout à Paris.","le petit dej : classique, manque quelques fruits frais.","9,0",Hôtel,Paris," 8,1 "
+Marc,France,0,2019-11-08,Trés bien,emplacement et silence,éclairage,"9,0",Hôtel,Paris," 8,1 "
+Renaud,France,0,2019-11-07,bien,"l'accueil très sympathique de Serge.
+l'équipement de la chambre",le fait que contrairement au descriptif il n'y ait plus de place de parking (nous avions sélectionné cet hôtel pour ce critère en plus de la localisation),"7,0",Hôtel,Paris," 8,1 "
+Serge,France,1,2019-11-05,Superbe,"Très bon emplacement,
+Personnel très accueillant, une mention à Toufik.",None,"8,8",Hôtel,Paris," 8,1 "
+Oceane,France,0,2019-11-04,Très bien,"Propreté irréprochable, le personnel est sympathique et bienveillant. 
+Nous avons eu le plaisir d’être surclassé par Toufik, nous remercions aussi Serge pour sa sympathie et sa bonne humeur.",Nous avons pas réussi à faire chauffer les radiateurs.,"8,3",Hôtel,Paris," 8,1 "
+Nadine,France,0,2019-11-03,Bien ,"L'amabilité, et l'attention du personnel
+La personnalisation du séjour ; mail d'accueil et questionnaire sur les attentes, puis mail en retour pour donner les possibilités de restauration attendues et enfin mail en cours de séjour pour s'assurer que tout va bien.",RAS,"7,9",Hôtel,Paris," 8,1 "
+Nadine,France,0,2019-11-03,Bien ,"L'amabilité du personnel très attentionné
+La personnalisation du séjour ; mail en cours de séjour pour s'assurer que tout va bien.",RAS,"7,9",Hôtel,Paris," 8,1 "
+Sandrine,Monaco,0,2019-11-02,Hôtel confortable,"Hôtel bien placé , dans une rue calme , proche de la Gare de l’Est et du métro.
+On peut laisser les bagages à la réception pour un départ tardif ou l’arrivée .
+Très pratique pour un court séjour à Paris
+Chambre petite mais avec tous les équipements nécessaires. 
+Personnel très agréable. 
+Mention spéciale à Ahmed particulièrement sympathique.
+Nous reviendrons lors d’un prochain séjour ...",Nous n’avons pas essayé le petit déjeuner.,"7,9",Hôtel,Paris," 8,1 "
+Christian,France,0,2019-10-28,"Hôtel bien situé, bien équipé et propre, très bon rapport qualité prix pour Paris centre","La propreté et le confort de la chambre, en particulier de la literie, la situation et la tranquillité de l'hôtel (bon restaurant et délicieuse pâtisserie à proximité) et l'accueil du personnel, établissement à recommander pour un séjour à proximité du Canal St Martin.",Le hall d'accueil est un peu défraîchi et nécessiterait d'être amélioré.,"9,6",Hôtel,Paris," 8,1 "
+Bertrand,France,0,2019-10-07,Très bien,"personnel tres disponible et propreté impeccable .tres bonne insonorisation coté rue .
+tres bonne boulangerie dans la rue .",l insonnorisation entre chambres meme si ce n est pas catastrophique,"8,0",Hôtel,Paris," 8,1 "
+Jean-christophe,France,1,2019-10-02,Très bien,"L'emplacement est plutôt bien, le personnel est sympathique (mention spéciale pour Serge, très gentil !), le petit déjeuner est bien aussi. Bons restaurants à proximité et facilité d'accès depuis la Gare de l'Est sans avoir le bruit des rues alentours.","La petitesse de la chambre, le fait d'être au rdc et de n'avoir qu'un seul coussin par personne.","8,3",Hôtel,Paris," 8,1 "
+Philippe,Belgique,0,2019-09-29,Bon acceuil de la part de Steve,TRES BIEN,None,"8,0",Hôtel,Paris," 8,1 "
+Eric,France,0,2019-09-25,Très bien,Personnel très aimable et très serviable,Wc minuscule et chambre petite pour 3 personne,"8,3",Hôtel,Paris," 8,1 "
+Julie,France,0,2019-09-25,Bien ,"L'emplacement est très bien. A deux pas du canal st martin, de la gare de l'est et la gare du Nord.
+La chambre est calme. Le personnel est sympathique.","La chambre est petite et les équipements rudimentaires. Il y a un escabeau pour monter dans la douche. 
+Le rapport qualité prix n'est pas très intéressant. Chambre à près de 200 euros pour un confort correct sans plus.","7,1",Hôtel,Paris," 8,1 "
+Anne,France,0,2019-09-15,Hôtel sympathique sans prétention situé vers des quartiers sympas,L’accueil,La décoration,"7,5",Hôtel,Paris," 8,1 "
+Sonia,France,0,2019-09-14,Très bien,La literie,L’isolation de la fenêtre de la salle de bain,"8,3",Hôtel,Paris," 8,1 "
+Thierry,Nouvelle-Calédonie,0,2019-09-11,Très bien de passage,"La gentillesse et la politesse de Toufik à l’accueil, merci à lui",None,"7,1",Hôtel,Paris," 8,1 "
+Laurie,France,0,2019-09-04,Fabuleux ,"Accueil du personnel très sympa, chambre propre, confortable, bien situé. 
+Très bon rapport qualité prix !",None,"9,2",Hôtel,Paris," 8,1 "
+Sandcolin,France,0,2019-08-30,Fabuleux ,"- une chambre équipée spacieuse avec un lit king size et une décoration soignée !
+- la personnalisation de l'accueil par Ahmed et Hatim, se sentant unique et privilégié !",None,"9,2",Hôtel,Paris," 8,1 "
+Rita,France,0,2019-08-15,Exceptionnel,"Accueil chaleureux de jour comme de nuit, personnel au petit soin, hotel tres calme, bonne literie, bon petit dejeuner.",Pas de kleenex dans la salle de bain.,"9,6",Hôtel,Paris," 8,1 "
+Mfranck,France,0,2019-08-06,Bon séjour,"Hôtel bien situé à 5 mns de la Gare de l'Est, chambre un peu petite mais confortable, personnel très accueillant et agréable",None,"7,9",Hôtel,Paris," 8,1 "
+Barbara,France,0,2019-08-05,Bien ,"bon accueil, donne de bons renseignements pour les visites à faire et où prendre le métro
+très bon petit déjeuner
+proche de la gare",None,"7,9",Hôtel,Paris," 8,1 "
+Aurélie,France,0,2019-07-31,Très bien,"La gentillesse du personnel. Merci à Serge ! 
+Bonne literie.",Chambre un peu petite.. on ouvre une grande valise et plus de place pour marcher dans la chambre,"8,3",Hôtel,Paris," 8,1 "
+Mathieu,France,0,2019-07-26,Superbe,Hotel très propre avec un personnel très accueillant et petite mention spéciale à Mr Serge pour ses très bons conseils.,None,"8,8",Hôtel,Paris," 8,1 "
+Le,France,0,2019-07-21,Hôtel pratique pour quelques nuits,"Lit confortable, la chambre était propre. Petit déjeuner copieux. Le personnel est très accueillant. Nous avons passé une bonne nuit.",Le système de climatisation qui nous a été proposé nous a surpris. Nous ne nous voyions pas mettre le tuyaux dehors alors que nous étions au rdz. Sinon pas de soucis particulier,"7,1",Hôtel,Paris," 8,1 "
+Claire,France,0,2019-07-08,"Excellent emplacement, hôtel accueillant à toute heure.","L'amabilité du personnel, la réactivité à mes demandes, la volonté de rendre service. Le lit était particulièrement confortable, la chambre au calme, la propreté irréprochable.","La bouilloire n'était pas automatique et il fallait donc que je maintienne le bouton appuyé pour faire chauffer l'eau. Mais bon, ce n'est pas si grave !","9,6",Hôtel,Paris," 8,1 "
+Marie-christine,France,0,2019-07-07,LHôtel bien placé et accueillant,"Proximité de la gare de l'Esr
+proximité du canal St Martin, lieu festif et fréquenté
+Nombreux restaurants sur place dans la rue",None,"7,9",Hôtel,Paris," 8,1 "
+Jérômec974,La Réunion,0,2019-07-04,Bel hôtel dans une rue peu connue,"L'hôtel est propre et relativement spacieux pour Paris.
+Les lits sont très grand en chambre double.
+Le personnel est professionnel et très aimable, en particulier Toufik",La rue devant l'hôtel est sale mais l'hôtel est très bien,"8,3",Hôtel,Paris," 8,1 "
+Agnes,France,0,2019-06-28,agréable,"chambre confortable et bien équipée, accueil sympatique, décoration originale",fauteuils de la salle du petit déjeuner pas adaptés pour un petit déjeuner,"9,2",Hôtel,Paris," 8,1 "
+Philippe,France,0,2019-06-24,Exceptionnel,"Logement proche de la gare de l'Est idéal pour repartir tôt le matin.
+Literie très confortable!
+Accueil souriant et serviable, nous a fourni deux clés car ma femme et moi n'arrivions pas en même temps.",Pas eu l'occasion de prendre le petit déjeuner.,"9,6",Hôtel,Paris," 8,1 "
+Sandrine,France,1,2019-06-21,Une très bonne adresse,"L'accueil, la literie, les équipements, le petit-dejeuner",Le prix !,"8,8",Hôtel,Paris," 8,1 "
+Nicolas,France,0,2019-06-21,Très bien,La propreté,Trop calme,"8,3",Hôtel,Paris," 8,1 "
+Ségolène,France,0,2019-06-11,Très bien,"Excellent emplacement, personnel disponible, accommodant et très souriant.",Les portes font beaucoup de bruit quand elles se ferment.,"8,3",Hôtel,Paris," 8,1 "
+Vincent,Belgique,0,2019-06-10,Superbe,"Rue calme, parking à côté de l’hôtel, bon rapport qualité prix pour Paris",Rien,"8,8",Hôtel,Paris," 8,1 "
+Elisabeth,France,0,2019-05-29,Bien ,"Le grand lit confortable, l'accueil chaleureux et le calme de la chambre.",Douche un peu difficile d'accès.,"7,9",Hôtel,Paris," 8,1 "
+Wahi,France,0,2019-05-26,Bien situé !,"L'emplacement, la gentillesse du personnel",Chambre assez petite,"7,9",Hôtel,Paris," 8,1 "
+Michelle,France,0,2019-05-10,Très bel hôtel et superbe emplacement,"Hôtel très bien situé par rapport à la gare, le métro.",Salle du petit-déjeuner en face de l'accueil. Manque d'intimité et dans les courants d'air lorsque les gens entrent ou sortent (porte automatique),"9,6",Hôtel,Paris," 8,1 "
+Hubert,France,0,2019-05-07,Agréable,L'emplacement ; l'accueil,None,"8,3",Hôtel,Paris," 8,1 "
+Jean,France,0,2019-04-26,Fabuleux ,"Le personnel : très agréable,disponible,de bon conseil",le bruit de l’ascenseur,"9,2",Hôtel,Paris," 8,1 "
+Thierry,France,0,2019-04-25,Bien ,Dommage pour la 1ere nuitée nous n'avions pas de code wifi et aucun moyen d'appeler la réception,Dommage pour la 1ere nuitée nous n'avions pas de code wifi et aucun moyen d'appeler la réception,"7,5",Hôtel,Paris," 8,1 "
+Agnès,France,0,2019-04-15,Exceptionnel,Ascenseur en panne,Ascenseur en panne,"9,5",Hôtel,Paris," 8,1 "
+Dominique,France,0,2019-04-14,Hôtel agréable hâte d y retourner,"Le personnel au top toujours à l écoute, serviable 
+Hôtel très bien situé 
+Chambre bien décorée et fonctionnel",Ras,"9,6",Hôtel,Paris," 8,1 "
+Chantal,France,0,2019-04-07,Très bien,Le petit déjeuner avec du choix et l’acceuil oú le personnel nous a très bien renseigné,La taille de la chambre un peu trop petite,"8,3",Hôtel,Paris," 8,1 "
+Jean,France,0,2019-04-06,Séjour agréable,"Lit très large (king size) et confortable. Chambre donnant sur une cour intérieure très calme. Hotel près de la gare de l'est et de nombreux théatres pour occuper notre soirée : tout se fait à pied, parfait !",Tout était bien,"8,8",Hôtel,Paris," 8,1 "
+Jacques,Belgique,0,2019-04-04,Superbe,"l'amabilité du personnel,la situation géographique,le calme.",None,"8,8",Hôtel,Paris," 8,1 "
+Michel,France,0,2019-04-03,Exceptionnel,"Le calme, la propreté",Le prix du petit déjeuner 12euros c est trop cher,"9,6",Hôtel,Paris," 8,1 "
+Dominique,France,0,2019-03-30,Bien ,L’amabilit Du personnel,Le frigo vide,"7,9",Hôtel,Paris," 8,1 "
+Thierry,France,0,2019-03-27,Exceptionnel,Rapport qualité / prix tout à fait convenable.,RAS,"9,6",Hôtel,Paris," 8,1 "
+Djmuzik,France,0,2019-03-20,Pas mal Paris10!,"Petite rue calme, proche République et Gares de l'Est et du Nord, Idem pour le métro et les bus. Chambre sur l'arrière donc aucun bruit extérieur. Pas de réception TV, aussitôt résolu par le personnel. Le café et le thé à disposition dans le hall, très sympa.","Le manque d'isolation phonique ente chambres : télé, portes, conversations... Houps!!! Les sièges TRES bas (ce sont aussi les fauteuils d'attente du hall), de la salle de petit déjeuner sont hard dès qu'on a passé la trentaine!!","7,9",Hôtel,Paris," 8,1 "
+Megan,France,0,2019-03-20,"Propre, staff très gentil, mais un lit qui laisse à désirer.","La propreté de la chambre et des lieux. 
+Un staff aux petits soins, nous sommes arrivés en retard au petit déjeuner mais ils nous ont quand même servis. Nous les en remercions !!","Le lit n’était pas très confortable et pas stable (chambre 404) cela nous a beaucoup dérangé. 
+Les horaires des petits déjeuners ne sont pas indiqués sur booking sur qui fait que nous avons payés pour rien le dernier jour étant donné que notre train était trop matinale. Cela ne nous a pas plu.","7,9",Hôtel,Paris," 8,1 "
+Axel,France,0,2019-03-18,Rien a redire,"Personnel dacceuil acceuillant et toujours souriant
+Meme si chambre assez petite conviebt parfaitement pour un couple de personne avec tout l'equipement necessaire
+Bien isoler du bruit
+A proximité de bonne instalation de restauration de bars et jen passe 
+Jai trouver un cadre calme
+Ideal pour jeune couple",Chambre légèrement petite mais franchement convient agreablement,"9,2",Hôtel,Paris," 8,1 "
+Franck,France,0,2019-03-18,Tres fonctionnel - Idealement situe,"Hotel idealement situe, 5 min a pied de la Gare de l'Est, 10 min a pied de la Gare du Nord (RER CDG)
+Tres nombreux lieux de restauration
+Chambre tres fonctionnelle, eau chaude, TNT, frigo
+Literie de bonne qualite
+Bon rapport qualite prix (chambre double payee 83 euros)",None,"8,8",Hôtel,Paris," 8,1 "
+Patricia,France,0,2019-03-17,Très bien,"La situation géographique était excellente pour nous rendre au théâtre de la Renaissance et pour se balader.
+L'accueil très bonne : souriant et serviable",Nous avons tout appricié,"8,3",Hôtel,Paris," 8,1 "
+Charles,Belgique,0,2019-03-10,Très bien,La literie,None,"8,3",Hôtel,Paris," 8,1 "
+Gwashton,France,0,2019-03-09,Exceptionnel,"mais tout le reste, propreté, service, literie, qualité des équipements etc était parfait et d'un bon rapport qualité prix. Très bien situé par ailleurs.",Le petit-déjeuner est peut être cher pour ce qu'il est,"9,6",Hôtel,Paris," 8,1 "
+Jocelyne,France,0,2019-03-08,bien,Le personnel agréable,None,"9,2",Hôtel,Paris," 8,1 "
+Estelle,France,0,2019-03-01,Fabuleux ,Très bien,None,"9,2",Hôtel,Paris," 8,1 "
+Carine202,Suisse,0,2019-02-24,Bonne expérience,Literie confortable. Petit quartier très sympa. Parking à proximité (24e/jour),Chambre assez petit malgré un surclassement...,"7,9",Hôtel,Paris," 8,1 "
+Eric,France,0,2019-02-24,Excellent,l'accueil est très sympathique! très bon hôtel. confort qualité et rapport qualité et prix.,None,"9,2",Hôtel,Paris," 8,1 "
+Thanville,France,0,2019-02-24,Exceptionnel,"l emplacement près de la gare dans une rue calme. bonne literie. disponibilité et amabilité à l accueil.
+propreté de la chambre. plateau bouilloire",None,"9,6",Hôtel,Paris," 8,1 "
+Camilla,France,0,2019-02-14,Très bien,"le personnel
+le thé et le café à volonté","J'ai choisi une chambre supérieure mais c'était un peu trop petite. la porte de la salle de bain ne s'est pas fermée correctement. 
+Quand nous sommes arrivés pour le petit déjeuner, il en restait très peu, mais nous avons payé le montant total de 15 euros","8,0",Hôtel,Paris," 8,1 "
+Arnould,France,0,2019-02-13,Très bien,"petit hôtel bien sympa , le personnel est souriant et de bon conseil.
+nous y avons passé une nuit ( de passage ) , avons apprécier le calme","juste petite remarque , la largeur du lit un peu juste pour nous, mais bon....","8,3",Hôtel,Paris," 8,1 "
+Pierre,Chine,0,2019-02-12,Très bon séjour,L'hotel avait une super localisation. Proche de gare ou de stations de metro.,None,"9,6",Hôtel,Paris," 8,1 "
+Ollivier,France,0,2019-02-11,Bien ,Localisation proche des deux gares,Mauvaise insonorisation,"7,5",Hôtel,Paris," 8,1 "
+Sonia,France,0,2019-02-09,"Très bien, je recommande","L'accueil et la possibilité de laisser mes bagages avant d'intégrer la chambre. Chambre un peu petite pour 3 mais confortable et propre. A 2 pas de la gare de l'est, accessible à pied ou par le bus 56 ou 65 (2 arrêts).",Nous avons tout apprécié.,"9,6",Hôtel,Paris," 8,1 "
+Barbeau,France,0,2019-02-09,Bien ,Salle de bain spacieux,"Salle du petit déjeuner, siège bas peux confortable
+Trop loin d'une bouche métro","7,5",Hôtel,Paris," 8,1 "
+Jacques,France,0,2019-02-08,"Pratique, rapport qualité-prix correct.","Très bien placé, à proximité du canal St Martin, des gares du Nord et de l'Est. Personnel prévenant et agréable. Assez calme.",Petite déjeuner assez basique.,"7,9",Hôtel,Paris," 8,1 "
+Denis,France,0,2019-02-08,bref mais agréable et nous ne rentrions que le soir,lit très confortable douche très pratique,"c'est impossible actuellement mais la chambre est un peu petite pour des gens âgés qui doivent louvoyer entre le lit et la table pour sortir de leur couche , laquelle est un peu haute , justement pour des personnes ayant des difficultés à se mouvoir mais non encore handicapées ...","7,5",Hôtel,Paris," 8,1 "
+Charles,France,0,2019-02-07,calme et bien situé pour une nuit.,"la literie.Le personnel était très sympatique.
+Le service bagagerie, très apprécié.","il faisait froid dans la salle de bain.La chambre est petite.le petit déjeuner reste onéreux,( pas de vrai machine à café à disposition.)","7,1",Hôtel,Paris," 8,1 "
+Josette,France,0,2019-02-04,Très bien,Félicitations au personnel vraiment prêt à aider avec grand sourire non forcé. Ma petite fille et moi avons été ravies. N'hésiterons pas du tout à y retourner.,Le petit déjeuner onéreux.,"8,3",Hôtel,Paris," 8,1 "
+Christophe,France,0,2019-01-27,Fabuleux ,Petit déjeuner compris.,None,"9,2",Hôtel,Paris," 8,1 "
+Eric,France,0,2019-01-24,Bien ,Merci a Toufik pour son accueil chaleureux,None,"7,9",Hôtel,Paris," 8,1 "
+Edouard,France,0,2019-01-21,Très bien,Calme,A 7h petit déjeuner pas prêt,"8,3",Hôtel,Paris," 8,1 "
+Lorène,France,0,2019-01-20,"Bon emplacement, juste à côté de la gare de l'Est","Très bon emplacement, juste à côté de la gare de l'Est, personnel aimable, service de bagagerie au besoin. Literie confortable, les équipements de la chambre sont satisfaisants.","La chambre que nous avons occupée était un peu petite, la douche pas franchement pratique, la salle de bain de façon générale nous a un peu déçue, pour le reste, rien à redire.","6,7",Hôtel,Paris," 8,1 "
+Xavier,France,0,2019-01-20,Superbe,"L’état général ( propreté, équipement)","La porte de la douche, l’étroitesse de la chambre, le fait que la salle du petit déjeuner ne soit pas séparée de l’accueil","8,8",Hôtel,Paris," 8,1 "
+Expert,Luxembourg,1,2019-01-17,Agréable,Aspect assez moderne. Pas trop loin de la Gare de l’Est.,Les cheveux dans la salle de bains.,"6,7",Hôtel,Paris," 8,1 "
+Mje,France,0,2019-01-14,Exceptionnel,L’accueil du personnel était parfait et son emplacement proche des stations de metro. De plus son implantation ds un quartier calme est un atout supplémentaire. Je recommande.,None,"9,6",Hôtel,Paris," 8,1 "
+Loïc,France,0,2019-01-13,Fabuleux ,"Proche de la gare 
+Propre","Épaisseur des murs 
+Le voisin de la chambre à côté que l’on entend tousser comme s’il était à côté de vous","9,2",Hôtel,Paris," 8,1 "
+Clovisdecambrils,France,0,2019-01-07,Bon rapport qualité prix. Accueil bien.,"L'emplacement
+Rapport prix/qualité",Les fenêtres sont équipées de rideaux occultants par contre sont dépourvues de rideaux brisevue c'est un peu dommage quand il fait jour de ne pas profiter de la lumière naturelle!,"7,9",Hôtel,Paris," 8,1 "
+Lucie,France,0,2019-01-07,Très bien,Trop chaud dans la chambre.,Trop chaud dans la chambre.,"8,3",Hôtel,Paris," 8,1 "
+Gilles,France,0,2019-01-06,Bien ,sieges du salon petit dejeuner,sieges du salon petit dejeuner,"7,9",Hôtel,Paris," 8,1 "
+Agnes,France,0,2019-01-02,Bien ,bon rapport qualité/prix/situation géographique,"la porte de la douche qui se démonte quand on la fait coulisser et la mauvaise insonorisation des chambres.
+les fauteuils de la salle du petit déjeuner sont très jolis mais pas très pratiques pour prendre son petit déjeuner","7,1",Hôtel,Paris," 8,1 "
+Samira,France,0,2018-12-27,Très bien,Personnel agreable. Chambre tres agreable.,Juste a mon niveau... ma chambre donnait sur un lieu d evenementtiel . Mais l'hiver bonne isolation.,"8,3",Hôtel,Paris," 8,1 "
+Arnaud,Royaume-Uni,0,2018-12-22,Tres bon rapport qualite prix,Early check out suite a notre demande. Accueil tres sympathique de Toufik. Bon rapport qualite prix,None,"9,6",Hôtel,Paris," 8,1 "
+Jackfouchet,France,0,2018-12-22,Bien ,"Lit confortable, hôtel bien situé.","Le parking n est pas inclu dans le prix et coûte 25€.
+Sur booking.com ce n est pas précisé.","7,9",Hôtel,Paris," 8,1 "
+Laurynemtgn,France,0,2018-12-19,Très bien,"Propreté, malgré un morceau de papier peint qui se décolle, 
+Personnel agréable et accueillant, belles chambres bien insonorisées",D’être bloquée dans l’ascenseur 😂,"8,3",Hôtel,Paris," 8,1 "
+Tayeb,France,0,2018-12-12,Très bien,"J'ai apprécié l'accueil de Kamel et de Toufik le jour de départ, le rapport qualité-prix pour la période et la propreté de la chambre.
+Je reviendrai sans hésitation",None,"8,3",Hôtel,Paris," 8,1 "
+Marie,France,0,2018-12-10,Très bon hôtel. Manque un petit truc pour que ce soit parfait.,"Chambre confort, équipement de grande qualité. Thé et café à disposition. Très proche métro. Emplacement calme et les rues de derrière avec le petit passage parisien sont sympas. Personnel très aimable.",Escalier de secours impraticable - j’espère qu’il n’y aura jamais de malheur. Mes voisins de chaque sont rentrés à deux heures du matin en faisant un bruit de fou. Je ne saurais pas dire si c’est l’insonorisation qui est mauvaise ou les voisins super bruyants.,"8,8",Hôtel,Paris," 8,1 "
+Agnès,Belgique,0,2018-12-07,Agréable,Un grand lit. Un petit déjeuner avec des produits frais et beaucoup de variété. Accueil chaleureux du personnel. Rue calme. Situation bonne.,"Manque d'insonorisation entre les chambres. J'entendais un voisin toussait... de l'autre côté, j'entendais quand la salle de bain était utilisée... Dommage.","6,7",Hôtel,Paris," 8,1 "
+Johanna,France,0,2018-12-06,Bien ,Très bon rapport qualité /prix,"La qualité le du petit déjeuner, manque vraiment d’une machine à expresso","7,9",Hôtel,Paris," 8,1 "
+Yann,Wallis-et-Futuna,0,2018-11-29,Bien ,L'accueil des responsables TB,Un lit plus moelleux pour un 3 étoiles.,"7,5",Hôtel,Paris," 8,1 "
+Sylvie,France,1,2018-11-28,bon séjour,"Gentillesse à l'accueil .
+Situation géographique (bien desservi par les transports, nombreux restos aux alentours )
+Propreté .
+Grandeur de la chambre",None,"9,2",Hôtel,Paris," 8,1 "
+Michael,Île Maurice,0,2018-11-28,Exceptionnel,Le sens de l'accueil et du service. Je vais oublié mon téléphone et Toofik me l'a ramassé. Merci Toofik pour votre honnêteté. C'est rassurant pour les clients.,Rien,"9,6",Hôtel,Paris," 8,1 "
+Lozozo,La Réunion,1,2018-11-25,Une adresse calme très bien desservie,"Accueil très chaleureux et personnalisé par un réceptionniste très sympathique. 
+Literie très confortable et de grande taille.
+Très bonne insonorisation alors que la chambre donne sur la rue",Espace de la chambre trop restreint,"8,8",Hôtel,Paris," 8,1 "
+Dominique,France,0,2018-11-19,Agréable,chambre trop petite; décoration moyenne,chambre trop petite; décoration moyenne,"6,7",Hôtel,Paris," 8,1 "
+Thierry,France,1,2018-11-19,tres bon hotel confortable et bien situé.,"grand lit tres confortable, chambre tres calme, personnel souriant",None,"9,2",Hôtel,Paris," 8,1 "
+Delphine,France,0,2018-11-14,Exceptionnel,Personnel disponible et accueillant !,None,"9,6",Hôtel,Paris," 8,1 "
+Marie,Belgique,0,2018-11-14,Très bien,Merci à Kamel de la réception pour son super accueil.,None,"8,3",Hôtel,Paris," 8,1 "
+Lefevre,France,0,2018-11-09,du bon et du moins bon,"l'accueil souriant, la situation géo de l'hôtel (proche Gare de l'Est), le petit déjeuner, la taille du lit double, la fonctionnalité de la salle de bains, le calme du quartier","qualité moyenne du matelas, très mauvaise insonorisation (on entend la conversation ou la TV de la chambre voisine), la faible pression de la douche","7,5",Hôtel,Paris," 8,1 "
+Vincent,France,0,2018-11-08,"très bien, à recommander",pas de kleenex,pas de kleenex,"9,2",Hôtel,Paris," 8,1 "
+Didier,Belgique,0,2018-11-06,Agréable,"Petit déjeuner, confort literie, personnel de réception","Chambre très exiguë, environ 9 m2, propreté salle de bain( rails porte douche) et radiateur chambre","6,7",Hôtel,Paris," 8,1 "
+Marie,France,0,2018-10-31,Bien ,Nous avons choisi cet hôtel pour sa proximité avec la gare de l'est mais le quartier n'est pas le plus chouette de Paris. La chambre et les sanitaires étaient propres. Chambre calme sur l'arrière du bâtiment.,"Les lieux sont assez exigus : on cogne la porte lorsqu'on rentre et la salle de bains est tellement étroite qu'on renverse toujours quelque chose au passage. Insonorisation moyenne : on entend le voisin éternuer et moucher.
+Petit déjeuner assez décevant et plus de baguette à 8h30 pour un hôtel parisien, c'est très moyen !","7,1",Hôtel,Paris," 8,1 "
+Clejeune,Belgique,0,2018-10-22,Petit hotel bien équipé à 2 pas des gares et du metro,Hotel bien équipé avec chambres petites mais fonctionnelles. Proximité gare du Nord et de l'Est,Les chambres sont un peu petites,"7,9",Hôtel,Paris," 8,1 "
+Alex06330,France,0,2018-10-21,Parfait,"Grand lavabo sdb , literie confortable, amabilité personnel",Vraie clim dans chambre (non mobile),"8,3",Hôtel,Paris," 8,1 "
+Lionel,France,0,2018-10-03,Bien ,"l'emplacement proche des métro
+La propreté de l'hôtel
+l'accueil agréable
+le petit déjeuné","la chambre et la salle de bain trop petite pour le prix (déjà vu mieux et pour moins chère sur paris centre).
+vue extérieur proche de l'autre immeuble (petite rue)
+Pas assez de table le matin pour le petit déjeuner","7,5",Hôtel,Paris," 8,1 "
+Anne,France,0,2018-09-26,Bon emplacement mais décevant au regard du prix,"Bon emplacement, petit déjeuner très correct. Réceptionnistes de nuit très gentils.","Personnel du week-end peu aimable, nettoyage des chambres tard dans l'après midi (à 17 h). Chambre minuscule sur rue très bruyante.","7,9",Hôtel,Paris," 8,1 "
+Daniel,Belgique,0,2018-09-22,Bonne adresse,"Localisation vraiment parfaite. Attention à bien prendre une chambre au calme car quartier très animé.
+Chambre petite, SDB encore plus petite, mais OK",Taille de la SDB. Petit déjeuner trop industriel,"8,8",Hôtel,Paris," 8,1 "
+Igor,Belgique,0,2018-09-17,Hôtel tranquille proche de la Gare de l'Est,"Meubles bien agencés
+Tranquillité, ma chambre donnait sur une court intérieure
+Rue avec peu de traffic",None,"7,5",Hôtel,Paris," 8,1 "
+Thierry,France,0,2018-09-03,Exceptionnel,la proximité du centre de Paris et le parking à coté,pas de climatisation il faisait trop chaud et impossible de dormir la fenêtre ouverte,"9,6",Hôtel,Paris," 8,1 "
+Nicolas,France,0,2018-08-23,Superbe,Propreté de la chambre,None,"8,8",Hôtel,Paris," 8,1 "
+Catherine,France,0,2018-08-19,Hôtel de bon rapport qualité prix,"Accueil souriant et chaleureux
+Les chambres sont bien",L’insonorisation des chambres n’est pas suffisante. Porte palière bruyante,"7,5",Hôtel,Paris," 8,1 "
+Sandra,France,0,2018-08-17,gentillesse du personnel,Le personnel trée gentile.,petite pièce sans vue sur la rue.,"7,5",Hôtel,Paris," 8,1 "
+Arnaud,France,0,2018-07-24,Séjour agréable entre Gare de l'Est et République.,"L'emplacement assez bon.
+Le calme de la chambre (au 3ème)
+La propreté des lieux.
+Le petit déjeuner très correct.
+La climatisation (même si amovible et bruyante)
+La robinetterie neuve et agréable (surtout le pommeau de douche)","La climatisation amovible qui est en soi une bonne idée vue la chaleur de l'été mais par contre question encombrement et bruit c'est un souci. Trouver une version plus compacte et discrète voire intégrée au mur ou plafond serait idéale.
+Le bac de douche à 30cm de haut, limite pour la descente et la porte coulissante non tenue en bas donc ""branlante"".
+L'absence de porte savon-gel douche rendant assez inconfortable la douche pour le coup.
+La taille du WC ""compact"" qui peut être gênant pour les gens assez grands (ce qui est mon cas).
+Le 2nd miroir intégré dans la faïence avec un joint mastic très très laid, cela fait tâche dans le cadre général et notamment à côté de la robinetterie flambant neuve.
+Côté petit déjeuner, une machine à expresso voire une machine multi boissons (chocolat, thé, café, cappuccino) serait un plus ainsi que des jus d'oranges type ""frais"".
+Subsidiaire mais la blague de la personne de l'accueil qui nous a fait croire à notre arrivée à 1h du matin que l’ascenseur était en panne. Trois étages chargés de bagages par le petit escalier pour ""rien"" au final...Un peu dommage même si on apprécie l'humour, à 1h du matin le 2nd degré peut être difficile à décrypter ^^.","7,9",Hôtel,Paris," 8,1 "
+Philippe,France,0,2018-07-22,Bien ,"Accueil sympathique, accès pratique depuis la gare de l'Est.",La salle pour le petit déjeuner petite et vite saturée. Une climatisation serait la bienvenue dans les chambres.,"7,5",Hôtel,Paris," 8,1 "
+Thierry,France,1,2018-07-18,Très bon sejour,Hôtel confortable et bien situé,"Pas de clim, juste un ventilateur, à éviter donc pendant les périodes caniculaires","7,5",Hôtel,Paris," 8,1 "
+Amelle99,France,1,2018-07-17,Très bien,L'accueil. Très sympathique et très serviable. La propreté.,"La taille de la chambre. Pas de clim, juste un ventilateur.","8,3",Hôtel,Paris," 8,1 "
+Violaine,France,0,2018-07-09,Très bien,La propreté,Pas de climatisation,"8,3",Hôtel,Paris," 8,1 "
+Delphine,France,0,2018-07-07,Bien ,Hôtel bien situé et très propre.,Chambre un peu petite mais espace suffisant pour 1 nuit,"7,5",Hôtel,Paris," 8,1 "
+Naouel67,France,1,2018-07-03,Parfait !,"Désormais habituée de l'hôtel, au risque de me répéter, l'hôtel au delà d'un emplacement pratique proche de la Gare de l'Est, et du métro vous offre un confort parfait et un service de qualité (accueil, prise en compte de demandes clients). Ce qui n'est pas négligeable lorsque vous voyagez bcp et que vous fréquentez énormément d'hôtels,",None,"7,5",Hôtel,Paris," 8,1 "
+Marie-paule,Allemagne,1,2018-07-02,Bien ,"L´hôtel est à un emplacement idéal à 3 mn à pied de la gare de l´est et du métro, près de l´église St Laurent.",Il faisait très chaud et on ne pouvait pas ouvrir les fenetres car la rue est très bruyante. Pas de clim. Certainement une bonne adresse à retenir mais pas en été.,"7,5",Hôtel,Paris," 8,1 "
+Anne,Italie,0,2018-06-29,Bien ,"La localisation, le rapport qualité prix, chambre plutôt spacieuse pour Paris",Le bruit de la soufflerie de la salle de bain qui tourne en permanence,"7,9",Hôtel,Paris," 8,1 "
+Marie,France,0,2018-06-18,Bonne option pour court séjour,"Situation géographique proche gare de l’est 
+Excellente literie, propreté de la chambre, lit king size","Ma chambre soit disant sur cour donnait sur le côté de la rue, en face d’un bar très animé. Fenêtres fermées l’insonorisation était bonne, mais intenable quand il fait chaud. L’insonorisation entre les chambres voisines pourrait être améliorée.","8,0",Hôtel,Paris," 8,1 "
+Thierry,France,1,2018-06-08,Globalement un bon hôtel,"Personnel accueillant et disponible, les chambres sont confortables.",Le rapport qualité prix du petit déjeuner pourrait s'améliorer.,"7,1",Hôtel,Paris," 8,1 "
+Amelie,France,0,2018-06-06,Superbe,"La propreté de la chambre, le grand lit, l'amabilité du personnel , la facilité d'accès à la sortie du métro. Pas loin de la gare de l'est. J'étais à la chambre 503 taille correct pour une personne seule ou en couple mais pas avec des enfants.","Le manque de la clim qui en période de grosse chaleur aurait été plus qu'apreciable,car dormir avec les fenêtres ouvertes est juste pas possible trop de bruit donc obligé de fermer la fenêtre et dormir avec une chaleur ettoufante = mal de tête au réveil pour ma part 😞.","8,8",Hôtel,Paris," 8,1 "
+Charlene,France,0,2018-06-04,Bien ,"Bouilloire dans la chambre, calme, bon rapport Q/P, chambre plutôt grande pour Paris",Pas de fruits frais au petit-déjeuner,"7,5",Hôtel,Paris," 8,1 "
+Joyce,France,0,2020-05-26,Exceptionnel,"J’ai trouvé Hatim très accueillant , efficace et rapide dans la prise en charge de la réservation. Il c’est monté bienveillant tout au long du séjour. C’était formidable.",None,10,Hôtel,Paris," 8,1 "
+Marie,Luxembourg,0,2020-05-21,Exceptionnel,J’ai adoré mon séjour et super personnel d’accueil dont Hatim souriant et disponible à tout moment,None,10,Hôtel,Paris," 8,1 "
+Dubois,France,0,2020-05-13,A recommander,L'amabilité de Brahim et Hatim et leur accueil. Hôtel très confortable. Propreté irréprochable. Literie confortable. A recommander. Excellent rapport qualité/prix.,None,10,Hôtel,Paris," 8,1 "
+Mykhaylo,France,0,2020-05-08,Le meilleur hôtel de Paris que je connaisse.,"J'ai eu des problèmes pour payer avec une carte bancaire et j'ai contacté la réception de l'hôtel. La réception de l'hôtel m'a informé que ce n'était pas un problème et nous pouvons payer sur place avec de l'argent. C'était à ma portée car sur Booking.com, ils m'ont dit que ma réservation serait annulée si je ne payais pas avec une carte de crédit, mais l'hôtel m'a informé que la réservation serait conservée jusqu'à notre arrivée. Quand nous sommes arrivés à l'hôtel, nous attendions déjà et avons accordé une attention exceptionnelle et aidé à rester dans nos chambres. Le manager de l'hôtel Ms Brahim Hatin a demandé quand nous partions demain, je lui ai dit que le train à 17h30, il savait que nous avions 60 kg de fret derrière nous et donc poliment autorisé à rester jusqu'à 14h00. C'était vraiment humain, de sa part, car transporter une charge de 60 kg à Paris est très gênant. Les chambres sont propres, fraîches, propres, bien meublées avec un immense lit sur lequel vous dormez à 100%. Les toilettes de douche sont tout simplement super. Par conséquent, je donne la meilleure note à cet hôtel et je le recommande aux personnes qui visitent la ville de Paris pour affaires.",None,10,Hôtel,Paris," 8,1 "
+Djénéba,France,0,2020-03-10,Exceptionnel,L’accueil,None,10,Hôtel,Paris," 8,1 "
+Skymes,France,0,2020-03-06,Passable,Jai aimer le personnel,"Bonjour ,
+Les employés étaient super sympa, les équipements n'étaient pas vraiment à ma hauteur, l'ascenseur, les portes etc 
+La chambre n'était pas totalement propre, car nous avons trouvé une serviette sale 
+Le lit été confortable","5,0",Hôtel,Paris," 8,1 "
+Laurence,Belgique,0,2020-03-06,Agréable,Le confort de la literie et la situation proche de la gare.,"La proprete tres limite 
+L eclairage general ne fonctionnait pas
+Le frigo ne fonctionnait pas 
+Et le pommeau de douche etait casse","6,0",Hôtel,Paris," 8,1 "
+Virginie,France,0,2020-02-27,Exceptionnel,L’accueil de Toufik super,Rien,10,Hôtel,Paris," 8,1 "
+Tahar,France,0,2020-01-30,Exceptionnel,Tou,Exelen aceuil établissement prope,10,Hôtel,Paris," 8,1 "
+Daniel,Suisse,0,2020-01-01,Exceptionnel,"Pour Serge: Ne touche plus rien, t'as les bons réglages!",None,10,Hôtel,Paris," 8,1 "
+Chaouki,Tunisie,0,2019-12-02,Exceptionnel,"J'ai apprécié le professionnalisme du personnel.toufik ahmed amina et serge .shopping, site touristique, restaurant et bars a proximité.près des transports en commun.la chambre est propres pres du centre ville et la gentillesse des personnels sur tout a l'accueil.",None,10,Hôtel,Paris," 8,1 "
+Amandine,France,0,2019-11-12,Exceptionnel,"Le gérant est d'une très grande gentillesse, l'hôtel n'étant pas complet, il nous a surclassé sans frais supplémentaires.
+Cet établissement est un excellent rapport qualité prix, je vous le recommande !",J'aurai aimé une décoration plus soignée.,10,Hôtel,Paris," 8,1 "
+Sylvie,France,0,2019-11-04,Exceptionnel,Une petite chanson d'Anniversaire pour ma fille au check-out faîte par la belle voix du sympathique Serge !,None,10,Hôtel,Paris," 8,1 "
+William,France,1,2019-10-28,Exceptionnel,Très bonne location. Personnel très serviable et agréable. Bon petit-déjeuner.,Rien,10,Hôtel,Paris," 8,1 "
+Pascal,France,1,2019-10-23,Passable,"Hôtel très bien situé, personnel sympathique.","Tringle du rideau de la chambre descellée du mur.
+Et surtout un prix excessif par rapport à d'habitude, 240 € la nuit (au lieu de 110 €) sous prétexte d'une Fashion Week et d'un championnat de Volley.","5,4",Hôtel,Paris," 8,1 "
+Annabelle,France,0,2019-10-04,Exceptionnel,Tout était parfait!,None,10,Hôtel,Paris," 8,1 "
+Cedric,France,0,2019-09-20,trop cher pour le niveau de l'hotel,"Les chambres sont petites et les équipements moyens (ventilateur, frigo qui ne refroidit pas, la douche vieillote clim portative cuvette wc qui ne tient pas relevée,etc..)
+le petit déjeuner est très moyen (table super basse), la réception qui éteint la tv pour mettre de la musique trop forte
+croissants et jus orange de médiocre qualité. Les quantités juste suffisantes","le prix exorbitant (260€ la nuit) pour une chambre petite,des équipements vétustes, un PDJ bof.
+Photos ne reflètent pas le niveau de l'établissement","4,6",Hôtel,Paris," 8,1 "
+Laurent,France,0,2019-09-11,Exceptionnel,"Tout . L’accueil, la propreté, l’emplacement. Je n’ai pas testé le petit-déjeuner. Je recommande cet établissement",None,10,Hôtel,Paris," 8,1 "
+Sebastien,France,0,2019-09-06,Agréable,Emplacement,Insonorisation et qualité du petit déjeuner,"6,2",Hôtel,Paris," 8,1 "
+Mo,France,0,2019-08-25,Je recommande ! Confort/Emplacement/rapport qualité prix,"Le professionnalisme et le sourire de Serge à la réception. Un bon point aussi à Hatim, convivial même a une heure tardive.
+La situation géographique. Fonctionnalité. La bouilloire et le café dans la chambre.",None,10,Hôtel,Paris," 8,1 "
+Xavfab,France,0,2019-08-25,Exceptionnel,Tout,La literie le vrai jus d'orange le matin et un petit déjeuner complet et un personnel très accueillant souriant très aimable,10,Hôtel,Paris," 8,1 "
+Marc,France,0,2019-08-12,Passable,"Petit déjeuner complet, situation géographique","La taille de la chambre n’est pas celle indiquée sur le site. Tout est extrêmement compact et entassé. Impossible de circuler autour du lit.
+Climatisation mobile et frigo éteint très encombrant.","5,0",Hôtel,Paris," 8,1 "
+Maurizio,France,0,2019-07-17,Un séjour romantique au coeur d'une merveilleuse capitale PARIS Maurizio,"Proximité de la Gare de l'Est et bus, Accueil courtois et enthousiaste, disponibilité, amabilité et sens du service du personnel, informations tourisme transports & mobilité précises, propreté de l'hôtel et des chambres au top, Sonorité Faible on entends rien :) Excellent confort des chambres et lits, Petit déjeuner varié et très appétissant, présence du personnel même à minuit (sécurisant),",None,10,Hôtel,Paris," 8,1 "
+Laure,Luxembourg,0,2019-07-16,Tout à fait ce dont nous avions besoin pour ce voyage à Paris.,"Petit déjeuner très correct, excellente baguette. 
+Propreté impeccable de la chambre et de la douche et sanitaire, bravo!
+Bien calme pour un hôtel à Paris","Les sièges de la salle manger au petit déjeuner, vraiment trop bas et trop profond pour que nous arrivions à en ressortir facilement surtout pour des personnes ayant des problèmes de dos!!!",10,Hôtel,Paris," 8,1 "
+Christine,France,0,2019-07-11,Exceptionnel,"Le calme, la situation et la gentillesse de l'accueil. Petit déjeuner varié, au calme, sans la télé à fond. On se sent chez soi. C'est très cosy.","Rien, c'était parfait, conforme au descriptif.",10,Hôtel,Paris," 8,1 "
+Ma,France,0,2019-06-29,Bon ,L’emplacement,"La vue sur le mur à 30 cm décore de fleurs artificielles et d’une toile. 
+Le film « alimentaire » faisant office de « coupe chaleur.
+Le manque de prise pour brancher le téléphone (1).
+La climatisation portative très bruyante.","5,8",Hôtel,Paris," 8,1 "
+Marc,France,0,2019-06-10,Exceptionnel,L'appartement était très bien et confortable. L'accueil était excellent et très aimable. La personne a l'accueil a même retenu mon nom. Belle attention.,Il n'y a pas d'élément que je n'ai pas apprécié.,10,Hôtel,Paris," 8,1 "
+Philippe,France,0,2019-05-19,Très bien !,Personnel sympa !,Tout était parfait !,10,Hôtel,Paris," 8,1 "
+André,France,0,2019-05-08,Séjour agréable .,Rien à reprocher. Merci au perdonnel dans don ensemble et à Monsieur TOUFIK en particulier.,None,10,Hôtel,Paris," 8,1 "
+Catherine,France,0,2019-05-05,Exceptionnel,"Confortable, propre et personnel souriant et à l'écoute.",None,10,Hôtel,Paris," 8,1 "
+Olivier,Belgique,0,2019-04-27,Passable,Situation proche des gares (Est et Nord),Chambre trop petite,"5,4",Hôtel,Paris," 8,1 "
+Laure,France,0,2019-04-16,Très sympa,"L'emplacement : le quartier avec le canal Saint martin, ses petites ruelles, ses restaurants et son marché couvert 
+Le personnel : très agréable et sympathique",None,10,Hôtel,Paris," 8,1 "
+Sophie,France,0,2019-04-09,Exceptionnel,"L’hôtel est proche de la gare et métro 
+La chambre est propre , confortable .
+Le personnel est aimable et attentionné .tres bon accueil . 
+Le petit déjeuner est correct ..
+C’est la 2 eme fois que nous venons dans cet hôtel !",Chambre un peu petite,10,Hôtel,Paris," 8,1 "
+Dominique,France,0,2019-04-07,Très bon séjour dans un hôtel très propre et d’allure moderne. A recommander.,"Belle chambre propre. Décoration moderne. SDB impeccable. Lit comfortable. 
+Personnel agréable. Plutôt calme même si l’iso n’est pas parfaite comme dans la plupart des hôtels parisiens de ce type. 
+Très bonne surprise.",Chambre peut-être un peu petite une fois les s valises installées.,10,Hôtel,Paris," 8,1 "
+Florence,France,0,2019-03-29,Exceptionnel,Super accueil chambre propre bien équipée bien décorée calme très très bien je recommande,Chambre un peu petite,10,Hôtel,Paris," 8,1 "
+Annie,France,0,2019-03-18,Exceptionnel,"L'accueil du personnel .Merci à KAMEL de la réception, son collègue de nuit et à la personne qui s'occupait des petits déjeuners. Personnel très aimable et souriant .Très bon séjour à l'hôtel SOFT 
+.A refaire si nous revenons . Annie, Valérie et Nathalie .",None,10,Hôtel,Paris," 8,1 "
+Fific29,France,0,2019-03-04,Sejour Vip de rêve à un prix incroyable.,"L'accueil de Toufik, le delicat parfum dans la chambre (rarissime !). Chambre et salle de bain très spacieuses, déco classe et tendance, la multitude de chaînes . Tres calme. Rapport qualité prix sans équivalent....",Rien,10,Hôtel,Paris," 8,1 "
+Virginie90,Suisse,0,2019-02-27,Exceptionnel,"proximité des gares, calmes, personels adorables.",None,10,Hôtel,Paris," 8,1 "
+Cj,France,1,2019-02-23,"Belle découverte. Confort, calme, excellent rapport qualité-prix.","L'accueil très sympathique, la chambre très calme, le lit confortable, la proximité des gares et des restaurants.",Rien. Tout était parfait!,10,Hôtel,Paris," 8,1 "
+Comptine59,France,0,2019-02-18,Hôtel agréable et bien placé,"La déco de la chambre, le fait que l'on ai respecté notre demande de chambre au calme, l'accueil, la gentillesse du personnel","Le beurre périmé au petit dèj, et les traces douteuses sur les murs de la salle de bain. Le petit dej est très basique, on s'attendait à mieux au vu des photos sur booking, et pour un hôtel de cette catégorie. Le petit dej est très bien pour ceux qui aiment manger salé...","6,2",Hôtel,Paris," 8,1 "
+Tutur,France,0,2019-01-31,Je recommande SOFT,"Hôtel confortable
+J'envisage de revenir lors d'un prochain voyage à Paris.
+La proximité des gares et l'accès pratique et immédiat aux bus urbains",None,10,Hôtel,Paris," 8,1 "
+Mia,France,0,2019-01-23,Médiocre ,Hôtes très désagréable. Fuir...,Hôtes très désagréable. Fuir...,"2,9",Hôtel,Paris," 8,1 "
+Didou7937,France,0,2019-01-09,Agréable,"Chambre bruyante du à la proximité de l'ascenseur qui vibre lorsque quil fonctionne et de la ventilation de la salle de bain.
+Mauvais rapport qualité-prix du petit dejeuner","Chambre bruyante du à la proximité de l'ascenseur qui vibre lorsque quil fonctionne et de la ventilation de la salle de bain.
+Mauvais rapport qualité-prix du petit dejeuner","6,2",Hôtel,Paris," 8,1 "
+Benoit,France,0,2019-01-04,Bon pied à terre à Paris. Bon rapport qualité prix.,"Très bien. Personnel agréable. Chambre propre, confortable, bonne literie. Petit déjeuner fort correct.",Rien,10,Hôtel,Paris," 8,1 "
+Isabelle,Belgique,0,2018-12-27,Parfait pour un week-end !,"Petite chambre fonctionnelle. Salle de bains impeccable et douche de qualité. Personnel aimable. 
+Situation calme et à proximité du métro (5 à 6 minutes à pied). A recommander.",J'aurais préféré avoir une vraie salle à manger pour le petit-déjeuner plutôt que de manger dans le salon.,10,Hôtel,Paris," 8,1 "
+Pauline,France,1,2018-12-15,Exceptionnel,"L’accueil, la taille du lit, l’equipement de la salle de bain.",L’espace restant dans la chambre est limité mais ca n’est pas trop dérangeant,10,Hôtel,Paris," 8,1 "
+Anne,France,1,2018-12-09,Visite,Séjour détente agreable,None,10,Hôtel,Paris," 8,1 "
+Christine,France,0,2018-12-07,Decevant,Literie,Décoration taille de la chambre et de la salle de bain bruit de l ascenseur,"6,2",Hôtel,Paris," 8,1 "
+Marie-liesse,France,0,2018-11-23,Bonne situation. Personnel très agréable. Chambres confortables.,"Accueil très professionnel et chaleureux.
+Chambre très agréable, assez calme.
+Literie très confortable
+Bonne situation à proximité de la Gare de l'Est et du Canal Saint-Martin.",Un petit espace de rangement pour les affaires / valises...,10,Hôtel,Paris," 8,1 "
+Alex,France,0,2018-11-22,Assez médiocre ,l'emplacement,Chambre avec 3 lits séparé le troisieme lit etait un lit depliant ne pas mesurer plus de 1.80m sinon ca dépasse devant et derrière.,"3,3",Hôtel,Paris," 8,1 "
+Yoann,France,0,2018-11-12,Passable,La situation géographique de l'hotel. La propreté.,Chambre au RDC sans voilage aux fenetres donnant sur cours intérieure: obligé de vivre rideaux opaques fermés en permanence. Odeur nauséabonde dans les sanitaires. Bruits du personnel de ménage toute la journée. Literie de très mauvaise qualité.,"5,0",Hôtel,Paris," 8,1 "
+Pierre,Belgique,0,2018-11-05,Passable,"Chambre ridiculement petite. 
+120 euros c'est beaucoup.",La chambre.,"5,0",Hôtel,Paris," 8,1 "
+Valérie,France,1,2018-10-29,impéccable dans son ensemble!,"son accueil et sa déco. la proximité des restos, du lieu où nous devions nous rendre.",la vue sur un mùr!,10,Hôtel,Paris," 8,1 "
+Naouel67,France,1,2018-10-29,Top !,"Accueil au top comme d'habitude, merci à Ahmed.
+Outre la situation géographique de l'hôtel très pratique, l'accueil fait partie des raisons principales du choix de cet hôtel!",rien,10,Hôtel,Paris," 8,1 "
+Eric,France,1,2018-09-23,pratique c'est tout,"Accueil aimable, le petit déjeuner est très correct et effort louable à saluer. Salle du petit déjeuner au rez de chaussée et non en sous sol comme d'autres hôtels. Bien situé entre gare de l'est et l'hôpital Saint Louis proche du canal St-Martin, avec quelques restaurants dont la Taverne De Zhao en face que je vous recommande les yeux fermés.","L'isolation phonique quasi inexistante, la moquette dans la chambre et la vue en ouvrant la fenêtre. Une petite odeur dans la salle d'eau.","6,2",Hôtel,Paris," 8,1 "
+Emmanuel,France,0,2018-09-19,Parfait,Lit très confortable. Petit déjeuner copieux et personnel très accueillant ( merci toufik).,None,10,Hôtel,Paris," 8,1 "
+Pascal,France,0,2018-09-13,Agréable,le calme de la chambre et la proximité relative de la gare,le manque de clim,"6,2",Hôtel,Paris," 8,1 "
+Nicolas,France,0,2018-07-02,Agréable,chambre 1 personne un peu trop petite,chambre 1 personne un peu trop petite,"6,2",Hôtel,Paris," 8,1 "
+Hervé,Guadeloupe,0,2018-06-10,assez propre et pres de la gare,sans defaut flagrant mais vraiment minimum de cette categorie,sans defaut flagrant mais vraiment minimum de cette categorie,"5,4",Hôtel,Paris," 8,1 "
+Nordil,France,1,2018-06-02,Exceptionnel,Très belle hôtel accueil du personnel au top à votre écoute chambre très confortable avec tout le confort qui vas avec . Chambre côté court très calme vraiment un séjour très agréable je reviendrais l’or de ma prochaine visite . Bravo,Tout a été dit si dessus,10,Hôtel,Paris," 8,1 "
+Anonyme,France,0,2020-05-13,Très bon accueil et jolie chambre.,"L'accueil était très bien, chambre accessible avec ascenseur. Chambre bien équipée, douche spacieuse. Nous avons passé un très bon séjour.","Le lit était en fait deux lits rassemblés, ce qui étaient parfois gênant car assez mobile. Sinon tout était très bien.","8,0",Hôtel,Paris," 8,1 "
+Anonyme,France,0,2020-05-02,Bien ,"Très agréable accueil,personnel très avenant et disponible",Rien,"7,0",Hôtel,Paris," 8,1 "
+Anonyme,France,0,2020-03-09,Fabuleux ,"La propreté et la bonne odeur, ce qui est rare dans un 3* a paris !",Rien,"9,0",Hôtel,Paris," 8,1 "
+Anonyme,France,0,2019-11-24,Séjour très agréable,"Très bien placé, chambre correcte et propre, lit confortable, assez calme. Le personnel était également agréable et souriant, merci à Serge !",None,"9,6",Hôtel,Paris," 8,1 "
+Anonyme,France,0,2019-10-07,"hôtel agréable, bien disposé, rue relativement calme, personnel au top.","Accueil très agréable, personnel à l'écoute et disponible à toute heure, rend service de suite, merci.
+Chambre très propre, qui sentais bon, agréable.","chambre un peu petite, pas de prise près du lit.","9,0",Hôtel,Paris," 8,1 "
+Anonyme,France,0,2019-05-06,Très bon séjour,"L'emplacement dans Paris, la chambre bien isolée et bien équipée et l'accueil chaleureux.",L'hôtel était très bien. Peut être une literie un peu trop ferme à notre goût.,"9,6",Hôtel,Paris," 8,1 "
+Anonyme,France,0,2019-03-23,Très bien,"le café ! 
+la clim mobile dans la chambre","le café ! 
+la clim mobile dans la chambre","8,3",Hôtel,Paris," 8,1 "
+Anonyme,France,0,2018-11-26,Escale parisienne,"Hôtel très propre, personnel très agréable, bonne literie. Nous ne demandions pas plus pour cette petite escale parisienne.",Les chambres sont petites mais avec tout le confort nécessaire.,"8,3",Hôtel,Paris," 8,1 "
+Anonyme,France,0,2018-11-09,Une adresse pratique près de la Gare de l’Est,"Personnel souriant et agréable. Chambre simple mais calme. 
+Petit déjeuner simple mais assez complet et bon","Le ventilateur et la clim portable auraient pu enlevés, car la chambre était petite et cela aurait permis un gain de place.
+Manque cruel de prises","6,7",Hôtel,Paris," 8,1 "
+Anonyme,Belgique,0,2018-08-16,Très bien,Rapport qualité /prix et emplacement proche de la gare Est,Informations peu précises sur le parking et changement de chambre en dernière minute.,"8,3",Hôtel,Paris," 8,1 "
+Anonyme,France,0,2018-07-28,Bien ,L’accueil,Tout est bien,"7,9",Hôtel,Paris," 8,1 "
+Anonyme,France,0,2018-07-21,Bien ,"La gentillesse du personnel
+Le calme des chambres
+L'emplacement de l'hotel",Wifi un peu lent,"7,9",Hôtel,Paris," 8,1 "
+Anonyme,France,0,2020-05-11,Exceptionnel,"Très bon accueil, chambre impeccable et confortable
+Merci",None,10,Hôtel,Paris," 8,1 "
+Anonyme,France,0,2020-02-26,Je recommande,"Le personnel est super sympathique, l’hôtel est calme et très propre. Le petit dej super bon et complet 👍🏼 Merci à Amina qui nous a mis très à l’aise lors du petit déjeuner❤️",Tout s’est bien passé,10,Hôtel,Paris," 8,1 "
+Anonyme,France,0,2020-02-19,Adresse à conseiller,Emplacement excellent proche de la gare de l'Est,None,10,Hôtel,Paris," 8,1 "
+Anonyme,France,0,2019-07-06,Demander si la chambre est climatisée,L'accueil du personnel aux petits soins,Il n'est pas acceptable d'être un hôtel 3 étoiles et de ne pas voir des chambres climatisés. Le climatiseur proposé dans la chambre est relié à un gros tuyau qui doit être mis à la fenêtre ouverte donc au final le rafraîchissement est compliqué. Bref ce n'est pas la hauteur.,"6,2",Hôtel,Paris," 8,1 "
+Anonyme,Belgique,0,2018-09-17,Agréable,"L’accueil, l’amabilité et la réactivité du personnel.
+Avoir une baignoire (avec un bébé de 15 mois c’était plus facile).
+Le ventilateur mis à disposition
+Le calme de la chambre
+Proximité avec la gare du Nord","On était 3 (2 adultes et un bébé de 15 mois) mais à notre arrivée il n’y avait que des serviettes pour 2 (problème réglé directement après ma remarque)
+Pas de matelas dans le lit bébé!!! (Heureusement que j’avais le nôtre)
+Sèche cheveux en panne (problème réglé directement après ma remarque)
+Chambre un peu petite pour 3
+Ascenseur et couloirs très étroits","6,2",Hôtel,Paris," 8,1 "
+Eric,France,0,2020-05-25,Très bien,Ce client n'a pas laissé de commentaire.,None,"8,0",Hôtel,Paris," 8,1 "
+Aminata,France,0,2020-04-04,Très bien,Ce client n'a pas laissé de commentaire.,None,"8,0",Hôtel,Paris," 8,1 "
+Patricia,France,0,2020-03-15,Fabuleux ,Ce client n'a pas laissé de commentaire.,None,"9,2",Hôtel,Paris," 8,1 "
+François,France,0,2020-03-15,Très bel accueil. Serge a été très gentil avec nous malgré la situation difficile (coronavirus),Ce client n'a pas laissé de commentaire.,None,"8,0",Hôtel,Paris," 8,1 "
+Patrick,France,0,2020-03-04,Très bien,Ce client n'a pas laissé de commentaire.,None,"8,0",Hôtel,Paris," 8,1 "
+Patrick,France,0,2020-03-04,Très bien,Ce client n'a pas laissé de commentaire.,None,"8,0",Hôtel,Paris," 8,1 "
+Patrick,France,0,2020-03-04,Très bien,Ce client n'a pas laissé de commentaire.,None,"8,0",Hôtel,Paris," 8,1 "
+Julien,France,0,2020-02-26,Fabuleux ,Ce client n'a pas laissé de commentaire.,None,"9,0",Hôtel,Paris," 8,1 "
+Philippe,Belgique,0,2020-02-20,Très bien,Ce client n'a pas laissé de commentaire.,None,"8,0",Hôtel,Paris," 8,1 "
+Gianni,Belgique,0,2020-02-17,Exceptionnel,Ce client n'a pas laissé de commentaire.,None,"9,6",Hôtel,Paris," 8,1 "
+Corinne,France,0,2020-02-09,Très bien,Ce client n'a pas laissé de commentaire.,None,"8,0",Hôtel,Paris," 8,1 "
+Jeanrene,France,0,2020-02-07,Très bien,Ce client n'a pas laissé de commentaire.,None,"8,0",Hôtel,Paris," 8,1 "
+Francoise,Belgique,0,2020-02-04,Très bien,Ce client n'a pas laissé de commentaire.,None,"8,3",Hôtel,Paris," 8,1 "
+Stéphane,France,1,2020-02-02,Très bien,Ce client n'a pas laissé de commentaire.,None,"9,0",Hôtel,Paris," 8,1 "
+Gerard,France,0,2020-01-28,Très bien,Ce client n'a pas laissé de commentaire.,None,"8,0",Hôtel,Paris," 8,1 "
+Caroline,France,0,2020-01-26,Bien ,Ce client n'a pas laissé de commentaire.,None,"7,5",Hôtel,Paris," 8,1 "
+Philippe,France,0,2020-01-15,Superbe,Ce client n'a pas laissé de commentaire.,None,"8,8",Hôtel,Paris," 8,1 "
+Jacques,France,1,2020-01-14,Passage eclair,Ce client n'a pas laissé de commentaire.,None,"8,0",Hôtel,Paris," 8,1 "
+Isabelle,France,0,2020-01-10,Très bien,Ce client n'a pas laissé de commentaire.,None,"8,0",Hôtel,Paris," 8,1 "
+Denis,États-Unis,0,2020-01-05,Fabuleux ,Ce client n'a pas laissé de commentaire.,None,"9,0",Hôtel,Paris," 8,1 "
+Leblond,France,0,2019-12-06,Superbe,Ce client n'a pas laissé de commentaire.,None,"8,8",Hôtel,Paris," 8,1 "
+Omar,Émirats arabes unis,0,2019-11-28,Bien ,Ce client n'a pas laissé de commentaire.,None,"7,5",Hôtel,Paris," 8,1 "
+Johann,France,0,2019-11-11,Exceptionnel,Ce client n'a pas laissé de commentaire.,None,"9,6",Hôtel,Paris," 8,1 "
+Jonathantheet,France,0,2019-11-01,Bien ,Ce client n'a pas laissé de commentaire.,None,"7,9",Hôtel,Paris," 8,1 "
+Jean,France,0,2019-10-30,Bien ,Ce client n'a pas laissé de commentaire.,None,"7,5",Hôtel,Paris," 8,1 "
+Soizic,France,0,2019-10-28,Exceptionnel,Ce client n'a pas laissé de commentaire.,None,"9,6",Hôtel,Paris," 8,1 "
+Laure,France,0,2019-10-19,Très bien,Ce client n'a pas laissé de commentaire.,None,"8,3",Hôtel,Paris," 8,1 "
+Lisiane,France,1,2019-10-19,Bien ,Ce client n'a pas laissé de commentaire.,None,"7,9",Hôtel,Paris," 8,1 "
+Sophie,République tchèque,0,2019-10-14,Très bien,Ce client n'a pas laissé de commentaire.,None,"8,3",Hôtel,Paris," 8,1 "
+Christophe,France,0,2019-10-12,Bien ,Ce client n'a pas laissé de commentaire.,None,"7,5",Hôtel,Paris," 8,1 "
+Wendy,Guadeloupe,0,2019-10-03,Bien ,Ce client n'a pas laissé de commentaire.,None,"7,5",Hôtel,Paris," 8,1 "
+Marie-laure,France,0,2019-09-24,Très bien,Ce client n'a pas laissé de commentaire.,None,"8,3",Hôtel,Paris," 8,1 "
+Clejeune,Belgique,0,2019-09-22,"Hotel propre, fonctionnel et bien situé",Ce client n'a pas laissé de commentaire.,None,"8,8",Hôtel,Paris," 8,1 "
+Marie,France,0,2019-09-22,Bien ,Ce client n'a pas laissé de commentaire.,None,"7,9",Hôtel,Paris," 8,1 "
+Myriam,France,0,2019-08-29,Fabuleux ,Ce client n'a pas laissé de commentaire.,None,"9,2",Hôtel,Paris," 8,1 "
+Andy,France,0,2019-07-15,Fabuleux ,Ce client n'a pas laissé de commentaire.,None,"9,2",Hôtel,Paris," 8,1 "
+Antoine,France,0,2019-07-11,Bien ,Ce client n'a pas laissé de commentaire.,None,"7,9",Hôtel,Paris," 8,1 "
+Thomas,France,0,2019-06-28,Très bien,Ce client n'a pas laissé de commentaire.,None,"8,3",Hôtel,Paris," 8,1 "
+Jean-philippe,France,0,2019-06-23,Très bien,Ce client n'a pas laissé de commentaire.,None,"8,3",Hôtel,Paris," 8,1 "
+Romain,France,0,2019-06-11,Bien ,Ce client n'a pas laissé de commentaire.,None,"7,5",Hôtel,Paris," 8,1 "
+Laurence,France,0,2019-06-03,Superbe,Ce client n'a pas laissé de commentaire.,None,"8,8",Hôtel,Paris," 8,1 "
+Julien,Suisse,0,2019-05-30,Superbe,Ce client n'a pas laissé de commentaire.,None,"8,8",Hôtel,Paris," 8,1 "
+Julien,France,0,2019-05-27,Bien ,Ce client n'a pas laissé de commentaire.,None,"7,5",Hôtel,Paris," 8,1 "
+Adminsitration,France,0,2019-05-15,Très bien,Ce client n'a pas laissé de commentaire.,None,"8,3",Hôtel,Paris," 8,1 "
+Philippe,France,0,2019-05-07,Agréable,Ce client n'a pas laissé de commentaire.,None,"6,7",Hôtel,Paris," 8,1 "
+Eliane,France,0,2019-04-17,Fabuleux ,Ce client n'a pas laissé de commentaire.,None,"9,2",Hôtel,Paris," 8,1 "
+Wonderfulight,France,0,2019-04-16,Bien ,Ce client n'a pas laissé de commentaire.,None,"7,9",Hôtel,Paris," 8,1 "
+Michel,France,0,2019-04-01,Superbe,Ce client n'a pas laissé de commentaire.,None,"8,8",Hôtel,Paris," 8,1 "
+Hervé,France,0,2019-03-25,Bien ,Ce client n'a pas laissé de commentaire.,None,"7,9",Hôtel,Paris," 8,1 "
+Juif,France,0,2019-03-17,Fabuleux ,Ce client n'a pas laissé de commentaire.,None,"9,2",Hôtel,Paris," 8,1 "
+Wijnand,Suisse,0,2019-03-14,Bien ,Ce client n'a pas laissé de commentaire.,None,"7,5",Hôtel,Paris," 8,1 "
+Catherine,France,0,2019-03-02,Bien ,Ce client n'a pas laissé de commentaire.,None,"7,5",Hôtel,Paris," 8,1 "
+Nabil,France,0,2019-02-24,Agréable,Ce client n'a pas laissé de commentaire.,None,"6,7",Hôtel,Paris," 8,1 "
+Benedicte,France,0,2019-02-23,Fabuleux ,Ce client n'a pas laissé de commentaire.,None,"9,0",Hôtel,Paris," 8,1 "
+Benoit,France,0,2019-02-22,Bien ,Ce client n'a pas laissé de commentaire.,None,"7,9",Hôtel,Paris," 8,1 "
+Monsieur,France,0,2019-02-18,Bien ,Ce client n'a pas laissé de commentaire.,None,"7,1",Hôtel,Paris," 8,1 "
+Thibaut,France,0,2019-02-08,Bien ,Ce client n'a pas laissé de commentaire.,None,"7,9",Hôtel,Paris," 8,1 "
+Laurent,France,0,2019-02-01,Fabuleux ,Ce client n'a pas laissé de commentaire.,None,"9,2",Hôtel,Paris," 8,1 "
+Christophe,France,0,2019-01-31,Superbe,Ce client n'a pas laissé de commentaire.,None,"8,8",Hôtel,Paris," 8,1 "
+Pierre-yves,France,0,2019-01-31,Superbe,Ce client n'a pas laissé de commentaire.,None,"8,8",Hôtel,Paris," 8,1 "
+Emmanuelle,France,0,2019-01-30,Superbe,Ce client n'a pas laissé de commentaire.,None,"8,8",Hôtel,Paris," 8,1 "
+Didier,France,0,2019-01-25,A la hauteur de mon attente,Ce client n'a pas laissé de commentaire.,None,"8,8",Hôtel,Paris," 8,1 "
+Martin,France,0,2019-01-17,Bien ,Ce client n'a pas laissé de commentaire.,None,"7,5",Hôtel,Paris," 8,1 "
+Lamia,Maroc,0,2019-01-16,Superbe,Ce client n'a pas laissé de commentaire.,None,"8,8",Hôtel,Paris," 8,1 "
+Bertrand,France,0,2019-01-13,Fabuleux ,Ce client n'a pas laissé de commentaire.,None,"9,2",Hôtel,Paris," 8,1 "
+Bryan,France,0,2019-01-10,Bien ,Ce client n'a pas laissé de commentaire.,None,"7,1",Hôtel,Paris," 8,1 "
+Didier,France,0,2019-01-07,Bien ,Ce client n'a pas laissé de commentaire.,None,"7,5",Hôtel,Paris," 8,1 "
+Nicolas,France,0,2019-01-02,Bien ,Ce client n'a pas laissé de commentaire.,None,"7,9",Hôtel,Paris," 8,1 "
+Jean-paul,France,0,2018-12-29,Bien ,Ce client n'a pas laissé de commentaire.,None,"7,5",Hôtel,Paris," 8,1 "
+Thierry,France,0,2018-12-28,Très bien,Ce client n'a pas laissé de commentaire.,None,"8,3",Hôtel,Paris," 8,1 "
+Marc,France,0,2018-12-18,Exceptionnel,Ce client n'a pas laissé de commentaire.,None,"9,6",Hôtel,Paris," 8,1 "
+Aurélie,France,0,2018-12-16,Bien ,Ce client n'a pas laissé de commentaire.,None,"7,5",Hôtel,Paris," 8,1 "
+Francois,États-Unis,0,2018-12-01,Fabuleux ,Ce client n'a pas laissé de commentaire.,None,"9,2",Hôtel,Paris," 8,1 "
+Gerald,France,0,2018-11-18,Bien ,Ce client n'a pas laissé de commentaire.,None,"7,1",Hôtel,Paris," 8,1 "
+Brigitte,France,0,2018-11-06,Exceptionnel,Ce client n'a pas laissé de commentaire.,None,"9,6",Hôtel,Paris," 8,1 "
+Angélina,France,0,2018-11-04,Fabuleux ,Ce client n'a pas laissé de commentaire.,None,"9,2",Hôtel,Paris," 8,1 "
+Psabau,France,0,2018-10-05,Bien ,Ce client n'a pas laissé de commentaire.,None,"7,5",Hôtel,Paris," 8,1 "
+Jean-marie,Mayotte,0,2018-09-27,Bien ,Ce client n'a pas laissé de commentaire.,None,"7,5",Hôtel,Paris," 8,1 "
+Adam,France,0,2018-09-25,Bien ,Ce client n'a pas laissé de commentaire.,None,"7,5",Hôtel,Paris," 8,1 "
+Michèle,France,0,2018-09-23,Bien ,Ce client n'a pas laissé de commentaire.,None,"7,9",Hôtel,Paris," 8,1 "
+Hélène,France,0,2018-09-13,Bien ,Ce client n'a pas laissé de commentaire.,None,"7,9",Hôtel,Paris," 8,1 "
+Nicholas,France,0,2018-09-04,Bien ,Ce client n'a pas laissé de commentaire.,None,"7,5",Hôtel,Paris," 8,1 "
+Fabienne,Belgique,0,2018-09-03,"Très beau petit hôtel, calme, bien situé, à proximité du canal saint Martin. Personnel très accueill",Ce client n'a pas laissé de commentaire.,None,"8,8",Hôtel,Paris," 8,1 "
+Carole,France,0,2018-08-26,Exceptionnel,Ce client n'a pas laissé de commentaire.,None,"9,6",Hôtel,Paris," 8,1 "
+Mathieu,France,0,2018-07-27,Bien ,Ce client n'a pas laissé de commentaire.,None,"7,5",Hôtel,Paris," 8,1 "
+Jj,Belgique,0,2018-07-26,Superbe,Ce client n'a pas laissé de commentaire.,None,"8,8",Hôtel,Paris," 8,1 "
+Anthony,France,0,2018-07-24,Bien ,Ce client n'a pas laissé de commentaire.,None,"7,1",Hôtel,Paris," 8,1 "
+Marina,France,0,2018-07-24,Bien ,Ce client n'a pas laissé de commentaire.,None,"7,9",Hôtel,Paris," 8,1 "
+Virginie,France,0,2018-07-22,Exceptionnel,Ce client n'a pas laissé de commentaire.,None,"9,6",Hôtel,Paris," 8,1 "
+Xavier,France,0,2018-07-18,Agréable,Ce client n'a pas laissé de commentaire.,None,"6,7",Hôtel,Paris," 8,1 "
+Cyrille,France,0,2018-07-17,Superbe,Ce client n'a pas laissé de commentaire.,None,"8,8",Hôtel,Paris," 8,1 "
+Eric,France,0,2018-06-29,Bien ,Ce client n'a pas laissé de commentaire.,None,"7,1",Hôtel,Paris," 8,1 "
+Pascal,France,0,2018-06-22,Très bien,Ce client n'a pas laissé de commentaire.,None,"8,3",Hôtel,Paris," 8,1 "
+Lajeurd,France,0,2018-06-21,Bien ,Ce client n'a pas laissé de commentaire.,None,"7,5",Hôtel,Paris," 8,1 "
+Jeff,France,0,2018-06-06,Bien ,Ce client n'a pas laissé de commentaire.,None,"7,5",Hôtel,Paris," 8,1 "
+Julie,France,0,2018-06-01,Tres bien,Ce client n'a pas laissé de commentaire.,None,"9,2",Hôtel,Paris," 8,1 "
+Renaud,France,0,2020-05-21,Passable,Ce client n'a pas laissé de commentaire.,None,"5,0",Hôtel,Paris," 8,1 "
+Emilie,France,0,2020-03-14,Exceptionnel,Ce client n'a pas laissé de commentaire.,None,10,Hôtel,Paris," 8,1 "
+Mondher,France,0,2020-03-13,Exceptionnel,Ce client n'a pas laissé de commentaire.,None,10,Hôtel,Paris," 8,1 "
+Marie-pascale,France,0,2020-02-17,Exceptionnel,Ce client n'a pas laissé de commentaire.,None,10,Hôtel,Paris," 8,1 "
+Patrick,France,0,2020-01-08,Agréable,Ce client n'a pas laissé de commentaire.,None,"6,0",Hôtel,Paris," 8,1 "
+Hassan,Maroc,0,2019-12-17,Passable,Ce client n'a pas laissé de commentaire.,None,"5,4",Hôtel,Paris," 8,1 "
+Guillaume,France,0,2019-12-04,Agréable,Ce client n'a pas laissé de commentaire.,None,"6,2",Hôtel,Paris," 8,1 "
+Camille,Suisse,0,2019-10-22,Passable,Ce client n'a pas laissé de commentaire.,None,"5,0",Hôtel,Paris," 8,1 "
+Christopher,France,0,2019-10-22,Agréable,Ce client n'a pas laissé de commentaire.,None,"6,0",Hôtel,Paris," 8,1 "
+Michel,France,0,2019-09-24,Exceptionnel,Ce client n'a pas laissé de commentaire.,None,10,Hôtel,Paris," 8,1 "
+Karim,France,0,2019-09-07,Exceptionnel,Ce client n'a pas laissé de commentaire.,None,10,Hôtel,Paris," 8,1 "
+Herve,France,0,2019-09-05,Passable,Ce client n'a pas laissé de commentaire.,None,"5,0",Hôtel,Paris," 8,1 "
+Julien,France,0,2019-08-16,Exceptionnel,Ce client n'a pas laissé de commentaire.,None,10,Hôtel,Paris," 8,1 "
+Ahmed,Maroc,0,2019-08-05,Exceptionnel,Ce client n'a pas laissé de commentaire.,None,10,Hôtel,Paris," 8,1 "
+Julien,France,0,2019-07-04,Passable,Ce client n'a pas laissé de commentaire.,None,"5,4",Hôtel,Paris," 8,1 "
+Virgile,France,0,2019-07-02,Situation idéale avec un excellent rapport qualité / prix.,Ce client n'a pas laissé de commentaire.,None,10,Hôtel,Paris," 8,1 "
+Martine,France,0,2019-06-30,Je recommande vivement cet hôtel pour son rapport qualité/prix,Ce client n'a pas laissé de commentaire.,None,10,Hôtel,Paris," 8,1 "
+Jocelyne,France,0,2019-05-20,Passable,Ce client n'a pas laissé de commentaire.,None,"5,4",Hôtel,Paris," 8,1 "
+Stephane,France,0,2019-05-16,Agréable,Ce client n'a pas laissé de commentaire.,None,"6,2",Hôtel,Paris," 8,1 "
+Pierre,Indonésie,0,2019-04-23,Passable,Ce client n'a pas laissé de commentaire.,None,"5,4",Hôtel,Paris," 8,1 "
+Anthony,France,0,2019-04-12,Exceptionnel,Ce client n'a pas laissé de commentaire.,None,10,Hôtel,Paris," 8,1 "
+Marie,France,0,2019-04-11,Bon sejour,Ce client n'a pas laissé de commentaire.,None,"6,2",Hôtel,Paris," 8,1 "
+Virginie90,Suisse,0,2019-03-01,Exceptionnel,Ce client n'a pas laissé de commentaire.,None,10,Hôtel,Paris," 8,1 "
+Anne-marie,France,0,2019-02-25,Exceptionnel,Ce client n'a pas laissé de commentaire.,None,10,Hôtel,Paris," 8,1 "
+Francis,Côte-d'Ivoire,0,2019-02-12,Agréable,Ce client n'a pas laissé de commentaire.,None,"6,2",Hôtel,Paris," 8,1 "
+Soirée,France,0,2019-01-23,Exceptionnel,Ce client n'a pas laissé de commentaire.,None,10,Hôtel,Paris," 8,1 "
+Alain,France,0,2019-01-17,Passable,Ce client n'a pas laissé de commentaire.,None,"5,0",Hôtel,Paris," 8,1 "
+Sandra,France,0,2019-01-15,Exceptionnel,Ce client n'a pas laissé de commentaire.,None,10,Hôtel,Paris," 8,1 "
+Stéphanie,France,0,2019-01-13,Exceptionnel,Ce client n'a pas laissé de commentaire.,None,10,Hôtel,Paris," 8,1 "
+Georges,France,0,2018-12-10,Exceptionnel,Ce client n'a pas laissé de commentaire.,None,10,Hôtel,Paris," 8,1 "
+Francois,France,0,2018-12-03,Exceptionnel,Ce client n'a pas laissé de commentaire.,None,10,Hôtel,Paris," 8,1 "
+Martine,France,0,2018-09-10,Exceptionnel,Ce client n'a pas laissé de commentaire.,None,10,Hôtel,Paris," 8,1 "
+Philippe,France,0,2018-07-31,Agréable,Ce client n'a pas laissé de commentaire.,None,"6,2",Hôtel,Paris," 8,1 "
+Myriam,France,0,2018-07-27,Exceptionnel,Ce client n'a pas laissé de commentaire.,None,10,Hôtel,Paris," 8,1 "
+Laetitia,France,0,2018-07-27,Exceptionnel,Ce client n'a pas laissé de commentaire.,None,10,Hôtel,Paris," 8,1 "
+Fabienne,France,0,2018-06-17,Exceptionnel,Ce client n'a pas laissé de commentaire.,None,10,Hôtel,Paris," 8,1 "
+Anonyme,France,0,2020-03-01,Superbe,Ce client n'a pas laissé de commentaire.,None,"8,8",Hôtel,Paris," 8,1 "
+Anonyme,France,0,2019-11-29,Superbe,Ce client n'a pas laissé de commentaire.,None,"8,8",Hôtel,Paris," 8,1 "
+Anonyme,France,0,2019-10-27,Bien ,Ce client n'a pas laissé de commentaire.,None,"7,5",Hôtel,Paris," 8,1 "
+Anonyme,Luxembourg,0,2019-09-14,Exceptionnel,Ce client n'a pas laissé de commentaire.,None,"9,6",Hôtel,Paris," 8,1 "
+Anonyme,France,0,2019-07-22,Bien ,Ce client n'a pas laissé de commentaire.,None,"7,9",Hôtel,Paris," 8,1 "
+Anonyme,France,0,2019-07-07,Très bien,Ce client n'a pas laissé de commentaire.,None,"8,3",Hôtel,Paris," 8,1 "
+Anonyme,France,0,2019-03-08,Bien ,Ce client n'a pas laissé de commentaire.,None,"7,5",Hôtel,Paris," 8,1 "
+Anonyme,France,0,2019-02-10,Superbe,Ce client n'a pas laissé de commentaire.,None,"8,8",Hôtel,Paris," 8,1 "
+Anonyme,France,0,2018-10-31,Agréable,Ce client n'a pas laissé de commentaire.,None,"6,7",Hôtel,Paris," 8,1 "
+Anonyme,France,0,2018-07-22,Agréable,Ce client n'a pas laissé de commentaire.,None,"6,7",Hôtel,Paris," 8,1 "
+Anonyme,France,0,2020-03-05,Passable,Ce client n'a pas laissé de commentaire.,None,"5,0",Hôtel,Paris," 8,1 "
+Anonyme,France,0,2020-01-11,Exceptionnel,Ce client n'a pas laissé de commentaire.,None,10,Hôtel,Paris," 8,1 "
+Anonyme,France,0,2018-10-28,Agréable,Ce client n'a pas laissé de commentaire.,None,"6,2",Hôtel,Paris," 8,1 "
+Anonyme,Belgique,0,2018-07-29,Agréable,Ce client n'a pas laissé de commentaire.,None,"6,2",Hôtel,Paris," 8,1 "
