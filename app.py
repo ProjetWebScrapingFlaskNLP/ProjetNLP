@@ -5,51 +5,11 @@ from sklearn.feature_extraction.text import TfidfTransformer, CountVectorizer
 from sklearn.pipeline import make_pipeline
 import pandas as pd
 import numpy as np
-import os
 
 
-app = Flask(__name__)
+app = Flask(__name__)  
 
-
-@app.route('/')
-def index(prestations=None, titre=None, desc=None):
-    prestations = [
-        {
-            'icon': 'fa-home',
-            'desc': '20 villas',
-        },
-        {
-            'icon': 'fa-cutlery',
-            'desc': '4 restaurants gastronomiques',
-        },
-        {
-            'icon': 'fa-plane',
-            'desc': 'Tours en hélicoptère',
-        }
-    ]
-
-    description_hotel = "Vous venez d'ouvrir un hôtel. Comme vous n'êtes pas sûr de la qualité de votre établissement, vous permettez aux personnes de poster des commentaires mais pas de mettre de note. Cependant, vous voulez quand même déterminer si le commentaire est positif ou négatif. Pour cela, vous allez scrapper des commentaires sur booking et leur note associée afin de faire tourner un algorithme de classification pour faire des prédictions sur vos propres commentaires."
-    return render_template('livredor2.html', prestations=prestations, titre='Projet NLP', desc=description_hotel)
-
-@app.route('/create_comment', methods=['POST'])
-def create_comment(titre=None, parts=None, objectif=None, variables=None):
-    nom = "Anonyme"
-
-    if request.form['nom_user']:
-        nom = request.form['nom_user']
-
-    comment = request.form['comment']
-
-    # predict if comment is positive or negative
-    result = predict_comment(comment)
-
-    # save results in JSON for future usage
-    titre = "Prediction"
-
-    return render_template('result.html', titre=titre, result=result) 
-
-
-def predict_comment(comment):
+def fit_model():
     df = pd.read_csv('static/data/dataset.csv')
     
     # split data
@@ -68,6 +28,11 @@ def predict_comment(comment):
     score_train = clf.score(feat_train, y_train)
     score_test = clf.score(feat_test, y_test)
 
+    print(score_train, score_test)
+
+    return clf, pipe
+
+def predict_comment(comment, clf, pipe): 
     # predict
     feat_comment = pipe.transform([comment])
     
@@ -75,10 +40,72 @@ def predict_comment(comment):
 
     if clf.predict(feat_comment):
         predict = "Positif"
-        
-    print(score_train, score_test)
 
     return predict
+
+def save_comment(new_comment, df):
+    df.loc[len(df.index)] = new_comment
+    df.to_csv('static/data/comments.csv') 
+
+clf, pipe = fit_model()
+
+@app.route('/')
+def index(prestations=None, titre=None, desc=None, comments=None):
+    # get prestations of simplon hotel
+    prestations = [
+        {
+            'icon': 'fa-home',
+            'desc': '20 villas',
+        },
+        {
+            'icon': 'fa-cutlery',
+            'desc': '4 restaurants gastronomiques',
+        },
+        {
+            'icon': 'fa-plane',
+            'desc': 'Tours en hélicoptère',
+        }
+    ]
+
+    # read the database to fetch comments
+    df_comments = pd.read_csv('static/data/comments.csv', index_col='Unnamed: 0')
+
+    # we want to fead the latest comments first
+    comments = df_comments.values[::-1]  
+
+    description_hotel = "Vous venez d'ouvrir un hôtel. \
+    Comme vous n'êtes pas sûr de la qualité de votre établissement, \
+    vous permettez aux personnes de poster des commentaires mais pas de mettre de note. \
+    Cependant, vous voulez quand même déterminer si le commentaire est positif ou négatif. \
+    Pour cela, vous allez scrapper des commentaires sur booking et leur note associée afin de \
+    faire tourner un algorithme de classification pour faire des prédictions sur vos propres commentaires."
+    titre = 'Projet NLP - Nohossat, Valérie, Williams'
+
+    return render_template('home.html', 
+                            prestations=prestations, 
+                            titre= titre, 
+                            desc=description_hotel, 
+                            comments=comments) 
+
+
+@app.route('/create_comment', methods=['POST'])
+def create_comment(titre=None, parts=None, objectif=None, variables=None, clf=clf, pipe=pipe):
+    
+    nom = "Anonyme"
+    if request.form['nom_user']:
+        nom = request.form['nom_user']
+
+    comment = request.form['comment']
+
+    # predict if comment is positive or negative
+    result = predict_comment(comment, clf, pipe)
+
+    # save to database
+    df_comments = pd.read_csv('static/data/comments.csv', index_col='Unnamed: 0')
+    save_comment([nom, comment, result], df_comments)
+
+    # refresh homepage and go straight to the comments section
+    return redirect(url_for('index') + '#comments') 
 
 if __name__ == '__main__':
     app.run(debug=True)

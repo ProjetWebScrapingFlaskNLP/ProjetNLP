@@ -1,4 +1,14 @@
 $(function() {
+
+     // *only* if we have anchor on the url
+     if(window.location.hash) {
+
+        // smooth scroll to the anchor id
+        $('html, body').animate({
+            scrollTop: $(window.location.hash).offset().top + 'px'
+        }, 1000, 'swing');
+    }
+    
     var saveComment = function(data) {
 
         // Convert pings to human readable format
@@ -10,6 +20,7 @@ $(function() {
 
         return data;
     }
+    
     $('#comments-container').comments({
         profilePictureURL: 'https://viima-app.s3.amazonaws.com/media/public/defaults/user-icon.png',
         currentUserId: 1,
