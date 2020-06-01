@@ -4,10 +4,10 @@ from sklearn.model_selection import train_test_split
 from sklearn.feature_extraction.text import TfidfTransformer, CountVectorizer
 from sklearn.pipeline import make_pipeline
 import pandas as pd
-import numpy as np
+import numpy as np 
+ 
 
-
-app = Flask(__name__)  
+app = Flask(__name__)   
 
 def fit_model():
     df = pd.read_csv('static/data/dataset.csv')
@@ -32,11 +32,11 @@ def fit_model():
 
     return clf, pipe
 
-def predict_comment(comment, clf, pipe): 
-    # predict
+def predict_comment(comment, clf, pipe):  
+    # predict 
     feat_comment = pipe.transform([comment])
     
-    predict = "Négatif"
+    predict = "Négatif" 
 
     if clf.predict(feat_comment):
         predict = "Positif"
@@ -46,24 +46,28 @@ def predict_comment(comment, clf, pipe):
 def save_comment(new_comment, df):
     df.loc[len(df.index)] = new_comment
     df.to_csv('static/data/comments.csv') 
-
-clf, pipe = fit_model()
+ 
+clf, pipe = fit_model() 
 
 @app.route('/')
 def index(prestations=None, titre=None, desc=None, comments=None):
     # get prestations of simplon hotel
-    prestations = [
+    prestations = [    
         {
-            'icon': 'fa-home',
+            'icon': 'fa fa-home', 
             'desc': '20 villas',
         },
         {
-            'icon': 'fa-cutlery',
-            'desc': '4 restaurants gastronomiques',
+            'icon': 'fa fa-cutlery',
+            'desc': 'Restaurant gastronomique',
         },
         {
-            'icon': 'fa-plane',
-            'desc': 'Tours en hélicoptère',
+            'icon': 'fas fa-umbrella-beach',
+            'desc': 'Plage privée',
+        },
+        {
+            'icon': 'fas fa-spa',
+            'desc': 'Spa services'
         }
     ]
 

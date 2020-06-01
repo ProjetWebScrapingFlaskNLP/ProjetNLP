@@ -2,12 +2,12 @@
 
 $dark_violet: #2D2327;
 $violet : #45364B;
-$beige: #CCB69B;
 $red: #AF1B3F;
-$orange : #EFC69B;
 $purple: #776274;
 $copper_rose : #A07178;
 $grey: #C5C8D3;
+$green: #62929E;
+$dark-green: #496F5D;
 
 
 // HEADER
@@ -38,37 +38,50 @@ $grey: #C5C8D3;
 
     .hotel-title {
         width: 100%;
-        padding-left: 150px;
+        padding-left: 3em;
 
         h1 {
-            font-size :4em;
+            font-size : 3em;
             color: $dark_violet;
             font-family: 'Poppins', sans-serif;
         }
     }
+
+    @media screen and (min-width:981px){
+        .hotel-title {
+            padding-left: 150px;
+    
+            h1 {
+                font-size :4em;
+            }
+        }
+    }
+}
+
+.description, .prestations, .avis {
+    width: 85%;
+    max-width: 1000px;
+    text-align: justify;
+    margin: auto;
+    padding: 5em 0em 0em 0em;
 }
 
 .description {
-    width: 1000px;
-    text-align: justify;
-    margin: auto;
-    padding: 5em 0em;
-
     h2 {
         text-align: center;
         margin-bottom:1em;
     }
 
     p {
-        width: 700px;
+        width: 100%;
+        max-width: 700px;
         margin: auto;
     }
 }
 
-.prestations {
-    width: 1000px;
-    margin: auto;
 
+
+.prestations {
     h3 {
         margin-bottom: 1.5em;
         text-align: center;
@@ -81,71 +94,111 @@ $grey: #C5C8D3;
         justify-content: center;
 
         .prestation {
-            width: 30%;
+            width: 50%;
             text-align: center;
+            margin-bottom: 2em;
 
             i {
-                font-size: 4em;
-                color: $purple;
+                font-size: 3.5em;
+                margin-bottom: 15px;
+                color: $green;
+            }
+        }
+
+        @media screen and (min-width:981px){
+            .prestation {
+                width: 25%;
+
+                i {
+                    font-size: 4em;
+                }
             }
         }
     }
 }
 
 .avis {
-    width: 1000px;
-    text-align: justify;
-    margin: auto;
-    padding: 5em 0em;
-
     .form {
         margin-top: 2em;
     }
-}
 
-.s-btn {
-    background-color: $dark_violet;
-    border: $dark_violet;
-    -webkit-transition: background-color .5s;
-    -o-transition: background-color .5s;
-    transition: background-color .5s;
-
-    &:hover {
-        background-color : $violet;
-    }
-}
-
-#comments {
-    padding-top: 4em;
-
-    .comment-item {
-        display: flex;
-        flex-wrap: wrap;
-        align-items: center;
-        padding: 2em;
-        border-bottom: 1px solid $grey;
+    .s-btn {
+        background-color: $dark_violet;
+        border: $dark_violet;
+        -webkit-transition: background-color .5s;
+        -o-transition: background-color .5s;
+        transition: background-color .5s;
+    
+        &:hover {
+            background-color : $violet;
+        }
     }
 
-    .comment_username {
-        font-weight: bold;
-        margin-bottom: 0.3em;
-        color: $purple;
-    }
+    #comments {
+        padding-top: 4em;
 
-    .comment_text {
-        width: 80%;
-    }
+        .comment-title {
+            text-align: left;
+        }
+    
+        .comment-item {
+            display: flex;
+            flex-wrap: wrap;
+            align-items: center;
+            padding: 2em 0em;
+        }
 
-    .comment_polarity.positive {
-        font-weight: bold;
-    } 
+        @media screen and (min-width:768px){
+            .comment-item {
+                padding: 2em;
+            }
+        }
 
-    .comment-separator {
-        width: 2px;
-        background-color: $copper_rose;
-        height: 70px;
-        margin: 0 2em;
-        transform: skewX(-20deg);
+        .comment-item:not(:last-child) {
+            border-bottom: 1px solid $grey;
+        }
+    
+        .comment_username {
+            font-weight: bold;
+            margin-bottom: 0.3em;
+            color: $purple;
+        }
+    
+        .comment_text {
+            width: 100%;
+            margin-bottom: 1.2em;
+        }
+
+        @media screen and (min-width:768px){
+            .comment_text {
+                width: 80%;
+            }
+        }
+    
+        .comment_polarity.positive {
+            font-weight: bold;
+        } 
+
+        .comment_polarity.negative {
+            color: $red;
+        } 
+    
+        .comment-separator {
+            width: 2px;
+            background-color: $copper_rose;
+            height: 70px;
+            margin: 0 2em;
+            -webkit-transform: skewX(-20deg); 
+            -ms-transform: skewX(-20deg); 
+            transform: skewX(-20deg);
+            display: none;
+        }
+
+        @media screen and (min-width:768px){
+            .comment-separator {
+                display: block;
+            }
+        }
     }
 }
 

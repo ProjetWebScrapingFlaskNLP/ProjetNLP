@@ -26,7 +26,7 @@
     <div class="prestations_list">
         {% for prestation in prestations %}
         <div class="prestation">
-            <i class="fa {{ prestation.icon }}"></i>
+            <i class="{{ prestation.icon }}"></i>
             <p> {{ prestation.desc }}</p>
         </div>
     {% endfor %}
@@ -50,7 +50,7 @@
     </form> 
 
       <div id="comments">
-          <h4 class="comments-title"> Commentaires de nos clients précédents </h4>
+          <h4 class="comment-title"> Commentaires de nos clients précédents </h4>
           {% for comment in comments %}
         <div class="comment-item">
             <div class="comment_text">
@@ -58,7 +58,7 @@
                 <div class="comment_paragraph">{{ comment[1] }}</div>
             </div>
             <div class="comment-separator"></div> 
-            <div class="comment_polarity {{ 'positive' if comment[2] == 'Positif' else '' }}">{{ comment[2] }}</div>
+            <div class="comment_polarity {{ 'positive' if comment[2] == 'Positif' else 'negative' }}">{{ comment[2] }}</div>
         </div>
         {% endfor %}
       </div>
