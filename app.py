@@ -77,6 +77,9 @@ def index(prestations=None, titre=None, desc=None, comments=None):
     # we want to fead the latest comments first
     comments = df_comments.values[::-1]  
 
+    #nb_comments in database
+    nb_comments = len(df_comments.index)
+
     description_hotel = "Vous venez d'ouvrir un hôtel. \
     Comme vous n'êtes pas sûr de la qualité de votre établissement, \
     vous permettez aux personnes de poster des commentaires mais pas de mettre de note. \
@@ -89,7 +92,8 @@ def index(prestations=None, titre=None, desc=None, comments=None):
                             prestations=prestations, 
                             titre= titre, 
                             desc=description_hotel, 
-                            comments=comments) 
+                            comments=comments,
+                            nb_comments = nb_comments) 
 
 
 @app.route('/create_comment', methods=['POST'])
