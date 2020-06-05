@@ -1,13 +1,44 @@
 from flask import Flask, url_for, request, render_template, redirect
+import pandas as pd
+import numpy as np 
+from nltk.tokenize import word_tokenize
+from nltk.stem.snowball import FrenchStemmer
+from stop_words import get_stop_words
+import string
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.model_selection import train_test_split
 from sklearn.feature_extraction.text import TfidfTransformer, CountVectorizer
 from sklearn.pipeline import make_pipeline
-import pandas as pd
-import numpy as np 
  
 
 app = Flask(__name__)   
+
+def remove_stopwords(commentaire):
+    # remove stop words from the review
+    stop_words = get_stop_words('french')  
+    
+    # remove stop words, punctuation and words which length is below 2, numbers and none values
+    commentaire = [word for word in commentaire if word.lower() not in stop_words and word not in string.punctuation and not word.isnumeric() and word.lower() != 'none' and len(word) > 2]
+    
+    return ' '.join(commentaire)
+
+def stem_review(review):
+    stem = FrenchStemmer()
+    review = review.split(' ')
+    return [stem.stem(word) for word in review]
+
+def prepare_test_data(test_review):
+    # tokenize data
+    review_tokens = word_tokenize(test_review)
+    
+    # remove stop words
+    review_tokens = remove_stopwords(review_tokens)
+    
+    #stem tokens
+    review_tokens = stem_review(review_tokens)
+    
+    #return string
+    return ' '.join(review_tokens)
 
 def fit_model():
     df = pd.read_csv('static/data/dataset.csv')
@@ -23,7 +54,7 @@ def fit_model():
     feat_test = pipe.transform(X_test['sentence'])
 
     # train model
-    clf = RandomForestClassifier(n_estimators=50, max_depth=40, random_state=42)
+    clf = RandomForestClassifier(n_estimators=100, max_depth=40, random_state=42)
     clf = clf.fit(feat_train, y_train)
     score_train = clf.score(feat_train, y_train)
     score_test = clf.score(feat_test, y_test)
@@ -32,13 +63,18 @@ def fit_model():
 
     return clf, pipe
 
-def predict_comment(comment, clf, pipe):  
+def predict_comment(test_review, clf, pipe):  
+    # prepare data
+    review = prepare_test_data(test_review)
+
     # predict 
-    feat_comment = pipe.transform([comment])
+    transformed_review = pipe.transform([review])
     
     predict = "Négatif" 
 
-    if clf.predict(feat_comment):
+    print(clf.predict(transformed_review))
+
+    if clf.predict(transformed_review):
         predict = "Positif"
 
     return predict
