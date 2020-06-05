@@ -45,8 +45,7 @@ def fit_model():
     
     # split data
     X_train, X_test, y_train, y_test = train_test_split(df["sentence"], df['polarite'], test_size=0.2, random_state=0)
-
-    print(X_train)
+    print(X_train.isna().sum())
     # get points
     pipe = make_pipeline(CountVectorizer(), TfidfTransformer())
     pipe.fit(X_train)
