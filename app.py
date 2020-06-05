@@ -43,23 +43,26 @@ def prepare_test_data(test_review):
 def fit_model():
     df = pd.read_csv('static/data/dataset_model.csv')
     
+    df = df.dropna() # c'est bizarre parce que lorsque j'exporte je n'ai pas de valeurs nulles, à checker
+
     # split data
     X_train, X_test, y_train, y_test = train_test_split(df["sentence"], df['polarite'], test_size=0.2, random_state=0)
-    print(X_train.isna().sum())
+    
     # get points
     pipe = make_pipeline(CountVectorizer(), TfidfTransformer())
-    pipe.fit(X_train)
 
-    feat_train = pipe.transform(X_train)
+    feat_train = pipe.fit_transform(X_train)
     feat_test = pipe.transform(X_test)
 
     # train model
-    clf = RandomForestClassifier(n_estimators=100, max_depth=40, random_state=42)
+    clf = RandomForestClassifier(n_estimators=50, max_depth=40, random_state=42)
     clf = clf.fit(feat_train, y_train)
     score_train = clf.score(feat_train, y_train)
     score_test = clf.score(feat_test, y_test)
 
-    print(score_train, score_test)
+    print(score_train, score_test) 
+    # on voit que les scores sont similaires : 95 / 94 % 
+    # mais ce n'est pas généralisable car on n'a que des commentaires positifs
 
     return clf, pipe
 
