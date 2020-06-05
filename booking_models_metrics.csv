@@ -1,2 +1,4 @@
-,accuracy,best paramaters,duration,target
-0,0.9276681592284604,,28.84442925453186,note_booking
+,Unnamed: 0,Unnamed: 0.1,accuracy,best paramaters,duration,target
+0,0.0,0.0,0.9276681592284604,,28.84442925453186,note_booking
+1,0.0,,0.9310673443456162,,24.26814270019531,note_booking
+0,,,0.9310673443456162,,17.029619216918945,note_booking
