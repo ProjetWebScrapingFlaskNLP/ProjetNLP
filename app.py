@@ -41,17 +41,18 @@ def prepare_test_data(test_review):
     return ' '.join(review_tokens)
 
 def fit_model():
-    df = pd.read_csv('static/data/dataset.csv')
+    df = pd.read_csv('static/data/dataset_model.csv')
     
     # split data
-    X_train, X_test, y_train, y_test = train_test_split(df[["sentence"]], df['sentiment'])
+    X_train, X_test, y_train, y_test = train_test_split(df["sentence"], df['polarite'], test_size=0.2, random_state=0)
 
+    print(X_train)
     # get points
     pipe = make_pipeline(CountVectorizer(), TfidfTransformer())
-    pipe.fit(X_train['sentence'])
+    pipe.fit(X_train)
 
-    feat_train = pipe.transform(X_train['sentence'])
-    feat_test = pipe.transform(X_test['sentence'])
+    feat_train = pipe.transform(X_train)
+    feat_test = pipe.transform(X_test)
 
     # train model
     clf = RandomForestClassifier(n_estimators=100, max_depth=40, random_state=42)
@@ -66,6 +67,7 @@ def fit_model():
 def predict_comment(test_review, clf, pipe):  
     # prepare data
     review = prepare_test_data(test_review)
+    print(review)
 
     # predict 
     transformed_review = pipe.transform([review])
