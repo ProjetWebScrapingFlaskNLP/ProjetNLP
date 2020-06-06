@@ -1,6 +1,7 @@
 from flask import Flask, url_for, request, render_template, redirect
 import pandas as pd
 import numpy as np 
+import nltk
 from nltk.tokenize import word_tokenize
 from nltk.stem.snowball import FrenchStemmer
 from stop_words import get_stop_words
@@ -9,6 +10,9 @@ from sklearn.ensemble import RandomForestClassifier
 from sklearn.model_selection import train_test_split
 from sklearn.feature_extraction.text import TfidfTransformer, CountVectorizer
 from sklearn.pipeline import make_pipeline
+
+
+nltk.download('punkt')
  
 
 app = Flask(__name__)   
