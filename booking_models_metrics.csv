@@ -1,4 +1,7 @@
-,Unnamed: 0,Unnamed: 0.1,accuracy,best paramaters,duration,target
-0,0.0,0.0,0.9276681592284604,,28.84442925453186,note_booking
-1,0.0,,0.9310673443456162,,24.26814270019531,note_booking
-0,,,0.9310673443456162,,17.029619216918945,note_booking
+dataset,model_name,feature transformation,accuracy,precision,recall,f1_score,model_fit,best paramaters,duration
+note booking,NB : Naive Bayes,CV + TF-IDF,0.874959496235747,[0.92872711 0.89059109],[0.71613445 0.97676814],[0.80869235 0.93169112],"GridSearchCV(cv=5, error_score=nan,
+             estimator=MultinomialNB(alpha=1.0, class_prior=None,
+                                     fit_prior=True),
+             iid='deprecated', n_jobs=-1, param_grid={'alpha': [0, 1, 10, 100]},
+             pre_dispatch='2*n_jobs', refit=True, return_train_score=False,
+             scoring=None, verbose=0)",{'alpha': 1},307.53495693206787
