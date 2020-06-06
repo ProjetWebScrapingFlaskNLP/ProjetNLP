@@ -45,7 +45,7 @@ def prepare_test_data(test_review):
     return ' '.join(review_tokens)
 
 def fit_model():
-    df = pd.read_csv('static/data/dataset_model.csv')
+    df = pd.read_csv('static/data/dataset_booking_model.csv')
     
     df = df.dropna() # c'est bizarre parce que lorsque j'exporte je n'ai pas de valeurs nulles, à checker
 
