@@ -1,5 +1,4 @@
 from flask import Flask, url_for, request, render_template, redirect
-import pandas as pd
 import numpy as np 
 import nltk
 from nltk.tokenize import word_tokenize
@@ -7,9 +6,12 @@ from nltk.stem.snowball import FrenchStemmer
 from stop_words import get_stop_words
 import string
 from sklearn.ensemble import RandomForestClassifier
-from sklearn.model_selection import train_test_split
+from sklearn.naive_bayes import MultinomialNB
+from sklearn.model_selection import train_test_split, cross_val_score
+from sklearn.metrics import f1_score
 from sklearn.feature_extraction.text import TfidfTransformer, CountVectorizer
 from sklearn.pipeline import make_pipeline
+import pandas as pd
 
 
 nltk.download('punkt')
@@ -47,6 +49,7 @@ def prepare_test_data(test_review):
 def fit_model():
     df = pd.read_csv('static/data/dataset_booking_model.csv')
     
+    print(df.isna().sum())
     df = df.dropna() # c'est bizarre parce que lorsque j'exporte je n'ai pas de valeurs nulles, à checker
 
     # split data
@@ -59,12 +62,17 @@ def fit_model():
     feat_test = pipe.transform(X_test)
 
     # train model
-    clf = RandomForestClassifier(n_estimators=50, max_depth=40, random_state=42)
-    clf = clf.fit(feat_train, y_train)
-    score_train = clf.score(feat_train, y_train)
-    score_test = clf.score(feat_test, y_test)
+    # clf = RandomForestClassifier(n_estimators=50, max_depth=40, random_state=42)
+    clf = MultinomialNB()
+    clf.fit(feat_train, y_train)
+    score_train = np.mean(cross_val_score(clf, feat_train, y_train, cv=5))
+    score_test = np.mean(cross_val_score(clf, feat_test, y_test, cv=5)) 
+    y_pred = clf.predict(feat_train)
+    f1score = f1_score(y_train, y_pred)
 
-    print(score_train, score_test) 
+
+    print(score_train, score_test, f1score) 
+
     # on voit que les scores sont similaires : 95 / 94 % 
     # mais ce n'est pas généralisable car on n'a que des commentaires positifs
 
