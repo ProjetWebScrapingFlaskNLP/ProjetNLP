@@ -1,7 +1,5 @@
 dataset,model_name,feature transformation,accuracy,precision,recall,f1_score,model_fit,best paramaters,duration
-note booking,NB : Naive Bayes,CV + TF-IDF,0.874959496235747,[0.92872711 0.89059109],[0.71613445 0.97676814],[0.80869235 0.93169112],"GridSearchCV(cv=5, error_score=nan,
-             estimator=MultinomialNB(alpha=1.0, class_prior=None,
-                                     fit_prior=True),
-             iid='deprecated', n_jobs=-1, param_grid={'alpha': [0, 1, 10, 100]},
-             pre_dispatch='2*n_jobs', refit=True, return_train_score=False,
-             scoring=None, verbose=0)",{'alpha': 1},307.53495693206787
+note booking,NB - ComplementNB,CV + TF-IDF,0.8880677333335827,[0.80014809 0.95878852],[0.90806723 0.90412419],[0.85069868 0.93065433],"ComplementNB(alpha=1.0, class_prior=None, fit_prior=True, norm=False)",,3.4655871391296387
+note booking,NB - ComplementNB,CV(n-gram) + TF-IDF,0.8773814126674448,[0.74019123 0.97287632],[0.94327731 0.8600405 ],[0.82948457 0.91298527],"ComplementNB(alpha=1.0, class_prior=None, fit_prior=True, norm=False)",,0.9277501106262208
+note booking,NB - Multinomial,CV + TF-IDF,0.8749594962357471,[0.92872711 0.89059109],[0.71613445 0.97676814],[0.80869235 0.93169112],"MultinomialNB(alpha=1.0, class_prior=None, fit_prior=True)",,1.842046976089477
+note booking,NB - Multinomial,CV(n-gram) + TF-IDF,0.9002522499104305,[0.85294619 0.93347935],[0.84176471 0.93865227],[0.84731856 0.93605866],"MultinomialNB(alpha=1.0, class_prior=None, fit_prior=True)",,0.7746391296386719
