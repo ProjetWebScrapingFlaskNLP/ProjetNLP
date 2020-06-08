@@ -56,7 +56,7 @@ Sur les systèmes OSX, il faut installer la librairie OpenMP pour activer le mul
 brew install libomp
 ```
 
-### Installation Windows
+##### Installation Windows
 
 - Télécharger [Cmake](https://cmake.org/download/)
 - Lancer les commandes suivantes: 
@@ -74,7 +74,6 @@ cmake .. -G"Visual Studio 14 2015 Win64"
 cmake --build . --config Release
 python setup.py install
 ```
-
 
 ### Installation des dépendances
 
