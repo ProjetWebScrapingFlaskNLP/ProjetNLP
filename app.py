@@ -67,16 +67,15 @@ def prepare_test_data(test_review):
 def fit_model():
     df = pd.read_csv('static/data/dataset_note_booking.csv')
     
-    print(df.isna().sum())
+    # print(df.isna().sum())
     df = df.dropna() # c'est bizarre parce que lorsque j'exporte je n'ai pas de valeurs nulles, à checker
 
     # split data
     X_train, X_test, y_train, y_test = train_test_split(df["review"], df['polarite'], test_size=0.2, random_state=0)
     
     # get points
-    pipe = make_pipeline(CountVectorizer(min_df=0.0005, ngram_range=(1, 2)),
-                        TfidfTransformer(), 
-                        TruncatedSVD(n_components=300))
+    pipe = make_pipeline(CountVectorizer(),
+                        TfidfTransformer())
 
     feat_train = pipe.fit_transform(X_train)
     feat_test = pipe.transform(X_test)
