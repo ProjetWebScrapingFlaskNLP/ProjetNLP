@@ -42,7 +42,7 @@ pip3 install -r requirements.txt
 
 Lancer le fichier scraping.ipynb avec le module Jupyter.
 
-Par défaut, le script tourne avec 3 processus, 1 processus correspondant à une recherche sur Booking. Les processus sauvegardent régulièrement les commentaires scrappés dans un fichier CSV associé.Ils s'arrêtent lorsque toutes les pages de résultats ont été scrappé. 
+Par défaut, le script tourne avec 3 processus, 1 processus correspondant à une recherche sur Booking. Les processus sauvegardent régulièrement les commentaires scrappés dans un fichier CSV associé. Ils s'arrêtent lorsque toutes les pages de résultats ont été scrappé. 
 
 Les recherches par défaut sont :
 
@@ -60,6 +60,30 @@ Pour fusionner l'ensemble des fichiers CSV générés, lancer la fonction :
 ```python
 merge_datasets()
 ```
+
+### Analyse des données 
+
+Lancer le fichier analyse_donnees.ipynb depuis Jupyter Notebook.
+
+Exécuter toutes les cellules pour observer les statistiques et récupérer le dataset nettoyé et normalisé (tokenisation, retrait des stop words et stemming).
+
+### Machine Learning
+
+Lancer le fichier machine_learning.ipynb depuis Jupyter Notebook.
+
+Exécuter toutes les cellules pour avoir une analyse comparative de plusieurs modèles de classification. 
+
+### Application Flask
+
+Par défaut, l'application utilise le modèle XXX avec les hyper-paramètres XXXX. Si vous souhaitez changer le modèle, il faudra modifier le fichier app.py.
+
+#### Lancement de l'application
+
+```python
+export FLASK_APP=app.py
+flask run
+```
+
 
 
 
