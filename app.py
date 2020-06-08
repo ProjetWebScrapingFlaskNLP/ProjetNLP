@@ -5,6 +5,7 @@ from nltk.tokenize import word_tokenize
 from nltk.stem.snowball import FrenchStemmer
 from stop_words import get_stop_words
 import string
+import re
 from sklearn.linear_model import LogisticRegression
 from sklearn.model_selection import train_test_split, cross_val_score
 from sklearn.metrics import f1_score
@@ -15,15 +16,14 @@ import pandas as pd
 
 nltk.download('punkt')
 
-app = Flask(__name__)   
+app = Flask(__name__) 
 
-def remove_stopwords(commentaire):
-    # remove stop words from the review
-    stop_words = get_stop_words('french')  
-    
+def remove_stopwords(commentaire, stop_words):
     # remove stop words, punctuation and words which length is below 2, numbers and none values
-    commentaire = [word for word in commentaire if word.lower() not in stop_words and word not in string.punctuation and not word.isnumeric() and word.lower() != 'none' and len(word) > 2]
-    
+    ponctuations = string.punctuation
+    p = re.compile(r'\.+')
+
+    commentaire = [p.sub(r'', word).lower() for word in commentaire if word.lower() not in stop_words and word not in ponctuations and not word.isnumeric() and (len(word) > 2 or word == 'ne')]
     return ' '.join(commentaire)
 
 def stem_review(review):
@@ -32,11 +32,17 @@ def stem_review(review):
     return [stem.stem(word) for word in review]
 
 def prepare_test_data(test_review):
+
+    # on doit prendre en compte la négation
+    stop_words = get_stop_words('french').copy()
+    stop_words.remove('ne')
+    stop_words.remove('pas')
+
     # tokenize data
     review_tokens = word_tokenize(test_review)
     
     # remove stop words
-    review_tokens = remove_stopwords(review_tokens)
+    review_tokens = remove_stopwords(review_tokens, stop_words)
     
     #stem tokens
     review_tokens = stem_review(review_tokens)
@@ -45,10 +51,10 @@ def prepare_test_data(test_review):
     return ' '.join(review_tokens)
 
 def fit_model():
-    df = pd.read_csv('static/data/dataset_note_booking.csv')
+    df = pd.read_csv('static/data/dataset_polarite.csv')
     
-    # print(df.isna().sum())
-    # df = df.dropna() # c'est bizarre parce que lorsque j'exporte je n'ai pas de valeurs nulles, à checker
+    print(df.isna().sum())
+    df = df.dropna() # c'est bizarre parce que lorsque j'exporte je n'ai pas de valeurs nulles, à checker
 
     # split data
     X_train, X_test, y_train, y_test = train_test_split(df["review"], df['polarite'], test_size=0.2, random_state=0)
