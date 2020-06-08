@@ -45,13 +45,13 @@ def prepare_test_data(test_review):
     return ' '.join(review_tokens)
 
 def fit_model():
-    df = pd.read_csv('static/data/dataset_booking_model.csv')
+    df = pd.read_csv('static/data/dataset_note_booking.csv')
     
-    print(df.isna().sum())
-    df = df.dropna() # c'est bizarre parce que lorsque j'exporte je n'ai pas de valeurs nulles, à checker
+    # print(df.isna().sum())
+    # df = df.dropna() # c'est bizarre parce que lorsque j'exporte je n'ai pas de valeurs nulles, à checker
 
     # split data
-    X_train, X_test, y_train, y_test = train_test_split(df["sentence"], df['polarite'], test_size=0.2, random_state=0)
+    X_train, X_test, y_train, y_test = train_test_split(df["review"], df['polarite'], test_size=0.2, random_state=0)
     
     # get points
     pipe = make_pipeline(CountVectorizer(), TfidfTransformer())
