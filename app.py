@@ -81,8 +81,8 @@ def fit_model():
     feat_test = pipe.transform(X_test)
 
     # train model
-    # clf = LogisticRegression(random_state=0, solver='newton-cg')
-    clf = MultinomialNB()
+    clf = LogisticRegression(random_state=0, solver='newton-cg')
+    # clf = MultinomialNB()
     clf.fit(feat_train, y_train)
     score_train = np.mean(cross_val_score(clf, feat_train, y_train, cv=5))
     score_test = np.mean(cross_val_score(clf, feat_test, y_test, cv=5)) 
