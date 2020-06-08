@@ -1,4 +1,5 @@
 from flask import Flask, url_for, request, render_template, redirect
+from flask_caching import Cache
 import numpy as np 
 import nltk
 from nltk.tokenize import word_tokenize
@@ -10,6 +11,8 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.model_selection import train_test_split, cross_val_score
 from sklearn.metrics import f1_score
 from sklearn.feature_extraction.text import TfidfTransformer, CountVectorizer
+from sklearn.decomposition import TruncatedSVD
+from xgboost.sklearn import XGBClassifier
 from sklearn.pipeline import make_pipeline
 import pandas as pd
 
@@ -17,6 +20,7 @@ import pandas as pd
 nltk.download('punkt')
 
 app = Flask(__name__) 
+cache = Cache(app, config= {'CACHE_TYPE' : 'simple'})
 
 def remove_stopwords(commentaire, stop_words):
     # remove stop words, punctuation and words which length is below 2, numbers and none values
@@ -32,7 +36,6 @@ def stem_review(review):
     return [stem.stem(word) for word in review]
 
 def prepare_test_data(test_review):
-
     # on doit prendre en compte la négation
     stop_words = get_stop_words('french').copy()
     stop_words.remove('ne')
@@ -50,8 +53,9 @@ def prepare_test_data(test_review):
     #return string
     return ' '.join(review_tokens)
 
+@cache.memoize()
 def fit_model():
-    df = pd.read_csv('static/data/dataset_polarite.csv')
+    df = pd.read_csv('static/data/dataset_note_booking.csv')
     
     print(df.isna().sum())
     df = df.dropna() # c'est bizarre parce que lorsque j'exporte je n'ai pas de valeurs nulles, à checker
@@ -60,13 +64,16 @@ def fit_model():
     X_train, X_test, y_train, y_test = train_test_split(df["review"], df['polarite'], test_size=0.2, random_state=0)
     
     # get points
-    pipe = make_pipeline(CountVectorizer(), TfidfTransformer())
+    pipe = make_pipeline(CountVectorizer(min_df=0.0005, ngram_range=(1, 2)),
+                        TfidfTransformer(), 
+                        TruncatedSVD(n_components=300))
 
     feat_train = pipe.fit_transform(X_train)
     feat_test = pipe.transform(X_test)
 
     # train model
-    clf = LogisticRegression(random_state=0)
+    # clf = LogisticRegression(random_state=0, solver='newton-cg')
+    clf = XGBClassifier(random_state=0, max_depth=30)
     clf.fit(feat_train, y_train)
     score_train = np.mean(cross_val_score(clf, feat_train, y_train, cv=5))
     score_test = np.mean(cross_val_score(clf, feat_test, y_test, cv=5)) 
