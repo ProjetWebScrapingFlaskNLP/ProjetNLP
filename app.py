@@ -1,30 +1,42 @@
 from flask import Flask, url_for, request, render_template, redirect
+from flask_caching import Cache
 import numpy as np 
 import nltk
 from nltk.tokenize import word_tokenize
 from nltk.stem.snowball import FrenchStemmer
 from stop_words import get_stop_words
 import string
-from sklearn.ensemble import RandomForestClassifier
-from sklearn.naive_bayes import MultinomialNB
+import re
+from sklearn.linear_model import LogisticRegression
 from sklearn.model_selection import train_test_split, cross_val_score
 from sklearn.metrics import f1_score
 from sklearn.feature_extraction.text import TfidfTransformer, CountVectorizer
+from sklearn.decomposition import TruncatedSVD
+from xgboost.sklearn import XGBClassifier
 from sklearn.pipeline import make_pipeline
 import pandas as pd
 
 
 nltk.download('punkt')
 
-app = Flask(__name__)   
+app = Flask(__name__) 
 
-def remove_stopwords(commentaire):
-    # remove stop words from the review
-    stop_words = get_stop_words('french')  
-    
+config = {
+    "DEBUG": True,          # some Flask specific configs
+    "CACHE_TYPE": "simple", # Flask-Caching related configs
+    "CACHE_DEFAULT_TIMEOUT": 400
+}
+
+# tell Flask to use the above defined config
+app.config.from_mapping(config)
+cache = Cache(app)
+
+def remove_stopwords(commentaire, stop_words):
     # remove stop words, punctuation and words which length is below 2, numbers and none values
-    commentaire = [word for word in commentaire if word.lower() not in stop_words and word not in string.punctuation and not word.isnumeric() and word.lower() != 'none' and len(word) > 2]
-    
+    ponctuations = string.punctuation
+    p = re.compile(r'\.+')
+
+    commentaire = [p.sub(r'', word).lower() for word in commentaire if word.lower() not in stop_words and word not in ponctuations and not word.isnumeric() and (len(word) > 2 or word == 'ne')]
     return ' '.join(commentaire)
 
 def stem_review(review):
@@ -33,11 +45,16 @@ def stem_review(review):
     return [stem.stem(word) for word in review]
 
 def prepare_test_data(test_review):
+    # on doit prendre en compte la négation
+    stop_words = get_stop_words('french').copy()
+    stop_words.remove('ne')
+    stop_words.remove('pas')
+
     # tokenize data
     review_tokens = word_tokenize(test_review)
     
     # remove stop words
-    review_tokens = remove_stopwords(review_tokens)
+    review_tokens = remove_stopwords(review_tokens, stop_words)
     
     #stem tokens
     review_tokens = stem_review(review_tokens)
@@ -45,35 +62,34 @@ def prepare_test_data(test_review):
     #return string
     return ' '.join(review_tokens)
 
+@cache.memoize(50)
 def fit_model():
-    df = pd.read_csv('static/data/dataset_booking_model.csv')
+    df = pd.read_csv('static/data/dataset_note_booking.csv')
     
     print(df.isna().sum())
     df = df.dropna() # c'est bizarre parce que lorsque j'exporte je n'ai pas de valeurs nulles, à checker
 
     # split data
-    X_train, X_test, y_train, y_test = train_test_split(df["sentence"], df['polarite'], test_size=0.2, random_state=0)
+    X_train, X_test, y_train, y_test = train_test_split(df["review"], df['polarite'], test_size=0.2, random_state=0)
     
     # get points
-    pipe = make_pipeline(CountVectorizer(), TfidfTransformer())
+    pipe = make_pipeline(CountVectorizer(min_df=0.0005, ngram_range=(1, 2)),
+                        TfidfTransformer(), 
+                        TruncatedSVD(n_components=300))
 
     feat_train = pipe.fit_transform(X_train)
     feat_test = pipe.transform(X_test)
 
     # train model
-    # clf = RandomForestClassifier(n_estimators=50, max_depth=40, random_state=42)
-    clf = MultinomialNB()
+    clf = LogisticRegression(random_state=0, solver='newton-cg')
+    # clf = XGBClassifier(random_state=0, max_depth=30, n_jobs= 6)
     clf.fit(feat_train, y_train)
     score_train = np.mean(cross_val_score(clf, feat_train, y_train, cv=5))
     score_test = np.mean(cross_val_score(clf, feat_test, y_test, cv=5)) 
     y_pred = clf.predict(feat_train)
     f1score = f1_score(y_train, y_pred)
 
-
     print(score_train, score_test, f1score) 
-
-    # on voit que les scores sont similaires : 95 / 94 % 
-    # mais ce n'est pas généralisable car on n'a que des commentaires positifs
 
     return clf, pipe
 

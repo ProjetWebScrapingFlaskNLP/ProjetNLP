@@ -120,8 +120,6 @@ Exécuter toutes les cellules pour avoir une analyse comparative de plusieurs mo
 
 ### Application Flask
 
-Par défaut, l'application utilise le modèle XXX avec les hyper-paramètres XXXX. Si vous souhaitez changer le modèle, il faudra modifier le fichier app.py.
-
 #### Lancement de l'application
 
 ```python
