@@ -15,7 +15,6 @@ import pandas as pd
 
 
 nltk.download('punkt')
- 
 
 app = Flask(__name__)   
 
