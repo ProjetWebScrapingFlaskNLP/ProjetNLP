@@ -17,7 +17,6 @@ from xgboost.sklearn import XGBClassifier
 from sklearn.pipeline import make_pipeline
 import pandas as pd
 
-
 nltk.download('punkt')
 
 app = Flask(__name__) 
