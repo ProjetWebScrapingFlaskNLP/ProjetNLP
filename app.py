@@ -5,8 +5,7 @@ from nltk.tokenize import word_tokenize
 from nltk.stem.snowball import FrenchStemmer
 from stop_words import get_stop_words
 import string
-from sklearn.ensemble import RandomForestClassifier
-from sklearn.naive_bayes import MultinomialNB
+from sklearn.linear_model import LogisticRegression
 from sklearn.model_selection import train_test_split, cross_val_score
 from sklearn.metrics import f1_score
 from sklearn.feature_extraction.text import TfidfTransformer, CountVectorizer
@@ -61,8 +60,7 @@ def fit_model():
     feat_test = pipe.transform(X_test)
 
     # train model
-    # clf = RandomForestClassifier(n_estimators=50, max_depth=40, random_state=42)
-    clf = MultinomialNB()
+    clf = LogisticRegression(random_state=0)
     clf.fit(feat_train, y_train)
     score_train = np.mean(cross_val_score(clf, feat_train, y_train, cv=5))
     score_test = np.mean(cross_val_score(clf, feat_test, y_test, cv=5)) 
