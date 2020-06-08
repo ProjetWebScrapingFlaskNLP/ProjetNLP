@@ -30,6 +30,52 @@ python3 -m venv venv
 source venv/bin/activate
 ```
 
+#### Activation de XGBoost
+
+L'activation de XGBoost dépend du système d'exploitation. 
+
+
+##### Installation Linux
+
+Sur Ubuntu, il faut lancer les commandes suivantes 
+
+```
+git clone --recursive https://github.com/dmlc/xgboost
+cd xgboost
+mkdir build
+cd build
+cmake ..
+make -j$(nproc)
+```
+
+##### Installation OSX
+
+Sur les systèmes OSX, il faut installer la librairie OpenMP pour activer le multi-threading. 
+
+```
+brew install libomp
+```
+
+### Installation Windows
+
+- Télécharger [Cmake](https://cmake.org/download/)
+- Lancer les commandes suivantes: 
+
+```
+git clone --recursive https://github.com/dmlc/xgboost
+git submodule init
+git submodule update
+
+mkdir build
+cd build
+cmake .. -G"Visual Studio 14 2015 Win64"
+# for VS15: cmake .. -G"Visual Studio 15 2017" -A x64
+# for VS16: cmake .. -G"Visual Studio 16 2019" -A x64
+cmake --build . --config Release
+python setup.py install
+```
+
+
 ### Installation des dépendances
 
 ```python
