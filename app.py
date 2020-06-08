@@ -20,7 +20,16 @@ import pandas as pd
 nltk.download('punkt')
 
 app = Flask(__name__) 
-cache = Cache(app, config= {'CACHE_TYPE' : 'simple'})
+
+config = {
+    "DEBUG": True,          # some Flask specific configs
+    "CACHE_TYPE": "simple", # Flask-Caching related configs
+    "CACHE_DEFAULT_TIMEOUT": 400
+}
+
+# tell Flask to use the above defined config
+app.config.from_mapping(config)
+cache = Cache(app)
 
 def remove_stopwords(commentaire, stop_words):
     # remove stop words, punctuation and words which length is below 2, numbers and none values
@@ -53,7 +62,7 @@ def prepare_test_data(test_review):
     #return string
     return ' '.join(review_tokens)
 
-@cache.memoize()
+@cache.memoize(50)
 def fit_model():
     df = pd.read_csv('static/data/dataset_note_booking.csv')
     
@@ -72,19 +81,15 @@ def fit_model():
     feat_test = pipe.transform(X_test)
 
     # train model
-    # clf = LogisticRegression(random_state=0, solver='newton-cg')
-    clf = XGBClassifier(random_state=0, max_depth=30)
+    clf = LogisticRegression(random_state=0, solver='newton-cg')
+    # clf = XGBClassifier(random_state=0, max_depth=30, n_jobs= 6)
     clf.fit(feat_train, y_train)
     score_train = np.mean(cross_val_score(clf, feat_train, y_train, cv=5))
     score_test = np.mean(cross_val_score(clf, feat_test, y_test, cv=5)) 
     y_pred = clf.predict(feat_train)
     f1score = f1_score(y_train, y_pred)
 
-
     print(score_train, score_test, f1score) 
-
-    # on voit que les scores sont similaires : 95 / 94 % 
-    # mais ce n'est pas généralisable car on n'a que des commentaires positifs
 
     return clf, pipe
 

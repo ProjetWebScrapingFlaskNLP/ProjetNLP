@@ -1,23 +1,9 @@
 ,nom,comments,polarity
 0,Martin,"Hôtel sale, petit déjeuner inexistant",Négatif
 1,Anonyme,J'ai adoré mon séjour,Positif
-2,Anonyme,Je suis déçue par cette expérience,Négatif
-3,Julien,"C'était génial, je reviendrai :-D",Positif
-4,Anonyme,pourri,Négatif
-5,Lucie,"j'ai détesté, c'était pourri",Positif
-6,Anonyme,pourri,Positif
-7,Anonyme,je n'aime pas,Positif
-8,Anonyme,je ne suis pas satisfaite,Positif
-9,Anonyme,je ne suis pas satisfaite,Positif
-10,Anonyme,je ne suis pas satisfaite,Positif
-11,Anonyme,"je ne suis pas satisfaite, je ne reviendrai pas",Positif
-12,Anonyme,"je ne suis pas satisfaite, je ne reviendrai pas",Positif
-13,Anonyme,j'ai détesté mon séjour chez vous,Positif
-14,Anonyme,je suis déçue,Négatif
-15,Anonyme,j'ai détesté mon séjour chez vous,Positif
-16,Anonyme,"je ne suis pas satisfaite, je ne reviendrai pas",Négatif
-17,Anonyme,"je n'ai pas aimé mon séjour chez, le petit-déjeuner était froid, il y avait du bruit",Positif
-18,Anonyme,"le petit-déjeuner était froid, il y avait du bruit",Positif
-19,Anonyme,"la chambre était petite, le service était nul",Négatif
-20,Anonyme,la chambre était petite,Positif
-21,Anonyme,le service était nul,Négatif
+2,Anonyme,"Je ne reviendrai jamais, il s'agit de la pire expérience que j'ai eu dans un hôtel",Négatif
+3,Anonyme,Je ne reviendrai jamais,Négatif
+4,Anonyme,il s'agit de la pire expérience que j'ai eu dans un hôtel,Positif
+5,Anonyme,pire,Positif
+6,Anonyme,nul,Négatif
+7,Anonyme,pourri,Positif
