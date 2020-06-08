@@ -42,7 +42,7 @@ pip3 install -r requirements.txt
 
 Lancer le fichier scraping.ipynb avec le module Jupyter.
 
-Par défaut, le script tourne avec 3 processus, 1 processus correspondant à une recherche sur Booking. 
+Par défaut, le script tourne avec 3 processus, 1 processus correspondant à une recherche sur Booking. Les processus sauvegardent régulièrement les commentaires scrappés dans un fichier CSV associé.Ils s'arrêtent lorsque toutes les pages de résultats ont été scrappé. 
 
 Les recherches par défaut sont :
 
@@ -55,7 +55,11 @@ with multiprocessing.Pool() as pool:
 
 Vous pouvez augmenter/modifier le nombre de ville selon vos besoins.
 
-Il y a une limite de 20 000 commentaires par processus.
+Pour fusionner l'ensemble des fichiers CSV générés, lancer la fonction :
+
+```python
+merge_datasets()
+```
 
 
 
