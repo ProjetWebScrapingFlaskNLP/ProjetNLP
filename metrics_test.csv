@@ -1,3 +1,3 @@
 dataset,model_name,feature transformation,accuracy,precision,recall,f1_score,best paramaters,duration
-note_booking,Régression Logistique,CV(n-gram) + TF-IDF,0.9197772787760152,[0.9121818  0.94619834],[0.8702521  0.96458385],[0.89072378 0.95530264],,14.13474988937378
-note_polarite,Régression Logistique,CV(n-gram) + TF-IDF,0.9114076109395468,[0.93331189 0.94609657],[0.87549029 0.97217127],[0.90347691 0.95895671],,19.402173280715942
+note booking,Régression logistique,CV(n-gram) + TF-IDF,0.9098175414201375,[0.94160319 0.94514884],[0.86706747 0.97706226],[0.90279951 0.96084063],,2.202908992767334
+note polarite,Régression logistique,CV(n-gram) + TF-IDF,0.8765176992338709,[0.94421392 0.9319221 ],[0.83591837 0.97848506],[0.88677203 0.95463613],,2.3725039958953857
