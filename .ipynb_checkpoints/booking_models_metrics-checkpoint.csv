@@ -1,2 +1,0 @@
-dataset,model_name,feature transformation,accuracy,precision,recall,f1_score,best paramaters,duration
-note_booking,multinomial,cv + tf-idf,0.874959496235747,[0.92872711 0.89059109],[0.71613445 0.97676814],[0.80869235 0.93169112],,3.495539903640747
